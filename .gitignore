@@ -1,0 +1,13 @@
+# Local preview files (not deployed)
+preview_*.html
+preview.html
+make_preview.py
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db

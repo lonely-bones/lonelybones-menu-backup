@@ -1,0 +1,806 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Flower — Lonely Bones (Backup)</title>
+<style>
+:root { --bg:#0f0f0f; --fg:#f1ece4; --muted:#9a9388; --card:#1a1a1a;
+  --line:#2a2a2a; --accent:#d4a84b; --indica:#8e63c4; --sativa:#d2843a; --hybrid:#59a078; }
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;background:var(--bg);color:var(--fg);
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;line-height:1.4}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+header.site{padding:28px 20px 16px;text-align:center;border-bottom:1px solid var(--line);
+  display:flex;flex-direction:column;align-items:center;gap:12px}
+header.site img.logo{width:110px;height:110px;object-fit:contain;
+  border-radius:12px;background:#fff;padding:6px}
+header.site h1{margin:0;font-size:30px;letter-spacing:2px;font-weight:800}
+header.site p{margin:0;color:var(--muted);font-size:13px;text-transform:uppercase;letter-spacing:1.5px}
+.info{max-width:960px;margin:20px auto;padding:20px 24px;
+  border:1px solid var(--accent);background:var(--card);border-radius:6px;
+  font-size:14px;line-height:1.6}
+.info h3{margin:0 0 6px;color:var(--accent);text-transform:uppercase;
+  letter-spacing:1.5px;font-size:16px;text-align:center}
+.info .sub{color:var(--muted);font-size:13px;text-align:center;margin:0 0 14px}
+.info ol{margin:0 0 12px;padding-left:22px}
+.info li{margin:8px 0}
+.info li strong{color:var(--fg)}
+.info .hours{margin-top:12px;padding-top:12px;border-top:1px dashed var(--line);
+  color:var(--muted);font-size:13px;text-align:center}
+.info a{color:var(--accent);font-weight:600}
+.back-link{max-width:1200px;margin:14px auto 0;padding:0 16px;}
+.back-link a{font-size:14px;letter-spacing:.5px;text-transform:uppercase;
+  color:var(--muted);font-weight:600}
+.back-link a:hover{color:var(--accent)}
+main{max-width:1200px;margin:0 auto;padding:8px 16px 48px}
+.cat-header{display:flex;align-items:center;justify-content:space-between;
+  flex-wrap:wrap;gap:12px;margin:36px 0 14px;
+  border-bottom:2px solid var(--accent);padding-bottom:10px}
+.cat-header h2{font-size:26px;margin:0;letter-spacing:1px;
+  text-transform:uppercase;color:var(--accent)}
+.cat-header .section-count{color:var(--fg);font-weight:700;font-size:14px;
+  text-transform:none;letter-spacing:normal;margin-left:10px}
+.see-all{background:var(--accent);color:#1a1a1a;border:none;
+  padding:10px 16px;border-radius:4px;font-size:14px;font-weight:700;
+  text-transform:uppercase;letter-spacing:.5px;cursor:pointer;
+  text-decoration:none;display:inline-block}
+.see-all:hover{background:#e8bd5a;text-decoration:none}
+h1.full-cat{font-size:32px;margin:24px 0 16px;text-transform:uppercase;
+  letter-spacing:1.5px;color:var(--accent);border-bottom:2px solid var(--accent);
+  padding-bottom:12px}
+h1.full-cat .section-count{color:var(--fg);font-weight:700;font-size:16px;
+  text-transform:none;letter-spacing:normal;margin-left:12px}
+.grid{display:grid;gap:14px;grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}
+.card{background:var(--card);border:1px solid var(--line);border-radius:8px;
+  overflow:hidden;display:flex;flex-direction:column}
+.img-wrap{aspect-ratio:1/1;background:#111;overflow:hidden;
+  display:flex;align-items:center;justify-content:center}
+.img-wrap img{width:100%;height:100%;object-fit:cover}
+.body{padding:10px 12px 12px;display:flex;flex-direction:column;gap:6px}
+.tags{display:flex;gap:6px;flex-wrap:wrap;font-size:11px}
+.g{padding:2px 6px;border-radius:3px;text-transform:uppercase;letter-spacing:.5px;font-weight:600}
+.g-indica{background:var(--indica);color:#fff}
+.g-sativa{background:var(--sativa);color:#fff}
+.g-hybrid{background:var(--hybrid);color:#fff}
+.thc{padding:2px 6px;border:1px solid var(--line);color:var(--muted);border-radius:3px}
+.name{font-size:14px;margin:2px 0;font-weight:600;line-height:1.3}
+.deal{font-size:11px;color:var(--accent);text-transform:uppercase;letter-spacing:.5px}
+ul.prices{list-style:none;margin:4px 0 0;padding:0;font-size:13px}
+ul.prices li{display:flex;justify-content:space-between;padding:2px 0;border-top:1px dashed var(--line)}
+ul.prices li:first-child{border-top:none}
+.qty{color:var(--muted)}
+.price{font-weight:600}
+.sale{color:var(--accent)}
+.strike{color:var(--muted);text-decoration:line-through;font-size:12px}
+footer{text-align:center;color:var(--muted);font-size:12px;padding:24px}
+@media (max-width:600px){
+  .cat-header h2{font-size:20px}
+  .see-all{font-size:12px;padding:8px 12px}
+  h1.full-cat{font-size:22px}
+}
+@media (max-width:480px){
+  .grid{grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}
+  .name{font-size:13px}
+}
+</style>
+</head>
+<body>
+<header class="site">
+  <img class="logo" src="images/logo.png" alt="Lonely Bones logo">
+  <h1>LONELY BONES</h1>
+  <p>Menu &middot; backup view</p>
+</header>
+<div class="info">
+  <h3>Weedmaps is down &mdash; here&rsquo;s how to order</h3>
+  <p class="sub">Only use this menu while Weedmaps is down. Once it&rsquo;s back up, return to our Weedmaps page to order.</p>
+  <ol>
+    <li><strong>Text <a href="sms:+12072053004">(207) 205-3004</a></strong>
+      (preferred) or <a href="tel:+12072053004">call</a> to place your order
+      from the menu below.</li>
+    <li>Come to <strong>72 Emery St, Sanford, Maine</strong>. We&rsquo;re open
+      <strong>9:30am &ndash; 6:30pm daily, except major holidays</strong>
+      &mdash; please check we&rsquo;re open before traveling long distances.</li>
+    <li><strong>Curbside pickup only &mdash; please stay in your vehicle.</strong>
+      Text us the <strong>color and make of your car</strong> when you arrive
+      and we&rsquo;ll bring your order out.</li>
+    <li><strong>Cash only.</strong> Please let us know if you need change.</li>
+  </ol>
+</div>
+<div class="back-link"><a href="index.html">&larr; Back to main menu</a></div>
+<main>
+<h1 class="full-cat">Flower<span class="section-count">57 total</span></h1>
+<div class="grid">
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/440374999_Pink_Ink.JPG" onerror="this.onerror=null;this.src='images/189830051.jpg';" alt="Lonely Bones: Pink Ink (Permanent Marker x Spritzer)"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Lonely Bones: Pink Ink (Permanent Marker x Spritzer)</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/441189852_IMG_1755.JPG" onerror="this.onerror=null;this.src='images/210996505.jpg';" alt="**We Pick!** 20 8ths of Assorted Smalls Max Out!"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">**We Pick!** 20 8ths of Assorted Smalls Max Out!</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">each</span><span class="price">$190</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/428512056_banana_bread_flower.JPG" onerror="this.onerror=null;this.src='images/107381484.jpg';" alt="Banana Bread"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      <span class="thc">28.0% THC</span>
+    </div>
+    <h3 class="name">Banana Bread</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/437713750_trop_cherry_new.jpg" onerror="this.onerror=null;this.src='images/152047283.jpg';" alt="*80/OZ!* Lonely Bones: Trop Cherry"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">*80/OZ!* Lonely Bones: Trop Cherry</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/440374727_SEQUOIA_SBERRY_UPDATE.JPG" onerror="this.onerror=null;this.src='images/115695691.jpg';" alt="*80/OZ!* Lonely Bones: Sequoia Strawberry"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">*80/OZ!* Lonely Bones: Sequoia Strawberry</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/429482321_GMO.jpg" onerror="this.onerror=null;this.src='images/145008363.jpg';" alt="Tourma Cannabis: GMO"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-indica">Indica</span>
+      
+    </div>
+    <h3 class="name">Tourma Cannabis: GMO</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$20</span></li><li><span class="qty">1/4 oz</span><span class="price">$40</span></li><li><span class="qty">1/2 oz</span><span class="price">$70</span></li><li><span class="qty">1 oz</span><span class="price">$140</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/437049508_iron_lotus.JPG" onerror="this.onerror=null;this.src='images/167468258.jpg';" alt="*Patient Favorite* Koala Tea Grows: Iron Lotus Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-indica">Indica</span>
+      
+    </div>
+    <h3 class="name">*Patient Favorite* Koala Tea Grows: Iron Lotus Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/438725368_crunch_berries.jpeg" onerror="this.onerror=null;this.src='images/180051413.jpeg';" alt="Koala Tea Grows: Crunch Berries Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Koala Tea Grows: Crunch Berries Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/436339695_liquid_hot_magma.JPG" onerror="this.onerror=null;this.src='images/173746062.jpg';" alt="Koala Tea Grows: Liquid Hot Magma Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Koala Tea Grows: Liquid Hot Magma Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/440264026_Obama_Runtz.JPG" onerror="this.onerror=null;this.src='images/206742151.jpg';" alt="Fire!! Koala Tea Grows: Obama Runtz"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Fire!! Koala Tea Grows: Obama Runtz</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/442775548_ICC.JPG" onerror="this.onerror=null;this.src='images/149245506.jpg';" alt="Living Matter: Ice Cream Cake"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Living Matter: Ice Cream Cake</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/432243473_now_n_later.jpg" onerror="this.onerror=null;this.src='images/159696494.jpg';" alt="Lonely Bones: Now N Later"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Lonely Bones: Now N Later</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/439501545_carbon_fiber.JPG" onerror="this.onerror=null;this.src='images/203122181.jpg';" alt="Lonely Bones: Carbon Fiber"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Lonely Bones: Carbon Fiber</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/439127140_Candy_Rain_new.jpg" onerror="this.onerror=null;this.src='images/193180391.jpg';" alt="*80/OZ!* Lonely Bones: Candy Rain"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">*80/OZ!* Lonely Bones: Candy Rain</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/440198026_fflakes.JPG" onerror="this.onerror=null;this.src='images/206480223.jpg';" alt="*80/OZ!* Lonely Bones: Frosted Flakes"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-indica">Indica</span>
+      
+    </div>
+    <h3 class="name">*80/OZ!* Lonely Bones: Frosted Flakes</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/439082542_fire_water.JPG" onerror="this.onerror=null;this.src='images/199924094.jpg';" alt="*80/OZ* Lonely Bones: Firewater"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">*80/OZ* Lonely Bones: Firewater</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/442338852_caddy.JPG" onerror="this.onerror=null;this.src='images/182032186.jpg';" alt="*Fire!* Koala Tea Grows: Cadillac Runtz Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">*Fire!* Koala Tea Grows: Cadillac Runtz Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/438417054_dlishssy.jpeg" onerror="this.onerror=null;this.src='images/184388988.jpeg';" alt="Koala Tea Grows: D-Lish Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Koala Tea Grows: D-Lish Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/439524449_brain_stain.JPG" onerror="this.onerror=null;this.src='images/203291728.jpg';" alt="Lonely Bones: Brain Stain"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Lonely Bones: Brain Stain</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/442642265_dulce.JPG" onerror="this.onerror=null;this.src='images/157893448.jpg';" alt="Method Maine: Dulce de Fresa Smalls (Dulce de Uva X Strawberry Guava)"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Method Maine: Dulce de Fresa Smalls (Dulce de Uva X Strawberry Guava)</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/438786782_purple_churro.JPG" onerror="this.onerror=null;this.src='images/197706295.jpg';" alt="*Final Batch!* Lonely Bones: Purple Churro"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">*Final Batch!* Lonely Bones: Purple Churro</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/438779027_lazer_wolf.jpg" onerror="this.onerror=null;this.src='images/197659878.jpg';" alt="Lonely Bones: Lazer Wolf"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Lonely Bones: Lazer Wolf</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/433498495_Black_Scotti.jpg" onerror="this.onerror=null;this.src='images/152456472.jpg';" alt="*$60/OZ!* G&amp;R Farms: Black Scotti Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">*$60/OZ!* G&amp;R Farms: Black Scotti Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$30</span></li><li><span class="qty">1 oz</span><span class="price">$60</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/438739930_ZWIZ.JPG" onerror="this.onerror=null;this.src='images/197351960.jpg';" alt="*80/OZ!* Lonely Bones: Zwiz"></div>
+  <div class="body">
+    <div class="tags">
+      
+      
+    </div>
+    <h3 class="name">*80/OZ!* Lonely Bones: Zwiz</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/442595182_royal.JPG" onerror="this.onerror=null;this.src='images/209609986.jpg';" alt="Koala Tea Grows: Royal Kush Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Koala Tea Grows: Royal Kush Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/429881643_franken_cakes_smalls.jpg" onerror="this.onerror=null;this.src='images/148861245.jpg';" alt="Franken Cakes Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Franken Cakes Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$30</span></li><li><span class="qty">1 oz</span><span class="price">$60</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/440263904_RS-1000.JPG" onerror="this.onerror=null;this.src='images/163540330.jpg';" alt="(1 Ounce Left) Koala Tea Grows: RS-1000 Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">(1 Ounce Left) Koala Tea Grows: RS-1000 Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/436431306_Superboof.JPG" onerror="this.onerror=null;this.src='images/159392938.jpg';" alt="Koala Tea Grows: Super Boof Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Koala Tea Grows: Super Boof Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/440577804_weighted_blanket.JPG" onerror="this.onerror=null;this.src='images/180051350.jpg';" alt="Koala Tea Grows: Weighted Blanket Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-indica">Indica</span>
+      
+    </div>
+    <h3 class="name">Koala Tea Grows: Weighted Blanket Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/435366025_Permanent_Marker.jpg" onerror="this.onerror=null;this.src='images/164549976.jpg';" alt="(Half OZ left!) Permanent Marker Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">(Half OZ left!) Permanent Marker Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/442596694_dosi.JPG" onerror="this.onerror=null;this.src='images/207771314.jpg';" alt="*Fresh batch!* Koala Tea Grows : Dosido Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">*Fresh batch!* Koala Tea Grows : Dosido Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/440723384_Pure_Fire_Smalls.JPG" onerror="this.onerror=null;this.src='images/208662977.jpg';" alt="*NEW!* Pure Fire Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">*NEW!* Pure Fire Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/441189307_Garlic_Breath.JPG" onerror="this.onerror=null;this.src='images/210990227.jpg';" alt="*Staff Pick!* Blue Dream Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">*Staff Pick!* Blue Dream Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/442234498_IMG_0681.JPG" onerror="this.onerror=null;this.src='images/216198954.jpg';" alt="*Staff Pick!* Koala Tea Grows: Neon Drip Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">*Staff Pick!* Koala Tea Grows: Neon Drip Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/436569561_Blue_Zushi.JPG" onerror="this.onerror=null;this.src='images/176564247.jpg';" alt="Blue Zushi Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Blue Zushi Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/437738066_mac_smalls.JPG" onerror="this.onerror=null;this.src='images/188354874.jpg';" alt="MAC Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">MAC Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/442419755_French_toast.JPG" onerror="this.onerror=null;this.src='images/193180677.jpg';" alt="Lonely Bones: French Toast"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Lonely Bones: French Toast</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/433501115_Icy_Mac.jpg" onerror="this.onerror=null;this.src='images/165467146.jpg';" alt="*Fresh Batch!* Kush Mints Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">*Fresh Batch!* Kush Mints Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/441443368_Smartiez_.JPG" onerror="this.onerror=null;this.src='images/212136848.jpg';" alt="($60/OZ) Smartiez Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-indica">Indica</span>
+      
+    </div>
+    <h3 class="name">($60/OZ) Smartiez Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$30</span></li><li><span class="qty">1 oz</span><span class="price">$60</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/435820310_platinum_kush.JPG" onerror="this.onerror=null;this.src='images/168998124.jpg';" alt="Cap Junky Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Cap Junky Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/442115195_spritzer_ray.JPG" onerror="this.onerror=null;this.src='images/215568118.jpg';" alt="Koala Tea Grows: Spritzer smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Koala Tea Grows: Spritzer smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/441442787_bowser.JPG" onerror="this.onerror=null;this.src='images/212134011.jpg';" alt="Lonely Bones: Bowser"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-sativa">Sativa</span>
+      
+    </div>
+    <h3 class="name">Lonely Bones: Bowser</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$15</span></li><li><span class="qty">1/4 oz</span><span class="price">$30</span></li><li><span class="qty">1/2 oz</span><span class="price">$50</span></li><li><span class="qty">1 oz</span><span class="price">$100</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/441266755_apples_and_bananas_1-6.JPG" onerror="this.onerror=null;this.src='images/211359127.jpg';" alt="*NEW!* Apples &amp; Bananas Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-indica">Indica</span>
+      
+    </div>
+    <h3 class="name">*NEW!* Apples &amp; Bananas Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/442263288_garlic_butter.JPG" onerror="this.onerror=null;this.src='images/216349011.jpg';" alt="*Solid!* Garlic Butter Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-indica">Indica</span>
+      
+    </div>
+    <h3 class="name">*Solid!* Garlic Butter Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/442775472_RS11.JPG" onerror="this.onerror=null;this.src='images/219576394.jpg';" alt="Living Matter: Rainbow Sherbert-11 (Pink Guava x Sunset Sherbert)"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Living Matter: Rainbow Sherbert-11 (Pink Guava x Sunset Sherbert)</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/442776681_garlicb.JPG" onerror="this.onerror=null;this.src='images/177985331.jpg';" alt="Garlic Breath Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Garlic Breath Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/442776932_gushers.JPG" onerror="this.onerror=null;this.src='images/150761237.jpg';" alt="Gushers Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Gushers Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/442758567_Banana_Cooler_LM.JPG" onerror="this.onerror=null;this.src='images/219449308.jpg';" alt="*100/OZ!* Living Matter: Banana Cooler"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">*100/OZ!* Living Matter: Banana Cooler</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$15</span></li><li><span class="qty">1/4 oz</span><span class="price">$30</span></li><li><span class="qty">1/2 oz</span><span class="price">$50</span></li><li><span class="qty">1 oz</span><span class="price">$100</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/442758546_Scented_Marker_LM.JPG" onerror="this.onerror=null;this.src='images/219449198.jpg';" alt="*100/OZ!* Living Matter: Scented Marker"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">*100/OZ!* Living Matter: Scented Marker</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$15</span></li><li><span class="qty">1/4 oz</span><span class="price">$30</span></li><li><span class="qty">1/2 oz</span><span class="price">$50</span></li><li><span class="qty">1 oz</span><span class="price">$100</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/442715499_Bolo_Runtz.JPG" onerror="this.onerror=null;this.src='images/219176764.jpg';" alt="*Fire!* Method Maine: Bolo Runtz smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">*Fire!* Method Maine: Bolo Runtz smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/441158115_penzoil.JPG" onerror="this.onerror=null;this.src='images/210807064.jpg';" alt="*Fire!* Penzoil Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-indica">Indica</span>
+      
+    </div>
+    <h3 class="name">*Fire!* Penzoil Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/436569540_Buttermilk_Pancakes.JPG" onerror="this.onerror=null;this.src='images/176563889.jpg';" alt="Buttermilk Pancakes Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Buttermilk Pancakes Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/441715660_The_Doctor.JPG" onerror="this.onerror=null;this.src='images/213494566.jpg';" alt="Cannaisseur: The Doctor Smalls (Great White Shark X Super Skunk)"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Cannaisseur: The Doctor Smalls (Great White Shark X Super Skunk)</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/442775593_hawaiian_marker.JPG" onerror="this.onerror=null;this.src='images/219577210.jpg';" alt="Living Matter: Hawaiian Marker"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Living Matter: Hawaiian Marker</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/442642558_Jelly_Pie_Smalls.JPG" onerror="this.onerror=null;this.src='images/218726995.jpg';" alt="Method Maine: Jelly Pie Smalls (Grape Pie X Stardawg)"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-indica">Indica</span>
+      
+    </div>
+    <h3 class="name">Method Maine: Jelly Pie Smalls (Grape Pie X Stardawg)</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/442643149_Rainbow_Guava.JPG" onerror="this.onerror=null;this.src='images/218729983.jpg';" alt="Method Maine: Rainbow Guava Smalls"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Method Maine: Rainbow Guava Smalls</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/8 oz</span><span class="price">$10</span></li><li><span class="qty">1/4 oz</span><span class="price">$20</span></li><li><span class="qty">1/2 oz</span><span class="price">$40</span></li><li><span class="qty">1 oz</span><span class="price">$80</span></li></ul>
+  </div>
+</article>
+<article class="card">
+  <div class="img-wrap"><img loading="lazy" src="https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg" onerror="this.onerror=null;this.src='images/193050080.jpg';" alt="Lonely Bones: Ready to Roll"></div>
+  <div class="body">
+    <div class="tags">
+      <span class="g g-hybrid">Hybrid</span>
+      
+    </div>
+    <h3 class="name">Lonely Bones: Ready to Roll</h3>
+    <div class="deal">Mix and Match Ounces</div>
+    <ul class='prices'><li><span class="qty">1/2 oz</span><span class="price">$20</span></li><li><span class="qty">1 oz</span><span class="price">$40</span></li></ul>
+  </div>
+</article>
+</div>
+</main>
+<footer>
+  263 products total &middot; last updated April 24, 2026 at 07:13 PM UTC
+</footer>
+</body>
+</html>
