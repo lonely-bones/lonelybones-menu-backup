@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_menu_items": 263,
+    "total_menu_items": 262,
     "updated_at": "2026-04-24T19:01:29.234Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
@@ -4488,29 +4488,6 @@
       ],
       "current_deal_title": null,
       "slug": "blue-gummies-cured-resin-14g-baller-jar"
-    },
-    {
-      "id": 212117889,
-      "name": "Cadillac: Live Liquid Diamond Larry Breath X Crunch Berries 2G Penjamin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "212117889.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-larry-breath-x-crunch-berries-2g-penjamin"
     },
     {
       "id": 212117143,
