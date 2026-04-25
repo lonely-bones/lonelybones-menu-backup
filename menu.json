@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_menu_items": 262,
+    "total_menu_items": 261,
     "updated_at": "2026-04-24T19:01:29.234Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
@@ -430,47 +430,6 @@
       "slug": "koala-tea-grows-liquid-hot-magma-smalls"
     },
     {
-      "id": 206742151,
-      "name": "Fire!! Koala Tea Grows: Obama Runtz",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 10,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440264026_Obama_Runtz.JPG",
-      "image_local": "206742151.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "insane-koala-tea-grows-obama-runtz"
-    },
-    {
       "id": 149245506,
       "name": "Living Matter: Ice Cream Cake",
       "category": "Indica",
@@ -512,6 +471,47 @@
       "slug": "think-higher-cultiavtion-gucci-linx-smalls"
     },
     {
+      "id": 206742151,
+      "name": "Fire!! Koala Tea Grows: Obama Runtz",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 10,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440264026_Obama_Runtz.JPG",
+      "image_local": "206742151.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "insane-koala-tea-grows-obama-runtz"
+    },
+    {
       "id": 159696494,
       "name": "Lonely Bones: Now N Later",
       "category": "Indica",
@@ -551,6 +551,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "lonely-bones-now-n-later"
+    },
+    {
+      "id": 199924094,
+      "name": "*80/OZ* Lonely Bones: Firewater",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.2,
+      "reviews_count": 6,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439082542_fire_water.JPG",
+      "image_local": "199924094.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "lonely-bones-firewater"
     },
     {
       "id": 203122181,
@@ -676,17 +717,17 @@
       "slug": "top-shelf-lonely-bones-frosted-flakes"
     },
     {
-      "id": 199924094,
-      "name": "*80/OZ* Lonely Bones: Firewater",
+      "id": 157893448,
+      "name": "Method Maine: Dulce de Fresa Smalls (Dulce de Uva X Strawberry Guava)",
       "category": "Indica",
-      "edge_category": "Flower",
+      "edge_category": "Smalls",
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 4.2,
-      "reviews_count": 6,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439082542_fire_water.JPG",
-      "image_local": "199924094.jpg",
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442642265_dulce.JPG",
+      "image_local": "157893448.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -714,7 +755,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-firewater"
+      "slug": "cannoisseur-dulce-de-fresa-smalls"
     },
     {
       "id": 182032186,
@@ -838,47 +879,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "lonely-bones-brain-stain"
-    },
-    {
-      "id": 157893448,
-      "name": "Method Maine: Dulce de Fresa Smalls (Dulce de Uva X Strawberry Guava)",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442642265_dulce.JPG",
-      "image_local": "157893448.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "cannoisseur-dulce-de-fresa-smalls"
     },
     {
       "id": 197706295,
@@ -1086,47 +1086,6 @@
       "slug": "koala-tea-grows-chicken-milk-smalls"
     },
     {
-      "id": 148861245,
-      "name": "Franken Cakes Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.9,
-      "reviews_count": 11,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/429881643_franken_cakes_smalls.jpg",
-      "image_local": "148861245.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "franken-cakes-smalls"
-    },
-    {
       "id": 163540330,
       "name": "(1 Ounce Left) Koala Tea Grows: RS-1000 Smalls",
       "category": "Indica",
@@ -1166,6 +1125,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-grows-rs-1000"
+    },
+    {
+      "id": 148861245,
+      "name": "Franken Cakes Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.9,
+      "reviews_count": 11,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/429881643_franken_cakes_smalls.jpg",
+      "image_local": "148861245.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "franken-cakes-smalls"
     },
     {
       "id": 159392938,
@@ -1248,6 +1248,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-grows-weighted-blanket-smalls"
+    },
+    {
+      "id": 193180677,
+      "name": "Lonely Bones: French Toast",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 6,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442419755_French_toast.JPG",
+      "image_local": "193180677.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "lonely-bones-french-toast"
     },
     {
       "id": 164549976,
@@ -1537,47 +1578,6 @@
       "slug": "mac-smalls"
     },
     {
-      "id": 193180677,
-      "name": "Lonely Bones: French Toast",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 6,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442419755_French_toast.JPG",
-      "image_local": "193180677.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-french-toast"
-    },
-    {
       "id": 165467146,
       "name": "*Fresh Batch!* Kush Mints Smalls",
       "category": "Indica",
@@ -1699,6 +1699,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "enzy-farms-platinum-kush"
+    },
+    {
+      "id": 219449308,
+      "name": "*100/OZ!* Living Matter: Banana Cooler",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442758567_Banana_Cooler_LM.JPG",
+      "image_local": "219449308.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "100-oz-living-matter-banana-cooler"
     },
     {
       "id": 215568118,
@@ -1986,47 +2027,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "method-maine-p-funk-smalls"
-    },
-    {
-      "id": 219449308,
-      "name": "*100/OZ!* Living Matter: Banana Cooler",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442758567_Banana_Cooler_LM.JPG",
-      "image_local": "219449308.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "100-oz-living-matter-banana-cooler"
     },
     {
       "id": 219449198,
@@ -4038,47 +4038,6 @@
       ],
       "current_deal_title": null,
       "slug": "ghost-train-haze-cured-resin-1g"
-    },
-    {
-      "id": 215584220,
-      "name": "Grape Candy Live Rosin 3.5G",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442117556_gcandy.JPG",
-      "image_local": "215584220.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "grape-candy-live-rosin-3-5g"
     },
     {
       "id": 216793470,
