@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 261,
-    "updated_at": "2026-04-24T19:01:29.234Z",
+    "total_menu_items": 267,
+    "updated_at": "2026-04-25T19:46:36.318Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -150,8 +150,8 @@
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 28.0,
-      "rating": 4.3,
-      "reviews_count": 16,
+      "rating": 4.4,
+      "reviews_count": 17,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/428512056_banana_bread_flower.JPG",
       "image_local": "107381484.jpg",
       "prices": [
@@ -232,8 +232,8 @@
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 22,
+      "rating": 4.9,
+      "reviews_count": 23,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440374727_SEQUOIA_SBERRY_UPDATE.JPG",
       "image_local": "115695691.jpg",
       "prices": [
@@ -765,8 +765,8 @@
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 4.4,
-      "reviews_count": 9,
+      "rating": 4.5,
+      "reviews_count": 10,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442338852_caddy.JPG",
       "image_local": "182032186.jpg",
       "prices": [
@@ -964,7 +964,7 @@
     },
     {
       "id": 152456472,
-      "name": "*$60/OZ!* G&R Farms: Black Scotti Smalls",
+      "name": "(1 OZ left!) $60/oz G&R Farms: Black Scotti Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -1127,6 +1127,47 @@
       "slug": "koala-tea-grows-rs-1000"
     },
     {
+      "id": 180051350,
+      "name": "Koala Tea Grows: Weighted Blanket Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 14,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440577804_weighted_blanket.JPG",
+      "image_local": "180051350.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-weighted-blanket-smalls"
+    },
+    {
       "id": 148861245,
       "name": "Franken Cakes Smalls",
       "category": "Indica",
@@ -1207,47 +1248,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "method-maine-super-boof-smalls"
-    },
-    {
-      "id": 180051350,
-      "name": "Koala Tea Grows: Weighted Blanket Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 14,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440577804_weighted_blanket.JPG",
-      "image_local": "180051350.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-weighted-blanket-smalls"
     },
     {
       "id": 193180677,
@@ -3251,29 +3251,6 @@
       "slug": "lonely-bones-zsunami-1g-cured-resin-pen"
     },
     {
-      "id": 219610127,
-      "name": "FiFo: Melted Strawberry Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442783062_Melted_Strawberry.JPG",
-      "image_local": "219610127.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "fifo-melted-strawberry-cured-resin-14g-baller"
-    },
-    {
       "id": 198745134,
       "name": "Lonely Bones: Animal Cookies 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -3456,6 +3433,29 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-grape-pie-lemon-tree-1g-thc-distillate-penjamin"
+    },
+    {
+      "id": 163531403,
+      "name": "Lonely Bones: Guava Pie Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Solvent",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442910150_guavap.JPG",
+      "image_local": "163531403.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-guava-cream-1g"
     },
     {
       "id": 198745731,
@@ -3925,29 +3925,6 @@
       "slug": "amber-valley-trop-pie-shatter"
     },
     {
-      "id": 211716405,
-      "name": "Animal Face Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442624655_animal_face_1g.JPG",
-      "image_local": "211716405.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "animal-face-cured-resin-1g"
-    },
-    {
       "id": 214519692,
       "name": "Blue Zushi Live Rosin 1G",
       "category": "Concentrate",
@@ -4015,29 +3992,6 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-live-liquid-diamond-assorted-five-pack-2g-penjamin"
-    },
-    {
-      "id": 212604700,
-      "name": "Ghost Train Haze Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442740921_Ghost_train_haze_1g.JPG",
-      "image_local": "212604700.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "ghost-train-haze-cured-resin-1g"
     },
     {
       "id": 216793470,
@@ -4380,27 +4334,33 @@
       "slug": "lonely-bones-zwiz-cured-resin-pen-1g"
     },
     {
-      "id": 217921134,
-      "name": "PopScotti Cured Resin 1g",
+      "id": 206927245,
+      "name": "Black Cherry Punch Cured Resin 1G",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442514009_IMG_0708.jpeg",
-      "image_local": "217921134.jpeg",
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442910151_bcpunch.JPG",
+      "image_local": "206927245.jpg",
       "prices": [
         {
           "label": "1 g",
           "price": 10.0,
           "on_sale": false,
           "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
         }
       ],
       "current_deal_title": null,
-      "slug": "popscotti-cured-resin-1g"
+      "slug": "black-cherry-punch-cured-resin-1g"
     },
     {
       "id": 218334939,
@@ -4522,6 +4482,29 @@
       ],
       "current_deal_title": null,
       "slug": "cap-junky-cured-resin-14g-baller"
+    },
+    {
+      "id": 178393900,
+      "name": "Cap Junky Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 6,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442910172_cap_junky.JPG",
+      "image_local": "178393900.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cap-junky-cured-resin-1g"
     },
     {
       "id": 219579728,
@@ -4987,6 +4970,47 @@
       "slug": "guava-tangie-live-hash-rosin-3-5g-baller"
     },
     {
+      "id": 220446652,
+      "name": "Black Maple Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442911811_black_maple_live_rosin_8th.JPG",
+      "image_local": "220446652.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "black-maple-live-hash-rosin-3-5g-baller"
+    },
+    {
       "id": 216792776,
       "name": "Blood Honey Live Hash Rosin 3.5G Baller",
       "category": "Concentrate",
@@ -5072,29 +5096,6 @@
       ],
       "current_deal_title": null,
       "slug": "blueberry-kush-cured-resin-1g"
-    },
-    {
-      "id": 212121856,
-      "name": "Cadillac: Live Liquid Diamond Assorted TWENTY pack 2G Penjamin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441440750_Assorted_Image_for_Caddy.jpg",
-      "image_local": "212121856.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 700.0,
-          "on_sale": false,
-          "original_price": 700.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-assorted-twenty-pack-2g-penjamin"
     },
     {
       "id": 212117514,
@@ -5210,6 +5211,47 @@
       ],
       "current_deal_title": null,
       "slug": "grape-candy-live-rosin-1g"
+    },
+    {
+      "id": 220446771,
+      "name": "Grape Soda Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442911818_caprosin3.5.JPG",
+      "image_local": "220446771.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cap-junky-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 215584146,
@@ -6276,6 +6318,162 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-tropicana-cookies-1g-thc-distillate-penjamin"
+    },
+    {
+      "id": 191093585,
+      "name": "Mango Haze Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442910166_mangoh.JPG",
+      "image_local": "191093585.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "mango-haze-14g-cured-resin-baller-jar"
+    },
+    {
+      "id": 220450964,
+      "name": "Miracle Mints Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442912486_miracle_mint.JPG",
+      "image_local": "220450964.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "miracle-mints-live-hash-rosin-3-5g-baller"
+    },
+    {
+      "id": 220446102,
+      "name": "Mix and match any 8ths of Live Rosin for a $350",
+      "category": "Concentrate",
+      "edge_category": "Rosin",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442347167_laughinbuddha.JPG",
+      "image_local": "220446102.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "mix-and-match-any-8ths-of-live-rosin-for-a-350"
+    },
+    {
+      "id": 220446170,
+      "name": "Mix and match any 8ths of Live Rosin for a $650",
+      "category": "Concentrate",
+      "edge_category": "Rosin",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442347167_laughinbuddha.JPG",
+      "image_local": "220446170.jpg",
+      "prices": [
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "mix-and-match-any-8ths-of-live-rosin-for-a-650"
+    },
+    {
+      "id": 220445792,
+      "name": "Mix any 14G's of Live Rosin for $375",
+      "category": "Concentrate",
+      "edge_category": "Rosin",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442347167_laughinbuddha.JPG",
+      "image_local": "220445792.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 375.0,
+          "on_sale": false,
+          "original_price": 375.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "mix-any-14g-s-of-live-rosin-for-375"
+    },
+    {
+      "id": 220445964,
+      "name": "Mix any 28G's of Live Rosin for $750",
+      "category": "Concentrate",
+      "edge_category": "Rosin",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442347167_laughinbuddha.JPG",
+      "image_local": "220445964.jpg",
+      "prices": [
+        {
+          "label": "1 oz",
+          "price": 750.0,
+          "on_sale": false,
+          "original_price": 750.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "mix-any-28g-s-of-live-rosin-for-750"
     },
     {
       "id": 216793820,
