@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 266,
-    "updated_at": "2026-04-25T19:46:36.318Z",
+    "total_menu_items": 264,
+    "updated_at": "2026-04-27T15:08:28.728Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -799,47 +799,6 @@
       "slug": "koala-tea-grows-zoltan-smalls"
     },
     {
-      "id": 184388988,
-      "name": "Koala Tea Grows: D-Lish Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 9,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438417054_dlishssy.jpeg",
-      "image_local": "184388988.jpeg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-koala-tea-grows-d-lish-smalls"
-    },
-    {
       "id": 203291728,
       "name": "Lonely Bones: Brain Stain",
       "category": "Indica",
@@ -963,47 +922,6 @@
       "slug": "lonely-bones-lazer-wolf"
     },
     {
-      "id": 152456472,
-      "name": "(1 OZ left!) $60/oz G&R Farms: Black Scotti Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 4,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/433498495_Black_Scotti.jpg",
-      "image_local": "152456472.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "method-maine-black-scotti-smalls"
-    },
-    {
       "id": 197351960,
       "name": "*80/OZ!* Lonely Bones: Zwiz",
       "category": "Indica",
@@ -1043,6 +961,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "lonely-bones-zwiz"
+    },
+    {
+      "id": 184388988,
+      "name": "Koala Tea Grows: D-Lish Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 9,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438417054_dlishssy.jpeg",
+      "image_local": "184388988.jpeg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-koala-tea-grows-d-lish-smalls"
     },
     {
       "id": 209609986,
@@ -1627,7 +1586,7 @@
       "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441443368_Smartiez_.JPG",
       "image_local": "212136848.jpg",
       "prices": [
@@ -2364,8 +2323,8 @@
       "top_category": "Concentrates",
       "genetics": null,
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
+      "rating": 5.0,
+      "reviews_count": 1,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438526643_SHATTER_AYDEN.jpg",
       "image_local": "214676494.jpg",
       "prices": [
@@ -2378,6 +2337,52 @@
       ],
       "current_deal_title": null,
       "slug": "amber-valley-lemon-haze-shatter"
+    },
+    {
+      "id": 214676568,
+      "name": "Amber Valley Shatter 1g - Pink Kitty (H)",
+      "category": "Concentrate",
+      "edge_category": "Shatter",
+      "top_category": "Concentrates",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438526643_SHATTER_AYDEN.jpg",
+      "image_local": "214676568.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "amber-valley-pink-kitty-shatter"
+    },
+    {
+      "id": 214676571,
+      "name": "Amber Valley Shatter 1g - Red Runtz (H)",
+      "category": "Concentrate",
+      "edge_category": "Shatter",
+      "top_category": "Concentrates",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438526643_SHATTER_AYDEN.jpg",
+      "image_local": "214676571.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "amber-valley-red-runtz-shatter"
     },
     {
       "id": 214676326,
@@ -2401,52 +2406,6 @@
       ],
       "current_deal_title": null,
       "slug": "amber-valley-gelato-cookies-shatter"
-    },
-    {
-      "id": 214676568,
-      "name": "Amber Valley Shatter 1g - Pink Kitty (H)",
-      "category": "Concentrate",
-      "edge_category": "Shatter",
-      "top_category": "Concentrates",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438526643_SHATTER_AYDEN.jpg",
-      "image_local": "214676568.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "amber-valley-pink-kitty-shatter"
-    },
-    {
-      "id": 214676571,
-      "name": "Amber Valley Shatter 1g - Red Runtz (H)",
-      "category": "Concentrate",
-      "edge_category": "Shatter",
-      "top_category": "Concentrates",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438526643_SHATTER_AYDEN.jpg",
-      "image_local": "214676571.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "amber-valley-red-runtz-shatter"
     },
     {
       "id": 176445949,
@@ -2585,7 +2544,7 @@
       "thc_pct": 0.0,
       "rating": 5.0,
       "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438876062_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922912_dispo_bulk.jpg",
       "image_local": "198519091.jpg",
       "prices": [
         {
@@ -2597,35 +2556,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-20-mix-and-match-thc-distillate-1g-pens-260"
-    },
-    {
-      "id": 176406205,
-      "name": "Tourma Cannabis: GMO Cured Resin 14g Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 4.9,
-      "reviews_count": 21,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436555360_GMO_Baller.JPG",
-      "image_local": "176406205.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 125.0,
-          "on_sale": false,
-          "original_price": 125.0
-        },
-        {
-          "label": "1 oz",
-          "price": 250.0,
-          "on_sale": false,
-          "original_price": 250.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "gmo-cured-resin-14g-baller-jar-1e0642f4-7099-44a5-8997-47c736d995c2"
     },
     {
       "id": 163167402,
@@ -2660,7 +2590,7 @@
       "thc_pct": 0.0,
       "rating": 5.0,
       "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438876062_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922912_dispo_bulk.jpg",
       "image_local": "198364711.jpg",
       "prices": [
         {
@@ -2672,6 +2602,35 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-5-mix-and-match-thc-distillate-1g-disposables-75"
+    },
+    {
+      "id": 176406205,
+      "name": "Tourma Cannabis: GMO Cured Resin 14g Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 4.9,
+      "reviews_count": 21,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436555360_GMO_Baller.JPG",
+      "image_local": "176406205.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 125.0,
+          "on_sale": false,
+          "original_price": 125.0
+        },
+        {
+          "label": "1 oz",
+          "price": 250.0,
+          "on_sale": false,
+          "original_price": 250.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "gmo-cured-resin-14g-baller-jar-1e0642f4-7099-44a5-8997-47c736d995c2"
     },
     {
       "id": 157916459,
@@ -2698,7 +2657,7 @@
     },
     {
       "id": 198360177,
-      "name": "Lonely Bones: Ice Cream Cake 1g THC Distillate Penz",
+      "name": "Lonely Bones: Ice Cream Cake 1g THC Distillate Penjamin",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -2706,7 +2665,7 @@
       "thc_pct": 0.0,
       "rating": 5.0,
       "reviews_count": 5,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438876062_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "198360177.jpg",
       "prices": [
         {
@@ -2860,7 +2819,7 @@
     },
     {
       "id": 198359911,
-      "name": "Lonely Bones: AK-47 1G THC Distillate Penz",
+      "name": "Lonely Bones: AK-47 1G THC Distillate Penjamin",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -2868,7 +2827,7 @@
       "thc_pct": 0.0,
       "rating": 5.0,
       "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438876062_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "198359911.jpg",
       "prices": [
         {
@@ -3191,7 +3150,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438876062_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922912_dispo_bulk.jpg",
       "image_local": "198364174.jpg",
       "prices": [
         {
@@ -3482,7 +3441,7 @@
     },
     {
       "id": 198357913,
-      "name": "Lonely Bones: Lemon Cherry Gelato 1G THC Distillate Penz",
+      "name": "Lonely Bones: Lemon Cherry Gelato 1G THC Distillate Penjamin",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -3490,7 +3449,7 @@
       "thc_pct": 0.0,
       "rating": 5.0,
       "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438876062_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "198357913.jpg",
       "prices": [
         {
@@ -3643,7 +3602,7 @@
     },
     {
       "id": 198354445,
-      "name": "Lonely Bones: Zkittles THC Distillate Penz",
+      "name": "Lonely Bones: Zkittles THC Distillate Penjamin",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -3651,7 +3610,7 @@
       "thc_pct": 0.0,
       "rating": 5.0,
       "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438876062_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "198354445.jpg",
       "prices": [
         {
@@ -4664,7 +4623,7 @@
     },
     {
       "id": 198355156,
-      "name": "Lonely Bones: Cherry Pie 1G THC Distillate Penz",
+      "name": "Lonely Bones: Cherry Pie 1G THC Distillate Penjamin",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -4672,7 +4631,7 @@
       "thc_pct": 0.0,
       "rating": 5.0,
       "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438876062_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "198355156.jpg",
       "prices": [
         {
@@ -4687,7 +4646,7 @@
     },
     {
       "id": 198360429,
-      "name": "Lonely Bones: Forbidden Fruit 1G THC Distillate Penz",
+      "name": "Lonely Bones: Forbidden Fruit 1G THC Distillate Penjamin",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -4695,7 +4654,7 @@
       "thc_pct": 0.0,
       "rating": 5.0,
       "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438876062_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "198360429.jpg",
       "prices": [
         {
@@ -4907,7 +4866,7 @@
     },
     {
       "id": 198360042,
-      "name": "Lonely Bones: Girl Scout Cookie 1G THC Distillate Penz",
+      "name": "Lonely Bones: Girl Scout Cookie 1G THC Distillate Penjamin",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -4915,7 +4874,7 @@
       "thc_pct": 0.0,
       "rating": 4.5,
       "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438876062_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "198360042.jpg",
       "prices": [
         {
@@ -5423,29 +5382,6 @@
       "slug": "laughing-buddha-live-hash-rosin-3-5g-baller"
     },
     {
-      "id": 207393576,
-      "name": "Lonely Bones: Acapulco Gold 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "207393576.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-acapulco-gold-1g-thc-distillate-screw-on-thread"
-    },
-    {
       "id": 207409399,
       "name": "Lonely Bones: Apple Fritter 1G THC Distillate Penjamin",
       "category": "Concentrate",
@@ -5516,7 +5452,7 @@
     },
     {
       "id": 198360637,
-      "name": "Lonely Bones: Banana Pudding 1G THC Distillate Penz",
+      "name": "Lonely Bones: Banana Pudding 1G THC Distillate Penjamin",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -5524,7 +5460,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438876062_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "198360637.jpg",
       "prices": [
         {
@@ -5585,7 +5521,7 @@
     },
     {
       "id": 198353287,
-      "name": "Lonely Bones: Blue Sherb 1G THC Distillate Penz",
+      "name": "Lonely Bones: Blue Sherb 1G THC Distillate Penjamin",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -5593,7 +5529,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438876062_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "198353287.jpg",
       "prices": [
         {
@@ -5608,7 +5544,7 @@
     },
     {
       "id": 198359799,
-      "name": "Lonely Bones: Blue Zushi 1G THC Distillate Penz",
+      "name": "Lonely Bones: Blue Zushi 1G THC Distillate Penjamin",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -5616,7 +5552,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438876062_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "198359799.jpg",
       "prices": [
         {
@@ -5746,7 +5682,7 @@
     },
     {
       "id": 198359463,
-      "name": "Lonely Bones: Grape Stomper 1G THC Distillate Penz",
+      "name": "Lonely Bones: Grape Stomper 1G THC Distillate Penjamin",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -5754,7 +5690,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438876062_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "198359463.jpg",
       "prices": [
         {
@@ -5792,7 +5728,7 @@
     },
     {
       "id": 198360281,
-      "name": "Lonely Bones: Italian Ice 1G THC Distillate Penz",
+      "name": "Lonely Bones: Italian Ice 1G THC Distillate Penjamin",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -5800,7 +5736,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438876062_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "198360281.jpg",
       "prices": [
         {
@@ -5815,7 +5751,7 @@
     },
     {
       "id": 198359161,
-      "name": "Lonely Bones: Jack Herer 1G THC Distillate Penz",
+      "name": "Lonely Bones: Jack Herer 1G THC Distillate Penjamin",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -5823,7 +5759,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438876062_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "198359161.jpg",
       "prices": [
         {
@@ -5907,7 +5843,7 @@
     },
     {
       "id": 198354025,
-      "name": "Lonely Bones: Mimosa 1G THC Distillate Penz",
+      "name": "Lonely Bones: Mimosa 1G THC Distillate Penjamin",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -5915,7 +5851,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438876062_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "198354025.jpg",
       "prices": [
         {
@@ -6137,7 +6073,7 @@
     },
     {
       "id": 198357600,
-      "name": "Lonely Bones: Sour Diesel 1G THC Distillate Penz",
+      "name": "Lonely Bones: Sour Diesel 1G THC Distillate Penjamin",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -6145,7 +6081,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438876062_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "198357600.jpg",
       "prices": [
         {
@@ -6252,7 +6188,7 @@
     },
     {
       "id": 198354241,
-      "name": "Lonely Bones: Super Boof 1G THC Distillate Penz",
+      "name": "Lonely Bones: Super Boof 1G THC Distillate Penjamin",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -6260,7 +6196,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438876062_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "198354241.jpg",
       "prices": [
         {
@@ -7264,7 +7200,7 @@
       "thc_pct": 10.0,
       "rating": 4.8,
       "reviews_count": 5,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437372001_100thc_disty.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922609_10mh_hash_edib.jpg",
       "image_local": "185241360.jpg",
       "prices": [
         {
@@ -7287,7 +7223,7 @@
       "thc_pct": 10.0,
       "rating": 5.0,
       "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437372001_100thc_disty.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922609_10mh_hash_edib.jpg",
       "image_local": "185242731.jpg",
       "prices": [
         {
@@ -7310,7 +7246,7 @@
       "thc_pct": 10.0,
       "rating": 5.0,
       "reviews_count": 4,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437372001_100thc_disty.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922609_10mh_hash_edib.jpg",
       "image_local": "185244393.jpg",
       "prices": [
         {
@@ -7333,7 +7269,7 @@
       "thc_pct": 50.0,
       "rating": 4.6,
       "reviews_count": 8,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437372018_500_hash_gummy.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922600_20_mg_disty_edi.jpg",
       "image_local": "185241558.jpg",
       "prices": [
         {
@@ -7356,7 +7292,7 @@
       "thc_pct": 10.0,
       "rating": 5.0,
       "reviews_count": 4,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437371965_100mg_hash.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922602_10mg_disty_edi.jpg",
       "image_local": "185242558.jpg",
       "prices": [
         {
@@ -7379,7 +7315,7 @@
       "thc_pct": 50.0,
       "rating": 5.0,
       "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437372018_500_hash_gummy.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922600_20_mg_disty_edi.jpg",
       "image_local": "185242947.jpg",
       "prices": [
         {
@@ -7402,7 +7338,7 @@
       "thc_pct": 10.0,
       "rating": 5.0,
       "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437371965_100mg_hash.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922602_10mg_disty_edi.jpg",
       "image_local": "185244671.jpg",
       "prices": [
         {
@@ -7425,7 +7361,7 @@
       "thc_pct": 10.0,
       "rating": 5.0,
       "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437371965_100mg_hash.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922602_10mg_disty_edi.jpg",
       "image_local": "185241029.jpg",
       "prices": [
         {
@@ -7448,7 +7384,7 @@
       "thc_pct": 50.0,
       "rating": 5.0,
       "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437372031_500thcdisty.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922597_50mghashrosinedibles.jpg",
       "image_local": "185241807.jpg",
       "prices": [
         {
@@ -7471,7 +7407,7 @@
       "thc_pct": 50.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437372031_500thcdisty.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922597_50mghashrosinedibles.jpg",
       "image_local": "185243248.jpg",
       "prices": [
         {
@@ -7494,7 +7430,7 @@
       "thc_pct": 50.0,
       "rating": 5.0,
       "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437372031_500thcdisty.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922597_50mghashrosinedibles.jpg",
       "image_local": "185245820.jpg",
       "prices": [
         {
@@ -7517,7 +7453,7 @@
       "thc_pct": 50.0,
       "rating": 4.7,
       "reviews_count": 7,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437372018_500_hash_gummy.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922600_20_mg_disty_edi.jpg",
       "image_local": "185245420.jpg",
       "prices": [
         {
