@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 264,
-    "updated_at": "2026-04-27T15:08:28.728Z",
+    "total_menu_items": 269,
+    "updated_at": "2026-04-28T17:33:06.712Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -192,7 +192,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.9,
-      "reviews_count": 34,
+      "reviews_count": 35,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437713750_trop_cherry_new.jpg",
       "image_local": "152047283.jpg",
       "prices": [
@@ -233,7 +233,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.9,
-      "reviews_count": 23,
+      "reviews_count": 24,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440374727_SEQUOIA_SBERRY_UPDATE.JPG",
       "image_local": "115695691.jpg",
       "prices": [
@@ -315,7 +315,7 @@
       "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 19,
+      "reviews_count": 20,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437049508_iron_lotus.JPG",
       "image_local": "167468258.jpg",
       "prices": [
@@ -1046,7 +1046,7 @@
     },
     {
       "id": 163540330,
-      "name": "(1 Ounce Left) Koala Tea Grows: RS-1000 Smalls",
+      "name": "*New batch!* Koala Tea Grows: RS-1000 Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -1168,6 +1168,47 @@
       "slug": "koala-tea-grows-weighted-blanket-smalls"
     },
     {
+      "id": 213139926,
+      "name": "(1 oz left!) LA Runtz Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441650993_LA_Runtz.JPG",
+      "image_local": "213139926.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "la-runtz-smalls"
+    },
+    {
       "id": 210990227,
       "name": "*Staff Pick!* Blue Dream Smalls",
       "category": "Indica",
@@ -1210,7 +1251,7 @@
     },
     {
       "id": 148861245,
-      "name": "Franken Cakes Smalls",
+      "name": "$60/OZ! Franken Cakes Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -1332,6 +1373,88 @@
       "slug": "permanent-marker-smalls-18b5af06-892b-4fbd-aae3-786d29db212c"
     },
     {
+      "id": 208662977,
+      "name": "(1 OZ left!) Pure Fire Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440723384_Pure_Fire_Smalls.JPG",
+      "image_local": "208662977.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-pure-fire-smalls"
+    },
+    {
+      "id": 188354874,
+      "name": "(1 OZ!) MAC Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437738066_mac_smalls.JPG",
+      "image_local": "188354874.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "mac-smalls"
+    },
+    {
       "id": 207771314,
       "name": "*Fresh batch!* Koala Tea Grows : Dosido Smalls",
       "category": "Indica",
@@ -1371,47 +1494,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "new-cannaisseur-grape-gas"
-    },
-    {
-      "id": 208662977,
-      "name": "*NEW!* Pure Fire Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440723384_Pure_Fire_Smalls.JPG",
-      "image_local": "208662977.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-pure-fire-smalls"
     },
     {
       "id": 216198954,
@@ -1496,47 +1578,6 @@
       "slug": "blue-zushi-smalls"
     },
     {
-      "id": 188354874,
-      "name": "MAC Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437738066_mac_smalls.JPG",
-      "image_local": "188354874.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "mac-smalls"
-    },
-    {
       "id": 165467146,
       "name": "*Fresh Batch!* Kush Mints Smalls",
       "category": "Indica",
@@ -1579,7 +1620,7 @@
     },
     {
       "id": 212136848,
-      "name": "($60/OZ) Smartiez Smalls",
+      "name": "($60/OZ one OZ left!) Smartiez Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -1617,6 +1658,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "new-smartiez-smalls"
+    },
+    {
+      "id": 215156156,
+      "name": "*Absolute Fire!* Living Matter: Pruno Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442037763_Pruno.JPG",
+      "image_local": "215156156.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matter-pruno-smalls"
     },
     {
       "id": 168998124,
@@ -1658,6 +1740,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "enzy-farms-platinum-kush"
+    },
+    {
+      "id": 211381612,
+      "name": "*1/2OZ Left* Hi-Speed Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441271546_Hi-Speed.JPG",
+      "image_local": "211381612.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-hi-speed-smalls"
     },
     {
       "id": 219449308,
@@ -1988,6 +2111,129 @@
       "slug": "method-maine-p-funk-smalls"
     },
     {
+      "id": 206806591,
+      "name": "Chile Verde Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.0,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440279968_Widow_Maker.JPG",
+      "image_local": "206806591.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-widow-makers-smalls"
+    },
+    {
+      "id": 213494566,
+      "name": "(1 OZ left!) Cannaisseur: The Doctor Smalls (Great White Shark X Super Skunk)",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715660_The_Doctor.JPG",
+      "image_local": "213494566.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "cannaisseur-the-doctor-smalls"
+    },
+    {
+      "id": 210807064,
+      "name": "(1 OZ left!) Penzoil Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441158115_penzoil.JPG",
+      "image_local": "210807064.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "penzoil-smalls"
+    },
+    {
       "id": 219449198,
       "name": "*100/OZ!* Living Matter: Scented Marker",
       "category": "Indica",
@@ -2070,17 +2316,17 @@
       "slug": "fire-method-maine-bolo-runtz-smalls"
     },
     {
-      "id": 210807064,
-      "name": "*Fire!* Penzoil Smalls",
+      "id": 216163724,
+      "name": "*Fire!* Pink Starburst Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
-      "genetics": "Indica",
+      "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441158115_penzoil.JPG",
-      "image_local": "210807064.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442227583_pink_smalls.JPG",
+      "image_local": "216163724.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -2108,7 +2354,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "penzoil-smalls"
+      "slug": "brand-new-pink-starburst-smalls"
     },
     {
       "id": 176563889,
@@ -2150,47 +2396,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "buttermilk-pancakes-smalls"
-    },
-    {
-      "id": 213494566,
-      "name": "Cannaisseur: The Doctor Smalls (Great White Shark X Super Skunk)",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715660_The_Doctor.JPG",
-      "image_local": "213494566.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "cannaisseur-the-doctor-smalls"
     },
     {
       "id": 219577210,
@@ -2416,7 +2621,7 @@
       "genetics": null,
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 18,
+      "reviews_count": 19,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437880927_dry_dia.JPG",
       "image_local": "176445949.jpg",
       "prices": [
@@ -2558,6 +2763,35 @@
       "slug": "lonely-bones-20-mix-and-match-thc-distillate-1g-pens-260"
     },
     {
+      "id": 176406205,
+      "name": "Tourma Cannabis: GMO Cured Resin 14g Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 4.9,
+      "reviews_count": 21,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436555360_GMO_Baller.JPG",
+      "image_local": "176406205.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 125.0,
+          "on_sale": false,
+          "original_price": 125.0
+        },
+        {
+          "label": "1 oz",
+          "price": 250.0,
+          "on_sale": false,
+          "original_price": 250.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "gmo-cured-resin-14g-baller-jar-1e0642f4-7099-44a5-8997-47c736d995c2"
+    },
+    {
       "id": 163167402,
       "name": "*Fresh Batch* Tourma Cannabis: GMO Live Rosin 1G",
       "category": "Concentrate",
@@ -2604,35 +2838,6 @@
       "slug": "lonely-bones-5-mix-and-match-thc-distillate-1g-disposables-75"
     },
     {
-      "id": 176406205,
-      "name": "Tourma Cannabis: GMO Cured Resin 14g Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 4.9,
-      "reviews_count": 21,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436555360_GMO_Baller.JPG",
-      "image_local": "176406205.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 125.0,
-          "on_sale": false,
-          "original_price": 125.0
-        },
-        {
-          "label": "1 oz",
-          "price": 250.0,
-          "on_sale": false,
-          "original_price": 250.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "gmo-cured-resin-14g-baller-jar-1e0642f4-7099-44a5-8997-47c736d995c2"
-    },
-    {
       "id": 157916459,
       "name": "Tourma Cannabis: GMO Cured Resin 1G Jar",
       "category": "Concentrate",
@@ -2654,6 +2859,35 @@
       ],
       "current_deal_title": null,
       "slug": "tourma-cannabis-gmo-cured-resin-1g-jar"
+    },
+    {
+      "id": 199211914,
+      "name": "Animal Face Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442624649_animal_face.JPG",
+      "image_local": "199211914.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "franken-cakes-cured-resin-14g-baller"
     },
     {
       "id": 198360177,
@@ -2787,35 +3021,6 @@
       ],
       "current_deal_title": null,
       "slug": "amber-valley-super-lemon-haze-shatter-1g"
-    },
-    {
-      "id": 199211914,
-      "name": "Animal Face Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442624649_animal_face.JPG",
-      "image_local": "199211914.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "franken-cakes-cured-resin-14g-baller"
     },
     {
       "id": 198359911,
@@ -3208,6 +3413,35 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-zsunami-1g-cured-resin-pen"
+    },
+    {
+      "id": 207912577,
+      "name": "Cap Junky Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442115207_cjunky.JPG",
+      "image_local": "207912577.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cap-junky-cured-resin-14g-baller"
     },
     {
       "id": 198745134,
@@ -4412,35 +4646,6 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-live-liquid-diamond-strawberry-milk-x-slurty-2g-penjamin"
-    },
-    {
-      "id": 207912577,
-      "name": "Cap Junky Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442115207_cjunky.JPG",
-      "image_local": "207912577.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cap-junky-cured-resin-14g-baller"
     },
     {
       "id": 178393900,
