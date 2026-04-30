@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 269,
-    "updated_at": "2026-04-28T17:33:06.712Z",
+    "total_menu_items": 268,
+    "updated_at": "2026-04-29T17:48:03.908Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -192,7 +192,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.9,
-      "reviews_count": 35,
+      "reviews_count": 36,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437713750_trop_cherry_new.jpg",
       "image_local": "152047283.jpg",
       "prices": [
@@ -305,47 +305,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "gmo"
-    },
-    {
-      "id": 167468258,
-      "name": "*Patient Favorite* Koala Tea Grows: Iron Lotus Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 20,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437049508_iron_lotus.JPG",
-      "image_local": "167468258.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-iron-lotus-smalls"
     },
     {
       "id": 180051413,
@@ -717,47 +676,6 @@
       "slug": "top-shelf-lonely-bones-frosted-flakes"
     },
     {
-      "id": 157893448,
-      "name": "Method Maine: Dulce de Fresa Smalls (Dulce de Uva X Strawberry Guava)",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442642265_dulce.JPG",
-      "image_local": "157893448.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "cannoisseur-dulce-de-fresa-smalls"
-    },
-    {
       "id": 182032186,
       "name": "*Fire!* Koala Tea Grows: Cadillac Runtz Smalls",
       "category": "Indica",
@@ -797,6 +715,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-grows-zoltan-smalls"
+    },
+    {
+      "id": 157893448,
+      "name": "Method Maine: Dulce de Fresa Smalls (Dulce de Uva X Strawberry Guava)",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.3,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442642265_dulce.JPG",
+      "image_local": "157893448.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "cannoisseur-dulce-de-fresa-smalls"
     },
     {
       "id": 203291728,
@@ -922,6 +881,47 @@
       "slug": "lonely-bones-lazer-wolf"
     },
     {
+      "id": 159392938,
+      "name": "Koala Tea Grows: Super Boof Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 4,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436431306_Superboof.JPG",
+      "image_local": "159392938.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "method-maine-super-boof-smalls"
+    },
+    {
       "id": 197351960,
       "name": "*80/OZ!* Lonely Bones: Zwiz",
       "category": "Indica",
@@ -961,47 +961,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "lonely-bones-zwiz"
-    },
-    {
-      "id": 184388988,
-      "name": "Koala Tea Grows: D-Lish Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 9,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438417054_dlishssy.jpeg",
-      "image_local": "184388988.jpeg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-koala-tea-grows-d-lish-smalls"
     },
     {
       "id": 209609986,
@@ -1045,6 +1004,47 @@
       "slug": "koala-tea-grows-chicken-milk-smalls"
     },
     {
+      "id": 184388988,
+      "name": "Koala Tea Grows: D-Lish Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.9,
+      "reviews_count": 10,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438417054_dlishssy.jpeg",
+      "image_local": "184388988.jpeg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-koala-tea-grows-d-lish-smalls"
+    },
+    {
       "id": 163540330,
       "name": "*New batch!* Koala Tea Grows: RS-1000 Smalls",
       "category": "Indica",
@@ -1084,47 +1084,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-grows-rs-1000"
-    },
-    {
-      "id": 159392938,
-      "name": "Koala Tea Grows: Super Boof Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 4,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436431306_Superboof.JPG",
-      "image_local": "159392938.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "method-maine-super-boof-smalls"
     },
     {
       "id": 180051350,
@@ -1866,7 +1825,7 @@
     },
     {
       "id": 212134011,
-      "name": "Lonely Bones: Bowser",
+      "name": "Lonely Bones: (1oz Left) Bowser",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
