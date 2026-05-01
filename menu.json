@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 268,
-    "updated_at": "2026-04-29T17:48:03.908Z",
+    "total_menu_items": 267,
+    "updated_at": "2026-04-30T15:41:14.362Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -192,7 +192,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.9,
-      "reviews_count": 36,
+      "reviews_count": 37,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437713750_trop_cherry_new.jpg",
       "image_local": "152047283.jpg",
       "prices": [
@@ -512,6 +512,47 @@
       "slug": "lonely-bones-now-n-later"
     },
     {
+      "id": 193180391,
+      "name": "*80/OZ!* Lonely Bones: Candy Rain",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.7,
+      "reviews_count": 13,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439127140_Candy_Rain_new.jpg",
+      "image_local": "193180391.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "candy-rain"
+    },
+    {
       "id": 199924094,
       "name": "*80/OZ* Lonely Bones: Firewater",
       "category": "Indica",
@@ -592,47 +633,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "lonely-bones-carbon-fiber"
-    },
-    {
-      "id": 193180391,
-      "name": "*80/OZ!* Lonely Bones: Candy Rain",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.7,
-      "reviews_count": 13,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439127140_Candy_Rain_new.jpg",
-      "image_local": "193180391.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "candy-rain"
     },
     {
       "id": 206480223,
@@ -800,7 +800,7 @@
     },
     {
       "id": 197706295,
-      "name": "*Final Batch!* Lonely Bones: Purple Churro",
+      "name": "(1 OZ Left!) Lonely Bones: Purple Churro",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -1094,7 +1094,7 @@
       "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 4.8,
-      "reviews_count": 14,
+      "reviews_count": 15,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440577804_weighted_blanket.JPG",
       "image_local": "180051350.jpg",
       "prices": [
@@ -1699,47 +1699,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "enzy-farms-platinum-kush"
-    },
-    {
-      "id": 211381612,
-      "name": "*1/2OZ Left* Hi-Speed Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441271546_Hi-Speed.JPG",
-      "image_local": "211381612.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-hi-speed-smalls"
     },
     {
       "id": 219449308,
@@ -2925,8 +2884,8 @@
       "top_category": "Concentrates",
       "genetics": "Indica",
       "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 8,
+      "rating": 4.6,
+      "reviews_count": 9,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442882504_gmo3.5.JPG",
       "image_local": "199216855.jpg",
       "prices": [
