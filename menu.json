@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 267,
-    "updated_at": "2026-04-30T15:41:14.362Z",
+    "total_menu_items": 263,
+    "updated_at": "2026-05-01T21:51:43.818Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -185,7 +185,7 @@
     },
     {
       "id": 152047283,
-      "name": "*80/OZ!* Lonely Bones: Trop Cherry",
+      "name": "(1 OZ left!) Lonely Bones: Trop Cherry",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -963,6 +963,47 @@
       "slug": "lonely-bones-zwiz"
     },
     {
+      "id": 210990227,
+      "name": "*Staff Pick!* Blue Dream Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441189307_Garlic_Breath.JPG",
+      "image_local": "210990227.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "g-r-farms-garlic-breath-smalls"
+    },
+    {
       "id": 209609986,
       "name": "Koala Tea Grows: Royal Kush Smalls",
       "category": "Indica",
@@ -1168,47 +1209,6 @@
       "slug": "la-runtz-smalls"
     },
     {
-      "id": 210990227,
-      "name": "*Staff Pick!* Blue Dream Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441189307_Garlic_Breath.JPG",
-      "image_local": "210990227.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "g-r-farms-garlic-breath-smalls"
-    },
-    {
       "id": 148861245,
       "name": "$60/OZ! Franken Cakes Smalls",
       "category": "Indica",
@@ -1289,47 +1289,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "lonely-bones-french-toast"
-    },
-    {
-      "id": 164549976,
-      "name": "(Half OZ left!) Permanent Marker Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.2,
-      "reviews_count": 6,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/435366025_Permanent_Marker.jpg",
-      "image_local": "164549976.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "permanent-marker-smalls-18b5af06-892b-4fbd-aae3-786d29db212c"
     },
     {
       "id": 208662977,
@@ -1578,47 +1537,6 @@
       "slug": "icy-mac-smalls"
     },
     {
-      "id": 212136848,
-      "name": "($60/OZ one OZ left!) Smartiez Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441443368_Smartiez_.JPG",
-      "image_local": "212136848.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-smartiez-smalls"
-    },
-    {
       "id": 215156156,
       "name": "*Absolute Fire!* Living Matter: Pruno Smalls",
       "category": "Indica",
@@ -1701,6 +1619,88 @@
       "slug": "enzy-farms-platinum-kush"
     },
     {
+      "id": 219576394,
+      "name": "Living Matter: Rainbow Sherbert-11 (Pink Guava x Sunset Sherbert)",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775472_RS11.JPG",
+      "image_local": "219576394.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matter-rs-11"
+    },
+    {
+      "id": 213494566,
+      "name": "(1 OZ left!) Cannaisseur: The Doctor Smalls (Great White Shark X Super Skunk)",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715660_The_Doctor.JPG",
+      "image_local": "213494566.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "cannaisseur-the-doctor-smalls"
+    },
+    {
       "id": 219449308,
       "name": "*100/OZ!* Living Matter: Banana Cooler",
       "category": "Indica",
@@ -1740,6 +1740,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "100-oz-living-matter-banana-cooler"
+    },
+    {
+      "id": 216163724,
+      "name": "*Fire!* Pink Starburst Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442227583_pink_smalls.JPG",
+      "image_local": "216163724.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "brand-new-pink-starburst-smalls"
     },
     {
       "id": 215568118,
@@ -1906,47 +1947,6 @@
       "slug": "garlic-butter-smalls"
     },
     {
-      "id": 219576394,
-      "name": "Living Matter: Rainbow Sherbert-11 (Pink Guava x Sunset Sherbert)",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775472_RS11.JPG",
-      "image_local": "219576394.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-rs-11"
-    },
-    {
       "id": 177985331,
       "name": "Garlic Breath Smalls",
       "category": "Indica",
@@ -2070,47 +2070,6 @@
       "slug": "new-widow-makers-smalls"
     },
     {
-      "id": 213494566,
-      "name": "(1 OZ left!) Cannaisseur: The Doctor Smalls (Great White Shark X Super Skunk)",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715660_The_Doctor.JPG",
-      "image_local": "213494566.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "cannaisseur-the-doctor-smalls"
-    },
-    {
       "id": 210807064,
       "name": "(1 OZ left!) Penzoil Smalls",
       "category": "Indica",
@@ -2194,7 +2153,7 @@
     },
     {
       "id": 219176764,
-      "name": "*Fire!* Method Maine: Bolo Runtz smalls",
+      "name": "*Fire!* Method Maine: Bolo Runtz smalls (Gelato \u00d7 Zkittlez)",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -2232,47 +2191,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "fire-method-maine-bolo-runtz-smalls"
-    },
-    {
-      "id": 216163724,
-      "name": "*Fire!* Pink Starburst Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442227583_pink_smalls.JPG",
-      "image_local": "216163724.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "brand-new-pink-starburst-smalls"
     },
     {
       "id": 176563889,
@@ -2606,6 +2524,29 @@
       "slug": "lonely-bones-mix-any-28-grams-of-cured-resin-for-240"
     },
     {
+      "id": 185784526,
+      "name": "Lonely Bones: Mix and Match Any 5 Cured Resin Penz for $100",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.6,
+      "reviews_count": 7,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
+      "image_local": "185784526.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-mix-and-match-any-5-cured-resin-pens-5-for-125"
+    },
+    {
       "id": 195565768,
       "name": "Lonely Bones: Dry Diamonds 1G Jar",
       "category": "Concentrate",
@@ -2633,29 +2574,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-dry-diamonds-1g-jar"
-    },
-    {
-      "id": 185784526,
-      "name": "Lonely Bones: Mix and Match Any 5 Cured Resin Penz for $100",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.6,
-      "reviews_count": 7,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "185784526.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-mix-and-match-any-5-cured-resin-pens-5-for-125"
     },
     {
       "id": 198519091,
@@ -2839,7 +2757,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 3,
+      "reviews_count": 4,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
       "image_local": "207395282.jpg",
       "prices": [
@@ -2862,7 +2780,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
       "image_local": "198745407.jpg",
       "prices": [
@@ -2916,6 +2834,29 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-gmo-live-hash-rosin-3-5-baller"
+    },
+    {
+      "id": 211990926,
+      "name": "Candy Runtz 14g Cured Resin Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442742338_Candy_Runtz_14G.JPG",
+      "image_local": "211990926.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "candy-runtz-14g-cured-resin-baller-jar"
     },
     {
       "id": 208201579,
@@ -3125,8 +3066,8 @@
       "slug": "lonely-bones-banana-smoothie-1g-thc-distillate-5-10-thread"
     },
     {
-      "id": 211990926,
-      "name": "Candy Runtz 14g Cured Resin Baller Jar",
+      "id": 213005816,
+      "name": "Ghost Train Haze 14g Cured resin Baller Jar",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -3134,8 +3075,8 @@
       "thc_pct": 0.0,
       "rating": 4.0,
       "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442742338_Candy_Runtz_14G.JPG",
-      "image_local": "211990926.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442740911_Ghost_Train_Haze.JPG",
+      "image_local": "213005816.jpg",
       "prices": [
         {
           "label": "each",
@@ -3145,7 +3086,7 @@
         }
       ],
       "current_deal_title": null,
-      "slug": "candy-runtz-14g-cured-resin-baller-jar"
+      "slug": "ghost-train-haze-14g-cured-resin-baller-jar"
     },
     {
       "id": 209069307,
@@ -3944,29 +3885,6 @@
       "slug": "rs-11-live-resin-3-5g-jar"
     },
     {
-      "id": 213005816,
-      "name": "Ghost Train Haze 14g Cured resin Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442740911_Ghost_Train_Haze.JPG",
-      "image_local": "213005816.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "ghost-train-haze-14g-cured-resin-baller-jar"
-    },
-    {
       "id": 198745525,
       "name": "Lonely Bones: Orange Creamsicle THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -4057,29 +3975,6 @@
       ],
       "current_deal_title": null,
       "slug": "blue-zushi-live-rosin-1g"
-    },
-    {
-      "id": 218639404,
-      "name": "Blueberry Kush 14g Cured Resin Baller jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442626691_blueberry_kush.JPG",
-      "image_local": "218639404.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "blueberry-kush-14g-cured-resin-baller-jar"
     },
     {
       "id": 212121141,
@@ -4443,6 +4338,29 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-zwiz-cured-resin-pen-1g"
+    },
+    {
+      "id": 220254209,
+      "name": "Super Lemon Haze Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442879592_super_lemon_haze.JPG",
+      "image_local": "220254209.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "super-lemon-haze-cured-resin-1g"
     },
     {
       "id": 206927245,
@@ -5201,29 +5119,6 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-live-liquid-diamond-glitter-bomb-x-red-congolese-2g-penjamin"
-    },
-    {
-      "id": 212118552,
-      "name": "Cadillac: Live Liquid Diamond Super Boof X Grape Sorbet 2G Penjamin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "212118552.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-super-boof-x-grape-sorbet-2g-penjamin"
     },
     {
       "id": 211334357,
@@ -6748,29 +6643,6 @@
       ],
       "current_deal_title": null,
       "slug": "smackerz-cured-resin-14g-baller"
-    },
-    {
-      "id": 220254209,
-      "name": "Super Lemon Haze Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442879592_super_lemon_haze.JPG",
-      "image_local": "220254209.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "super-lemon-haze-cured-resin-1g"
     },
     {
       "id": 209695125,
