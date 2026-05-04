@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 259,
-    "updated_at": "2026-05-02T21:00:25.633Z",
+    "total_menu_items": 257,
+    "updated_at": "2026-05-03T15:35:05.956Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -617,17 +617,17 @@
       "slug": "top-shelf-lonely-bones-frosted-flakes"
     },
     {
-      "id": 182032186,
-      "name": "*Fire!* Koala Tea Grows: Cadillac Runtz Smalls",
+      "id": 203291728,
+      "name": "Lonely Bones: Brain Stain",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 10,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442338852_caddy.JPG",
-      "image_local": "182032186.jpg",
+      "rating": 5.0,
+      "reviews_count": 5,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439524449_brain_stain.JPG",
+      "image_local": "203291728.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -655,7 +655,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-zoltan-smalls"
+      "slug": "lonely-bones-brain-stain"
     },
     {
       "id": 157893448,
@@ -699,17 +699,17 @@
       "slug": "cannoisseur-dulce-de-fresa-smalls"
     },
     {
-      "id": 203291728,
-      "name": "Lonely Bones: Brain Stain",
+      "id": 210990227,
+      "name": "*Staff Pick!* Blue Dream Smalls",
       "category": "Indica",
-      "edge_category": "Flower",
+      "edge_category": "Smalls",
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 5,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439524449_brain_stain.JPG",
-      "image_local": "203291728.jpg",
+      "reviews_count": 4,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441189307_Garlic_Breath.JPG",
+      "image_local": "210990227.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -737,48 +737,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-brain-stain"
-    },
-    {
-      "id": 197706295,
-      "name": "(1 OZ Left!) Lonely Bones: Purple Churro",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.9,
-      "reviews_count": 14,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438786782_purple_churro.JPG",
-      "image_local": "197706295.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-purple-churro"
+      "slug": "g-r-farms-garlic-breath-smalls"
     },
     {
       "id": 197659878,
@@ -902,47 +861,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "lonely-bones-zwiz"
-    },
-    {
-      "id": 210990227,
-      "name": "*Staff Pick!* Blue Dream Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441189307_Garlic_Breath.JPG",
-      "image_local": "210990227.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "g-r-farms-garlic-breath-smalls"
     },
     {
       "id": 209609986,
@@ -1683,6 +1601,47 @@
       "slug": "brand-new-pink-starburst-smalls"
     },
     {
+      "id": 219577210,
+      "name": "*Top 3* Living Matter: Hawaiian Marker",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775593_hawaiian_marker.JPG",
+      "image_local": "219577210.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matter-hawaiian-marker"
+    },
+    {
       "id": 215568118,
       "name": "Koala Tea Grows: Spritzer smalls",
       "category": "Indica",
@@ -1765,47 +1724,6 @@
       "slug": "lonely-bones-bowser"
     },
     {
-      "id": 211359127,
-      "name": "*NEW!* Apples & Bananas Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441266755_apples_and_bananas_1-6.JPG",
-      "image_local": "211359127.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-apples-bananas-smalls"
-    },
-    {
       "id": 216349011,
       "name": "*Solid!* Garlic Butter Smalls",
       "category": "Indica",
@@ -1845,6 +1763,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "garlic-butter-smalls"
+    },
+    {
+      "id": 211359127,
+      "name": "Apples & Bananas Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441266755_apples_and_bananas_1-6.JPG",
+      "image_local": "211359127.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-apples-bananas-smalls"
     },
     {
       "id": 177985331,
@@ -1955,15 +1914,15 @@
         },
         {
           "label": "1/2 oz",
-          "price": 40.0,
+          "price": 30.0,
           "on_sale": false,
-          "original_price": 40.0
+          "original_price": 30.0
         },
         {
           "label": "1 oz",
-          "price": 80.0,
+          "price": 60.0,
           "on_sale": false,
-          "original_price": 80.0
+          "original_price": 60.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
@@ -2091,47 +2050,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "fire-method-maine-bolo-runtz-smalls"
-    },
-    {
-      "id": 219577210,
-      "name": "*Top 3* Living Matter: Hawaiian Marker",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775593_hawaiian_marker.JPG",
-      "image_local": "219577210.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-hawaiian-marker"
     },
     {
       "id": 176563889,
