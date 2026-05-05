@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 257,
-    "updated_at": "2026-05-03T15:35:05.956Z",
+    "total_menu_items": 256,
+    "updated_at": "2026-05-04T14:05:03.180Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -331,7 +331,7 @@
     },
     {
       "id": 149245506,
-      "name": "Living Matter: Ice Cream Cake",
+      "name": "(1 Ounce Left) Living Matter: Ice Cream Cake",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -1599,47 +1599,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "brand-new-pink-starburst-smalls"
-    },
-    {
-      "id": 219577210,
-      "name": "*Top 3* Living Matter: Hawaiian Marker",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775593_hawaiian_marker.JPG",
-      "image_local": "219577210.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-hawaiian-marker"
     },
     {
       "id": 215568118,
