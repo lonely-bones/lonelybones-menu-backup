@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 256,
-    "updated_at": "2026-05-04T14:05:03.180Z",
+    "total_menu_items": 255,
+    "updated_at": "2026-05-05T17:51:43.452Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -133,7 +133,7 @@
       "genetics": "Hybrid",
       "thc_pct": 28.0,
       "rating": 4.4,
-      "reviews_count": 17,
+      "reviews_count": 18,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/428512056_banana_bread_flower.JPG",
       "image_local": "107381484.jpg",
       "prices": [
@@ -256,7 +256,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.9,
-      "reviews_count": 49,
+      "reviews_count": 50,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438725368_crunch_berries.jpeg",
       "image_local": "180051413.jpeg",
       "prices": [
@@ -328,47 +328,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-grows-liquid-hot-magma-smalls"
-    },
-    {
-      "id": 149245506,
-      "name": "(1 Ounce Left) Living Matter: Ice Cream Cake",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.9,
-      "reviews_count": 23,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775548_ICC.JPG",
-      "image_local": "149245506.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "think-higher-cultiavtion-gucci-linx-smalls"
     },
     {
       "id": 206742151,
@@ -1109,47 +1068,6 @@
       "slug": "pink-ink-smalls"
     },
     {
-      "id": 148861245,
-      "name": "$60/OZ! Franken Cakes Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.9,
-      "reviews_count": 12,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/429881643_franken_cakes_smalls.jpg",
-      "image_local": "148861245.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "franken-cakes-smalls"
-    },
-    {
       "id": 193180677,
       "name": "Lonely Bones: French Toast",
       "category": "Indica",
@@ -1640,47 +1558,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-grows-sprtizer-smalls"
-    },
-    {
-      "id": 212134011,
-      "name": "Lonely Bones: (1/2oz Left) Bowser",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441442787_bowser.JPG",
-      "image_local": "212134011.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-bowser"
     },
     {
       "id": 216349011,
@@ -2413,7 +2290,7 @@
       "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 7,
+      "reviews_count": 6,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442881883_gmonew1g.JPG",
       "image_local": "163167402.jpg",
       "prices": [
@@ -2459,7 +2336,7 @@
       "genetics": null,
       "thc_pct": 0.0,
       "rating": 4.6,
-      "reviews_count": 28,
+      "reviews_count": 27,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/431691458_GMO_1G.jpg",
       "image_local": "157916459.jpg",
       "prices": [
@@ -2759,7 +2636,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.8,
-      "reviews_count": 6,
+      "reviews_count": 5,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
       "image_local": "185641461.jpg",
       "prices": [
@@ -3028,6 +2905,64 @@
       "slug": "lonely-bones-zsunami-1g-cured-resin-pen"
     },
     {
+      "id": 147256040,
+      "name": "Bananaconda Cured Resin 14G Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443163256_B.Conda.JPG",
+      "image_local": "147256040.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "bananaconda-cured-resin-14g-baller-jar"
+    },
+    {
+      "id": 185307582,
+      "name": "Candyland Cured Resin 14G Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443163458_Candyland.JPG",
+      "image_local": "185307582.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "candyland-cured-resin-14g-baller-jar"
+    },
+    {
       "id": 207912577,
       "name": "Cap Junky Cured Resin 14G Baller",
       "category": "Concentrate",
@@ -3157,7 +3092,7 @@
       "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 6,
+      "reviews_count": 5,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
       "image_local": "187051534.jpg",
       "prices": [
@@ -3239,29 +3174,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-grape-pie-lemon-tree-1g-thc-distillate-penjamin"
-    },
-    {
-      "id": 163531403,
-      "name": "Lonely Bones: Guava Pie Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Solvent",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442910150_guavap.JPG",
-      "image_local": "163531403.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-guava-cream-1g"
     },
     {
       "id": 198745731,
@@ -3469,6 +3381,35 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-zkittles-thc-distillate-disposable"
+    },
+    {
+      "id": 179839083,
+      "name": "Pie Eyed Cured Resin 14G Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443163285_pie_eyed.JPG",
+      "image_local": "179839083.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "pie-eyed-cured-resin-14g-baller-jar"
     },
     {
       "id": 209100590,
@@ -4476,29 +4417,6 @@
       "slug": "cap-junky-live-hash-rosin-3-5g-baller"
     },
     {
-      "id": 216728818,
-      "name": "Honey Banana Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442788621_Honey_Banana_rosin_3.5.JPG",
-      "image_local": "216728818.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "sour-jack-live-rosin-3-5g-baller"
-    },
-    {
       "id": 198355156,
       "name": "Lonely Bones: Cherry Pie 1G THC Distillate Penjamin",
       "category": "Concentrate",
@@ -4772,8 +4690,8 @@
       "top_category": "Concentrates",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 4.9,
-      "reviews_count": 7,
+      "rating": 4.8,
+      "reviews_count": 6,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
       "image_local": "185641039.jpg",
       "prices": [
@@ -5024,6 +4942,29 @@
       ],
       "current_deal_title": null,
       "slug": "cap-junky-live-rosin-1g"
+    },
+    {
+      "id": 221613164,
+      "name": "Cookies and Cream 1g Cured Resin",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443163151_cookies_and_cream.JPG",
+      "image_local": "221613164.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cookies-and-cream-1g-cured-resin"
     },
     {
       "id": 220266135,
@@ -6690,7 +6631,7 @@
       "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 2,
+      "reviews_count": 3,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439259446_Royal_Rolls.JPG",
       "image_local": "145987579.jpg",
       "prices": [
