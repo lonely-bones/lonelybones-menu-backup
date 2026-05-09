@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 255,
-    "updated_at": "2026-05-07T15:53:44.088Z",
+    "total_menu_items": 253,
+    "updated_at": "2026-05-08T22:10:24.704Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -781,6 +781,47 @@
       "slug": "method-maine-super-boof-smalls"
     },
     {
+      "id": 209609986,
+      "name": "(1 OZ left!) Koala Tea Grows: Royal Kush Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442595182_royal.JPG",
+      "image_local": "209609986.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-chicken-milk-smalls"
+    },
+    {
       "id": 197351960,
       "name": "*80/OZ!* Lonely Bones: Zwiz",
       "category": "Indica",
@@ -820,47 +861,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "lonely-bones-zwiz"
-    },
-    {
-      "id": 209609986,
-      "name": "Koala Tea Grows: Royal Kush Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442595182_royal.JPG",
-      "image_local": "209609986.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-chicken-milk-smalls"
     },
     {
       "id": 184388988,
@@ -904,47 +904,6 @@
       "slug": "new-koala-tea-grows-d-lish-smalls"
     },
     {
-      "id": 163540330,
-      "name": "*New batch!* Koala Tea Grows: RS-1000 Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 10,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440263904_RS-1000.JPG",
-      "image_local": "163540330.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-rs-1000"
-    },
-    {
       "id": 180051350,
       "name": "Koala Tea Grows: Weighted Blanket Smalls",
       "category": "Indica",
@@ -984,6 +943,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-grows-weighted-blanket-smalls"
+    },
+    {
+      "id": 163540330,
+      "name": "*New batch!* Koala Tea Grows: RS-1000 Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.7,
+      "reviews_count": 11,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440263904_RS-1000.JPG",
+      "image_local": "163540330.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-rs-1000"
     },
     {
       "id": 213139926,
@@ -2283,7 +2283,7 @@
     },
     {
       "id": 163167402,
-      "name": "*Fresh Batch* Tourma Cannabis: GMO Live Rosin 1G",
+      "name": "$30/G Tourma Cannabis: GMO Live Rosin 1G",
       "category": "Concentrate",
       "edge_category": "Rosin",
       "top_category": "Concentrates",
@@ -2296,9 +2296,9 @@
       "prices": [
         {
           "label": "1 g",
-          "price": 35.0,
+          "price": 30.0,
           "on_sale": false,
-          "original_price": 35.0
+          "original_price": 30.0
         }
       ],
       "current_deal_title": null,
@@ -2658,8 +2658,8 @@
       "top_category": "Concentrates",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 5,
+      "rating": 4.7,
+      "reviews_count": 6,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
       "image_local": "185641461.jpg",
       "prices": [
@@ -3007,35 +3007,6 @@
       ],
       "current_deal_title": null,
       "slug": "candyland-cured-resin-14g-baller-jar"
-    },
-    {
-      "id": 207912577,
-      "name": "Cap Junky Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442115207_cjunky.JPG",
-      "image_local": "207912577.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cap-junky-cured-resin-14g-baller"
     },
     {
       "id": 198745313,
@@ -4214,52 +4185,6 @@
       "slug": "blueberry-kush-cured-resin-1g"
     },
     {
-      "id": 212117143,
-      "name": "Cadillac: Live Liquid Diamond Mango Haze X Durban Poison 2G Penjamin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "212117143.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-mango-haze-x-durban-poison-2g-penjamin"
-    },
-    {
-      "id": 212118830,
-      "name": "Cadillac: Live Liquid Diamond Strawberry Milk X Slurty 2G Penjamin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "212118830.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-strawberry-milk-x-slurty-2g-penjamin"
-    },
-    {
       "id": 178393900,
       "name": "Cap Junky Cured Resin 1G",
       "category": "Concentrate",
@@ -4753,8 +4678,8 @@
       "top_category": "Concentrates",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 6,
+      "rating": 4.7,
+      "reviews_count": 7,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
       "image_local": "185641039.jpg",
       "prices": [
@@ -7108,6 +7033,29 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-bulk-5-packs-of-50mg-distillate-assorted-gummies-500mg-per-packs"
+    },
+    {
+      "id": 212118830,
+      "name": "Cadillac LIVE 2g Disposable - Strawberry Milk X Slurty",
+      "category": "Concentrate",
+      "edge_category": "All-in-one",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 4.7,
+      "reviews_count": 7,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
+      "image_local": "212118830.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 45.0,
+          "on_sale": false,
+          "original_price": 45.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cadillac-live-liquid-diamond-strawberry-milk-x-slurty-2g-penjamin"
     }
   ],
   "logo_file": "logo.png"
