@@ -1,7 +1,7 @@
 {
   "meta": {
     "total_menu_items": 253,
-    "updated_at": "2026-05-08T22:10:24.704Z",
+    "updated_at": "2026-05-09T19:58:48.606Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -133,7 +133,7 @@
       "genetics": "Hybrid",
       "thc_pct": 28.0,
       "rating": 4.4,
-      "reviews_count": 18,
+      "reviews_count": 19,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/428512056_banana_bread_flower.JPG",
       "image_local": "107381484.jpg",
       "prices": [
@@ -174,7 +174,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.9,
-      "reviews_count": 24,
+      "reviews_count": 25,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440374727_SEQUOIA_SBERRY_UPDATE.JPG",
       "image_local": "115695691.jpg",
       "prices": [
@@ -535,6 +535,47 @@
       "slug": "lonely-bones-carbon-fiber"
     },
     {
+      "id": 157893266,
+      "name": "Cannaisseur: Double Rainbow Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.9,
+      "reviews_count": 7,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443215260_DR_small_NEW.JPG",
+      "image_local": "157893266.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "cannoisseur-double-rainbow-smalls"
+    },
+    {
       "id": 206480223,
       "name": "*80/OZ!* Lonely Bones: Frosted Flakes",
       "category": "Indica",
@@ -574,47 +615,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "top-shelf-lonely-bones-frosted-flakes"
-    },
-    {
-      "id": 203291728,
-      "name": "(1/2 Ounce Left) Lonely Bones: Brain Stain",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 5,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439524449_brain_stain.JPG",
-      "image_local": "203291728.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-brain-stain"
     },
     {
       "id": 157893448,
@@ -666,7 +666,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 5,
+      "reviews_count": 6,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441189307_Garlic_Breath.JPG",
       "image_local": "210990227.jpg",
       "prices": [
@@ -707,7 +707,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.9,
-      "reviews_count": 15,
+      "reviews_count": 16,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438779027_lazer_wolf.jpg",
       "image_local": "197659878.jpg",
       "prices": [
@@ -741,7 +741,7 @@
     },
     {
       "id": 159392938,
-      "name": "(1 Ounce Left) Koala Tea Grows: Super Boof Smalls",
+      "name": "(1/2 Ounce Left) Koala Tea Grows: Super Boof Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -1109,88 +1109,6 @@
       "slug": "lonely-bones-french-toast"
     },
     {
-      "id": 208662977,
-      "name": "(1 OZ left!) Pure Fire Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440723384_Pure_Fire_Smalls.JPG",
-      "image_local": "208662977.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-pure-fire-smalls"
-    },
-    {
-      "id": 188354874,
-      "name": "(HALF OZ LEFT) MAC Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437738066_mac_smalls.JPG",
-      "image_local": "188354874.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "mac-smalls"
-    },
-    {
       "id": 207771314,
       "name": "*Fresh batch!* Koala Tea Grows : Dosido Smalls",
       "category": "Indica",
@@ -1355,8 +1273,49 @@
       "slug": "blue-zushi-smalls"
     },
     {
+      "id": 165296023,
+      "name": "Cannaisseur: Glitter Bomb Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.4,
+      "reviews_count": 5,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443215205_Glitter_BOMB_new.JPG",
+      "image_local": "165296023.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "glitter-bomb-smalls"
+    },
+    {
       "id": 219449308,
-      "name": "*100/OZ!* Living Matter: Banana Cooler",
+      "name": "(1 Ounce Left) Living Matter: Banana Cooler",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -1561,7 +1520,7 @@
     },
     {
       "id": 216349011,
-      "name": "*Solid!* Garlic Butter Smalls",
+      "name": "(1 Ounce Left) Garlic Butter Smalls",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -1724,6 +1683,47 @@
       "slug": "method-maine-p-funk-smalls"
     },
     {
+      "id": 212290559,
+      "name": "Cannaisseur: Grape Gas Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 4.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441477063_grapegasss.JPG",
+      "image_local": "212290559.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "cannaseur-grape-gas-smalls"
+    },
+    {
       "id": 206806591,
       "name": "Chile Verde Smalls",
       "category": "Indica",
@@ -1763,6 +1763,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "new-widow-makers-smalls"
+    },
+    {
+      "id": 218726995,
+      "name": "(1 Ounce Left) Method Maine: Jelly Pie Smalls (Grape Pie X Stardawg)",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442642558_Jelly_Pie_Smalls.JPG",
+      "image_local": "218726995.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "method-maine-jelly-pie-smalls"
     },
     {
       "id": 210807064,
@@ -1806,6 +1847,47 @@
       "slug": "penzoil-smalls"
     },
     {
+      "id": 219176764,
+      "name": "*$60OZ* Method Maine: Bolo Runtz smalls (Gelato \u00d7 Zkittlez)",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442715499_Bolo_Runtz.JPG",
+      "image_local": "219176764.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "fire-method-maine-bolo-runtz-smalls"
+    },
+    {
       "id": 219449198,
       "name": "*100/OZ!* Living Matter: Scented Marker",
       "category": "Indica",
@@ -1847,8 +1929,8 @@
       "slug": "100-oz-living-matter-scented-marker"
     },
     {
-      "id": 219176764,
-      "name": "*Fire!* Method Maine: Bolo Runtz smalls (Gelato \u00d7 Zkittlez)",
+      "id": 207771422,
+      "name": "*NEW!* Cannaisseur: Lit OG",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -1856,8 +1938,8 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442715499_Bolo_Runtz.JPG",
-      "image_local": "219176764.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443215266_LIT_OG.JPG",
+      "image_local": "207771422.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -1885,7 +1967,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "fire-method-maine-bolo-runtz-smalls"
+      "slug": "new-cannaisseur-sfv-smalls"
     },
     {
       "id": 176563889,
@@ -1927,47 +2009,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "buttermilk-pancakes-smalls"
-    },
-    {
-      "id": 218726995,
-      "name": "Method Maine: Jelly Pie Smalls (Grape Pie X Stardawg)",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442642558_Jelly_Pie_Smalls.JPG",
-      "image_local": "218726995.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "method-maine-jelly-pie-smalls"
     },
     {
       "id": 218729983,
@@ -2139,8 +2180,8 @@
       "top_category": "Concentrates",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 5,
+      "rating": 4.7,
+      "reviews_count": 3,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
       "image_local": "198745874.jpg",
       "prices": [
@@ -3170,29 +3211,6 @@
       "slug": "lonely-bones-grape-pie-lemon-tree-1g-thc-distillate-penjamin"
     },
     {
-      "id": 198745731,
-      "name": "Lonely Bones: Kush Mintz 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198745731.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-kush-mintz-1g-thc-distillate-5-10-thread"
-    },
-    {
       "id": 198357913,
       "name": "Lonely Bones: Lemon Cherry Gelato 1G THC Distillate Penjamin",
       "category": "Concentrate",
@@ -3306,29 +3324,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-rainbow-sundae-1g-cured-resin-pen"
-    },
-    {
-      "id": 198745103,
-      "name": "Lonely Bones: Sundae Driver 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198745103.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-sour-razz-1g-thc-distillate-5-10-thread"
     },
     {
       "id": 198745371,
@@ -4006,6 +4001,29 @@
       "slug": "lonely-bones-strawnana-1g-thc-distillate-5-10-thread"
     },
     {
+      "id": 198745103,
+      "name": "Lonely Bones: Sundae Driver 1G THC Distillate Screw On Thread",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "198745103.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-sour-razz-1g-thc-distillate-5-10-thread"
+    },
+    {
       "id": 199254765,
       "name": "Lonely Bones: Zwiz Cured Resin Penz 1G",
       "category": "Concentrate",
@@ -4275,6 +4293,29 @@
       ],
       "current_deal_title": null,
       "slug": "fifo-miracle-mints-cured-resin-14g-baller"
+    },
+    {
+      "id": 209504885,
+      "name": "Forbidden Fruit Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440906543_bubbakush1g.JPG",
+      "image_local": "209504885.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "bubba-kush-cured-resin-1g"
     },
     {
       "id": 208536890,
@@ -7033,29 +7074,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-bulk-5-packs-of-50mg-distillate-assorted-gummies-500mg-per-packs"
-    },
-    {
-      "id": 212118830,
-      "name": "Cadillac LIVE 2g Disposable - Strawberry Milk X Slurty",
-      "category": "Concentrate",
-      "edge_category": "All-in-one",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 4.7,
-      "reviews_count": 7,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "212118830.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-strawberry-milk-x-slurty-2g-penjamin"
     }
   ],
   "logo_file": "logo.png"
