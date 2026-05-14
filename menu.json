@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 260,
-    "updated_at": "2026-05-13T15:58:31.338Z",
+    "total_menu_items": 255,
+    "updated_at": "2026-05-14T13:24:07.416Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -494,47 +494,6 @@
       "slug": "koala-tea-grows-blue-nerds-smalls"
     },
     {
-      "id": 173746062,
-      "name": "Koala Tea Grows: Liquid Hot Magma Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 20,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436339695_liquid_hot_magma.JPG",
-      "image_local": "173746062.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-liquid-hot-magma-smalls"
-    },
-    {
       "id": 206742151,
       "name": "Fire!! Koala Tea Grows: Obama Runtz",
       "category": "Indica",
@@ -576,6 +535,47 @@
       "slug": "insane-koala-tea-grows-obama-runtz"
     },
     {
+      "id": 173746062,
+      "name": "Koala Tea Grows: Liquid Hot Magma Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 20,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436339695_liquid_hot_magma.JPG",
+      "image_local": "173746062.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-liquid-hot-magma-smalls"
+    },
+    {
       "id": 199924094,
       "name": "*80/OZ* Lonely Bones: Firewater",
       "category": "Indica",
@@ -583,8 +583,8 @@
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 4.2,
-      "reviews_count": 6,
+      "rating": 4.3,
+      "reviews_count": 7,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439082542_fire_water.JPG",
       "image_local": "199924094.jpg",
       "prices": [
@@ -823,7 +823,7 @@
     },
     {
       "id": 209609986,
-      "name": "(1 OZ left!) Koala Tea Grows: Royal Kush Smalls",
+      "name": "(1/2 OZ left!) Koala Tea Grows: Royal Kush Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -1847,47 +1847,6 @@
       "slug": "penzoil-smalls"
     },
     {
-      "id": 219176764,
-      "name": "*$60OZ* Method Maine: Bolo Runtz smalls (Gelato \u00d7 Zkittlez)",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442715499_Bolo_Runtz.JPG",
-      "image_local": "219176764.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "fire-method-maine-bolo-runtz-smalls"
-    },
-    {
       "id": 219449198,
       "name": "*100/OZ!* Living Matter: Scented Marker",
       "category": "Indica",
@@ -2889,6 +2848,29 @@
       "slug": "candyland-cured-resin-14g-baller-jar"
     },
     {
+      "id": 219620292,
+      "name": "FiFo: Miracle Mints Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442785678_Miracle_Mintz.JPG",
+      "image_local": "219620292.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "fifo-miracle-mints-cured-resin-14g-baller"
+    },
+    {
       "id": 207413446,
       "name": "Lonely Bones: Grape Pie Lemon Tree 1G THC Distillate Penjamin",
       "category": "Concentrate",
@@ -3334,29 +3316,6 @@
       "slug": "lonely-bones-mix-and-match-50-1g-thc-distillate-5-10-threaded"
     },
     {
-      "id": 199254804,
-      "name": "Lonely Bones: Oreoz Cured Resin Penz 1g",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "199254804.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-oreoz-cured-resin-pen-1g"
-    },
-    {
       "id": 187051221,
       "name": "Lonely Bones: Poontang Pie 1G Cured Resin Penz",
       "category": "Concentrate",
@@ -3467,47 +3426,6 @@
       "slug": "super-lemon-haze-cured-resin-1g"
     },
     {
-      "id": 216793554,
-      "name": "(1 Left) Peaches & Cream Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442347146_peaches.JPG",
-      "image_local": "216793554.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "peaches-cream-live-hash-rosin-3-5g-baller"
-    },
-    {
       "id": 210227060,
       "name": "Animal Cookies Cured Resin 1G",
       "category": "Concentrate",
@@ -3577,29 +3495,6 @@
       "slug": "blue-gummies-cured-resin-14g-baller-jar"
     },
     {
-      "id": 220254188,
-      "name": "Blueberry Kush Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442879589_blueberry_kush.JPG",
-      "image_local": "220254188.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "blueberry-kush-cured-resin-1g"
-    },
-    {
       "id": 178393900,
       "name": "Cap Junky Cured Resin 1G",
       "category": "Concentrate",
@@ -3667,29 +3562,6 @@
       ],
       "current_deal_title": null,
       "slug": "fifo-gas-mix-cured-resin-14g-baller"
-    },
-    {
-      "id": 219620292,
-      "name": "FiFo: Miracle Mints Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442785678_Miracle_Mintz.JPG",
-      "image_local": "219620292.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "fifo-miracle-mints-cured-resin-14g-baller"
     },
     {
       "id": 209504885,
@@ -5399,7 +5271,7 @@
       "id": 185641461,
       "name": "Banana Bread | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5491,7 +5363,7 @@
       "id": 187051296,
       "name": "pink ink | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5537,7 +5409,7 @@
       "id": 198754080,
       "name": "Zsunami | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5629,7 +5501,7 @@
       "id": 199254780,
       "name": "bowser | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5721,7 +5593,7 @@
       "id": 187051534,
       "name": "Crunch Berries | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5767,7 +5639,7 @@
       "id": 208617574,
       "name": "Green Crack | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5810,33 +5682,10 @@
       "slug": "lonely-bones-lemon-slushie-1g-thc-distillate-5-10-thread"
     },
     {
-      "id": 187051243,
-      "name": "liquid hot magma | Disposable | 1g",
-      "category": "Concentrate",
-      "edge_category": "All-in-one",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "187051243.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-rs-11-1g-cured-resin-pen"
-    },
-    {
       "id": 187038418,
       "name": "Mac 1 | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5879,10 +5728,33 @@
       "slug": "lonely-bones-fruit-punch-1g-thc-distillate-5-10-thread"
     },
     {
+      "id": 199254804,
+      "name": "Oreoz | Disposable | 1g",
+      "category": "Concentrate",
+      "edge_category": "Disposable",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
+      "image_local": "199254804.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-oreoz-cured-resin-pen-1g"
+    },
+    {
       "id": 187005574,
       "name": "Pink Starburst | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5900,29 +5772,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-white-runtz-1g-cured-resin-pen"
-    },
-    {
-      "id": 187051292,
-      "name": "Rainbow Sherb | Disposable | 1g",
-      "category": "Concentrate",
-      "edge_category": "All-in-one",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "187051292.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-rainbow-sundae-1g-cured-resin-pen"
     },
     {
       "id": 198745103,
@@ -5951,7 +5800,7 @@
       "id": 187051467,
       "name": "Trop Cookies | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5997,7 +5846,7 @@
       "id": 199254765,
       "name": "zwiz | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6020,7 +5869,7 @@
       "id": 212117413,
       "name": "Cadillac LIVE 2g Disposable - Blue Zushi x Pineapple Fizz",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6043,7 +5892,7 @@
       "id": 212117514,
       "name": "Cadillac LIVE 2g Disposable - Glitter Bomb x Red Congolese",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6066,7 +5915,7 @@
       "id": 212119054,
       "name": "Cadillac LIVE 2g Disposable - Guava Daquiri X Unicorn Cake",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6089,7 +5938,7 @@
       "id": 212117889,
       "name": "Cadillac LIVE 2g Disposable - Larry Breath X Crunch Berries",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6112,7 +5961,7 @@
       "id": 212118779,
       "name": "Cadillac LIVE 2g Disposable - Pink Acai X White Gushers",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6135,7 +5984,7 @@
       "id": 212118830,
       "name": "Cadillac LIVE 2g Disposable - Strawberry Milk X Slurty",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6158,7 +6007,7 @@
       "id": 212117143,
       "name": "Cadillac LIVE 2g Disposable - Mango Haze X Durban Poison",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": "Sativa",
       "thc_pct": 0.0,
@@ -6181,7 +6030,7 @@
       "id": 212118034,
       "name": "Cadillac LIVE 2g Disposable - Papaya Pie X Blueberry Gelato",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": "Indica",
       "thc_pct": 0.0,
@@ -6204,7 +6053,7 @@
       "id": 212118552,
       "name": "Cadillac LIVE 2g Disposable - Super Boof X Grape Sorbet",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6227,7 +6076,7 @@
       "id": 208617899,
       "name": "blueberry gelato | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6250,7 +6099,7 @@
       "id": 208618141,
       "name": "Cookies & Cream | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6273,7 +6122,7 @@
       "id": 198360637,
       "name": "Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6296,7 +6145,7 @@
       "id": 208617478,
       "name": "Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6319,7 +6168,7 @@
       "id": 187051439,
       "name": "garlic icing | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6342,7 +6191,7 @@
       "id": 185641039,
       "name": "GMO | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6434,7 +6283,7 @@
       "id": 185640884,
       "name": "Sour Apple | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6457,7 +6306,7 @@
       "id": 208617750,
       "name": "Sour Lemon | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6920,6 +6769,52 @@
       "slug": "royal-rush-runtz-wedding-1g-pre-roll"
     },
     {
+      "id": 185241360,
+      "name": "Lonely Bones: 10MG Hash Rosin (Full Spectrum) Assorted Gummies 100MG Per pa",
+      "category": "Edible",
+      "edge_category": "Gummies",
+      "top_category": "Edibles",
+      "genetics": null,
+      "thc_pct": 10.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922609_10mh_hash_edib.jpg",
+      "image_local": "185241360.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-10mg-hash-rosin-assorted-gummies-100mg-per-pack"
+    },
+    {
+      "id": 185242731,
+      "name": "Lonely Bones: (BULK) 20 Packs of 10MG Hash Rosin Assorted Gummies 100MG Per",
+      "category": "Edible",
+      "edge_category": "Gummies",
+      "top_category": "Edibles",
+      "genetics": null,
+      "thc_pct": 10.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922609_10mh_hash_edib.jpg",
+      "image_local": "185242731.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 140.0,
+          "on_sale": false,
+          "original_price": 140.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-bulk-20-packs-of-10mg-hash-rosin-assorted-gummies-100mg-per-packs"
+    },
+    {
       "id": 185241558,
       "name": "Lonely Bones: 50MG Distillate Assorted Gummies 500MG Per pack | Gummies | 1",
       "category": "Edible",
@@ -7104,6 +6999,29 @@
       "slug": "lonely-bones-bulk-5-packs-of-50mg-distillate-assorted-gummies-500mg-per-packs"
     },
     {
+      "id": 185245820,
+      "name": "Lonely Bones: (BULK) 5 Packs of 50MG Hash Rosin (Full Spectrum) Assorted Gu",
+      "category": "Edible",
+      "edge_category": "Gummies",
+      "top_category": "Edibles",
+      "genetics": null,
+      "thc_pct": 50.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922597_50mghashrosinedibles.jpg",
+      "image_local": "185245820.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 150.0,
+          "on_sale": false,
+          "original_price": 150.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-bulk-5-packs-of-50mg-hash-rosin-assorted-gummies-500mg-per-packs"
+    },
+    {
       "id": 165531062,
       "name": "Pinetree Sweets: 1200 MG Gummies",
       "category": "Edible",
@@ -7127,52 +7045,6 @@
       "slug": "pinetree-sweets-1200-mg-gummies"
     },
     {
-      "id": 185241360,
-      "name": "Lonely Bones: 10MG Hash Rosin (Full Spectrum) Assorted Gummies 100MG Per pack",
-      "category": "Edible",
-      "edge_category": "Edibles",
-      "top_category": "Edibles",
-      "genetics": "Hybrid",
-      "thc_pct": 10.0,
-      "rating": 4.8,
-      "reviews_count": 5,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922609_10mh_hash_edib.jpg",
-      "image_local": "185241360.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-10mg-hash-rosin-assorted-gummies-100mg-per-pack"
-    },
-    {
-      "id": 185242731,
-      "name": "Lonely Bones: (BULK) 20 Packs of 10MG Hash Rosin Assorted Gummies 100MG Per packs",
-      "category": "Edible",
-      "edge_category": "Edibles",
-      "top_category": "Edibles",
-      "genetics": "Hybrid",
-      "thc_pct": 10.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922609_10mh_hash_edib.jpg",
-      "image_local": "185242731.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 140.0,
-          "on_sale": false,
-          "original_price": 140.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-bulk-20-packs-of-10mg-hash-rosin-assorted-gummies-100mg-per-packs"
-    },
-    {
       "id": 185241029,
       "name": "Lonely Bones: 10MG Distillate Assorted Gummies 100MG Per pack",
       "category": "Edible",
@@ -7194,29 +7066,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-10mg-assorted-gummies-100mg-per-pack"
-    },
-    {
-      "id": 185245820,
-      "name": "Lonely Bones: (BULK) 5 Packs of 50MG Hash Rosin (Full Spectrum) Assorted Gummies 500MG Per packs",
-      "category": "Edible",
-      "edge_category": "Edibles",
-      "top_category": "Edibles",
-      "genetics": "Hybrid",
-      "thc_pct": 50.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922597_50mghashrosinedibles.jpg",
-      "image_local": "185245820.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 150.0,
-          "on_sale": false,
-          "original_price": 150.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-bulk-5-packs-of-50mg-hash-rosin-assorted-gummies-500mg-per-packs"
     }
   ],
   "logo_file": "logo.png"
