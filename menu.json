@@ -1,7 +1,7 @@
 {
   "meta": {
     "total_menu_items": 255,
-    "updated_at": "2026-05-14T13:24:07.416Z",
+    "updated_at": "2026-05-14T18:09:34.999Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -9,17 +9,17 @@
   },
   "products": [
     {
-      "id": 215156156,
-      "name": "*Top 3* Living Matter: Pruno Smalls",
+      "id": 148064719,
+      "name": "*Top 3* Super Lemon Haze Smalls",
       "category": "Indica",
-      "edge_category": "Smalls",
+      "edge_category": "Flower",
       "top_category": "Flower",
-      "genetics": "Hybrid",
+      "genetics": null,
       "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442037763_Pruno.JPG",
-      "image_local": "215156156.jpg",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/429771565_super_lemon_haze_smalls.jpg",
+      "image_local": "148064719.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -47,7 +47,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-pruno-smalls"
+      "slug": "super-lemon-haze-smalls"
     },
     {
       "id": 220446102,
@@ -132,8 +132,8 @@
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 28.0,
-      "rating": 4.4,
-      "reviews_count": 19,
+      "rating": 4.5,
+      "reviews_count": 20,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/428512056_banana_bread_flower.JPG",
       "image_local": "107381484.jpg",
       "prices": [
@@ -666,7 +666,7 @@
       "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 4.6,
-      "reviews_count": 14,
+      "reviews_count": 15,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440198026_fflakes.JPG",
       "image_local": "206480223.jpg",
       "prices": [
@@ -1394,6 +1394,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "icy-mac-smalls"
+    },
+    {
+      "id": 215156156,
+      "name": "(1oz Left) Living Matter: Pruno Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442037763_Pruno.JPG",
+      "image_local": "215156156.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matter-pruno-smalls"
     },
     {
       "id": 219577210,
@@ -4776,29 +4817,6 @@
       "slug": "lonely-bones-tropicana-cookies-1g-thc-distillate-penjamin"
     },
     {
-      "id": 191093585,
-      "name": "Mango Haze Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442910166_mangoh.JPG",
-      "image_local": "191093585.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "mango-haze-14g-cured-resin-baller-jar"
-    },
-    {
       "id": 220450964,
       "name": "Miracle Mints Live Hash Rosin 3.5G Baller",
       "category": "Concentrate",
@@ -5197,6 +5215,35 @@
       ],
       "current_deal_title": null,
       "slug": "white-runtz-cured-resin-1g-baller-jar"
+    },
+    {
+      "id": 193050080,
+      "name": "Lonely Bones: Ready to Roll",
+      "category": "Indica",
+      "edge_category": "Ground",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 75,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
+      "image_local": "193050080.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "lonely-bones-ready-to-roll"
     },
     {
       "id": 198745874,
@@ -6324,35 +6371,6 @@
       ],
       "current_deal_title": null,
       "slug": "sour-lemon-1g-thc-distillate-penjamin"
-    },
-    {
-      "id": 193050080,
-      "name": "Lonely Bones: Ready to Roll",
-      "category": "Indica",
-      "edge_category": "Ground",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 75,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
-      "image_local": "193050080.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-ready-to-roll"
     },
     {
       "id": 208660214,
