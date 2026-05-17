@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 249,
-    "updated_at": "2026-05-15T19:59:09.949Z",
+    "total_menu_items": 248,
+    "updated_at": "2026-05-16T22:23:52.034Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -255,8 +255,8 @@
       "top_category": "Flower",
       "genetics": null,
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
+      "rating": 5.0,
+      "reviews_count": 1,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439127140_Candy_Rain_new.jpg",
       "image_local": "193180391.jpg",
       "prices": [
@@ -543,7 +543,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 20,
+      "reviews_count": 21,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436339695_liquid_hot_magma.JPG",
       "image_local": "173746062.jpg",
       "prices": [
@@ -782,7 +782,7 @@
     },
     {
       "id": 210990227,
-      "name": "*1 OZ Left* Blue Dream Smalls",
+      "name": "*1/2 OZ Left* Blue Dream Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -864,7 +864,7 @@
     },
     {
       "id": 184388988,
-      "name": "Koala Tea Grows: D-Lish Smalls",
+      "name": "(Half Ounce Left) Koala Tea Grows: D-Lish Smalls",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -902,6 +902,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "new-koala-tea-grows-d-lish-smalls"
+    },
+    {
+      "id": 163540330,
+      "name": "*New batch!* Koala Tea Grows: RS-1000 Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 12,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440263904_RS-1000.JPG",
+      "image_local": "163540330.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-rs-1000"
     },
     {
       "id": 180051350,
@@ -943,47 +984,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-grows-weighted-blanket-smalls"
-    },
-    {
-      "id": 163540330,
-      "name": "*New batch!* Koala Tea Grows: RS-1000 Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.7,
-      "reviews_count": 11,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440263904_RS-1000.JPG",
-      "image_local": "163540330.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-rs-1000"
     },
     {
       "id": 207771314,
@@ -1232,47 +1232,6 @@
       "slug": "glitter-bomb-smalls"
     },
     {
-      "id": 219449308,
-      "name": "(1 Ounce Left) Living Matter: Banana Cooler",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442758567_Banana_Cooler_LM.JPG",
-      "image_local": "219449308.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "100-oz-living-matter-banana-cooler"
-    },
-    {
       "id": 165467146,
       "name": "*Fresh Batch!* Kush Mints Smalls",
       "category": "Indica",
@@ -1355,6 +1314,47 @@
       "slug": "living-matter-pruno-smalls"
     },
     {
+      "id": 215568118,
+      "name": "(1 Ounce Left) Koala Tea Grows: Spritzer Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442115195_spritzer_ray.JPG",
+      "image_local": "215568118.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-sprtizer-smalls"
+    },
+    {
       "id": 219577210,
       "name": "*Top 3* Living Matter: Hawaiian Marker",
       "category": "Indica",
@@ -1394,47 +1394,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "living-matter-hawaiian-marker"
-    },
-    {
-      "id": 215568118,
-      "name": "Koala Tea Grows: Spritzer smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442115195_spritzer_ray.JPG",
-      "image_local": "215568118.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-sprtizer-smalls"
     },
     {
       "id": 216349011,
@@ -2621,29 +2580,6 @@
       "slug": "lonely-bones-banana-bread-1g-cured-resin-pen-882a2ebb-8668-4673-81ed-8ea21dcfdbe1"
     },
     {
-      "id": 213496174,
-      "name": "Blueberry Gelato Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715942_Cereal_Milk.JPG",
-      "image_local": "213496174.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cereal-milk-cured-resin-1g"
-    },
-    {
       "id": 198745717,
       "name": "Lonely Bones: Blueberry Punch 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -2896,6 +2832,52 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-zsunami-1g-cured-resin-pen"
+    },
+    {
+      "id": 212117889,
+      "name": "Cadillac: Live Liquid Diamond Larry Breath X Crunch Berries 2G Penjamin",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
+      "image_local": "212117889.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 45.0,
+          "on_sale": false,
+          "original_price": 45.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cadillac-live-liquid-diamond-larry-breath-x-crunch-berries-2g-penjamin"
+    },
+    {
+      "id": 212117143,
+      "name": "Cadillac: Live Liquid Diamond Mango Haze X Durban Poison 2G Penjamin",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
+      "image_local": "212117143.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 45.0,
+          "on_sale": false,
+          "original_price": 45.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cadillac-live-liquid-diamond-mango-haze-x-durban-poison-2g-penjamin"
     },
     {
       "id": 185307582,
@@ -3942,17 +3924,17 @@
       "slug": "sherbanger-live-hash-rosin-3-5g-baller"
     },
     {
-      "id": 220254209,
-      "name": "Super Lemon Haze Cured Resin 1G",
+      "id": 211713034,
+      "name": "Tropicana Cookies Cured Resin 1G",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
-      "genetics": "Hybrid",
+      "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442879592_super_lemon_haze.JPG",
-      "image_local": "220254209.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441336906_sherbdawg.JPG",
+      "image_local": "211713034.jpg",
       "prices": [
         {
           "label": "1 g",
@@ -3962,7 +3944,7 @@
         }
       ],
       "current_deal_title": null,
-      "slug": "super-lemon-haze-cured-resin-1g"
+      "slug": "sherbdawg-cured-resin-1g"
     },
     {
       "id": 210227060,
@@ -4032,52 +4014,6 @@
       ],
       "current_deal_title": null,
       "slug": "blue-gummies-cured-resin-14g-baller-jar"
-    },
-    {
-      "id": 212117889,
-      "name": "Cadillac: Live Liquid Diamond Larry Breath X Crunch Berries 2G Penjamin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "212117889.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-larry-breath-x-crunch-berries-2g-penjamin"
-    },
-    {
-      "id": 212117143,
-      "name": "Cadillac: Live Liquid Diamond Mango Haze X Durban Poison 2G Penjamin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "212117143.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-mango-haze-x-durban-poison-2g-penjamin"
     },
     {
       "id": 212118830,
@@ -4617,6 +4553,52 @@
       "slug": "lonely-bones-girl-scout-cookie-1g-thc-distillate-disposable"
     },
     {
+      "id": 211334278,
+      "name": "(1 Left) Honey Banana Live Rosin 1G",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441260229_honey_bana.JPG",
+      "image_local": "211334278.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 35.0,
+          "on_sale": false,
+          "original_price": 35.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "honey-banana-live-rosin-1g"
+    },
+    {
+      "id": 213385998,
+      "name": "Bananan Cooler Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441697079_gelato_33.JPG",
+      "image_local": "213385998.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "gelato-33-cured-resin-1g"
+    },
+    {
       "id": 220446652,
       "name": "Black Maple Live Hash Rosin 3.5G Baller",
       "category": "Concentrate",
@@ -4865,6 +4847,29 @@
       "slug": "cream-caramel-14g-cured-resin-baller-jar"
     },
     {
+      "id": 222437550,
+      "name": "Grape Ape Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443288682_grape_ape.JPG",
+      "image_local": "222437550.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "grape-ape-cured-resin-1g"
+    },
+    {
       "id": 215584146,
       "name": "Grape Zkittles Live Rosin 3.5G",
       "category": "Concentrate",
@@ -4927,29 +4932,6 @@
       ],
       "current_deal_title": null,
       "slug": "guava-tangie-live-rosin-1g"
-    },
-    {
-      "id": 211334278,
-      "name": "Honey Banana Live Rosin 1G",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441260229_honey_bana.JPG",
-      "image_local": "211334278.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 35.0,
-          "on_sale": false,
-          "original_price": 35.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "honey-banana-live-rosin-1g"
     },
     {
       "id": 220309893,
@@ -6220,29 +6202,6 @@
       ],
       "current_deal_title": null,
       "slug": "royal-rush-snake-eyes-1g-pre-roll"
-    },
-    {
-      "id": 208660174,
-      "name": "Royal Rush Pre-Roll 1g - Diesel (S)",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439259446_Royal_Rolls.JPG",
-      "image_local": "208660174.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "royal-rush-diesel-1g-pre-roll"
     },
     {
       "id": 208660256,
