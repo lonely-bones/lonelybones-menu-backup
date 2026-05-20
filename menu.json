@@ -1,7 +1,7 @@
 {
   "meta": {
     "total_menu_items": 237,
-    "updated_at": "2026-05-19T13:29:24.134Z",
+    "updated_at": "2026-05-20T14:32:38.553Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -12,9 +12,9 @@
       "id": 165296023,
       "name": "*Top 3* Cannaisseur: Glitter Bomb Smalls",
       "category": "Indica",
-      "edge_category": "Flower",
+      "edge_category": "Smalls",
       "top_category": "Flower",
-      "genetics": "Hybrid",
+      "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 4.4,
       "reviews_count": 5,
@@ -246,47 +246,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "lonely-bones-now-n-later"
-    },
-    {
-      "id": 193180391,
-      "name": "Candy Rain | Big Buds | 3.5g",
-      "category": "Indica",
-      "edge_category": "Big Buds",
-      "top_category": "Flower",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439127140_Candy_Rain_new.jpg",
-      "image_local": "193180391.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "candy-rain"
     },
     {
       "id": 203122181,
@@ -863,6 +822,47 @@
       "slug": "koala-tea-grows-weighted-blanket-smalls"
     },
     {
+      "id": 219576394,
+      "name": "(1 OZ left!) Living Matter: Rainbow Sherbert-11 (Pink Guava x Sunset Sherbert)",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775472_RS11.JPG",
+      "image_local": "219576394.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matter-rs-11"
+    },
+    {
       "id": 207771314,
       "name": "*Fresh batch!* Koala Tea Grows : Dosido Smalls",
       "category": "Indica",
@@ -902,47 +902,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "new-cannaisseur-grape-gas"
-    },
-    {
-      "id": 219576394,
-      "name": "*Top 3* Living Matter: Rainbow Sherbert-11 (Pink Guava x Sunset Sherbert)",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775472_RS11.JPG",
-      "image_local": "219576394.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-rs-11"
     },
     {
       "id": 189830051,
@@ -1109,6 +1068,47 @@
       "slug": "icy-mac-smalls"
     },
     {
+      "id": 213494899,
+      "name": "Cadillac Runtz Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715734_Barry_Bonds.JPG",
+      "image_local": "213494899.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "cannaisseur-berry-bonds-smalls"
+    },
+    {
       "id": 168998124,
       "name": "Cap Junky Smalls",
       "category": "Indica",
@@ -1189,6 +1189,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "living-matter-hawaiian-marker"
+    },
+    {
+      "id": 213494566,
+      "name": "Ice Cream Cake Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715660_The_Doctor.JPG",
+      "image_local": "213494566.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "cannaisseur-the-doctor-smalls"
     },
     {
       "id": 207771422,
@@ -1478,6 +1519,47 @@
       "slug": "method-maine-jelly-pie-smalls"
     },
     {
+      "id": 219449198,
+      "name": "(1 OZ left!) Living Matter: Scented Marker",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442758546_Scented_Marker_LM.JPG",
+      "image_local": "219449198.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "100-oz-living-matter-scented-marker"
+    },
+    {
       "id": 210807064,
       "name": "(1 OZ left!) Penzoil Smalls",
       "category": "Indica",
@@ -1517,47 +1599,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "penzoil-smalls"
-    },
-    {
-      "id": 219449198,
-      "name": "*100/OZ!* Living Matter: Scented Marker",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442758546_Scented_Marker_LM.JPG",
-      "image_local": "219449198.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "100-oz-living-matter-scented-marker"
     },
     {
       "id": 176563889,
@@ -1959,6 +2000,47 @@
       "slug": "lonely-bones-5-mix-and-match-thc-distillate-1g-disposables-75"
     },
     {
+      "id": 199216855,
+      "name": "*New Batch* Lonely Bones: GMO Live Hash Rosin 3.5 Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 4.6,
+      "reviews_count": 9,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442882504_gmo3.5.JPG",
+      "image_local": "199216855.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 160.0,
+          "on_sale": false,
+          "original_price": 160.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 300.0,
+          "on_sale": false,
+          "original_price": 300.0
+        },
+        {
+          "label": "1 oz",
+          "price": 600.0,
+          "on_sale": false,
+          "original_price": 600.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-gmo-live-hash-rosin-3-5-baller"
+    },
+    {
       "id": 157916459,
       "name": "Tourma Cannabis: GMO Cured Resin 1G Jar",
       "category": "Concentrate",
@@ -2009,47 +2091,6 @@
       ],
       "current_deal_title": null,
       "slug": "franken-cakes-cured-resin-14g-baller"
-    },
-    {
-      "id": 199216855,
-      "name": "*New Batch* Lonely Bones: GMO Live Hash Rosin 3.5 Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 4.6,
-      "reviews_count": 9,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442882504_gmo3.5.JPG",
-      "image_local": "199216855.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 160.0,
-          "on_sale": false,
-          "original_price": 160.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 300.0,
-          "on_sale": false,
-          "original_price": 300.0
-        },
-        {
-          "label": "1 oz",
-          "price": 600.0,
-          "on_sale": false,
-          "original_price": 600.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-gmo-live-hash-rosin-3-5-baller"
     },
     {
       "id": 198360177,
@@ -2387,8 +2428,8 @@
       "top_category": "Concentrates",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 4.3,
-      "reviews_count": 3,
+      "rating": 4.5,
+      "reviews_count": 4,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
       "image_local": "198744959.jpg",
       "prices": [
@@ -6399,29 +6440,6 @@
       ],
       "current_deal_title": null,
       "slug": "leaf-labs-5-pack-mix-and-match-for-25"
-    },
-    {
-      "id": 145987579,
-      "name": "Royal Rush: Honey Cake 1g Pre-Roll",
-      "category": "Preroll",
-      "edge_category": "Pre-rolls",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439259446_Royal_Rolls.JPG",
-      "image_local": "145987579.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "kool-whip-1g-pre-roll"
     },
     {
       "id": 220348251,
