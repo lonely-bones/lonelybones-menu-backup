@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 237,
-    "updated_at": "2026-05-20T14:32:38.553Z",
+    "total_menu_items": 234,
+    "updated_at": "2026-05-21T14:51:52.290Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -173,8 +173,8 @@
       "top_category": "Flower",
       "genetics": null,
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
+      "rating": 5.0,
+      "reviews_count": 1,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440374727_SEQUOIA_SBERRY_UPDATE.JPG",
       "image_local": "115695691.jpg",
       "prices": [
@@ -823,7 +823,7 @@
     },
     {
       "id": 219576394,
-      "name": "(1 OZ left!) Living Matter: Rainbow Sherbert-11 (Pink Guava x Sunset Sherbert)",
+      "name": "(1/2 OZ left!) Living Matter: Rainbow Sherbert-11 (Pink Guava x Sunset Sherbert)",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -904,6 +904,47 @@
       "slug": "new-cannaisseur-grape-gas"
     },
     {
+      "id": 216198954,
+      "name": "*Staff Pick!* Koala Tea Grows: Neon Drip Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442234498_IMG_0681.JPG",
+      "image_local": "216198954.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-neon-drip-smalls"
+    },
+    {
       "id": 189830051,
       "name": "Lonely Bones: Pink Ink (Permanent Marker x Spritzer)",
       "category": "Indica",
@@ -945,17 +986,17 @@
       "slug": "pink-ink-smalls"
     },
     {
-      "id": 216198954,
-      "name": "*Staff Pick!* Koala Tea Grows: Neon Drip Smalls",
+      "id": 165467146,
+      "name": "*Fresh Batch!* Kush Mints Smalls",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442234498_IMG_0681.JPG",
-      "image_local": "216198954.jpg",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/433501115_Icy_Mac.jpg",
+      "image_local": "165467146.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -983,7 +1024,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-neon-drip-smalls"
+      "slug": "icy-mac-smalls"
     },
     {
       "id": 176564247,
@@ -1027,8 +1068,8 @@
       "slug": "blue-zushi-smalls"
     },
     {
-      "id": 165467146,
-      "name": "*Fresh Batch!* Kush Mints Smalls",
+      "id": 219577210,
+      "name": "*Top 3* Living Matter: Hawaiian Marker",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -1036,8 +1077,8 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/433501115_Icy_Mac.jpg",
-      "image_local": "165467146.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775593_hawaiian_marker.JPG",
+      "image_local": "219577210.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -1065,7 +1106,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "icy-mac-smalls"
+      "slug": "living-matter-hawaiian-marker"
     },
     {
       "id": 213494899,
@@ -1129,9 +1170,9 @@
         },
         {
           "label": "1/4 oz",
-          "price": 15.0,
+          "price": 20.0,
           "on_sale": false,
-          "original_price": 15.0
+          "original_price": 20.0
         },
         {
           "label": "1/2 oz",
@@ -1148,47 +1189,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "enzy-farms-platinum-kush"
-    },
-    {
-      "id": 219577210,
-      "name": "*Top 3* Living Matter: Hawaiian Marker",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775593_hawaiian_marker.JPG",
-      "image_local": "219577210.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-hawaiian-marker"
     },
     {
       "id": 213494566,
@@ -1476,47 +1476,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "cannaseur-grape-gas-smalls"
-    },
-    {
-      "id": 218726995,
-      "name": "(1 Ounce Left) Method Maine: Jelly Pie Smalls (Grape Pie X Stardawg)",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442642558_Jelly_Pie_Smalls.JPG",
-      "image_local": "218726995.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "method-maine-jelly-pie-smalls"
     },
     {
       "id": 219449198,
@@ -6304,29 +6263,6 @@
       "slug": "royal-rush-sour-cherry-1g-pre-roll"
     },
     {
-      "id": 208660018,
-      "name": "Royal Rush Pre-Roll 1g - Sticky Rice (H)",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439259446_Royal_Rolls.JPG",
-      "image_local": "208660018.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "royal-rush-sticky-rice-1g-pre-roll"
-    },
-    {
       "id": 215865425,
       "name": "dirty taxi | Joints | 1g",
       "category": "Preroll",
@@ -6348,29 +6284,6 @@
       ],
       "current_deal_title": null,
       "slug": "leaf-labs-jedi-breath-1g-pre-roll-8c5b5e7c-76ab-444e-b1b9-5fab9843901e"
-    },
-    {
-      "id": 202048510,
-      "name": "garlic grove | Joints | 1g",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": null,
-      "thc_pct": 21.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439360826_leaf_labs_pre_roll.JPG",
-      "image_local": "202048510.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "leaf-labs-citral-glue-1g-pre-roll"
     },
     {
       "id": 145987368,
