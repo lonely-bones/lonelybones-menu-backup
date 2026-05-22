@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 234,
-    "updated_at": "2026-05-21T14:51:52.290Z",
+    "total_menu_items": 233,
+    "updated_at": "2026-05-22T15:27:11.163Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -133,7 +133,7 @@
       "genetics": "Hybrid",
       "thc_pct": 28.0,
       "rating": 4.5,
-      "reviews_count": 21,
+      "reviews_count": 22,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/428512056_banana_bread_flower.JPG",
       "image_local": "107381484.jpg",
       "prices": [
@@ -214,8 +214,8 @@
       "top_category": "Flower",
       "genetics": null,
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
+      "rating": 5.0,
+      "reviews_count": 1,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/432243473_now_n_later.jpg",
       "image_local": "159696494.jpg",
       "prices": [
@@ -296,8 +296,8 @@
       "top_category": "Flower",
       "genetics": null,
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
+      "rating": 5.0,
+      "reviews_count": 1,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442419755_French_toast.JPG",
       "image_local": "193180677.jpg",
       "prices": [
@@ -543,7 +543,7 @@
       "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 4.6,
-      "reviews_count": 16,
+      "reviews_count": 17,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440198026_fflakes.JPG",
       "image_local": "206480223.jpg",
       "prices": [
@@ -584,7 +584,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.9,
-      "reviews_count": 16,
+      "reviews_count": 17,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438779027_lazer_wolf.jpg",
       "image_local": "197659878.jpg",
       "prices": [
@@ -666,7 +666,7 @@
       "genetics": null,
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 5,
+      "reviews_count": 6,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438739930_ZWIZ.JPG",
       "image_local": "197351960.jpg",
       "prices": [
@@ -822,47 +822,6 @@
       "slug": "koala-tea-grows-weighted-blanket-smalls"
     },
     {
-      "id": 219576394,
-      "name": "(1/2 OZ left!) Living Matter: Rainbow Sherbert-11 (Pink Guava x Sunset Sherbert)",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775472_RS11.JPG",
-      "image_local": "219576394.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-rs-11"
-    },
-    {
       "id": 207771314,
       "name": "*Fresh batch!* Koala Tea Grows : Dosido Smalls",
       "category": "Indica",
@@ -953,7 +912,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 8,
+      "reviews_count": 9,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440374999_Pink_Ink.JPG",
       "image_local": "189830051.jpg",
       "prices": [
@@ -1068,47 +1027,6 @@
       "slug": "blue-zushi-smalls"
     },
     {
-      "id": 219577210,
-      "name": "*Top 3* Living Matter: Hawaiian Marker",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775593_hawaiian_marker.JPG",
-      "image_local": "219577210.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-hawaiian-marker"
-    },
-    {
       "id": 213494899,
       "name": "Cadillac Runtz Smalls",
       "category": "Indica",
@@ -1150,6 +1068,47 @@
       "slug": "cannaisseur-berry-bonds-smalls"
     },
     {
+      "id": 219577210,
+      "name": "(1/2 OZ left!) Living Matter: Hawaiian Marker",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775593_hawaiian_marker.JPG",
+      "image_local": "219577210.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matter-hawaiian-marker"
+    },
+    {
       "id": 168998124,
       "name": "Cap Junky Smalls",
       "category": "Indica",
@@ -1158,7 +1117,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 2,
+      "reviews_count": 3,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/435820310_platinum_kush.JPG",
       "image_local": "168998124.jpg",
       "prices": [
@@ -1232,6 +1191,47 @@
       "slug": "cannaisseur-the-doctor-smalls"
     },
     {
+      "id": 211359127,
+      "name": "(1/2 Ounce Left) Apples & Bananas Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441266755_apples_and_bananas_1-6.JPG",
+      "image_local": "211359127.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-apples-bananas-smalls"
+    },
+    {
       "id": 207771422,
       "name": "*NEW!* Cannaisseur: Lit OG",
       "category": "Indica",
@@ -1271,47 +1271,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "new-cannaisseur-sfv-smalls"
-    },
-    {
-      "id": 211359127,
-      "name": "Apples & Bananas Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441266755_apples_and_bananas_1-6.JPG",
-      "image_local": "211359127.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-apples-bananas-smalls"
     },
     {
       "id": 177985331,
@@ -2023,35 +1982,6 @@
       "slug": "tourma-cannabis-gmo-cured-resin-1g-jar"
     },
     {
-      "id": 199211914,
-      "name": "(1 Left) Animal Face Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442624649_animal_face.JPG",
-      "image_local": "199211914.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "franken-cakes-cured-resin-14g-baller"
-    },
-    {
       "id": 198360177,
       "name": "Lonely Bones: Ice Cream Cake 1g THC Distillate Penjamin",
       "category": "Concentrate",
@@ -2311,6 +2241,29 @@
       "slug": "lonely-bones-sunset-sherb-1g-cured-resin-pen"
     },
     {
+      "id": 198745092,
+      "name": "Lonely Bones: Strawberry Cheesecake 1G THC Distillate Screw On Thread",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "198745092.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-strawberry-cheesecake-1g-thc-distillate-5-10-thread"
+    },
+    {
       "id": 198745586,
       "name": "Lonely Bones: Tangie 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -2401,6 +2354,29 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-banana-smoothie-1g-thc-distillate-5-10-thread"
+    },
+    {
+      "id": 213496174,
+      "name": "Sour D Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.5,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715942_Cereal_Milk.JPG",
+      "image_local": "213496174.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cereal-milk-cured-resin-1g"
     },
     {
       "id": 213005816,
@@ -2536,29 +2512,6 @@
       "slug": "lonely-bones-strawberry-pop-rocks-1g-thc-distillate-disposable"
     },
     {
-      "id": 198745092,
-      "name": "Lonely Bones: Strawberry Cheesecake 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198745092.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-strawberry-cheesecake-1g-thc-distillate-5-10-thread"
-    },
-    {
       "id": 198754080,
       "name": "Lonely Bones: Zsunami 1G Cured Resin Penz",
       "category": "Concentrate",
@@ -2655,6 +2608,35 @@
       ],
       "current_deal_title": null,
       "slug": "fifo-miracle-mints-cured-resin-14g-baller"
+    },
+    {
+      "id": 185336092,
+      "name": "Gorilla Glue Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442156522_IMG_1957.JPG",
+      "image_local": "185336092.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "gorilla-glue-4-cured-resin-14g-baller"
     },
     {
       "id": 198745313,
@@ -3672,6 +3654,29 @@
       "slug": "sherbdawg-cured-resin-1g"
     },
     {
+      "id": 218334939,
+      "name": "(1 left!) Blue Dream Cured Resin 14G Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442581948_Blue_Dream.JPG",
+      "image_local": "218334939.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "blue-dream-cured-resin-14g-baller-jar"
+    },
+    {
       "id": 210227060,
       "name": "Animal Cookies Cured Resin 1G",
       "category": "Concentrate",
@@ -3693,29 +3698,6 @@
       ],
       "current_deal_title": null,
       "slug": "apple-fritter-cured-resin-1g"
-    },
-    {
-      "id": 218334939,
-      "name": "Blue Dream Cured Resin 14G Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442581948_Blue_Dream.JPG",
-      "image_local": "218334939.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "blue-dream-cured-resin-14g-baller-jar"
     },
     {
       "id": 218300928,
@@ -3831,29 +3813,6 @@
       ],
       "current_deal_title": null,
       "slug": "fifo-blood-honey-cured-resin-14g-baller"
-    },
-    {
-      "id": 219576681,
-      "name": "FiFo: Gas Mix Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775498_Gas_Mix.JPG",
-      "image_local": "219576681.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "fifo-gas-mix-cured-resin-14g-baller"
     },
     {
       "id": 209504885,
