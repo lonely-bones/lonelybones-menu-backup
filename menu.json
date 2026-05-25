@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 224,
-    "updated_at": "2026-05-23T21:16:37.569Z",
+    "total_menu_items": 226,
+    "updated_at": "2026-05-25T16:16:01.370Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -1028,7 +1028,7 @@
     },
     {
       "id": 168998124,
-      "name": "Cap Junky Smalls",
+      "name": "(1/2oz left) Cap Junky Smalls",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -1107,47 +1107,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "cannaisseur-the-doctor-smalls"
-    },
-    {
-      "id": 211359127,
-      "name": "(1/2 Ounce Left) Apples & Bananas Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441266755_apples_and_bananas_1-6.JPG",
-      "image_local": "211359127.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-apples-bananas-smalls"
     },
     {
       "id": 207771422,
@@ -1232,49 +1191,8 @@
       "slug": "method-maine-p-funk-smalls"
     },
     {
-      "id": 206806591,
-      "name": "(1 OZ Left) Chile Verde Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440279968_Widow_Maker.JPG",
-      "image_local": "206806591.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-widow-makers-smalls"
-    },
-    {
       "id": 219449198,
-      "name": "(1 OZ left!) Living Matter: Scented Marker",
+      "name": "(1/2 OZ left!) Living Matter: Scented Marker",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -2785,47 +2703,6 @@
       "slug": "pie-eyed-cured-resin-14g-baller-jar"
     },
     {
-      "id": 204843072,
-      "name": "Wedding Pie Live Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441260177_wpie.JPG",
-      "image_local": "204843072.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "wedding-pie-live-rosin-3-5g-baller"
-    },
-    {
       "id": 207395557,
       "name": "Lonely Bones: Blueberry Pie 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -3426,27 +3303,27 @@
       "slug": "sherbdawg-cured-resin-1g"
     },
     {
-      "id": 218334939,
-      "name": "(1 left!) Blue Dream Cured Resin 14G Baller Jar",
+      "id": 220254209,
+      "name": "Wedding Cake Cured Resin 1G",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442581948_Blue_Dream.JPG",
-      "image_local": "218334939.jpg",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442879592_super_lemon_haze.JPG",
+      "image_local": "220254209.jpg",
       "prices": [
         {
-          "label": "each",
-          "price": 100.0,
+          "label": "1 g",
+          "price": 10.0,
           "on_sale": false,
-          "original_price": 100.0
+          "original_price": 10.0
         }
       ],
       "current_deal_title": null,
-      "slug": "blue-dream-cured-resin-14g-baller-jar"
+      "slug": "super-lemon-haze-cured-resin-1g"
     },
     {
       "id": 210227060,
@@ -3495,6 +3372,29 @@
       "slug": "blue-gummies-cured-resin-14g-baller-jar"
     },
     {
+      "id": 209504885,
+      "name": "Bubble Yum Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440906543_bubbakush1g.JPG",
+      "image_local": "209504885.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "bubba-kush-cured-resin-1g"
+    },
+    {
       "id": 212118830,
       "name": "Cadillac: Live Liquid Diamond Strawberry Milk X Slurty 2G Penjamin",
       "category": "Concentrate",
@@ -3539,29 +3439,6 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-live-liquid-diamond-unicorn-cake-x-guava-daiquiri-2g-penjamin"
-    },
-    {
-      "id": 219579728,
-      "name": "FiFo: Blood Honey Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775999_Blood_Honey.JPG",
-      "image_local": "219579728.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "fifo-blood-honey-cured-resin-14g-baller"
     },
     {
       "id": 208536890,
@@ -6063,6 +5940,52 @@
       "slug": "method-bolo-runtz-1g-pre-roll"
     },
     {
+      "id": 223056864,
+      "name": "Method: Garlic Breath 1G Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443381619_method_pre.jpeg",
+      "image_local": "223056864.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "method-garlic-breath-1g-pre-roll"
+    },
+    {
+      "id": 218711186,
+      "name": "Method: Gas Face 1G Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442639084_Method_Pre_roll_default.JPG",
+      "image_local": "218711186.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "method-gas-face-1g-pre-roll"
+    },
+    {
       "id": 218711461,
       "name": "Method: Mac Flurry 1G Pre Roll",
       "category": "Preroll",
@@ -6086,6 +6009,52 @@
       "slug": "method-mac-flurry-1g-pre-roll"
     },
     {
+      "id": 223056923,
+      "name": "Method: Midnight Delight 1G Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443381619_method_pre.jpeg",
+      "image_local": "223056923.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "method-midnight-delight-1g-pre-roll"
+    },
+    {
+      "id": 218711580,
+      "name": "Method: Neon Drip 1G Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442639084_Method_Pre_roll_default.JPG",
+      "image_local": "218711580.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "method-neon-drip-1g-pre-roll"
+    },
+    {
       "id": 218711344,
       "name": "Method: P-Funk 1G Pre Roll",
       "category": "Preroll",
@@ -6107,6 +6076,29 @@
       ],
       "current_deal_title": null,
       "slug": "method-p-funk-1g-pre-roll"
+    },
+    {
+      "id": 218711048,
+      "name": "Method | Sherb Cream Pie | Infused Joints | 1g",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": null,
+      "thc_pct": 47.6,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442639084_Method_Pre_roll_default.JPG",
+      "image_local": "218711048.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "method-sherb-cream-pie-1g-pre-roll"
     }
   ],
   "logo_file": "logo.png"
