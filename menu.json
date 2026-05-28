@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 230,
-    "updated_at": "2026-05-26T21:55:28.125Z",
+    "total_menu_items": 235,
+    "updated_at": "2026-05-27T14:33:34.412Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -1422,6 +1422,29 @@
       ],
       "current_deal_title": null,
       "slug": "amber-valley-red-runtz-shatter"
+    },
+    {
+      "id": 223152297,
+      "name": "Amber Valley Shatter 1g - Gelato (H)",
+      "category": "Concentrate",
+      "edge_category": "Shatter",
+      "top_category": "Concentrates",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443400339_shatter.jpg",
+      "image_local": "223152297.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "amber-valley-gelato-1g-shatter"
     },
     {
       "id": 214676326,
@@ -4201,6 +4224,121 @@
       "slug": "tricho-jordan-cured-resin-14g-baller"
     },
     {
+      "id": 223152264,
+      "name": "Amber Valley: Candied Runtz 1G Shatter",
+      "category": "Concentrate",
+      "edge_category": "Shatter",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443400339_shatter.jpg",
+      "image_local": "223152264.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "amber-valley-candied-runtz-1g-shatter"
+    },
+    {
+      "id": 223152313,
+      "name": "Amber Valley: Flapjacks 1G Shatter",
+      "category": "Concentrate",
+      "edge_category": "Shatter",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443400339_shatter.jpg",
+      "image_local": "223152313.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "amber-valley-flapjacks-1g-shatter"
+    },
+    {
+      "id": 223152239,
+      "name": "Amber Valley: Strawberry Haze 1G Shatter",
+      "category": "Concentrate",
+      "edge_category": "Shatter",
+      "top_category": "Concentrates",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443400339_shatter.jpg",
+      "image_local": "223152239.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "amber-valley-strawberry-haze-1g-shatter-364afd7a-d762-4243-88e9-7382eea0eb05"
+    },
+    {
+      "id": 223154452,
+      "name": "Blue Cookies Cured Resin 14G Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443400795_blue_cookies.JPG",
+      "image_local": "223154452.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "blue-cookies-cured-resin-14g-baller-jar"
+    },
+    {
+      "id": 223154409,
+      "name": "Bolo Runtz Cured Resin 14G Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443400784_bolo_runtz_cured.JPG",
+      "image_local": "223154409.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "bolo-runtz-cured-resin-14g-baller-jar"
+    },
+    {
       "id": 221998026,
       "name": "Cadillac: LIVE 2g Liquid Diamond Switch - Black Cherry Gelato x Blue Runtz",
       "category": "Concentrate",
@@ -5739,29 +5877,6 @@
       ],
       "current_deal_title": null,
       "slug": "leaf-labs-pepe-silvia-1g-pre-roll"
-    },
-    {
-      "id": 218711121,
-      "name": "Method: Bolo Runtz 1G Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442639084_Method_Pre_roll_default.JPG",
-      "image_local": "218711121.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "method-bolo-runtz-1g-pre-roll"
     },
     {
       "id": 223061866,
