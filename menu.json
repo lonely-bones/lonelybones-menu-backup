@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 235,
-    "updated_at": "2026-05-27T14:33:34.412Z",
+    "total_menu_items": 233,
+    "updated_at": "2026-05-29T11:03:14.092Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -16,8 +16,8 @@
       "top_category": "Flower",
       "genetics": "Indica",
       "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 6,
+      "rating": 4.6,
+      "reviews_count": 7,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443215205_Glitter_BOMB_new.JPG",
       "image_local": "165296023.jpg",
       "prices": [
@@ -584,7 +584,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.9,
-      "reviews_count": 17,
+      "reviews_count": 18,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438779027_lazer_wolf.jpg",
       "image_local": "197659878.jpg",
       "prices": [
@@ -871,7 +871,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 9,
+      "reviews_count": 10,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440374999_Pink_Ink.JPG",
       "image_local": "189830051.jpg",
       "prices": [
@@ -994,7 +994,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 2,
+      "reviews_count": 3,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715734_Barry_Bonds.JPG",
       "image_local": "213494899.jpg",
       "prices": [
@@ -1232,47 +1232,6 @@
       "slug": "method-maine-p-funk-smalls"
     },
     {
-      "id": 219449198,
-      "name": "(1/2 OZ left!) Living Matter: Scented Marker",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442758546_Scented_Marker_LM.JPG",
-      "image_local": "219449198.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "100-oz-living-matter-scented-marker"
-    },
-    {
       "id": 176563889,
       "name": "Buttermilk Pancakes Smalls",
       "category": "Indica",
@@ -1470,6 +1429,52 @@
       "slug": "amber-valley-gelato-cookies-shatter"
     },
     {
+      "id": 163167402,
+      "name": "GMO | Solventless | Rosin | 1g",
+      "category": "Concentrate",
+      "edge_category": "Rosin",
+      "top_category": "Concentrates",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 6,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442881883_gmonew1g.JPG",
+      "image_local": "163167402.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "tourma-cannabis-gmo-live-rosin-1g"
+    },
+    {
+      "id": 157916459,
+      "name": "GMO | Solvent | 1g",
+      "category": "Concentrate",
+      "edge_category": "Sugar",
+      "top_category": "Concentrates",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 4.6,
+      "reviews_count": 27,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/431691458_GMO_1G.jpg",
+      "image_local": "157916459.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "tourma-cannabis-gmo-cured-resin-1g-jar"
+    },
+    {
       "id": 176445949,
       "name": "*New Batch* Lonely Bones Dry Diamonds 14G Baller Jar",
       "category": "Concentrate",
@@ -1626,29 +1631,6 @@
       "slug": "gmo-cured-resin-14g-baller-jar-1e0642f4-7099-44a5-8997-47c736d995c2"
     },
     {
-      "id": 163167402,
-      "name": "$30/G Tourma Cannabis: GMO Live Rosin 1G",
-      "category": "Concentrate",
-      "edge_category": "Rosin",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 6,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442881883_gmonew1g.JPG",
-      "image_local": "163167402.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "tourma-cannabis-gmo-live-rosin-1g"
-    },
-    {
       "id": 198519091,
       "name": "Lonely Bones: 20 Mix and Match THC Distillate 1G Penz $260",
       "category": "Concentrate",
@@ -1734,29 +1716,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-gmo-live-hash-rosin-3-5-baller"
-    },
-    {
-      "id": 157916459,
-      "name": "Tourma Cannabis: GMO Cured Resin 1G Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 4.6,
-      "reviews_count": 27,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/431691458_GMO_1G.jpg",
-      "image_local": "157916459.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "tourma-cannabis-gmo-cured-resin-1g-jar"
     },
     {
       "id": 198360177,
@@ -2420,35 +2379,6 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-live-liquid-diamond-larry-breath-x-crunch-berries-2g-penjamin"
-    },
-    {
-      "id": 185307582,
-      "name": "Candyland Cured Resin 14G Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443163458_Candyland.JPG",
-      "image_local": "185307582.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "candyland-cured-resin-14g-baller-jar"
     },
     {
       "id": 204843072,
@@ -6277,8 +6207,8 @@
       "top_category": "Edibles",
       "genetics": null,
       "thc_pct": 50.0,
-      "rating": 0.0,
-      "reviews_count": 0,
+      "rating": 5.0,
+      "reviews_count": 1,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922600_20_mg_disty_edi.jpg",
       "image_local": "185245420.jpg",
       "prices": [
