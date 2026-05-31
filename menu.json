@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 231,
-    "updated_at": "2026-05-29T19:47:12.302Z",
+    "total_menu_items": 228,
+    "updated_at": "2026-05-30T19:11:07.872Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -133,7 +133,7 @@
       "genetics": "Hybrid",
       "thc_pct": 28.0,
       "rating": 4.6,
-      "reviews_count": 25,
+      "reviews_count": 26,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/428512056_banana_bread_flower.JPG",
       "image_local": "107381484.jpg",
       "prices": [
@@ -174,7 +174,7 @@
       "genetics": null,
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 3,
+      "reviews_count": 4,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/432243473_now_n_later.jpg",
       "image_local": "159696494.jpg",
       "prices": [
@@ -494,47 +494,6 @@
       "slug": "lonely-bones-firewater"
     },
     {
-      "id": 157893266,
-      "name": "Cannaisseur: Double Rainbow Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.9,
-      "reviews_count": 7,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443215260_DR_small_NEW.JPG",
-      "image_local": "157893266.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "cannoisseur-double-rainbow-smalls"
-    },
-    {
       "id": 206480223,
       "name": "*80/OZ!* Lonely Bones: Frosted Flakes",
       "category": "Indica",
@@ -699,88 +658,6 @@
       "slug": "lonely-bones-zwiz"
     },
     {
-      "id": 180051350,
-      "name": "Koala Tea Grows: Weighted Blanket Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 15,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440577804_weighted_blanket.JPG",
-      "image_local": "180051350.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-weighted-blanket-smalls"
-    },
-    {
-      "id": 216198954,
-      "name": "(1/2 Ounce Left) Koala Tea Grows: Neon Drip Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442234498_IMG_0681.JPG",
-      "image_local": "216198954.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-neon-drip-smalls"
-    },
-    {
       "id": 207771314,
       "name": "*Fresh batch!* Koala Tea Grows : Dosido Smalls",
       "category": "Indica",
@@ -822,6 +699,47 @@
       "slug": "new-cannaisseur-grape-gas"
     },
     {
+      "id": 180051350,
+      "name": "Koala Tea Grows: Weighted Blanket Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 15,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440577804_weighted_blanket.JPG",
+      "image_local": "180051350.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-weighted-blanket-smalls"
+    },
+    {
       "id": 189830051,
       "name": "Lonely Bones: Pink Ink (Permanent Marker x Spritzer)",
       "category": "Indica",
@@ -829,8 +747,8 @@
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 10,
+      "rating": 4.9,
+      "reviews_count": 12,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440374999_Pink_Ink.JPG",
       "image_local": "189830051.jpg",
       "prices": [
@@ -987,7 +905,7 @@
     },
     {
       "id": 216163724,
-      "name": "*New Batch!* Pink Starburst Smalls",
+      "name": "(Half Oz LEft!) Pink Starburst Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -1603,7 +1521,7 @@
       "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 4.6,
-      "reviews_count": 9,
+      "reviews_count": 10,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442882504_gmo3.5.JPG",
       "image_local": "199216855.jpg",
       "prices": [
@@ -1726,35 +1644,6 @@
       ],
       "current_deal_title": null,
       "slug": "candy-runtz-14g-cured-resin-baller-jar"
-    },
-    {
-      "id": 147256040,
-      "name": "(1 Left) Bananaconda Cured Resin 14G Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443163256_B.Conda.JPG",
-      "image_local": "147256040.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "bananaconda-cured-resin-14g-baller-jar"
     },
     {
       "id": 208201579,
@@ -2010,6 +1899,29 @@
       "slug": "lonely-bones-banana-bread-1g-cured-resin-pen-882a2ebb-8668-4673-81ed-8ea21dcfdbe1"
     },
     {
+      "id": 213005816,
+      "name": "Ghost Train Haze 14g Cured resin Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.5,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442740911_Ghost_Train_Haze.JPG",
+      "image_local": "213005816.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "ghost-train-haze-14g-cured-resin-baller-jar"
+    },
+    {
       "id": 198745717,
       "name": "Lonely Bones: Blueberry Punch 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -2077,29 +1989,6 @@
       ],
       "current_deal_title": null,
       "slug": "cereal-milk-cured-resin-1g"
-    },
-    {
-      "id": 213005816,
-      "name": "Ghost Train Haze 14g Cured resin Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442740911_Ghost_Train_Haze.JPG",
-      "image_local": "213005816.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "ghost-train-haze-14g-cured-resin-baller-jar"
     },
     {
       "id": 204862742,
