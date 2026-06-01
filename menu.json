@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 228,
-    "updated_at": "2026-05-30T19:11:07.872Z",
+    "total_menu_items": 232,
+    "updated_at": "2026-05-31T22:04:37.555Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -256,7 +256,7 @@
       "genetics": null,
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442419755_French_toast.JPG",
       "image_local": "193180677.jpg",
       "prices": [
@@ -287,47 +287,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "lonely-bones-french-toast"
-    },
-    {
-      "id": 115695691,
-      "name": "(1 OZ LEFT!) Lonely Bones: Sequoia Strawberry",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.9,
-      "reviews_count": 25,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440374727_SEQUOIA_SBERRY_UPDATE.JPG",
-      "image_local": "115695691.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "sequoia-strawberry"
     },
     {
       "id": 145008363,
@@ -410,47 +369,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "insane-koala-tea-grows-obama-runtz"
-    },
-    {
-      "id": 173746062,
-      "name": "Koala Tea Grows: Liquid Hot Magma Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 21,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436339695_liquid_hot_magma.JPG",
-      "image_local": "173746062.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-liquid-hot-magma-smalls"
     },
     {
       "id": 199924094,
@@ -902,47 +820,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "enzy-farms-platinum-kush"
-    },
-    {
-      "id": 216163724,
-      "name": "(Half Oz LEft!) Pink Starburst Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443388895_Pink_Star_Burst_new.JPG",
-      "image_local": "216163724.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "brand-new-pink-starburst-smalls"
     },
     {
       "id": 213494566,
@@ -1966,29 +1843,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-banana-smoothie-1g-thc-distillate-5-10-thread"
-    },
-    {
-      "id": 213496174,
-      "name": "Sour D Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715942_Cereal_Milk.JPG",
-      "image_local": "213496174.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cereal-milk-cured-resin-1g"
     },
     {
       "id": 204862742,
@@ -3140,29 +2994,6 @@
       "slug": "sherbanger-live-hash-rosin-3-5g-baller"
     },
     {
-      "id": 211713034,
-      "name": "Tropicana Cookies Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441336906_sherbdawg.JPG",
-      "image_local": "211713034.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "sherbdawg-cured-resin-1g"
-    },
-    {
       "id": 220254209,
       "name": "Wedding Cake Cured Resin 1G",
       "category": "Concentrate",
@@ -3322,29 +3153,6 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-live-liquid-diamond-unicorn-cake-x-guava-daiquiri-2g-penjamin"
-    },
-    {
-      "id": 221613164,
-      "name": "Cookies and Cream 1g Cured Resin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443163151_cookies_and_cream.JPG",
-      "image_local": "221613164.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cookies-and-cream-1g-cured-resin"
     },
     {
       "id": 208536890,
@@ -3891,47 +3699,6 @@
       "slug": "guava-tangie-live-hash-rosin-3-5g-baller"
     },
     {
-      "id": 220446652,
-      "name": "(1 Left) Black Maple Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442911811_black_maple_live_rosin_8th.JPG",
-      "image_local": "220446652.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "black-maple-live-hash-rosin-3-5g-baller"
-    },
-    {
       "id": 213498278,
       "name": "(1 Left) Tricho Jordan Cured Resin 14G Baller",
       "category": "Concentrate",
@@ -3959,6 +3726,47 @@
       ],
       "current_deal_title": null,
       "slug": "tricho-jordan-cured-resin-14g-baller"
+    },
+    {
+      "id": 223574810,
+      "name": "*$300 1/2 Ounce* Blue Dream Live Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443457938_blue_dream_3.5.JPG",
+      "image_local": "223574810.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 160.0,
+          "on_sale": false,
+          "original_price": 160.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 300.0,
+          "on_sale": false,
+          "original_price": 300.0
+        },
+        {
+          "label": "1 oz",
+          "price": 600.0,
+          "on_sale": false,
+          "original_price": 600.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "600-ounce-blue-dream-live-rosin-3-5g-baller"
     },
     {
       "id": 223152264,
@@ -4051,6 +3859,29 @@
       ],
       "current_deal_title": null,
       "slug": "blue-cookies-cured-resin-14g-baller-jar"
+    },
+    {
+      "id": 223574401,
+      "name": "Blueberry Punch Live Rosin 1G",
+      "category": "Concentrate",
+      "edge_category": "Rosin",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443457888_bluberry_punch_1g_rosin.JPG",
+      "image_local": "223574401.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 35.0,
+          "on_sale": false,
+          "original_price": 35.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "blueberry-punch-live-rosin-1g"
     },
     {
       "id": 223154409,
@@ -5311,6 +5142,47 @@
       "slug": "point-break-live-hash-rosin-3-5g-baller"
     },
     {
+      "id": 223575907,
+      "name": "Red Runtz Live Rosin 3.5g Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443458168_red_run_tzs.JPG",
+      "image_local": "223575907.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "red-runtz-live-rosin-3-5g-baller"
+    },
+    {
       "id": 209063704,
       "name": "Slap Happy Live Hash Rosin 1G",
       "category": "Concentrate",
@@ -5570,6 +5442,167 @@
       "slug": "leaf-labs-5-pack-mix-and-match-for-25"
     },
     {
+      "id": 223560220,
+      "name": "Any Assorted Pre Rolls: 5-Pack Mix and Match for $25!",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456196_mixed_joints.JPG",
+      "image_local": "223560220.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "any-assorted-pre-rolls-5-pack-mix-and-match-for-25"
+    },
+    {
+      "id": 223560109,
+      "name": "Cannaseaur: 5-Pack Mix and Match for $25!",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456172_5pack_canna.JPG",
+      "image_local": "223560109.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cannaseaur-5-pack-mix-and-match-for-25"
+    },
+    {
+      "id": 223559114,
+      "name": "Cannaseaur: Berry Bonds Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
+      "image_local": "223559114.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cannaseaur-berry-bonds-pre-roll"
+    },
+    {
+      "id": 223559082,
+      "name": "Cannaseaur: Glitter Bomb Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
+      "image_local": "223559082.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cannaseaur-glitter-bomb-pre-roll"
+    },
+    {
+      "id": 223559053,
+      "name": "Cannaseaur: Grape Gas Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
+      "image_local": "223559053.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cannaseaur-grape-gas-pre-roll"
+    },
+    {
+      "id": 223559090,
+      "name": "Cannaseaur: OG Kiss Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
+      "image_local": "223559090.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cannaseaur-og-kiss-pre-roll"
+    },
+    {
+      "id": 223559067,
+      "name": "Cannaseaur: Sour G Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
+      "image_local": "223559067.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cannaseaur-sour-g-pre-roll"
+    },
+    {
       "id": 220348251,
       "name": "Leaf Labs: Pepe Silvia (Zweet OG x Grampa's Cookies) 1G Pre Roll",
       "category": "Preroll",
@@ -5591,6 +5624,29 @@
       ],
       "current_deal_title": null,
       "slug": "leaf-labs-pepe-silvia-1g-pre-roll"
+    },
+    {
+      "id": 223560253,
+      "name": "Method Maine: 5-Pack Mix and Match for $25!",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443381619_method_pre.jpeg",
+      "image_local": "223560253.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "method-maine-5-pack-mix-and-match-for-25"
     },
     {
       "id": 223061866,
@@ -6083,8 +6139,8 @@
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
+      "rating": 5.0,
+      "reviews_count": 1,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
       "image_local": "198745342.jpg",
       "prices": [
