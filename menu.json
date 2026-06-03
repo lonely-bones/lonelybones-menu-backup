@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 233,
-    "updated_at": "2026-06-01T22:15:53.740Z",
+    "total_menu_items": 231,
+    "updated_at": "2026-06-02T20:13:07.459Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -71,35 +71,6 @@
       ],
       "current_deal_title": null,
       "slug": "mix-and-match-any-8ths-of-live-rosin-for-a-350"
-    },
-    {
-      "id": 190750561,
-      "name": "($125 1/2 ounce Special) Lonely Bones: Mix and Match Live Resin Half OZ",
-      "category": "Concentrate",
-      "edge_category": "Solvent",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437698963_true_og_live.JPG",
-      "image_local": "190750561.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 125.0,
-          "on_sale": false,
-          "original_price": 125.0
-        },
-        {
-          "label": "1 oz",
-          "price": 250.0,
-          "on_sale": false,
-          "original_price": 250.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-mix-and-match-live-resin-14gs"
     },
     {
       "id": 210996505,
@@ -1050,6 +1021,29 @@
       "slug": "amber-valley-lemon-haze-shatter"
     },
     {
+      "id": 214676422,
+      "name": "Amber Valley Shatter 1g - Trop Pie (S)",
+      "category": "Concentrate",
+      "edge_category": "Shatter",
+      "top_category": "Concentrates",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438526643_SHATTER_AYDEN.jpg",
+      "image_local": "214676422.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "amber-valley-trop-pie-shatter"
+    },
+    {
       "id": 223152297,
       "name": "Amber Valley Shatter 1g - Gelato (H)",
       "category": "Concentrate",
@@ -1306,7 +1300,7 @@
       "genetics": null,
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922912_dispo_bulk.jpg",
       "image_local": "198519091.jpg",
       "prices": [
@@ -1383,6 +1377,29 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-gmo-live-hash-rosin-3-5-baller"
+    },
+    {
+      "id": 212117143,
+      "name": "Cadillac: Live Liquid Diamond Mango Haze X Durban Poison 2G Penjamin",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
+      "image_local": "212117143.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 45.0,
+          "on_sale": false,
+          "original_price": 45.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cadillac-live-liquid-diamond-mango-haze-x-durban-poison-2g-penjamin"
     },
     {
       "id": 198360177,
@@ -1475,29 +1492,6 @@
       ],
       "current_deal_title": null,
       "slug": "candy-runtz-14g-cured-resin-baller-jar"
-    },
-    {
-      "id": 212117143,
-      "name": "Cadillac: Live Liquid Diamond Mango Haze X Durban Poison 2G Penjamin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "212117143.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-mango-haze-x-durban-poison-2g-penjamin"
     },
     {
       "id": 198359911,
@@ -2475,29 +2469,6 @@
       "slug": "lonely-bones-pine-mints-cured-resin-pen-1g"
     },
     {
-      "id": 214676422,
-      "name": "Amber Valley: Trop Pie Shatter",
-      "category": "Concentrate",
-      "edge_category": "Shatter",
-      "top_category": "Concentrates",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438526643_SHATTER_AYDEN.jpg",
-      "image_local": "214676422.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "amber-valley-trop-pie-shatter"
-    },
-    {
       "id": 214519692,
       "name": "Blue Zushi Live Rosin 1G",
       "category": "Concentrate",
@@ -3318,29 +3289,6 @@
       "slug": "lonely-bones-cherry-pie-1g-thc-distillate-disposable"
     },
     {
-      "id": 198360429,
-      "name": "Lonely Bones: Forbidden Fruit 1G THC Distillate Penjamin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
-      "image_local": "198360429.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-forbidden-fruit-1g-thc-distillate-disposable"
-    },
-    {
       "id": 187051439,
       "name": "Lonely Bones: Garlic Icing 1G Cured Resin Penz",
       "category": "Concentrate",
@@ -3449,29 +3397,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-sour-apple-live-resin-3-5g-baller"
-    },
-    {
-      "id": 207417095,
-      "name": "Lonely Bones: Strawberry Cough 1G THC Distillate Penjamin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
-      "image_local": "207417095.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-strawberry-cough-1g-thc-distillate-penjamin"
     },
     {
       "id": 220287252,
@@ -5507,6 +5432,29 @@
       "slug": "cannaseaur-5-pack-mix-and-match-for-25"
     },
     {
+      "id": 223560220,
+      "name": "Any Assorted Pre Rolls: 5-Pack Mix and Match for $25!",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456196_mixed_joints.JPG",
+      "image_local": "223560220.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "any-assorted-pre-rolls-5-pack-mix-and-match-for-25"
+    },
+    {
       "id": 202048916,
       "name": "Leaf Labs: 5-Pack Mix and Match for $25!",
       "category": "Preroll",
@@ -5528,29 +5476,6 @@
       ],
       "current_deal_title": null,
       "slug": "leaf-labs-5-pack-mix-and-match-for-25"
-    },
-    {
-      "id": 223560220,
-      "name": "Any Assorted Pre Rolls: 5-Pack Mix and Match for $25!",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456196_mixed_joints.JPG",
-      "image_local": "223560220.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "any-assorted-pre-rolls-5-pack-mix-and-match-for-25"
     },
     {
       "id": 223559114,
@@ -6218,6 +6143,29 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-lemon-slushie-1g-thc-distillate-5-10-thread"
+    },
+    {
+      "id": 207417095,
+      "name": "Disposable | 1g",
+      "category": "Concentrate",
+      "edge_category": "Disposable",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_local": "207417095.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-strawberry-cough-1g-thc-distillate-penjamin"
     }
   ],
   "logo_file": "logo.png"
