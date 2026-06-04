@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_menu_items": 231,
+    "total_menu_items": 230,
     "updated_at": "2026-06-02T20:13:07.459Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
@@ -104,7 +104,7 @@
       "genetics": "Hybrid",
       "thc_pct": 28.0,
       "rating": 4.6,
-      "reviews_count": 26,
+      "reviews_count": 27,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/428512056_banana_bread_flower.JPG",
       "image_local": "107381484.jpg",
       "prices": [
@@ -186,7 +186,7 @@
       "genetics": null,
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439501545_carbon_fiber.JPG",
       "image_local": "203122181.jpg",
       "prices": [
@@ -227,7 +227,7 @@
       "genetics": null,
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 2,
+      "reviews_count": 3,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442419755_French_toast.JPG",
       "image_local": "193180677.jpg",
       "prices": [
@@ -390,8 +390,8 @@
       "top_category": "Flower",
       "genetics": "Indica",
       "thc_pct": 0.0,
-      "rating": 4.6,
-      "reviews_count": 17,
+      "rating": 4.7,
+      "reviews_count": 19,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440198026_fflakes.JPG",
       "image_local": "206480223.jpg",
       "prices": [
@@ -432,7 +432,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.9,
-      "reviews_count": 18,
+      "reviews_count": 19,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438779027_lazer_wolf.jpg",
       "image_local": "197659878.jpg",
       "prices": [
@@ -547,47 +547,6 @@
       "slug": "lonely-bones-zwiz"
     },
     {
-      "id": 207771314,
-      "name": "(1/2 Ounce Left) Koala Tea Grows : Dosido Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442596694_dosi.JPG",
-      "image_local": "207771314.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-cannaisseur-grape-gas"
-    },
-    {
       "id": 180051350,
       "name": "Koala Tea Grows: Weighted Blanket Smalls",
       "category": "Indica",
@@ -596,7 +555,7 @@
       "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 4.8,
-      "reviews_count": 15,
+      "reviews_count": 16,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440577804_weighted_blanket.JPG",
       "image_local": "180051350.jpg",
       "prices": [
