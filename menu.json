@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 239,
-    "updated_at": "2026-06-04T21:55:22.312Z",
+    "total_menu_items": 236,
+    "updated_at": "2026-06-05T21:23:32.487Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -9,45 +9,45 @@
   },
   "products": [
     {
-      "id": 165296023,
-      "name": "(1/2 Ounce Left) Cannaisseur: Glitter Bomb Smalls",
+      "id": 192017967,
+      "name": "*Insane!* Tourma: Fire AF",
       "category": "Indica",
-      "edge_category": "Smalls",
+      "edge_category": "Flower",
       "top_category": "Flower",
-      "genetics": "Indica",
+      "genetics": null,
       "thc_pct": 0.0,
-      "rating": 4.6,
-      "reviews_count": 7,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443215205_Glitter_BOMB_new.JPG",
-      "image_local": "165296023.jpg",
+      "rating": 4.5,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440152717_Fire_AF_new.JPG",
+      "image_local": "192017967.jpg",
       "prices": [
         {
           "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
           "price": 20.0,
           "on_sale": false,
           "original_price": 20.0
         },
         {
-          "label": "1/2 oz",
+          "label": "1/4 oz",
           "price": 40.0,
           "on_sale": false,
           "original_price": 40.0
         },
         {
-          "label": "1 oz",
-          "price": 80.0,
+          "label": "1/2 oz",
+          "price": 60.0,
           "on_sale": false,
-          "original_price": 80.0
+          "original_price": 60.0
+        },
+        {
+          "label": "1 oz",
+          "price": 120.0,
+          "on_sale": false,
+          "original_price": 120.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "glitter-bomb-smalls"
+      "slug": "tourma-fire-af"
     },
     {
       "id": 220446102,
@@ -104,7 +104,7 @@
       "genetics": "Hybrid",
       "thc_pct": 28.0,
       "rating": 4.6,
-      "reviews_count": 27,
+      "reviews_count": 28,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/428512056_banana_bread_flower.JPG",
       "image_local": "107381484.jpg",
       "prices": [
@@ -135,47 +135,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "banana-bread-flower"
-    },
-    {
-      "id": 159696494,
-      "name": "Now N Later | Big Buds | 3.5g",
-      "category": "Indica",
-      "edge_category": "Big Buds",
-      "top_category": "Flower",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 4,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/432243473_now_n_later.jpg",
-      "image_local": "159696494.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-now-n-later"
     },
     {
       "id": 203122181,
@@ -432,7 +391,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.3,
-      "reviews_count": 3,
+      "reviews_count": 4,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442642265_dulce.JPG",
       "image_local": "157893448.jpg",
       "prices": [
@@ -547,47 +506,6 @@
       "slug": "lonely-bones-lazer-wolf"
     },
     {
-      "id": 192017967,
-      "name": "*Insane!* Tourma: Fire AF",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440152717_Fire_AF_new.JPG",
-      "image_local": "192017967.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        },
-        {
-          "label": "1 oz",
-          "price": 120.0,
-          "on_sale": false,
-          "original_price": 120.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "tourma-fire-af"
-    },
-    {
       "id": 145435362,
       "name": "Living Matter: Blue Runtz Smalls",
       "category": "Indica",
@@ -627,47 +545,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "blue-runtz-smalls"
-    },
-    {
-      "id": 219576394,
-      "name": "Living Matter: Rainbow Sherbert-11",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775472_RS11.JPG",
-      "image_local": "219576394.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-rs-11"
     },
     {
       "id": 189830051,
@@ -712,14 +589,14 @@
     },
     {
       "id": 180051350,
-      "name": "Koala Tea Grows: Weighted Blanket Smalls",
+      "name": "(1/2 Ounce Left) Koala Tea Grows: Weighted Blanket Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
       "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 4.8,
-      "reviews_count": 16,
+      "reviews_count": 17,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440577804_weighted_blanket.JPG",
       "image_local": "180051350.jpg",
       "prices": [
@@ -750,6 +627,88 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-grows-weighted-blanket-smalls"
+    },
+    {
+      "id": 219576394,
+      "name": "Living Matter: Rainbow Sherbert-11",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.7,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775472_RS11.JPG",
+      "image_local": "219576394.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matter-rs-11"
+    },
+    {
+      "id": 165296023,
+      "name": "(1/2 Ounce Left) Cannaisseur: Glitter Bomb Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 4.6,
+      "reviews_count": 7,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443215205_Glitter_BOMB_new.JPG",
+      "image_local": "165296023.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "glitter-bomb-smalls"
     },
     {
       "id": 165467146,
@@ -1039,76 +998,6 @@
       "slug": "limited-tourma-cannabis-kush-mints-x-zoap"
     },
     {
-      "id": 213494566,
-      "name": "Ice Cream Cake Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715660_The_Doctor.JPG",
-      "image_local": "213494566.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "cannaisseur-the-doctor-smalls"
-    },
-    {
-      "id": 215157933,
-      "name": "Living Matter: Bacio Mints Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442038102_Bacio_Mintz.JPG",
-      "image_local": "215157933.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-bacio-mints-smalls"
-    },
-    {
       "id": 175415436,
       "name": "Living Matter: Black Cherry Punch",
       "category": "Indica",
@@ -1148,6 +1037,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "black-cherry-punch-smalls-dd650510-b1b5-4984-a4cb-b226e28c08b2"
+    },
+    {
+      "id": 215156582,
+      "name": "Living Matter: Scented Marker Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442037865_Scented_Marker.JPG",
+      "image_local": "215156582.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matter-scented-marker-smalls"
     },
     {
       "id": 150761237,
@@ -1501,7 +1431,7 @@
       "genetics": null,
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 19,
+      "reviews_count": 20,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437880927_dry_dia.JPG",
       "image_local": "176445949.jpg",
       "prices": [
@@ -1759,6 +1689,35 @@
       "slug": "cadillac-live-liquid-diamond-mango-haze-x-durban-poison-2g-penjamin"
     },
     {
+      "id": 185307719,
+      "name": "Gas Face Cured Resin 14G Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443526972_gfaceres.JPG",
+      "image_local": "185307719.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "gas-face-cured-resin-14g-baller-jar"
+    },
+    {
       "id": 198360177,
       "name": "Lonely Bones: Ice Cream Cake 1g THC Distillate Penjamin",
       "category": "Concentrate",
@@ -1920,29 +1879,6 @@
       "slug": "lonely-bones-sunset-sherb-1g-cured-resin-pen"
     },
     {
-      "id": 198745092,
-      "name": "Lonely Bones: Strawberry Cheesecake 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198745092.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-strawberry-cheesecake-1g-thc-distillate-5-10-thread"
-    },
-    {
       "id": 198745586,
       "name": "Lonely Bones: Tangie 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -1997,7 +1933,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.8,
-      "reviews_count": 12,
+      "reviews_count": 13,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442330536_IMG_1978.JPG",
       "image_local": "160611269.jpg",
       "prices": [
@@ -2020,7 +1956,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.7,
-      "reviews_count": 6,
+      "reviews_count": 7,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
       "image_local": "185641461.jpg",
       "prices": [
@@ -2036,7 +1972,7 @@
     },
     {
       "id": 213005816,
-      "name": "Ghost Train Haze 14g Cured resin Baller Jar",
+      "name": "(1 Left!) Ghost Train Haze 14g Cured resin Baller Jar",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -2365,6 +2301,29 @@
       "slug": "fifo-miracle-mints-cured-resin-14g-baller"
     },
     {
+      "id": 208536890,
+      "name": "GG4 x Night Terror Live Hash Rosin",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441244412_gg4nt.JPG",
+      "image_local": "208536890.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 35.0,
+          "on_sale": false,
+          "original_price": 35.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "gg4-x-night-terror-live-hash-rosin"
+    },
+    {
       "id": 185336092,
       "name": "Gorilla Glue Cured Resin 14G Baller",
       "category": "Concentrate",
@@ -2541,7 +2500,7 @@
       "thc_pct": 0.0,
       "rating": 5.0,
       "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "207413446.jpg",
       "prices": [
         {
@@ -2576,6 +2535,29 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-lemon-cherry-gelato-1g-thc-distillate-disposable"
+    },
+    {
+      "id": 198745342,
+      "name": "Lonely Bones: Lemon Slushie 1G THC Distillate Screw On Thread",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "198745342.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-lemon-slushie-1g-thc-distillate-5-10-thread"
     },
     {
       "id": 187038418,
@@ -3014,7 +2996,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "208617574.jpg",
       "prices": [
         {
@@ -3049,29 +3031,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-sequoia-strawberry-cured-resin-pen"
-    },
-    {
-      "id": 208318334,
-      "name": "Lonely Bones: Mix and Match 50 1G THC Distillate 5-10 threaded $12 each!",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "208318334.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 600.0,
-          "on_sale": false,
-          "original_price": 600.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-mix-and-match-50-1g-thc-distillate-5-10-threaded"
     },
     {
       "id": 199254804,
@@ -3129,7 +3088,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "208617701.jpg",
       "prices": [
         {
@@ -3351,6 +3310,35 @@
       "slug": "gelato-33-cured-resin-1g"
     },
     {
+      "id": 219576681,
+      "name": "Blackberry Fizz Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443526994_blkfiz.JPG",
+      "image_local": "219576681.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "fifo-gas-mix-cured-resin-14g-baller"
+    },
+    {
       "id": 218300928,
       "name": "Blue Gummies Cured Resin 14G Baller Jar",
       "category": "Concentrate",
@@ -3372,29 +3360,6 @@
       ],
       "current_deal_title": null,
       "slug": "blue-gummies-cured-resin-14g-baller-jar"
-    },
-    {
-      "id": 209504885,
-      "name": "Bubble Yum Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440906543_bubbakush1g.JPG",
-      "image_local": "209504885.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "bubba-kush-cured-resin-1g"
     },
     {
       "id": 212118830,
@@ -3441,29 +3406,6 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-live-liquid-diamond-unicorn-cake-x-guava-daiquiri-2g-penjamin"
-    },
-    {
-      "id": 208536890,
-      "name": "GG4 x Night Terror Live Hash Rosin",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441244412_gg4nt.JPG",
-      "image_local": "208536890.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 35.0,
-          "on_sale": false,
-          "original_price": 35.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "gg4-x-night-terror-live-hash-rosin"
     },
     {
       "id": 209072001,
@@ -3921,6 +3863,29 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-girl-scout-cookie-1g-thc-distillate-disposable"
+    },
+    {
+      "id": 209504885,
+      "name": "Bubble Yum Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 4.3,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440906543_bubbakush1g.JPG",
+      "image_local": "209504885.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "bubba-kush-cured-resin-1g"
     },
     {
       "id": 216207704,
@@ -4616,7 +4581,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "207409399.jpg",
       "prices": [
         {
@@ -4639,7 +4604,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "207417017.jpg",
       "prices": [
         {
@@ -4662,7 +4627,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "207417491.jpg",
       "prices": [
         {
@@ -4708,7 +4673,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "207416285.jpg",
       "prices": [
         {
@@ -4777,7 +4742,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "208617899.jpg",
       "prices": [
         {
@@ -4800,7 +4765,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "207417444.jpg",
       "prices": [
         {
@@ -4846,7 +4811,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "208618141.jpg",
       "prices": [
         {
@@ -4984,7 +4949,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "207409064.jpg",
       "prices": [
         {
@@ -5007,7 +4972,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "207408855.jpg",
       "prices": [
         {
@@ -5053,7 +5018,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "207416732.jpg",
       "prices": [
         {
@@ -5076,7 +5041,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "208024606.jpg",
       "prices": [
         {
@@ -5099,7 +5064,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "207415910.jpg",
       "prices": [
         {
@@ -5122,7 +5087,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "207414573.jpg",
       "prices": [
         {
@@ -5145,7 +5110,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "207409010.jpg",
       "prices": [
         {
@@ -5168,7 +5133,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "207416962.jpg",
       "prices": [
         {
@@ -5191,7 +5156,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "207410856.jpg",
       "prices": [
         {
@@ -5214,7 +5179,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "208617750.jpg",
       "prices": [
         {
@@ -5237,7 +5202,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "208054053.jpg",
       "prices": [
         {
@@ -5306,7 +5271,7 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
       "image_local": "208024506.jpg",
       "prices": [
         {
@@ -6454,52 +6419,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-10mg-assorted-gummies-100mg-per-pack"
-    },
-    {
-      "id": 198745342,
-      "name": "Lemon Slushie | Cartridge | 1g",
-      "category": "Concentrate",
-      "edge_category": "Cartridge",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198745342.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-lemon-slushie-1g-thc-distillate-5-10-thread"
-    },
-    {
-      "id": 207417095,
-      "name": "Disposable | 1g",
-      "category": "Concentrate",
-      "edge_category": "Disposable",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440421417_New_Dispo_distillate_pen.JPG",
-      "image_local": "207417095.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-strawberry-cough-1g-thc-distillate-penjamin"
     }
   ],
   "logo_file": "logo.png"
