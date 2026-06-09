@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 229,
-    "updated_at": "2026-06-07T22:02:08.131Z",
+    "total_menu_items": 226,
+    "updated_at": "2026-06-08T20:17:58.013Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -260,6 +260,47 @@
       "slug": "lonely-bones-firewater"
     },
     {
+      "id": 197351960,
+      "name": "(1/2 Ounce Left) Lonely Bones: Zwiz",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 8,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438739930_ZWIZ.JPG",
+      "image_local": "197351960.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "lonely-bones-zwiz"
+    },
+    {
       "id": 157893448,
       "name": "Method Maine: Dulce de Fresa Smalls (Dulce de Uva X Strawberry Guava)",
       "category": "Indica",
@@ -299,47 +340,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "cannoisseur-dulce-de-fresa-smalls"
-    },
-    {
-      "id": 197351960,
-      "name": "*80/OZ!* Lonely Bones: Zwiz",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 8,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438739930_ZWIZ.JPG",
-      "image_local": "197351960.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-zwiz"
     },
     {
       "id": 197659878,
@@ -463,47 +463,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "living-matter-rs-11"
-    },
-    {
-      "id": 165467146,
-      "name": "(1/2 Ounce left) Kush Mints Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/433501115_Icy_Mac.jpg",
-      "image_local": "165467146.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "icy-mac-smalls"
     },
     {
       "id": 219449308,
@@ -711,6 +670,47 @@
       "slug": "brand-new-pink-starburst-smalls"
     },
     {
+      "id": 215156582,
+      "name": "(1/2 Ounce Left) Living Matter: Scented Marker Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442037865_Scented_Marker.JPG",
+      "image_local": "215156582.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matter-scented-marker-smalls"
+    },
+    {
       "id": 179363886,
       "name": "*Fire* Tourma Cannabis: Kush Mints",
       "category": "Indica",
@@ -791,47 +791,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "black-cherry-punch-smalls-dd650510-b1b5-4984-a4cb-b226e28c08b2"
-    },
-    {
-      "id": 215156582,
-      "name": "Living Matter: Scented Marker Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442037865_Scented_Marker.JPG",
-      "image_local": "215156582.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-scented-marker-smalls"
     },
     {
       "id": 150761237,
@@ -1039,29 +998,6 @@
       "slug": "living-matter-pancakes"
     },
     {
-      "id": 214676494,
-      "name": "Amber Valley Shatter 1g - Lemon Haze (S)",
-      "category": "Concentrate",
-      "edge_category": "Shatter",
-      "top_category": "Concentrates",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438526643_SHATTER_AYDEN.jpg",
-      "image_local": "214676494.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "amber-valley-lemon-haze-shatter"
-    },
-    {
       "id": 214676422,
       "name": "Amber Valley Shatter 1g - Trop Pie (S)",
       "category": "Concentrate",
@@ -1106,29 +1042,6 @@
       ],
       "current_deal_title": null,
       "slug": "amber-valley-gelato-1g-shatter"
-    },
-    {
-      "id": 214676326,
-      "name": "Amber Valley Shatter 1g - Gelato Cookies (I)",
-      "category": "Concentrate",
-      "edge_category": "Shatter",
-      "top_category": "Concentrates",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438526643_SHATTER_AYDEN.jpg",
-      "image_local": "214676326.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "amber-valley-gelato-cookies-shatter"
     },
     {
       "id": 163167402,
@@ -1177,6 +1090,29 @@
       "slug": "tourma-cannabis-gmo-cured-resin-1g-jar"
     },
     {
+      "id": 198745874,
+      "name": "Lonely Bones: 5 Mix and Match THC Distillate 1G Screw ON Thread $75",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.7,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "198745874.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 75.0,
+          "on_sale": false,
+          "original_price": 75.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-5-mix-and-match-thc-distillate-1g-5-10-thread-75"
+    },
+    {
       "id": 176445949,
       "name": "*New Batch* Lonely Bones Dry Diamonds 14G Baller Jar",
       "category": "Concentrate",
@@ -1204,29 +1140,6 @@
       ],
       "current_deal_title": null,
       "slug": "dry-diamonds-14g-baller-jar"
-    },
-    {
-      "id": 198745874,
-      "name": "Lonely Bones: 5 Mix and Match THC Distillate 1G Screw ON Thread $75",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.7,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198745874.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 75.0,
-          "on_sale": false,
-          "original_price": 75.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-5-mix-and-match-thc-distillate-1g-5-10-thread-75"
     },
     {
       "id": 161559350,
@@ -1548,8 +1461,8 @@
       "top_category": "Concentrates",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 4.0,
-      "reviews_count": 1,
+      "rating": 4.5,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442742338_Candy_Runtz_14G.JPG",
       "image_local": "211990926.jpg",
       "prices": [
@@ -5354,7 +5267,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.8,
-      "reviews_count": 76,
+      "reviews_count": 77,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
       "image_local": "193050080.jpg",
       "prices": [
