@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 226,
-    "updated_at": "2026-06-08T20:17:58.013Z",
+    "total_menu_items": 224,
+    "updated_at": "2026-06-09T20:27:52.046Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -73,27 +73,27 @@
       "slug": "mix-and-match-any-8ths-of-live-rosin-for-a-350"
     },
     {
-      "id": 210996505,
-      "name": "**We Pick!** 20 8ths of Assorted Smalls Max Out!",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
+      "id": 220266135,
+      "name": "Cream Caramel 14g Cured Resin Baller jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
       "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441189852_IMG_1755.JPG",
-      "image_local": "210996505.jpg",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442880858_Cream_Caramel.JPG",
+      "image_local": "220266135.jpg",
       "prices": [
         {
           "label": "each",
-          "price": 190.0,
+          "price": 100.0,
           "on_sale": false,
-          "original_price": 190.0
+          "original_price": 100.0
         }
       ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "2-5-oz-assorted-smalls-max-out-all-8ths"
+      "current_deal_title": null,
+      "slug": "cream-caramel-14g-cured-resin-baller-jar"
     },
     {
       "id": 107381484,
@@ -104,7 +104,7 @@
       "genetics": "Hybrid",
       "thc_pct": 28.0,
       "rating": 4.6,
-      "reviews_count": 29,
+      "reviews_count": 30,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/428512056_banana_bread_flower.JPG",
       "image_local": "107381484.jpg",
       "prices": [
@@ -260,45 +260,27 @@
       "slug": "lonely-bones-firewater"
     },
     {
-      "id": 197351960,
-      "name": "(1/2 Ounce Left) Lonely Bones: Zwiz",
+      "id": 210996505,
+      "name": "**We Pick!** 20 8ths of Assorted Smalls Max Out!",
       "category": "Indica",
-      "edge_category": "Flower",
+      "edge_category": "Smalls",
       "top_category": "Flower",
-      "genetics": null,
+      "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 8,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438739930_ZWIZ.JPG",
-      "image_local": "197351960.jpg",
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441189852_IMG_1755.JPG",
+      "image_local": "210996505.jpg",
       "prices": [
         {
-          "label": "1/8 oz",
-          "price": 10.0,
+          "label": "each",
+          "price": 190.0,
           "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
+          "original_price": 190.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-zwiz"
+      "slug": "2-5-oz-assorted-smalls-max-out-all-8ths"
     },
     {
       "id": 157893448,
@@ -1385,6 +1367,29 @@
       "slug": "gas-face-cured-resin-14g-baller-jar"
     },
     {
+      "id": 198745134,
+      "name": "Lonely Bones: Animal Cookies 1G THC Distillate Screw On Thread",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "198745134.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-animal-cookies-1g-thc-distillate-5-10-thread"
+    },
+    {
       "id": 198360177,
       "name": "Lonely Bones: Ice Cream Cake 1g THC Distillate Penjamin",
       "category": "Concentrate",
@@ -1475,29 +1480,6 @@
       ],
       "current_deal_title": null,
       "slug": "candy-runtz-14g-cured-resin-baller-jar"
-    },
-    {
-      "id": 198745134,
-      "name": "Lonely Bones: Animal Cookies 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198745134.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-animal-cookies-1g-thc-distillate-5-10-thread"
     },
     {
       "id": 199254888,
@@ -3417,29 +3399,6 @@
       "slug": "super-lemon-mac-cured-resin-1g"
     },
     {
-      "id": 220254188,
-      "name": "Wheres My Bike Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442879589_blueberry_kush.JPG",
-      "image_local": "220254188.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "blueberry-kush-cured-resin-1g"
-    },
-    {
       "id": 218361637,
       "name": "White Runtz Cured Resin 14G Baller Jar",
       "category": "Concentrate",
@@ -4086,29 +4045,6 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-live-liquid-diamond-super-boof-x-grape-sorbet-2g-penjamin"
-    },
-    {
-      "id": 220266135,
-      "name": "Cream Caramel 14g Cured Resin Baller jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442880858_Cream_Caramel.JPG",
-      "image_local": "220266135.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cream-caramel-14g-cured-resin-baller-jar"
     },
     {
       "id": 223653553,
