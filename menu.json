@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 224,
-    "updated_at": "2026-06-09T20:27:52.046Z",
+    "total_menu_items": 218,
+    "updated_at": "2026-06-10T20:46:42.761Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -137,47 +137,6 @@
       "slug": "banana-bread-flower"
     },
     {
-      "id": 203122181,
-      "name": "Carbon Fiber | Big Buds | 3.5g",
-      "category": "Indica",
-      "edge_category": "Big Buds",
-      "top_category": "Flower",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439501545_carbon_fiber.JPG",
-      "image_local": "203122181.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-carbon-fiber"
-    },
-    {
       "id": 145008363,
       "name": "Tourma Cannabis: GMO",
       "category": "Indica",
@@ -258,29 +217,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "lonely-bones-firewater"
-    },
-    {
-      "id": 210996505,
-      "name": "**We Pick!** 20 8ths of Assorted Smalls Max Out!",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441189852_IMG_1755.JPG",
-      "image_local": "210996505.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 190.0,
-          "on_sale": false,
-          "original_price": 190.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "2-5-oz-assorted-smalls-max-out-all-8ths"
     },
     {
       "id": 157893448,
@@ -372,8 +308,8 @@
       "top_category": "Flower",
       "genetics": null,
       "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 2,
+      "rating": 4.3,
+      "reviews_count": 3,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440152717_Fire_AF_new.JPG",
       "image_local": "192017967.jpg",
       "prices": [
@@ -407,7 +343,7 @@
     },
     {
       "id": 219576394,
-      "name": "Living Matter: Rainbow Sherbert-11",
+      "name": "(1/2oz Left) Living Matter: Rainbow Sherbert-11",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -652,47 +588,6 @@
       "slug": "brand-new-pink-starburst-smalls"
     },
     {
-      "id": 215156582,
-      "name": "(1/2 Ounce Left) Living Matter: Scented Marker Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442037865_Scented_Marker.JPG",
-      "image_local": "215156582.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-scented-marker-smalls"
-    },
-    {
       "id": 179363886,
       "name": "*Fire* Tourma Cannabis: Kush Mints",
       "category": "Indica",
@@ -732,88 +627,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "limited-tourma-cannabis-kush-mints-x-zoap"
-    },
-    {
-      "id": 175415436,
-      "name": "Living Matter: Black Cherry Punch",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775643_BC_Punch.JPG",
-      "image_local": "175415436.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "black-cherry-punch-smalls-dd650510-b1b5-4984-a4cb-b226e28c08b2"
-    },
-    {
-      "id": 150761237,
-      "name": "(Half OZ left!) Gushers Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442776932_gushers.JPG",
-      "image_local": "150761237.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "method-maine-p-funk-smalls"
     },
     {
       "id": 211381972,
@@ -1103,7 +916,7 @@
       "genetics": null,
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 20,
+      "reviews_count": 21,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437880927_dry_dia.JPG",
       "image_local": "176445949.jpg",
       "prices": [
@@ -1597,6 +1410,29 @@
       "slug": "eclipse-farms-dante-s-inferno-1g-cured-resin"
     },
     {
+      "id": 213005816,
+      "name": "(1 Left!) Ghost Train Haze 14g Cured resin Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.7,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442740911_Ghost_Train_Haze.JPG",
+      "image_local": "213005816.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "ghost-train-haze-14g-cured-resin-baller-jar"
+    },
+    {
       "id": 185641461,
       "name": "Lonely Bones: Banana Bread 1G Cured Resin Penz",
       "category": "Concentrate",
@@ -1641,29 +1477,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-tropical-punch-1g-thc-distillate-5-10-thread"
-    },
-    {
-      "id": 213005816,
-      "name": "(1 Left!) Ghost Train Haze 14g Cured resin Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442740911_Ghost_Train_Haze.JPG",
-      "image_local": "213005816.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "ghost-train-haze-14g-cured-resin-baller-jar"
     },
     {
       "id": 198744959,
@@ -2388,29 +2201,6 @@
       "slug": "lonely-bones-mylar-og-1g-cured-resin-pen-a0992790-97ad-4c27-933f-c0dacbbeef7c"
     },
     {
-      "id": 199254780,
-      "name": "(1 left!) Lonely Bones: Bowser Cured Resin Penz 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "199254780.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-pine-mints-cured-resin-pen-1g"
-    },
-    {
       "id": 214519692,
       "name": "Blue Zushi Live Rosin 1G",
       "category": "Concentrate",
@@ -2914,7 +2704,7 @@
     },
     {
       "id": 213385998,
-      "name": "Bananan Cooler Cured Resin 1G",
+      "name": "Banana Cooler Cured Resin 1G",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -5195,35 +4985,6 @@
       "slug": "tourma-cannabis-motor-breath-live-rosin-1g"
     },
     {
-      "id": 193050080,
-      "name": "Lonely Bones: Ready to Roll",
-      "category": "Indica",
-      "edge_category": "Ground",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 77,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
-      "image_local": "193050080.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-ready-to-roll"
-    },
-    {
       "id": 215865425,
       "name": "dirty taxi | Joints | 1g",
       "category": "Preroll",
@@ -5682,6 +5443,35 @@
       ],
       "current_deal_title": null,
       "slug": "method-p-funk-1g-pre-roll"
+    },
+    {
+      "id": 193050080,
+      "name": "Lonely Bones: Ready to Roll",
+      "category": "Indica",
+      "edge_category": "Ground",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 77,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
+      "image_local": "193050080.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "lonely-bones-ready-to-roll"
     },
     {
       "id": 185241360,
