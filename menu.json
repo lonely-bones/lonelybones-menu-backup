@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 248,
-    "updated_at": "2026-06-13T21:58:13.002Z",
+    "total_menu_items": 246,
+    "updated_at": "2026-06-15T13:26:26.328Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -125,47 +125,6 @@
       "slug": "lonely-bones-20-mix-and-match-thc-distillate-1g-5-10-thread-260"
     },
     {
-      "id": 107381484,
-      "name": "Banana Bread",
-      "category": "Indica",
-      "edge_category": "Big Buds",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 28.0,
-      "rating": 4.6,
-      "reviews_count": 31,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/428512056_banana_bread_flower.JPG",
-      "image_local": "107381484.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "banana-bread-flower"
-    },
-    {
       "id": 145008363,
       "name": "Tourma Cannabis: GMO",
       "category": "Indica",
@@ -205,47 +164,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "gmo"
-    },
-    {
-      "id": 199924094,
-      "name": "(1 Ounce Left) Lonely Bones: Firewater",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.3,
-      "reviews_count": 7,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439082542_fire_water.JPG",
-      "image_local": "199924094.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-firewater"
     },
     {
       "id": 157893266,
@@ -289,17 +207,17 @@
       "slug": "cannoisseur-double-rainbow-smalls"
     },
     {
-      "id": 197659878,
-      "name": "(1/2 Ounce Left) Lonely Bones: Lazer Wolf",
+      "id": 199924094,
+      "name": "(1 Ounce Left) Lonely Bones: Firewater",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 4.9,
-      "reviews_count": 19,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438779027_lazer_wolf.jpg",
-      "image_local": "197659878.jpg",
+      "rating": 4.3,
+      "reviews_count": 7,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439082542_fire_water.JPG",
+      "image_local": "199924094.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -327,7 +245,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-lazer-wolf"
+      "slug": "lonely-bones-firewater"
     },
     {
       "id": 192017967,
@@ -379,7 +297,7 @@
       "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 3,
+      "reviews_count": 4,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443510308_screampie.JPG",
       "image_local": "215156465.jpg",
       "prices": [
@@ -410,47 +328,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "living-matter-sherb-cream-pie-smalls"
-    },
-    {
-      "id": 179363886,
-      "name": "*Fire* Tourma Cannabis: Kush Mints",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436800271_kushmintsxzoap.JPG",
-      "image_local": "179363886.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "limited-tourma-cannabis-kush-mints-x-zoap"
     },
     {
       "id": 219449308,
@@ -494,58 +371,17 @@
       "slug": "100-oz-living-matter-banana-cooler"
     },
     {
-      "id": 215157863,
-      "name": "Living Matter: Cheetah Piss",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443511955_cheetah.JPG",
-      "image_local": "215157863.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-cheetah-piss-smalls"
-    },
-    {
-      "id": 219577210,
-      "name": "Living Matter: Hawaiian Marker",
+      "id": 179363886,
+      "name": "*Fire* Tourma Cannabis: Kush Mints",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
-      "genetics": "Hybrid",
+      "genetics": "Indica",
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775593_hawaiian_marker.JPG",
-      "image_local": "219577210.jpg",
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436800271_kushmintsxzoap.JPG",
+      "image_local": "179363886.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -573,7 +409,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-hawaiian-marker"
+      "slug": "limited-tourma-cannabis-kush-mints-x-zoap"
     },
     {
       "id": 216163724,
@@ -658,45 +494,86 @@
       "slug": "dr-melo-s-trop-cherry-smalls"
     },
     {
-      "id": 207771422,
-      "name": "*NEW!* Cannaisseur: Lit OG",
+      "id": 215157863,
+      "name": "Living Matter: Cheetah Piss",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443627556_litty_og.JPG",
-      "image_local": "207771422.jpg",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443511955_cheetah.JPG",
+      "image_local": "215157863.jpg",
       "prices": [
         {
           "label": "1/8 oz",
-          "price": 10.0,
+          "price": 15.0,
           "on_sale": false,
-          "original_price": 10.0
+          "original_price": 15.0
         },
         {
           "label": "1/4 oz",
-          "price": 20.0,
+          "price": 30.0,
           "on_sale": false,
-          "original_price": 20.0
+          "original_price": 30.0
         },
         {
           "label": "1/2 oz",
-          "price": 40.0,
+          "price": 50.0,
           "on_sale": false,
-          "original_price": 40.0
+          "original_price": 50.0
         },
         {
           "label": "1 oz",
-          "price": 80.0,
+          "price": 100.0,
           "on_sale": false,
-          "original_price": 80.0
+          "original_price": 100.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-cannaisseur-sfv-smalls"
+      "slug": "living-matter-cheetah-piss-smalls"
+    },
+    {
+      "id": 219577210,
+      "name": "Living Matter: Hawaiian Marker",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775593_hawaiian_marker.JPG",
+      "image_local": "219577210.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matter-hawaiian-marker"
     },
     {
       "id": 224537917,
@@ -738,47 +615,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "dr-melo-s-megalodon-smalls"
-    },
-    {
-      "id": 211381972,
-      "name": "Alien Cookies Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 4.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441924673_SLM.JPG",
-      "image_local": "211381972.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-super-lemon-mac-smalls"
     },
     {
       "id": 224537752,
@@ -904,47 +740,6 @@
       "slug": "fifo-cultivation-dirty-taxi-gmo-x-i-95"
     },
     {
-      "id": 223954692,
-      "name": "Living Matter: Pancakes",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443511828_Pancakes_smalls_new.JPG",
-      "image_local": "223954692.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-pancakes"
-    },
-    {
       "id": 223944509,
       "name": "Tourma Cannabis: Royal Jelly",
       "category": "Indica",
@@ -984,6 +779,129 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "living-matter-royal-jelly"
+    },
+    {
+      "id": 207771422,
+      "name": "*NEW!* Cannaisseur: Lit OG",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443627556_litty_og.JPG",
+      "image_local": "207771422.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-cannaisseur-sfv-smalls"
+    },
+    {
+      "id": 211381972,
+      "name": "Alien Cookies Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 4.5,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441924673_SLM.JPG",
+      "image_local": "211381972.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-super-lemon-mac-smalls"
+    },
+    {
+      "id": 223954692,
+      "name": "Living Matter: Pancakes",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443511828_Pancakes_smalls_new.JPG",
+      "image_local": "223954692.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matter-pancakes"
     },
     {
       "id": 223152297,
@@ -2809,29 +2727,6 @@
       "slug": "super-lemon-haze-cured-resin-1g"
     },
     {
-      "id": 220266563,
-      "name": "(1 Left) Sherb Cream Pie 14g Cured Resin Baller jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442880943_Sherb_Cream_pie_14G.JPG",
-      "image_local": "220266563.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "sherb-cream-pie-14g-cured-resin-baller-jar"
-    },
-    {
       "id": 210227060,
       "name": "Animal Cookies Cured Resin 1G",
       "category": "Concentrate",
@@ -2855,17 +2750,17 @@
       "slug": "apple-fritter-cured-resin-1g"
     },
     {
-      "id": 213385998,
-      "name": "Banana Cooler Cured Resin 1G",
+      "id": 220254188,
+      "name": "Black Canyon Kush Cured Resin 1G",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
-      "genetics": "Indica",
+      "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441697079_gelato_33.JPG",
-      "image_local": "213385998.jpg",
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442879589_blueberry_kush.JPG",
+      "image_local": "220254188.jpg",
       "prices": [
         {
           "label": "1 g",
@@ -2875,7 +2770,7 @@
         }
       ],
       "current_deal_title": null,
-      "slug": "gelato-33-cured-resin-1g"
+      "slug": "blueberry-kush-cured-resin-1g"
     },
     {
       "id": 219576681,
@@ -3779,6 +3674,29 @@
       ],
       "current_deal_title": null,
       "slug": "blue-cookies-cured-resin-14g-baller-jar"
+    },
+    {
+      "id": 215952244,
+      "name": "Blue Powerade Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442183985_carbon.JPG",
+      "image_local": "215952244.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "carbon-fiber-cured-resin-1g"
     },
     {
       "id": 223574401,
@@ -5614,35 +5532,6 @@
       "slug": "tourma-cannabis-motor-breath-live-rosin-1g"
     },
     {
-      "id": 193050080,
-      "name": "Lonely Bones: Ready to Roll",
-      "category": "Indica",
-      "edge_category": "Ground",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 79,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
-      "image_local": "193050080.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-ready-to-roll"
-    },
-    {
       "id": 215865425,
       "name": "dirty taxi | Joints | 1g",
       "category": "Preroll",
@@ -5851,7 +5740,7 @@
     },
     {
       "id": 223559090,
-      "name": "Cannaseaur: OG Kiss Pre Roll",
+      "name": "Cannaseaur: OG Kiss Pre Roll (OG Kush X Smooch)",
       "category": "Preroll",
       "edge_category": "Joints",
       "top_category": "Pre-Rolls",
@@ -6147,6 +6036,35 @@
       ],
       "current_deal_title": null,
       "slug": "method-p-funk-1g-pre-roll"
+    },
+    {
+      "id": 193050080,
+      "name": "Lonely Bones: Ready to Roll",
+      "category": "Indica",
+      "edge_category": "Ground",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 79,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
+      "image_local": "193050080.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "lonely-bones-ready-to-roll"
     },
     {
       "id": 185241360,
