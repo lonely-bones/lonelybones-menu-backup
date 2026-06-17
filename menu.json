@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 250,
-    "updated_at": "2026-06-16T01:32:34.868Z",
+    "total_menu_items": 248,
+    "updated_at": "2026-06-16T21:02:36.353Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -50,27 +50,45 @@
       "slug": "new-tourma-apple-fritter"
     },
     {
-      "id": 220446102,
-      "name": "Mix and match any 8ths of Live Rosin for a $350",
-      "category": "Concentrate",
-      "edge_category": "Rosin",
-      "top_category": "Concentrates",
+      "id": 224146187,
+      "name": "*Fire!* FIFO Cultivation: Cereal Milk",
+      "category": "Indica",
+      "edge_category": "Big Buds",
+      "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442347167_laughinbuddha.JPG",
-      "image_local": "220446102.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443539265_ceral_miulk.JPG",
+      "image_local": "224146187.jpg",
       "prices": [
         {
-          "label": "1/2 oz",
-          "price": 350.0,
+          "label": "1/8 oz",
+          "price": 15.0,
           "on_sale": false,
-          "original_price": 350.0
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
         }
       ],
-      "current_deal_title": null,
-      "slug": "mix-and-match-any-8ths-of-live-rosin-for-a-350"
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "fifo-cultivation-cereal-milk"
     },
     {
       "id": 190750561,
@@ -205,47 +223,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "cannoisseur-double-rainbow-smalls"
-    },
-    {
-      "id": 199924094,
-      "name": "(1 Ounce Left) Lonely Bones: Firewater",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.4,
-      "reviews_count": 8,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439082542_fire_water.JPG",
-      "image_local": "199924094.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-firewater"
     },
     {
       "id": 192017967,
@@ -454,7 +431,7 @@
     },
     {
       "id": 216163724,
-      "name": "Pink Starburst Smalls",
+      "name": "(1 OZ left!) Pink Starburst Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -574,47 +551,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "dr-melo-s-trop-cherry-smalls"
-    },
-    {
-      "id": 215157863,
-      "name": "Living Matter: Cheetah Piss",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443511955_cheetah.JPG",
-      "image_local": "215157863.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-cheetah-piss-smalls"
     },
     {
       "id": 219577210,
@@ -779,47 +715,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "dr-melo-s-wizard-pie-smalls"
-    },
-    {
-      "id": 224146187,
-      "name": "FIFO Cultivation: Cereal Milk",
-      "category": "Indica",
-      "edge_category": "Big Buds",
-      "top_category": "Flower",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443539265_ceral_miulk.JPG",
-      "image_local": "224146187.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "fifo-cultivation-cereal-milk"
     },
     {
       "id": 224146031,
@@ -1068,6 +963,29 @@
       "slug": "permanent-marker-smalls"
     },
     {
+      "id": 198744959,
+      "name": "Chem D | Solvent | 1g",
+      "category": "Concentrate",
+      "edge_category": "Solvent",
+      "top_category": "Concentrates",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "198744959.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-banana-smoothie-1g-thc-distillate-5-10-thread"
+    },
+    {
       "id": 223152297,
       "name": "Amber Valley Shatter 1g - Gelato (H)",
       "category": "Concentrate",
@@ -1075,8 +993,8 @@
       "top_category": "Concentrates",
       "genetics": null,
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
+      "rating": 5.0,
+      "reviews_count": 1,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443400339_shatter.jpg",
       "image_local": "223152297.jpg",
       "prices": [
@@ -1754,29 +1672,6 @@
       "slug": "lonely-bones-tropical-punch-1g-thc-distillate-5-10-thread"
     },
     {
-      "id": 198744959,
-      "name": "Lonely Bones: Chem D 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 4,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198744959.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-banana-smoothie-1g-thc-distillate-5-10-thread"
-    },
-    {
       "id": 204862742,
       "name": "Blackberry Kush Live Rosin 3.5g Baller",
       "category": "Concentrate",
@@ -2042,52 +1937,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-purple-ice-water-1g-thc-distillate-5-10-thread"
-    },
-    {
-      "id": 198744865,
-      "name": "Lonely Bones: Blueberry Muffin 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198744865.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-arctic-grape-1g-thc-distillate-5-10-thread"
-    },
-    {
-      "id": 198744810,
-      "name": "Lonely Bones: Blueberry Runtz 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198744810.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-blueberry-pie-1g-thc-distillate-5-10-thread"
     },
     {
       "id": 187051534,
@@ -2837,6 +2686,29 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-zwiz-cured-resin-pen-1g"
+    },
+    {
+      "id": 220446102,
+      "name": "Mix and match any 8ths of Live Rosin for a $350",
+      "category": "Concentrate",
+      "edge_category": "Rosin",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442347167_laughinbuddha.JPG",
+      "image_local": "220446102.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "mix-and-match-any-8ths-of-live-rosin-for-a-350"
     },
     {
       "id": 215568188,
@@ -6528,6 +6400,52 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-10mg-assorted-gummies-100mg-per-pack"
+    },
+    {
+      "id": 198744865,
+      "name": "Blueberry Muffin | Cartridge | 1g",
+      "category": "Concentrate",
+      "edge_category": "Cartridge",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "198744865.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-arctic-grape-1g-thc-distillate-5-10-thread"
+    },
+    {
+      "id": 198744810,
+      "name": "Blueberry Runtz | Cartridge | 1g",
+      "category": "Concentrate",
+      "edge_category": "Cartridge",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "198744810.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-blueberry-pie-1g-thc-distillate-5-10-thread"
     },
     {
       "id": 198745731,
