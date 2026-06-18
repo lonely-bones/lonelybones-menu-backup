@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 248,
-    "updated_at": "2026-06-16T21:02:36.353Z",
+    "total_menu_items": 246,
+    "updated_at": "2026-06-17T14:25:58.926Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -120,17 +120,17 @@
       "slug": "lonely-bones-mix-and-match-live-resin-14gs"
     },
     {
-      "id": 198745855,
-      "name": "Lonely Bones: 20 Mix and Match THC Distillate 1G Screw On Thread $260",
+      "id": 198519091,
+      "name": "Lonely Bones: 20 Mix and Match THC Distillate 1G Penz $260",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
-      "genetics": "Hybrid",
+      "genetics": null,
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198745855.jpg",
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922912_dispo_bulk.jpg",
+      "image_local": "198519091.jpg",
       "prices": [
         {
           "label": "each",
@@ -140,7 +140,7 @@
         }
       ],
       "current_deal_title": null,
-      "slug": "lonely-bones-20-mix-and-match-thc-distillate-1g-5-10-thread-260"
+      "slug": "lonely-bones-20-mix-and-match-thc-distillate-1g-pens-260"
     },
     {
       "id": 145008363,
@@ -307,6 +307,47 @@
       "slug": "living-matter-sherb-cream-pie-smalls"
     },
     {
+      "id": 148861245,
+      "name": "Franken Cakes Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.9,
+      "reviews_count": 12,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/429881643_franken_cakes_smalls.jpg",
+      "image_local": "148861245.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "franken-cakes-smalls"
+    },
+    {
       "id": 219449308,
       "name": "Living Matter: Banana Cooler",
       "category": "Indica",
@@ -389,17 +430,17 @@
       "slug": "limited-tourma-cannabis-kush-mints-x-zoap"
     },
     {
-      "id": 148861245,
-      "name": "Franken Cakes Smalls",
+      "id": 224537578,
+      "name": "Dr. Melo's: Trop Cherry Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 4.9,
-      "reviews_count": 12,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/429881643_franken_cakes_smalls.jpg",
-      "image_local": "148861245.jpg",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443608536_DR_Melos_Trop.JPG",
+      "image_local": "224537578.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -427,48 +468,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "franken-cakes-smalls"
-    },
-    {
-      "id": 216163724,
-      "name": "(1 OZ left!) Pink Starburst Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443461571_pinkstar.JPG",
-      "image_local": "216163724.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "brand-new-pink-starburst-smalls"
+      "slug": "dr-melo-s-trop-cherry-smalls"
     },
     {
       "id": 193066454,
@@ -510,47 +510,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "lonely-bones-bowser-smalls"
-    },
-    {
-      "id": 224537578,
-      "name": "Dr. Melo's: Trop Cherry Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443608536_DR_Melos_Trop.JPG",
-      "image_local": "224537578.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "dr-melo-s-trop-cherry-smalls"
     },
     {
       "id": 219577210,
@@ -1182,6 +1141,29 @@
       "slug": "lonely-bones-dry-diamonds-1g-jar"
     },
     {
+      "id": 198364711,
+      "name": "Lonely Bones: 5 Mix and Match THC Distillate 1G Penz $75",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922912_dispo_bulk.jpg",
+      "image_local": "198364711.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 75.0,
+          "on_sale": false,
+          "original_price": 75.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-5-mix-and-match-thc-distillate-1g-disposables-75"
+    },
+    {
       "id": 176406205,
       "name": "Tourma Cannabis: GMO Cured Resin 14g Baller Jar",
       "category": "Concentrate",
@@ -1209,52 +1191,6 @@
       ],
       "current_deal_title": null,
       "slug": "gmo-cured-resin-14g-baller-jar-1e0642f4-7099-44a5-8997-47c736d995c2"
-    },
-    {
-      "id": 198519091,
-      "name": "Lonely Bones: 20 Mix and Match THC Distillate 1G Penz $260",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922912_dispo_bulk.jpg",
-      "image_local": "198519091.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 260.0,
-          "on_sale": false,
-          "original_price": 260.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-20-mix-and-match-thc-distillate-1g-pens-260"
-    },
-    {
-      "id": 198364711,
-      "name": "Lonely Bones: 5 Mix and Match THC Distillate 1G Penz $75",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922912_dispo_bulk.jpg",
-      "image_local": "198364711.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 75.0,
-          "on_sale": false,
-          "original_price": 75.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-5-mix-and-match-thc-distillate-1g-disposables-75"
     },
     {
       "id": 199216855,
@@ -1298,29 +1234,6 @@
       "slug": "lonely-bones-gmo-live-hash-rosin-3-5-baller"
     },
     {
-      "id": 212117143,
-      "name": "Cadillac: Live Liquid Diamond Mango Haze X Durban Poison 2G Penjamin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "212117143.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-mango-haze-x-durban-poison-2g-penjamin"
-    },
-    {
       "id": 185307719,
       "name": "Gas Face Cured Resin 14G Baller Jar",
       "category": "Concentrate",
@@ -1348,6 +1261,29 @@
       ],
       "current_deal_title": null,
       "slug": "gas-face-cured-resin-14g-baller-jar"
+    },
+    {
+      "id": 212117143,
+      "name": "Cadillac: Live Liquid Diamond Mango Haze X Durban Poison 2G Penjamin",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
+      "image_local": "212117143.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 45.0,
+          "on_sale": false,
+          "original_price": 45.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cadillac-live-liquid-diamond-mango-haze-x-durban-poison-2g-penjamin"
     },
     {
       "id": 198745134,
@@ -1440,6 +1376,58 @@
       ],
       "current_deal_title": null,
       "slug": "candy-runtz-14g-cured-resin-baller-jar"
+    },
+    {
+      "id": 219620292,
+      "name": "FiFo: Miracle Mints Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442785678_Miracle_Mintz.JPG",
+      "image_local": "219620292.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "fifo-miracle-mints-cured-resin-14g-baller"
+    },
+    {
+      "id": 185336092,
+      "name": "Gorilla Glue Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442156522_IMG_1957.JPG",
+      "image_local": "185336092.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "gorilla-glue-4-cured-resin-14g-baller"
     },
     {
       "id": 199254888,
@@ -1601,6 +1589,35 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-zsunami-1g-cured-resin-pen"
+    },
+    {
+      "id": 179839083,
+      "name": "Pie Eyed Cured Resin 14G Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443163285_pie_eyed.JPG",
+      "image_local": "179839083.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "pie-eyed-cured-resin-14g-baller-jar"
     },
     {
       "id": 160611269,
@@ -1777,6 +1794,29 @@
       "slug": "20-mix-and-match-cured-resin-disposables-1g-pens"
     },
     {
+      "id": 198745855,
+      "name": "Lonely Bones: 20 Mix and Match THC Distillate 1G Screw On Thread $260",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "198745855.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 260.0,
+          "on_sale": false,
+          "original_price": 260.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-20-mix-and-match-thc-distillate-1g-5-10-thread-260"
+    },
+    {
       "id": 198364174,
       "name": "Lonely Bones: Mix and Match 50 1G THC Distillate Penz $12 each!",
       "category": "Concentrate",
@@ -1862,58 +1902,6 @@
       ],
       "current_deal_title": null,
       "slug": "wedding-pie-live-rosin-3-5g-baller"
-    },
-    {
-      "id": 219620292,
-      "name": "FiFo: Miracle Mints Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442785678_Miracle_Mintz.JPG",
-      "image_local": "219620292.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "fifo-miracle-mints-cured-resin-14g-baller"
-    },
-    {
-      "id": 185336092,
-      "name": "Gorilla Glue Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442156522_IMG_1957.JPG",
-      "image_local": "185336092.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "gorilla-glue-4-cured-resin-14g-baller"
     },
     {
       "id": 198745313,
@@ -2167,35 +2155,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-orange-soda-1g-thc-distillate-5-10-thread"
-    },
-    {
-      "id": 179839083,
-      "name": "Pie Eyed Cured Resin 14G Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443163285_pie_eyed.JPG",
-      "image_local": "179839083.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "pie-eyed-cured-resin-14g-baller-jar"
     },
     {
       "id": 198745227,
@@ -5568,35 +5527,6 @@
       "slug": "tourma-cannabis-motor-breath-live-rosin-1g"
     },
     {
-      "id": 193050080,
-      "name": "Lonely Bones: Ready to Roll",
-      "category": "Indica",
-      "edge_category": "Ground",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 79,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
-      "image_local": "193050080.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-ready-to-roll"
-    },
-    {
       "id": 215865425,
       "name": "dirty taxi | Joints | 1g",
       "category": "Preroll",
@@ -5618,29 +5548,6 @@
       ],
       "current_deal_title": null,
       "slug": "leaf-labs-jedi-breath-1g-pre-roll-8c5b5e7c-76ab-444e-b1b9-5fab9843901e"
-    },
-    {
-      "id": 202048510,
-      "name": "garlic grove | Joints | 1g",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 21.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439360826_leaf_labs_pre_roll.JPG",
-      "image_local": "202048510.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "leaf-labs-citral-glue-1g-pre-roll"
     },
     {
       "id": 145987368,
@@ -6101,6 +6008,35 @@
       ],
       "current_deal_title": null,
       "slug": "method-p-funk-1g-pre-roll"
+    },
+    {
+      "id": 193050080,
+      "name": "Lonely Bones: Ready to Roll",
+      "category": "Indica",
+      "edge_category": "Ground",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 79,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
+      "image_local": "193050080.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "lonely-bones-ready-to-roll"
     },
     {
       "id": 185241360,
