@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 246,
-    "updated_at": "2026-06-17T14:25:58.926Z",
+    "total_menu_items": 247,
+    "updated_at": "2026-06-18T19:15:38.184Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -143,6 +143,47 @@
       "slug": "lonely-bones-20-mix-and-match-thc-distillate-1g-pens-260"
     },
     {
+      "id": 225060290,
+      "name": "Hash Burger | Big Buds | 3.5g",
+      "category": "Indica",
+      "edge_category": "Big Buds",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443683565_hash_burgewr.JPG",
+      "image_local": "225060290.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        },
+        {
+          "label": "1 oz",
+          "price": 120.0,
+          "on_sale": false,
+          "original_price": 120.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "northern-terps-hash-burger"
+    },
+    {
       "id": 145008363,
       "name": "Tourma Cannabis: GMO",
       "category": "Indica",
@@ -280,27 +321,27 @@
       "prices": [
         {
           "label": "1/8 oz",
-          "price": 15.0,
+          "price": 10.0,
           "on_sale": false,
-          "original_price": 15.0
+          "original_price": 10.0
         },
         {
           "label": "1/4 oz",
-          "price": 30.0,
+          "price": 20.0,
           "on_sale": false,
-          "original_price": 30.0
+          "original_price": 20.0
         },
         {
           "label": "1/2 oz",
-          "price": 50.0,
+          "price": 40.0,
           "on_sale": false,
-          "original_price": 50.0
+          "original_price": 40.0
         },
         {
           "label": "1 oz",
-          "price": 100.0,
+          "price": 80.0,
           "on_sale": false,
-          "original_price": 100.0
+          "original_price": 80.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
@@ -526,27 +567,27 @@
       "prices": [
         {
           "label": "1/8 oz",
-          "price": 15.0,
+          "price": 10.0,
           "on_sale": false,
-          "original_price": 15.0
+          "original_price": 10.0
         },
         {
           "label": "1/4 oz",
-          "price": 30.0,
+          "price": 20.0,
           "on_sale": false,
-          "original_price": 30.0
+          "original_price": 20.0
         },
         {
           "label": "1/2 oz",
-          "price": 50.0,
+          "price": 40.0,
           "on_sale": false,
-          "original_price": 50.0
+          "original_price": 40.0
         },
         {
           "label": "1 oz",
-          "price": 100.0,
+          "price": 80.0,
           "on_sale": false,
-          "original_price": 100.0
+          "original_price": 80.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
@@ -840,6 +881,47 @@
       "slug": "new-super-lemon-mac-smalls"
     },
     {
+      "id": 225062217,
+      "name": "*Employee favorite*Northern Terps: MOB (Mother Of Berry)",
+      "category": "Indica",
+      "edge_category": "Big Buds",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443683958_MOB.JPG",
+      "image_local": "225062217.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        },
+        {
+          "label": "1 oz",
+          "price": 120.0,
+          "on_sale": false,
+          "original_price": 120.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "employee-favorite-northern-terps-mob-mother-of-berry"
+    },
+    {
       "id": 223954692,
       "name": "Living Matter: Pancakes",
       "category": "Indica",
@@ -879,6 +961,88 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "living-matter-pancakes"
+    },
+    {
+      "id": 225065537,
+      "name": "Northern Terps: Lemon De Mango",
+      "category": "Indica",
+      "edge_category": "Big Buds",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443684368_lemon_de_mango_.JPG",
+      "image_local": "225065537.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "northern-terps-lemon-de-mango"
+    },
+    {
+      "id": 225064350,
+      "name": "Northern Terps: Sin Mints",
+      "category": "Indica",
+      "edge_category": "Big Buds",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443684226_sin_mints.JPG",
+      "image_local": "225064350.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "northern-terps-sin-mints"
     },
     {
       "id": 151279605,
@@ -1687,47 +1851,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-tropical-punch-1g-thc-distillate-5-10-thread"
-    },
-    {
-      "id": 204862742,
-      "name": "Blackberry Kush Live Rosin 3.5g Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443385958_rasp.JPG",
-      "image_local": "204862742.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "animal-cookies-live-rosin-3-5g-baller"
     },
     {
       "id": 209069307,
@@ -3607,47 +3730,6 @@
       "slug": "amber-valley-strawberry-haze-1g-shatter-364afd7a-d762-4243-88e9-7382eea0eb05"
     },
     {
-      "id": 223657946,
-      "name": "Banana OG Live Rosin 3.5G",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443469510_bananaog.JPG",
-      "image_local": "223657946.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "fifo-banana-og-live-rosin-3-5g"
-    },
-    {
       "id": 223154452,
       "name": "Blue Cookies Cured Resin 14G Baller Jar",
       "category": "Concentrate",
@@ -5307,47 +5389,6 @@
       "slug": "mix-any-28g-s-of-live-rosin-for-750"
     },
     {
-      "id": 216792358,
-      "name": "Point Break Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442346909_pointbreak.JPG",
-      "image_local": "216792358.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "point-break-live-hash-rosin-3-5g-baller"
-    },
-    {
       "id": 223575907,
       "name": "Red Runtz Live Rosin 3.5g Baller",
       "category": "Concentrate",
@@ -5527,6 +5568,35 @@
       "slug": "tourma-cannabis-motor-breath-live-rosin-1g"
     },
     {
+      "id": 193050080,
+      "name": "Lonely Bones: Ready to Roll",
+      "category": "Indica",
+      "edge_category": "Ground",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 79,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
+      "image_local": "193050080.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "lonely-bones-ready-to-roll"
+    },
+    {
       "id": 215865425,
       "name": "dirty taxi | Joints | 1g",
       "category": "Preroll",
@@ -5619,6 +5689,29 @@
       "slug": "any-assorted-pre-rolls-5-pack-mix-and-match-for-25"
     },
     {
+      "id": 223559082,
+      "name": "Cannaseaur: Glitter Bomb Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
+      "image_local": "223559082.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cannaseaur-glitter-bomb-pre-roll"
+    },
+    {
       "id": 202048916,
       "name": "Leaf Labs: 5-Pack Mix and Match for $25!",
       "category": "Preroll",
@@ -5663,29 +5756,6 @@
       ],
       "current_deal_title": null,
       "slug": "cannaseaur-berry-bonds-pre-roll"
-    },
-    {
-      "id": 223559082,
-      "name": "Cannaseaur: Glitter Bomb Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
-      "image_local": "223559082.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cannaseaur-glitter-bomb-pre-roll"
     },
     {
       "id": 223559053,
@@ -6008,35 +6078,6 @@
       ],
       "current_deal_title": null,
       "slug": "method-p-funk-1g-pre-roll"
-    },
-    {
-      "id": 193050080,
-      "name": "Lonely Bones: Ready to Roll",
-      "category": "Indica",
-      "edge_category": "Ground",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 79,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
-      "image_local": "193050080.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-ready-to-roll"
     },
     {
       "id": 185241360,
