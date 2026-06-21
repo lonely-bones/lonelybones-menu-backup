@@ -1,7 +1,7 @@
 {
   "meta": {
     "total_menu_items": 252,
-    "updated_at": "2026-06-19T19:48:20.291Z",
+    "updated_at": "2026-06-20T21:23:44.218Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -182,6 +182,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "northern-terps-hash-burger"
+    },
+    {
+      "id": 107381484,
+      "name": "(1 OZ left!) Lonely Bones: Banana Bread",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.9,
+      "reviews_count": 94,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/428512056_banana_bread_flower.JPG",
+      "image_local": "107381484.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "banana-bread-flower"
     },
     {
       "id": 145008363,
@@ -512,6 +553,47 @@
       "slug": "lonely-bones-bowser-smalls"
     },
     {
+      "id": 225062217,
+      "name": "*Employee favorite*Northern Terps: MOB (Mother Of Berry)",
+      "category": "Indica",
+      "edge_category": "Big Buds",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443683958_MOB.JPG",
+      "image_local": "225062217.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        },
+        {
+          "label": "1 oz",
+          "price": 120.0,
+          "on_sale": false,
+          "original_price": 120.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "employee-favorite-northern-terps-mob-mother-of-berry"
+    },
+    {
       "id": 224146187,
       "name": "*Fire!* FIFO Cultivation: Cereal Milk",
       "category": "Indica",
@@ -715,47 +797,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "cannaisseur-the-doctor-smalls"
-    },
-    {
-      "id": 225062217,
-      "name": "*Employee favorite*Northern Terps: MOB (Mother Of Berry)",
-      "category": "Indica",
-      "edge_category": "Big Buds",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443683958_MOB.JPG",
-      "image_local": "225062217.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        },
-        {
-          "label": "1 oz",
-          "price": 120.0,
-          "on_sale": false,
-          "original_price": 120.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "employee-favorite-northern-terps-mob-mother-of-berry"
     },
     {
       "id": 224537752,
@@ -1655,35 +1696,6 @@
       "slug": "gas-face-cured-resin-14g-baller-jar"
     },
     {
-      "id": 185336092,
-      "name": "Gorilla Glue Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442156522_IMG_1957.JPG",
-      "image_local": "185336092.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "gorilla-glue-4-cured-resin-14g-baller"
-    },
-    {
       "id": 198745134,
       "name": "Lonely Bones: Animal Cookies 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -2543,6 +2555,35 @@
       "slug": "peach-rings-cured-resin-14g-baller"
     },
     {
+      "id": 197733811,
+      "name": "Glitter Bomb Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 5,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440906324_sherbangernew.JPG",
+      "image_local": "197733811.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "orange-creamsicle-cured-resin-14g-baller"
+    },
+    {
       "id": 198745227,
       "name": "Lonely Bones: Chocolate Dipped Bananas 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -2589,39 +2630,33 @@
       "slug": "lonely-bones-blue-dream-1g-thc-distillate-screw-on-thread"
     },
     {
-      "id": 187964132,
-      "name": "RS-11 LIVE RESIN 3.5G Jar",
+      "id": 182699761,
+      "name": "Gary Payton Cured Resin 14G Baller",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
-      "genetics": "Hybrid",
+      "genetics": "Indica",
       "thc_pct": 0.0,
-      "rating": 4.3,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437698934_rs11live.JPG",
-      "image_local": "187964132.jpg",
+      "rating": 4.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437118824_sophies_breath14.JPG",
+      "image_local": "182699761.jpg",
       "prices": [
         {
-          "label": "1/8 oz",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
           "label": "1/2 oz",
-          "price": 150.0,
+          "price": 100.0,
           "on_sale": false,
-          "original_price": 150.0
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
         }
       ],
       "current_deal_title": null,
-      "slug": "rs-11-live-resin-3-5g-jar"
+      "slug": "sophies-breath-cured-resin-14g-baller"
     },
     {
       "id": 198745525,
@@ -2760,6 +2795,29 @@
       ],
       "current_deal_title": null,
       "slug": "popscotti-cured-resin-1g"
+    },
+    {
+      "id": 211716405,
+      "name": "Glitter Bomb Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442624655_animal_face_1g.JPG",
+      "image_local": "211716405.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "animal-face-cured-resin-1g"
     },
     {
       "id": 216793470,
@@ -3108,27 +3166,56 @@
       "slug": "strawberry-cough-cured-resin-14g-baller"
     },
     {
-      "id": 210227060,
-      "name": "(Only 1 Left) Animal Cookies Cured Resin 1G",
+      "id": 186479824,
+      "name": "( Only 2 Left) Super Lemon Mac Cured Resin 14g Baller Jar",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441045986_apple_frit1g.JPG",
-      "image_local": "210227060.jpg",
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443308624_SLM.JPG",
+      "image_local": "186479824.jpg",
       "prices": [
         {
-          "label": "1 g",
-          "price": 10.0,
+          "label": "1/2 oz",
+          "price": 100.0,
           "on_sale": false,
-          "original_price": 10.0
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
         }
       ],
       "current_deal_title": null,
-      "slug": "apple-fritter-cured-resin-1g"
+      "slug": "super-lemon-mac-cured-resin-1g"
+    },
+    {
+      "id": 218300928,
+      "name": "(Only 1 Left) Blue Gummies Cured Resin 14G Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442576535_Blue_Gummies.JPG",
+      "image_local": "218300928.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "blue-gummies-cured-resin-14g-baller-jar"
     },
     {
       "id": 220254188,
@@ -3181,29 +3268,6 @@
       ],
       "current_deal_title": null,
       "slug": "fifo-gas-mix-cured-resin-14g-baller"
-    },
-    {
-      "id": 218300928,
-      "name": "Blue Gummies Cured Resin 14G Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442576535_Blue_Gummies.JPG",
-      "image_local": "218300928.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "blue-gummies-cured-resin-14g-baller-jar"
     },
     {
       "id": 223154409,
@@ -3337,29 +3401,6 @@
       ],
       "current_deal_title": null,
       "slug": "gmo-rootbeer-live-hash-rosin-3-5g"
-    },
-    {
-      "id": 222437550,
-      "name": "Grape Ape Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443288682_grape_ape.JPG",
-      "image_local": "222437550.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "grape-ape-cured-resin-1g"
     },
     {
       "id": 220446771,
@@ -3634,31 +3675,8 @@
       "slug": "lonely-bones-sour-apple-live-resin-3-5g-baller"
     },
     {
-      "id": 210226876,
-      "name": "Strawberry Cough Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441045964_cherry_root.JPG",
-      "image_local": "210226876.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cherry-rootbeer-cured-resin-1g"
-    },
-    {
-      "id": 186479824,
-      "name": "Super Lemon Mac Cured Resin 14g Baller Jar",
+      "id": 211796555,
+      "name": "Royal Jelly Cured Resin 14G Baller",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -3666,8 +3684,8 @@
       "thc_pct": 0.0,
       "rating": 5.0,
       "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443308624_SLM.JPG",
-      "image_local": "186479824.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442370110_IMG_1983.JPG",
+      "image_local": "211796555.jpg",
       "prices": [
         {
           "label": "1/2 oz",
@@ -3683,7 +3701,7 @@
         }
       ],
       "current_deal_title": null,
-      "slug": "super-lemon-mac-cured-resin-1g"
+      "slug": "purple-ice-water-cured-resin-14g-baller"
     },
     {
       "id": 218361637,
@@ -5179,8 +5197,8 @@
       "slug": "lonely-bones-purple-punch-1g-thc-distillate-screw-on-thread"
     },
     {
-      "id": 224657472,
-      "name": "Lonely Bones: Rainbow Guava 1G THC Distillate Screw On Thread",
+      "id": 207394813,
+      "name": "Lonely Bones: Rainbow Beltz 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -5189,7 +5207,7 @@
       "rating": 0.0,
       "reviews_count": 0,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "224657472.jpg",
+      "image_local": "207394813.jpg",
       "prices": [
         {
           "label": "1 g",
@@ -5199,7 +5217,7 @@
         }
       ],
       "current_deal_title": null,
-      "slug": "lonely-bones-rainbow-guava-1g-thc-distillate-screw-on-thread"
+      "slug": "lonely-bones-mai-tai-1g-thc-distillate-screw-on-thread"
     },
     {
       "id": 207410856,
@@ -5271,6 +5289,29 @@
       "slug": "lonely-bones-strawberry-daiquiri-1g-thc-distillate-screw-on-thread"
     },
     {
+      "id": 224657472,
+      "name": "Lonely Bones: Strawberry Guava 1G THC Distillate Screw On Thread",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "224657472.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-rainbow-guava-1g-thc-distillate-screw-on-thread"
+    },
+    {
       "id": 207395152,
       "name": "Lonely Bones: Strawberry Haze 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -5292,29 +5333,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-alaskan-thunder-fuck-1g-thc-distillate-screw-on-thread"
-    },
-    {
-      "id": 224657299,
-      "name": "Lonely Bones: Strawbery Guava 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "224657299.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-strawbery-guava-1g-thc-distillate-screw-on-thread"
     },
     {
       "id": 208054053,
