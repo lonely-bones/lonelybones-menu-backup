@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 252,
-    "updated_at": "2026-06-20T21:23:44.218Z",
+    "total_menu_items": 246,
+    "updated_at": "2026-06-21T19:02:24.922Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -184,47 +184,6 @@
       "slug": "northern-terps-hash-burger"
     },
     {
-      "id": 107381484,
-      "name": "(1 OZ left!) Lonely Bones: Banana Bread",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.9,
-      "reviews_count": 94,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/428512056_banana_bread_flower.JPG",
-      "image_local": "107381484.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "banana-bread-flower"
-    },
-    {
       "id": 145008363,
       "name": "Tourma Cannabis: GMO",
       "category": "Indica",
@@ -264,47 +223,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "gmo"
-    },
-    {
-      "id": 157893266,
-      "name": "(1 Ounce Left) Cannaisseur: OG Kush Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.6,
-      "reviews_count": 8,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443215260_DR_small_NEW.JPG",
-      "image_local": "157893266.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "cannoisseur-double-rainbow-smalls"
     },
     {
       "id": 192017967,
@@ -2001,29 +1919,6 @@
       "slug": "pie-eyed-cured-resin-14g-baller-jar"
     },
     {
-      "id": 160611269,
-      "name": "Dante's Inferno 1g Cured Resin",
-      "category": "Concentrate",
-      "edge_category": "Solvent",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.9,
-      "reviews_count": 14,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442330536_IMG_1978.JPG",
-      "image_local": "160611269.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "eclipse-farms-dante-s-inferno-1g-cured-resin"
-    },
-    {
       "id": 185641461,
       "name": "Lonely Bones: Banana Bread 1G Cured Resin Penz",
       "category": "Concentrate",
@@ -2797,31 +2692,8 @@
       "slug": "popscotti-cured-resin-1g"
     },
     {
-      "id": 211716405,
-      "name": "Glitter Bomb Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442624655_animal_face_1g.JPG",
-      "image_local": "211716405.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "animal-face-cured-resin-1g"
-    },
-    {
       "id": 216793470,
-      "name": "Grease Bucket: Live Hash Rosin 3.5G Baller",
+      "name": "Garlic Cookies: Live Hash Rosin 3.5G Baller",
       "category": "Concentrate",
       "edge_category": "Cold Cure Badder",
       "top_category": "Concentrates",
@@ -2859,6 +2731,29 @@
       ],
       "current_deal_title": null,
       "slug": "papaya-punch-live-hash-rosin-3-5g-baller"
+    },
+    {
+      "id": 211716405,
+      "name": "Glitter Bomb Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442624655_animal_face_1g.JPG",
+      "image_local": "211716405.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "animal-face-cured-resin-1g"
     },
     {
       "id": 187008889,
@@ -3164,58 +3059,6 @@
       ],
       "current_deal_title": null,
       "slug": "strawberry-cough-cured-resin-14g-baller"
-    },
-    {
-      "id": 186479824,
-      "name": "( Only 2 Left) Super Lemon Mac Cured Resin 14g Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443308624_SLM.JPG",
-      "image_local": "186479824.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "super-lemon-mac-cured-resin-1g"
-    },
-    {
-      "id": 218300928,
-      "name": "(Only 1 Left) Blue Gummies Cured Resin 14G Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442576535_Blue_Gummies.JPG",
-      "image_local": "218300928.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "blue-gummies-cured-resin-14g-baller-jar"
     },
     {
       "id": 220254188,
@@ -3704,6 +3547,35 @@
       "slug": "purple-ice-water-cured-resin-14g-baller"
     },
     {
+      "id": 213496293,
+      "name": "Royal Jelly Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715957_Peach_Rings.JPG",
+      "image_local": "213496293.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "peach-rings-cured-resin-1g"
+    },
+    {
       "id": 218361637,
       "name": "White Runtz Cured Resin 14G Baller Jar",
       "category": "Concentrate",
@@ -3725,29 +3597,6 @@
       ],
       "current_deal_title": null,
       "slug": "white-runtz-cured-resin-14g-baller-jar"
-    },
-    {
-      "id": 215146897,
-      "name": "White Truffle Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442036150_White_Berry.JPG",
-      "image_local": "215146897.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "white-berry-cured-resin-1g"
     },
     {
       "id": 185641039,
@@ -3835,47 +3684,6 @@
       ],
       "current_deal_title": null,
       "slug": "laughing-buddha-live-hash-rosin-3-5g-baller"
-    },
-    {
-      "id": 216793820,
-      "name": "(1 Left) Moonbow Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442347183_moonbow.JPG",
-      "image_local": "216793820.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "moonbow-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 223574810,
@@ -5793,7 +5601,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.8,
-      "reviews_count": 79,
+      "reviews_count": 80,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
       "image_local": "193050080.jpg",
       "prices": [
@@ -5891,7 +5699,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
       "image_local": "223559082.jpg",
       "prices": [
