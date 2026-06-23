@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 246,
-    "updated_at": "2026-06-21T19:02:24.922Z",
+    "total_menu_items": 248,
+    "updated_at": "2026-06-22T20:29:35.303Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -266,47 +266,6 @@
       "slug": "tourma-fire-af"
     },
     {
-      "id": 224537578,
-      "name": "Dr. Melo's: Trop Cherry Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443608536_DR_Melos_Trop.JPG",
-      "image_local": "224537578.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "dr-melo-s-trop-cherry-smalls"
-    },
-    {
       "id": 148861245,
       "name": "Franken Cakes Smalls",
       "category": "Indica",
@@ -346,6 +305,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "franken-cakes-smalls"
+    },
+    {
+      "id": 224537578,
+      "name": "Dr. Melo's: Trop Cherry Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443608536_DR_Melos_Trop.JPG",
+      "image_local": "224537578.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "dr-melo-s-trop-cherry-smalls"
     },
     {
       "id": 219449308,
@@ -430,47 +430,6 @@
       "slug": "limited-tourma-cannabis-kush-mints-x-zoap"
     },
     {
-      "id": 193066454,
-      "name": "Jet Fuel Gelato Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 4.2,
-      "reviews_count": 9,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443643200_jetfuel.JPG",
-      "image_local": "193066454.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-bowser-smalls"
-    },
-    {
       "id": 225062217,
       "name": "*Employee favorite*Northern Terps: MOB (Mother Of Berry)",
       "category": "Indica",
@@ -510,88 +469,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "employee-favorite-northern-terps-mob-mother-of-berry"
-    },
-    {
-      "id": 224146187,
-      "name": "*Fire!* FIFO Cultivation: Cereal Milk",
-      "category": "Indica",
-      "edge_category": "Big Buds",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443539265_ceral_miulk.JPG",
-      "image_local": "224146187.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "fifo-cultivation-cereal-milk"
-    },
-    {
-      "id": 215157863,
-      "name": "Living Matter: Cheetah Piss",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443511955_cheetah.JPG",
-      "image_local": "215157863.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-cheetah-piss-smalls"
     },
     {
       "id": 219577210,
@@ -635,17 +512,17 @@
       "slug": "living-matter-hawaiian-marker"
     },
     {
-      "id": 224537917,
-      "name": "Dr. Melo's: Megalodon Smalls",
+      "id": 193066454,
+      "name": "Jet Fuel Gelato Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
-      "genetics": "Hybrid",
+      "genetics": "Indica",
       "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443608612_Megalodon.JPG",
-      "image_local": "224537917.jpg",
+      "rating": 4.2,
+      "reviews_count": 9,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443643200_jetfuel.JPG",
+      "image_local": "193066454.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -673,7 +550,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "dr-melo-s-megalodon-smalls"
+      "slug": "lonely-bones-bowser-smalls"
     },
     {
       "id": 213494566,
@@ -715,6 +592,170 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "cannaisseur-the-doctor-smalls"
+    },
+    {
+      "id": 215157863,
+      "name": "(1 Ounce Left) Living Matter: Cheetah Piss",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443511955_cheetah.JPG",
+      "image_local": "215157863.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matter-cheetah-piss-smalls"
+    },
+    {
+      "id": 224146187,
+      "name": "*Fire!* FIFO Cultivation: Cereal Milk",
+      "category": "Indica",
+      "edge_category": "Big Buds",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443539265_ceral_miulk.JPG",
+      "image_local": "224146187.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "fifo-cultivation-cereal-milk"
+    },
+    {
+      "id": 224537917,
+      "name": "Dr. Melo's: Megalodon Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443608612_Megalodon.JPG",
+      "image_local": "224537917.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "dr-melo-s-megalodon-smalls"
+    },
+    {
+      "id": 225133230,
+      "name": "Cannoisseur: Rainbow OG Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443693370_Rainbow_OG.JPG",
+      "image_local": "225133230.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "cannoisseur-rainbow-og-smalls"
     },
     {
       "id": 224537752,
@@ -881,6 +922,47 @@
       "slug": "new-cannaisseur-sfv-smalls"
     },
     {
+      "id": 225131969,
+      "name": "Cannoisseur: Wedding Beltz Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443693149_Wedding_Beltz_smalls.JPG",
+      "image_local": "225131969.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "cannoisseur-wedding-beltz-smalls"
+    },
+    {
       "id": 211381972,
       "name": "Alien Cookies Smalls",
       "category": "Indica",
@@ -1004,47 +1086,6 @@
       "slug": "cannoisseur-lucky-charms-smalls"
     },
     {
-      "id": 225133230,
-      "name": "Cannoisseur: Rainbow OG Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443693370_Rainbow_OG.JPG",
-      "image_local": "225133230.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "cannoisseur-rainbow-og-smalls"
-    },
-    {
       "id": 225133193,
       "name": "Cannoisseur: Stuffed Cherry Smalls",
       "category": "Indica",
@@ -1084,47 +1125,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "cannoisseur-stuffed-cherry-smalls"
-    },
-    {
-      "id": 225131969,
-      "name": "Cannoisseur: Wedding Beltz Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443693149_Wedding_Beltz_smalls.JPG",
-      "image_local": "225131969.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "cannoisseur-wedding-beltz-smalls"
     },
     {
       "id": 223954692,
@@ -3061,6 +3061,47 @@
       "slug": "strawberry-cough-cured-resin-14g-baller"
     },
     {
+      "id": 223574810,
+      "name": "*$300 1/2 Ounce* Blue Dream Live Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443457938_blue_dream_3.5.JPG",
+      "image_local": "223574810.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 160.0,
+          "on_sale": false,
+          "original_price": 160.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 300.0,
+          "on_sale": false,
+          "original_price": 300.0
+        },
+        {
+          "label": "1 oz",
+          "price": 600.0,
+          "on_sale": false,
+          "original_price": 600.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "600-ounce-blue-dream-live-rosin-3-5g-baller"
+    },
+    {
       "id": 220254188,
       "name": "Black Canyon Kush Cured Resin 1G",
       "category": "Concentrate",
@@ -3686,47 +3727,6 @@
       "slug": "laughing-buddha-live-hash-rosin-3-5g-baller"
     },
     {
-      "id": 223574810,
-      "name": "*$300 1/2 Ounce* Blue Dream Live Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443457938_blue_dream_3.5.JPG",
-      "image_local": "223574810.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 160.0,
-          "on_sale": false,
-          "original_price": 160.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 300.0,
-          "on_sale": false,
-          "original_price": 300.0
-        },
-        {
-          "label": "1 oz",
-          "price": 600.0,
-          "on_sale": false,
-          "original_price": 600.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "600-ounce-blue-dream-live-rosin-3-5g-baller"
-    },
-    {
       "id": 223152264,
       "name": "Amber Valley: Candied Runtz 1G Shatter",
       "category": "Concentrate",
@@ -4111,6 +4111,88 @@
       ],
       "current_deal_title": null,
       "slug": "guava-tangie-live-rosin-1g"
+    },
+    {
+      "id": 225327441,
+      "name": "IPK/MegaRaw: Grease Bucket Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443718214_ipkgrease.JPG",
+      "image_local": "225327441.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "ipk-megaraw-grease-bucket-live-hash-rosin-3-5g-baller"
+    },
+    {
+      "id": 225330528,
+      "name": "IPK/MegaRaw: Original Glue Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443718677_ipkglue.JPG",
+      "image_local": "225330528.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "ipk-megaraw-original-glue-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 224725699,
