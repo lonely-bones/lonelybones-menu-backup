@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 248,
-    "updated_at": "2026-06-22T20:29:35.303Z",
+    "total_menu_items": 247,
+    "updated_at": "2026-06-23T19:52:37.063Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -266,47 +266,6 @@
       "slug": "tourma-fire-af"
     },
     {
-      "id": 148861245,
-      "name": "Franken Cakes Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.9,
-      "reviews_count": 12,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/429881643_franken_cakes_smalls.jpg",
-      "image_local": "148861245.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "franken-cakes-smalls"
-    },
-    {
       "id": 224537578,
       "name": "Dr. Melo's: Trop Cherry Smalls",
       "category": "Indica",
@@ -314,8 +273,8 @@
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
+      "rating": 5.0,
+      "reviews_count": 1,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443608536_DR_Melos_Trop.JPG",
       "image_local": "224537578.jpg",
       "prices": [
@@ -355,8 +314,8 @@
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
+      "rating": 5.0,
+      "reviews_count": 1,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442758567_Banana_Cooler_LM.JPG",
       "image_local": "219449308.jpg",
       "prices": [
@@ -387,6 +346,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "100-oz-living-matter-banana-cooler"
+    },
+    {
+      "id": 148861245,
+      "name": "Franken Cakes Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.9,
+      "reviews_count": 12,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/429881643_franken_cakes_smalls.jpg",
+      "image_local": "148861245.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "franken-cakes-smalls"
     },
     {
       "id": 179363886,
@@ -430,6 +430,47 @@
       "slug": "limited-tourma-cannabis-kush-mints-x-zoap"
     },
     {
+      "id": 219577210,
+      "name": "Living Matter: Hawaiian Marker",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775593_hawaiian_marker.JPG",
+      "image_local": "219577210.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matter-hawaiian-marker"
+    },
+    {
       "id": 225062217,
       "name": "*Employee favorite*Northern Terps: MOB (Mother Of Berry)",
       "category": "Indica",
@@ -469,47 +510,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "employee-favorite-northern-terps-mob-mother-of-berry"
-    },
-    {
-      "id": 219577210,
-      "name": "Living Matter: Hawaiian Marker",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775593_hawaiian_marker.JPG",
-      "image_local": "219577210.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-hawaiian-marker"
     },
     {
       "id": 193066454,
@@ -594,47 +594,6 @@
       "slug": "cannaisseur-the-doctor-smalls"
     },
     {
-      "id": 215157863,
-      "name": "(1 Ounce Left) Living Matter: Cheetah Piss",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443511955_cheetah.JPG",
-      "image_local": "215157863.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-cheetah-piss-smalls"
-    },
-    {
       "id": 224146187,
       "name": "*Fire!* FIFO Cultivation: Cereal Milk",
       "category": "Indica",
@@ -717,47 +676,6 @@
       "slug": "dr-melo-s-megalodon-smalls"
     },
     {
-      "id": 225133230,
-      "name": "Cannoisseur: Rainbow OG Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443693370_Rainbow_OG.JPG",
-      "image_local": "225133230.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "cannoisseur-rainbow-og-smalls"
-    },
-    {
       "id": 224537752,
       "name": "Dr. Melo's: Wizard Pie Smalls",
       "category": "Indica",
@@ -765,8 +683,8 @@
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
+      "rating": 5.0,
+      "reviews_count": 1,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443608600_Wizard_Pie.JPG",
       "image_local": "224537752.jpg",
       "prices": [
@@ -806,8 +724,8 @@
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
+      "rating": 5.0,
+      "reviews_count": 1,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443539253_dirtty_taxi.JPG",
       "image_local": "224146031.jpg",
       "prices": [
@@ -838,6 +756,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "fifo-cultivation-dirty-taxi-gmo-x-i-95"
+    },
+    {
+      "id": 223954692,
+      "name": "Living Matter: Pancakes",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443511828_Pancakes_smalls_new.JPG",
+      "image_local": "223954692.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matter-pancakes"
     },
     {
       "id": 223944509,
@@ -881,47 +840,6 @@
       "slug": "living-matter-royal-jelly"
     },
     {
-      "id": 207771422,
-      "name": "*NEW!* Cannoisseur: Lit OG",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443627556_litty_og.JPG",
-      "image_local": "207771422.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-cannaisseur-sfv-smalls"
-    },
-    {
       "id": 225131969,
       "name": "Cannoisseur: Wedding Beltz Smalls",
       "category": "Indica",
@@ -961,6 +879,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "cannoisseur-wedding-beltz-smalls"
+    },
+    {
+      "id": 207771422,
+      "name": "*NEW!* Cannoisseur: Lit OG",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.5,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443627556_litty_og.JPG",
+      "image_local": "207771422.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-cannaisseur-sfv-smalls"
     },
     {
       "id": 211381972,
@@ -1086,6 +1045,47 @@
       "slug": "cannoisseur-lucky-charms-smalls"
     },
     {
+      "id": 225133230,
+      "name": "Cannoisseur: Rainbow OG Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443693370_Rainbow_OG.JPG",
+      "image_local": "225133230.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "cannoisseur-rainbow-og-smalls"
+    },
+    {
       "id": 225133193,
       "name": "Cannoisseur: Stuffed Cherry Smalls",
       "category": "Indica",
@@ -1125,47 +1125,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "cannoisseur-stuffed-cherry-smalls"
-    },
-    {
-      "id": 223954692,
-      "name": "Living Matter: Pancakes",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443511828_Pancakes_smalls_new.JPG",
-      "image_local": "223954692.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-pancakes"
     },
     {
       "id": 225065537,
@@ -2598,29 +2557,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-mylar-og-1g-cured-resin-pen-a0992790-97ad-4c27-933f-c0dacbbeef7c"
-    },
-    {
-      "id": 220254209,
-      "name": "(Only 1 Left) Wedding Cake Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442879592_super_lemon_haze.JPG",
-      "image_local": "220254209.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "super-lemon-haze-cured-resin-1g"
     },
     {
       "id": 214519692,
@@ -4443,6 +4379,29 @@
       "slug": "blueberry-gelato-1g-thc-distillate-penjamin"
     },
     {
+      "id": 225368648,
+      "name": "Lonely Bones: Buttermilk Pancakes Cured Resin Penz 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443725283_437426509_cured_resin_cart.jpeg",
+      "image_local": "225368648.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-buttermilk-pancakes-cured-resin-penz-1g"
+    },
+    {
       "id": 217733882,
       "name": "Lonely Bones: Candy Rain Cured Resin Penz 1G",
       "category": "Concentrate",
@@ -5781,7 +5740,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 2,
+      "reviews_count": 3,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
       "image_local": "223559082.jpg",
       "prices": [
