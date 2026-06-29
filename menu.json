@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 238,
-    "updated_at": "2026-06-27T18:46:57.967Z",
+    "total_menu_items": 237,
+    "updated_at": "2026-06-28T20:40:24.570Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -237,47 +237,6 @@
       "slug": "tourma-fire-af"
     },
     {
-      "id": 179363886,
-      "name": "(1/2 OZ left!) Tourma Cannabis: Kush Mints",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 4.7,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436800271_kushmintsxzoap.JPG",
-      "image_local": "179363886.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "limited-tourma-cannabis-kush-mints-x-zoap"
-    },
-    {
       "id": 224146187,
       "name": "*$80 Flash Sale!* FIFO Cultivation: Cereal Milk",
       "category": "Indica",
@@ -327,7 +286,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 2,
+      "reviews_count": 3,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443608612_Megalodon.JPG",
       "image_local": "224537917.jpg",
       "prices": [
@@ -358,47 +317,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "dr-melo-s-megalodon-smalls"
-    },
-    {
-      "id": 219577210,
-      "name": "(Half OZ left!) Living Matter: Hawaiian Marker",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775593_hawaiian_marker.JPG",
-      "image_local": "219577210.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-hawaiian-marker"
     },
     {
       "id": 213494566,
@@ -524,47 +442,6 @@
       "slug": "living-matter-royal-jelly"
     },
     {
-      "id": 225131969,
-      "name": "(Half OZ!) Cannoisseur: Wedding Beltz Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443693149_Wedding_Beltz_smalls.JPG",
-      "image_local": "225131969.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "cannoisseur-wedding-beltz-smalls"
-    },
-    {
       "id": 224537752,
       "name": "Dr. Melo's: Wizard Pie Smalls",
       "category": "Indica",
@@ -604,88 +481,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "dr-melo-s-wizard-pie-smalls"
-    },
-    {
-      "id": 223954692,
-      "name": "(1/2 Ounce Left) Living Matter: Pancakes",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443511828_Pancakes_smalls_new.JPG",
-      "image_local": "223954692.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-pancakes"
-    },
-    {
-      "id": 151279605,
-      "name": "(1/2 Ounce Left) Permanent Marker Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443643215_perm.JPG",
-      "image_local": "151279605.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "permanent-marker-smalls"
     },
     {
       "id": 225133193,
@@ -1352,7 +1147,7 @@
     },
     {
       "id": 185307719,
-      "name": "Gas Face Cured Resin 14G Baller Jar",
+      "name": "(Only 2 Left!) Gas Face Cured Resin 14G Baller Jar",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -1522,6 +1317,29 @@
       ],
       "current_deal_title": null,
       "slug": "fifo-miracle-mints-cured-resin-14g-baller"
+    },
+    {
+      "id": 211716139,
+      "name": "Grape Gas Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442330532_IMG_1976.JPG",
+      "image_local": "211716139.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "purple-ice-water-cured-resin"
     },
     {
       "id": 199254888,
@@ -1888,6 +1706,35 @@
       "slug": "wedding-pie-live-rosin-3-5g-baller"
     },
     {
+      "id": 213498842,
+      "name": "*Employee Favorite* White Truffle Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441716453_Peach_Rings_14G_jar_new.JPG",
+      "image_local": "213498842.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "peach-rings-cured-resin-14g-baller"
+    },
+    {
       "id": 219610127,
       "name": "Blue Powerade: Cured Resin 14G Baller",
       "category": "Concentrate",
@@ -1915,6 +1762,29 @@
       ],
       "current_deal_title": null,
       "slug": "fifo-melted-strawberry-cured-resin-14g-baller"
+    },
+    {
+      "id": 220254188,
+      "name": "FIFO: Ice Cream Candy Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442879589_blueberry_kush.JPG",
+      "image_local": "220254188.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "blueberry-kush-cured-resin-1g"
     },
     {
       "id": 207413446,
@@ -2076,35 +1946,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-orange-soda-1g-thc-distillate-5-10-thread"
-    },
-    {
-      "id": 213498842,
-      "name": "White Truffle Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441716453_Peach_Rings_14G_jar_new.JPG",
-      "image_local": "213498842.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "peach-rings-cured-resin-14g-baller"
     },
     {
       "id": 197733811,
@@ -2834,6 +2675,35 @@
       "slug": "cadillac-live-liquid-diamond-unicorn-cake-x-guava-daiquiri-2g-penjamin"
     },
     {
+      "id": 211803081,
+      "name": "FIFO: Ice Cream Candy Cured Resin 14G Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441362496_popscot.JPG",
+      "image_local": "211803081.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "popscotti-cured-resin-14g-baller-jar"
+    },
+    {
       "id": 220446771,
       "name": "Grape Soda Live Hash Rosin 3.5G Baller",
       "category": "Concentrate",
@@ -3233,29 +3103,6 @@
       "slug": "lonely-bones-girl-scout-cookie-1g-thc-distillate-disposable"
     },
     {
-      "id": 223574401,
-      "name": "(Only 1 Left) Blueberry Punch Live Rosin 1G",
-      "category": "Concentrate",
-      "edge_category": "Rosin",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443457888_bluberry_punch_1g_rosin.JPG",
-      "image_local": "223574401.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 35.0,
-          "on_sale": false,
-          "original_price": 35.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "blueberry-punch-live-rosin-1g"
-    },
-    {
       "id": 223152264,
       "name": "Amber Valley: Candied Runtz 1G Shatter",
       "category": "Concentrate",
@@ -3504,6 +3351,29 @@
       "slug": "guava-tangie-live-rosin-1g"
     },
     {
+      "id": 225945490,
+      "name": "IPK/MegaRaw: Grease Bukcet Live Rosin 1G",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443785982_greasbuck1g.JPG",
+      "image_local": "225945490.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 35.0,
+          "on_sale": false,
+          "original_price": 35.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "ipk-megaraw-grease-bukcet-live-rosin-1g"
+    },
+    {
       "id": 225330528,
       "name": "IPK/MegaRaw: Original Glue Live Hash Rosin 3.5G Baller",
       "category": "Concentrate",
@@ -3543,6 +3413,29 @@
       ],
       "current_deal_title": null,
       "slug": "ipk-megaraw-original-glue-live-hash-rosin-3-5g-baller"
+    },
+    {
+      "id": 225945600,
+      "name": "IPK/MegaRaw: Orignal Glue Live Rosin 1G",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443785987_ogglue1g.JPG",
+      "image_local": "225945600.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 35.0,
+          "on_sale": false,
+          "original_price": 35.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "ipk-megaraw-orignal-glue-live-rosin-1g"
     },
     {
       "id": 224725699,
@@ -5048,35 +4941,6 @@
       "slug": "tourma-cannabis-motor-breath-live-rosin-1g"
     },
     {
-      "id": 193050080,
-      "name": "Lonely Bones: Ready to Roll",
-      "category": "Indica",
-      "edge_category": "Ground",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 80,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
-      "image_local": "193050080.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-ready-to-roll"
-    },
-    {
       "id": 215865425,
       "name": "dirty taxi | Joints | 1g",
       "category": "Preroll",
@@ -5108,7 +4972,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 2,
+      "reviews_count": 3,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456196_mixed_joints.JPG",
       "image_local": "223560220.jpg",
       "prices": [
@@ -5131,7 +4995,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 3,
+      "reviews_count": 4,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
       "image_local": "223559082.jpg",
       "prices": [
@@ -5167,6 +5031,29 @@
       ],
       "current_deal_title": null,
       "slug": "leaf-labs-5-pack-mix-and-match-for-25"
+    },
+    {
+      "id": 223056923,
+      "name": "Method: Midnight Delight 1G Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443381619_method_pre.jpeg",
+      "image_local": "223056923.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "method-midnight-delight-1g-pre-roll"
     },
     {
       "id": 223560109,
@@ -5445,29 +5332,6 @@
       "slug": "method-mac-flurry-1g-pre-roll"
     },
     {
-      "id": 223056923,
-      "name": "Method: Midnight Delight 1G Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443381619_method_pre.jpeg",
-      "image_local": "223056923.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "method-midnight-delight-1g-pre-roll"
-    },
-    {
       "id": 218711580,
       "name": "Method: Neon Drip 1G Pre Roll",
       "category": "Preroll",
@@ -5514,10 +5378,39 @@
       "slug": "method-p-funk-1g-pre-roll"
     },
     {
+      "id": 193050080,
+      "name": "Lonely Bones: Ready to Roll",
+      "category": "Indica",
+      "edge_category": "Ground",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 81,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
+      "image_local": "193050080.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "lonely-bones-ready-to-roll"
+    },
+    {
       "id": 212117143,
       "name": "Cadillac LIVE 2g Disposable - Mango Haze X Durban Poison",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": "Sativa",
       "thc_pct": 0.0,
@@ -5563,7 +5456,7 @@
       "id": 198754080,
       "name": "Zsunami | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5586,7 +5479,7 @@
       "id": 212117889,
       "name": "Cadillac LIVE 2g Disposable - Larry Breath X Crunch Berries",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5770,7 +5663,7 @@
       "id": 199254765,
       "name": "zwiz | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5793,7 +5686,7 @@
       "id": 212117413,
       "name": "Cadillac LIVE 2g Disposable - Blue Zushi x Pineapple Fizz",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5816,7 +5709,7 @@
       "id": 212118779,
       "name": "Cadillac LIVE 2g Disposable - Pink Acai X White Gushers",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5839,7 +5732,7 @@
       "id": 212118034,
       "name": "Cadillac LIVE 2g Disposable - Papaya Pie X Blueberry Gelato",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": "Indica",
       "thc_pct": 0.0,
@@ -5862,7 +5755,7 @@
       "id": 212118552,
       "name": "Cadillac LIVE 2g Disposable - Super Boof X Grape Sorbet",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
