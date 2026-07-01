@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 235,
-    "updated_at": "2026-06-29T18:22:49.866Z",
+    "total_menu_items": 249,
+    "updated_at": "2026-06-30T18:31:13.509Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -196,6 +196,88 @@
       "slug": "gmo"
     },
     {
+      "id": 173746062,
+      "name": "Koala Tea Grows: Liquid Hot Magma Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 21,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436339695_liquid_hot_magma.JPG",
+      "image_local": "173746062.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-liquid-hot-magma-smalls"
+    },
+    {
+      "id": 206742151,
+      "name": "Fire!! Koala Tea Grows: Obama Runtz",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 10,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443803205_Obama_Runtz_smalls.JPG",
+      "image_local": "206742151.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "insane-koala-tea-grows-obama-runtz"
+    },
+    {
       "id": 192017967,
       "name": "*Insane!* Tourma: Fire AF",
       "category": "Indica",
@@ -237,6 +319,88 @@
       "slug": "tourma-fire-af"
     },
     {
+      "id": 207771314,
+      "name": "Koala Tea Grows : Miagi Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442596694_dosi.JPG",
+      "image_local": "207771314.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-cannaisseur-grape-gas"
+    },
+    {
+      "id": 163540330,
+      "name": "*New batch!* Koala Tea Grows: RS-1000 Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 12,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440263904_RS-1000.JPG",
+      "image_local": "163540330.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-rs-1000"
+    },
+    {
       "id": 224146187,
       "name": "*$80 Flash Sale!* FIFO Cultivation: Cereal Milk",
       "category": "Indica",
@@ -244,8 +408,8 @@
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
+      "rating": 4.5,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443539265_ceral_miulk.JPG",
       "image_local": "224146187.jpg",
       "prices": [
@@ -278,17 +442,17 @@
       "slug": "fifo-cultivation-cereal-milk"
     },
     {
-      "id": 213494566,
-      "name": "Ice Cream Cake Smalls",
+      "id": 216198954,
+      "name": "Koala Tea Grows: Neon Drip Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 3.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715660_The_Doctor.JPG",
-      "image_local": "213494566.jpg",
+      "rating": 5.0,
+      "reviews_count": 4,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442234498_IMG_0681.JPG",
+      "image_local": "216198954.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -316,89 +480,48 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "cannaisseur-the-doctor-smalls"
+      "slug": "koala-tea-grows-neon-drip-smalls"
     },
     {
-      "id": 225062217,
-      "name": "*1 OZ Left*Northern Terps: MOB (Mother Of Berry)",
+      "id": 180051350,
+      "name": "Koala Tea Grows: Weighted Blanket Smalls",
       "category": "Indica",
-      "edge_category": "Big Buds",
+      "edge_category": "Smalls",
       "top_category": "Flower",
       "genetics": "Indica",
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443683958_MOB.JPG",
-      "image_local": "225062217.jpg",
+      "rating": 4.8,
+      "reviews_count": 17,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440577804_weighted_blanket.JPG",
+      "image_local": "180051350.jpg",
       "prices": [
         {
           "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
           "price": 20.0,
           "on_sale": false,
           "original_price": 20.0
         },
         {
-          "label": "1/4 oz",
+          "label": "1/2 oz",
           "price": 40.0,
           "on_sale": false,
           "original_price": 40.0
         },
         {
-          "label": "1/2 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        },
-        {
           "label": "1 oz",
-          "price": 120.0,
+          "price": 80.0,
           "on_sale": false,
-          "original_price": 120.0
+          "original_price": 80.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "employee-favorite-northern-terps-mob-mother-of-berry"
-    },
-    {
-      "id": 223944509,
-      "name": "Tourma Cannabis: Royal Jelly",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443510386_royal_jewlly.JPG",
-      "image_local": "223944509.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        },
-        {
-          "label": "1 oz",
-          "price": 120.0,
-          "on_sale": false,
-          "original_price": 120.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-royal-jelly"
+      "slug": "koala-tea-grows-weighted-blanket-smalls"
     },
     {
       "id": 224537752,
@@ -442,17 +565,58 @@
       "slug": "dr-melo-s-wizard-pie-smalls"
     },
     {
-      "id": 225065537,
-      "name": "*$80/OZ!* Northern Terps: Lemon De Mango",
+      "id": 225062217,
+      "name": "*1 OZ Left*Northern Terps: MOB (Mother Of Berry)",
       "category": "Indica",
       "edge_category": "Big Buds",
       "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 4.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443683958_MOB.JPG",
+      "image_local": "225062217.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        },
+        {
+          "label": "1 oz",
+          "price": 120.0,
+          "on_sale": false,
+          "original_price": 120.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "employee-favorite-northern-terps-mob-mother-of-berry"
+    },
+    {
+      "id": 213494566,
+      "name": "Ice Cream Cake Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443684368_lemon_de_mango_.JPG",
-      "image_local": "225065537.jpg",
+      "rating": 3.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715660_The_Doctor.JPG",
+      "image_local": "213494566.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -480,7 +644,48 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "northern-terps-lemon-de-mango"
+      "slug": "cannaisseur-the-doctor-smalls"
+    },
+    {
+      "id": 223944509,
+      "name": "Tourma Cannabis: Royal Jelly",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443510386_royal_jewlly.JPG",
+      "image_local": "223944509.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        },
+        {
+          "label": "1 oz",
+          "price": 120.0,
+          "on_sale": false,
+          "original_price": 120.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matter-royal-jelly"
     },
     {
       "id": 225734165,
@@ -2555,7 +2760,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
       "image_local": "212118830.jpg",
       "prices": [
@@ -3019,6 +3224,29 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-girl-scout-cookie-1g-thc-distillate-disposable"
+    },
+    {
+      "id": 217733882,
+      "name": "Lonely Bones: Candy Rain Cured Resin Penz 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
+      "image_local": "217733882.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-candy-rain-cured-resin-penz-1g"
     },
     {
       "id": 223152264,
@@ -3625,29 +3853,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-buttermilk-pancakes-cured-resin-penz-1g"
-    },
-    {
-      "id": 217733882,
-      "name": "Lonely Bones: Candy Rain Cured Resin Penz 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "217733882.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-candy-rain-cured-resin-penz-1g"
     },
     {
       "id": 224654627,
@@ -5296,6 +5501,242 @@
       "slug": "method-p-funk-1g-pre-roll"
     },
     {
+      "id": 226059530,
+      "name": "Northern Terps: Code Red 1g Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226059530.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-code-red-1g-pre-roll"
+    },
+    {
+      "id": 226059454,
+      "name": "Northern Terps: Karmel Kutt Throat 1g Pre roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226059454.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-karmel-kutt-throat-1g-pre-roll"
+    },
+    {
+      "id": 226060343,
+      "name": "Northern Terps: Mix and Match Pre Roll 5 Pack $25",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805956_northern_terps_5_pack.JPG",
+      "image_local": "226060343.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-mix-and-match-pre-roll-5-pack-25"
+    },
+    {
+      "id": 226060001,
+      "name": "Northern Terps: P-85 1g Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226060001.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-p-85-1g-pre-roll"
+    },
+    {
+      "id": 226059606,
+      "name": "Northern Terps: Rain Drop 1g Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226059606.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-rain-drop-1g-pre-roll"
+    },
+    {
+      "id": 226059780,
+      "name": "Northern Terps: Runtz 1g Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226059780.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-runtz-1g-pre-roll"
+    },
+    {
+      "id": 226060075,
+      "name": "Northern Terps: Sour Sherb 1g Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226060075.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-sour-sherb-1g-pre-roll"
+    },
+    {
+      "id": 226060189,
+      "name": "Northern Terps: Stay Puft 1g Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226060189.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-stay-puft-1g-pre-roll"
+    },
+    {
+      "id": 226059857,
+      "name": "Northern Terps: Zoltar 1g Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226059857.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-zoltar-1g-pre-roll"
+    },
+    {
+      "id": 193050080,
+      "name": "Lonely Bones: Ready to Roll",
+      "category": "Indica",
+      "edge_category": "Ground",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 81,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
+      "image_local": "193050080.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "lonely-bones-ready-to-roll"
+    },
+    {
       "id": 212117143,
       "name": "Cadillac LIVE 2g Disposable - Mango Haze X Durban Poison",
       "category": "Concentrate",
@@ -5708,35 +6149,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-birthday-cake-1g-thc-distillate-screw-on-thread"
-    },
-    {
-      "id": 193050080,
-      "name": "Lonely Bones: Ready to Roll",
-      "category": "Indica",
-      "edge_category": "Ground",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 81,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
-      "image_local": "193050080.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-ready-to-roll"
     },
     {
       "id": 185241360,
