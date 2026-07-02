@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 249,
-    "updated_at": "2026-06-30T18:31:13.509Z",
+    "total_menu_items": 246,
+    "updated_at": "2026-07-01T21:57:04.131Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -50,45 +50,45 @@
       "slug": "new-tourma-apple-fritter"
     },
     {
-      "id": 225060290,
-      "name": "Northern Terps: Hash Burger (Han Solo Hash Plant x Double Burger)",
+      "id": 225734165,
+      "name": "*NEW!* Northern Terps: Code Red",
       "category": "Indica",
-      "edge_category": "Big Buds",
+      "edge_category": "Flower",
       "top_category": "Flower",
       "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443683565_hash_burgewr.JPG",
-      "image_local": "225060290.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443767326_NT_CODE_RED.JPG",
+      "image_local": "225734165.jpg",
       "prices": [
         {
           "label": "1/8 oz",
-          "price": 20.0,
+          "price": 15.0,
           "on_sale": false,
-          "original_price": 20.0
+          "original_price": 15.0
         },
         {
           "label": "1/4 oz",
-          "price": 40.0,
+          "price": 30.0,
           "on_sale": false,
-          "original_price": 40.0
+          "original_price": 30.0
         },
         {
           "label": "1/2 oz",
-          "price": 60.0,
+          "price": 50.0,
           "on_sale": false,
-          "original_price": 60.0
+          "original_price": 50.0
         },
         {
           "label": "1 oz",
-          "price": 120.0,
+          "price": 100.0,
           "on_sale": false,
-          "original_price": 120.0
+          "original_price": 100.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "northern-terps-hash-burger"
+      "slug": "new-northern-terps-code-red"
     },
     {
       "id": 225327441,
@@ -196,47 +196,6 @@
       "slug": "gmo"
     },
     {
-      "id": 173746062,
-      "name": "Koala Tea Grows: Liquid Hot Magma Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 21,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436339695_liquid_hot_magma.JPG",
-      "image_local": "173746062.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-liquid-hot-magma-smalls"
-    },
-    {
       "id": 206742151,
       "name": "Fire!! Koala Tea Grows: Obama Runtz",
       "category": "Indica",
@@ -276,47 +235,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "insane-koala-tea-grows-obama-runtz"
-    },
-    {
-      "id": 192017967,
-      "name": "*Insane!* Tourma: Fire AF",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 4.3,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440152717_Fire_AF_new.JPG",
-      "image_local": "192017967.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        },
-        {
-          "label": "1 oz",
-          "price": 120.0,
-          "on_sale": false,
-          "original_price": 120.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "tourma-fire-af"
     },
     {
       "id": 207771314,
@@ -360,6 +278,47 @@
       "slug": "new-cannaisseur-grape-gas"
     },
     {
+      "id": 192017967,
+      "name": "*Insane!* Tourma: Fire AF",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 4.3,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440152717_Fire_AF_new.JPG",
+      "image_local": "192017967.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        },
+        {
+          "label": "1 oz",
+          "price": 120.0,
+          "on_sale": false,
+          "original_price": 120.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "tourma-fire-af"
+    },
+    {
       "id": 163540330,
       "name": "*New batch!* Koala Tea Grows: RS-1000 Smalls",
       "category": "Indica",
@@ -399,47 +358,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-grows-rs-1000"
-    },
-    {
-      "id": 224146187,
-      "name": "*$80 Flash Sale!* FIFO Cultivation: Cereal Milk",
-      "category": "Indica",
-      "edge_category": "Big Buds",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443539265_ceral_miulk.JPG",
-      "image_local": "224146187.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "fifo-cultivation-cereal-milk"
     },
     {
       "id": 216198954,
@@ -566,7 +484,7 @@
     },
     {
       "id": 225062217,
-      "name": "*1 OZ Left*Northern Terps: MOB (Mother Of Berry)",
+      "name": "*HALF OZ LEFT*Northern Terps: MOB (Mother Of Berry)",
       "category": "Indica",
       "edge_category": "Big Buds",
       "top_category": "Flower",
@@ -686,47 +604,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "living-matter-royal-jelly"
-    },
-    {
-      "id": 225734165,
-      "name": "*NEW!* Northern Terps: Code Red",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443767326_NT_CODE_RED.JPG",
-      "image_local": "225734165.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-northern-terps-code-red"
     },
     {
       "id": 225734452,
@@ -891,6 +768,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "cannoisseur-rainbow-og-smalls"
+    },
+    {
+      "id": 225060290,
+      "name": "Northern Terps: Hash Burger (Han Solo Hash Plant x Double Burger)",
+      "category": "Indica",
+      "edge_category": "Big Buds",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443683565_hash_burgewr.JPG",
+      "image_local": "225060290.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        },
+        {
+          "label": "1 oz",
+          "price": 120.0,
+          "on_sale": false,
+          "original_price": 120.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "northern-terps-hash-burger"
     },
     {
       "id": 225064350,
@@ -2492,29 +2410,6 @@
       "slug": "lonely-bones-sequoia-strawberry-cured-resin-pen"
     },
     {
-      "id": 187051221,
-      "name": "Lonely Bones: Poontang Pie 1G Cured Resin Penz",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "187051221.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-poontang-pie-1g-cured-resin-pen"
-    },
-    {
       "id": 208617701,
       "name": "Lonely Bones: Strawberry Milk 1G THC Distillate Penjamin",
       "category": "Concentrate",
@@ -3126,35 +3021,6 @@
       ],
       "current_deal_title": null,
       "slug": "purple-ice-water-cured-resin-14g-baller"
-    },
-    {
-      "id": 213496293,
-      "name": "Royal Jelly Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715957_Peach_Rings.JPG",
-      "image_local": "213496293.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "peach-rings-cured-resin-1g"
     },
     {
       "id": 218361637,
@@ -5064,6 +4930,29 @@
       "slug": "tourma-cannabis-motor-breath-live-rosin-1g"
     },
     {
+      "id": 208951131,
+      "name": "Cherry Vanilla Cheese | Joints | 1g",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 23.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443817450_leaf_labs_cherry_vanilla.JPG",
+      "image_local": "208951131.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "leaf-labs-trop-cherry-1g-pre-roll"
+    },
+    {
       "id": 215865425,
       "name": "dirty taxi | Joints | 1g",
       "category": "Preroll",
@@ -5087,6 +4976,29 @@
       "slug": "leaf-labs-jedi-breath-1g-pre-roll-8c5b5e7c-76ab-444e-b1b9-5fab9843901e"
     },
     {
+      "id": 226149119,
+      "name": "garlic grove | Joints | 1g",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 21.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443817473_leaf_labs_garlic_grove.JPG",
+      "image_local": "226149119.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "leaf-labs-garlic-grove-1g-pre-roll"
+    },
+    {
       "id": 223560220,
       "name": "Any Assorted Pre Rolls: 5-Pack Mix and Match for $25!",
       "category": "Preroll",
@@ -5108,29 +5020,6 @@
       ],
       "current_deal_title": null,
       "slug": "any-assorted-pre-rolls-5-pack-mix-and-match-for-25"
-    },
-    {
-      "id": 223559082,
-      "name": "Cannoisseur: Glitter Bomb Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 4,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
-      "image_local": "223559082.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cannaseaur-glitter-bomb-pre-roll"
     },
     {
       "id": 223559053,
@@ -5740,7 +5629,7 @@
       "id": 212117143,
       "name": "Cadillac LIVE 2g Disposable - Mango Haze X Durban Poison",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": "Sativa",
       "thc_pct": 0.0,
@@ -5786,7 +5675,7 @@
       "id": 198754080,
       "name": "Zsunami | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5809,7 +5698,7 @@
       "id": 212117889,
       "name": "Cadillac LIVE 2g Disposable - Larry Breath X Crunch Berries",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5993,7 +5882,7 @@
       "id": 199254765,
       "name": "zwiz | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6016,7 +5905,7 @@
       "id": 212117413,
       "name": "Cadillac LIVE 2g Disposable - Blue Zushi x Pineapple Fizz",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6039,7 +5928,7 @@
       "id": 212118779,
       "name": "Cadillac LIVE 2g Disposable - Pink Acai X White Gushers",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6062,7 +5951,7 @@
       "id": 212118034,
       "name": "Cadillac LIVE 2g Disposable - Papaya Pie X Blueberry Gelato",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": "Indica",
       "thc_pct": 0.0,
@@ -6085,7 +5974,7 @@
       "id": 212118552,
       "name": "Cadillac LIVE 2g Disposable - Super Boof X Grape Sorbet",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
