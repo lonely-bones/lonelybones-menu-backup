@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 246,
-    "updated_at": "2026-07-01T21:57:04.131Z",
+    "total_menu_items": 259,
+    "updated_at": "2026-07-02T15:38:19.837Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -319,6 +319,47 @@
       "slug": "tourma-fire-af"
     },
     {
+      "id": 216198954,
+      "name": "Koala Tea Grows: Neon Drip Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 4,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442234498_IMG_0681.JPG",
+      "image_local": "216198954.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-neon-drip-smalls"
+    },
+    {
       "id": 163540330,
       "name": "*New batch!* Koala Tea Grows: RS-1000 Smalls",
       "category": "Indica",
@@ -360,45 +401,45 @@
       "slug": "koala-tea-grows-rs-1000"
     },
     {
-      "id": 216198954,
-      "name": "Koala Tea Grows: Neon Drip Smalls",
+      "id": 224146187,
+      "name": "*New Batch 100/OZ!* FIFO Cultivation: Cereal Milk",
       "category": "Indica",
-      "edge_category": "Smalls",
+      "edge_category": "Big Buds",
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 4,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442234498_IMG_0681.JPG",
-      "image_local": "216198954.jpg",
+      "rating": 4.3,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443539265_ceral_miulk.JPG",
+      "image_local": "224146187.jpg",
       "prices": [
         {
           "label": "1/8 oz",
-          "price": 10.0,
+          "price": 15.0,
           "on_sale": false,
-          "original_price": 10.0
+          "original_price": 15.0
         },
         {
           "label": "1/4 oz",
-          "price": 20.0,
+          "price": 30.0,
           "on_sale": false,
-          "original_price": 20.0
+          "original_price": 30.0
         },
         {
           "label": "1/2 oz",
-          "price": 40.0,
+          "price": 50.0,
           "on_sale": false,
-          "original_price": 40.0
+          "original_price": 50.0
         },
         {
           "label": "1 oz",
-          "price": 80.0,
+          "price": 100.0,
           "on_sale": false,
-          "original_price": 80.0
+          "original_price": 100.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-neon-drip-smalls"
+      "slug": "fifo-cultivation-cereal-milk"
     },
     {
       "id": 180051350,
@@ -531,8 +572,8 @@
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 3.0,
-      "reviews_count": 1,
+      "rating": 3.5,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715660_The_Doctor.JPG",
       "image_local": "213494566.jpg",
       "prices": [
@@ -883,7 +924,7 @@
       "genetics": null,
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443400339_shatter.jpg",
       "image_local": "223152297.jpg",
       "prices": [
@@ -1146,47 +1187,6 @@
       "slug": "gmo-cured-resin-14g-baller-jar-1e0642f4-7099-44a5-8997-47c736d995c2"
     },
     {
-      "id": 199216855,
-      "name": "*New Batch* Lonely Bones: GMO Live Hash Rosin 3.5 Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 4.6,
-      "reviews_count": 10,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442882504_gmo3.5.JPG",
-      "image_local": "199216855.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 160.0,
-          "on_sale": false,
-          "original_price": 160.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 300.0,
-          "on_sale": false,
-          "original_price": 300.0
-        },
-        {
-          "label": "1 oz",
-          "price": 600.0,
-          "on_sale": false,
-          "original_price": 600.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-gmo-live-hash-rosin-3-5-baller"
-    },
-    {
       "id": 185307719,
       "name": "(Only 2 Left!) Gas Face Cured Resin 14G Baller Jar",
       "category": "Concentrate",
@@ -1360,8 +1360,8 @@
       "slug": "fifo-miracle-mints-cured-resin-14g-baller"
     },
     {
-      "id": 211716139,
-      "name": "Grape Gas Cured Resin 1G",
+      "id": 215306333,
+      "name": "Hash Burger Cured Resin 1G",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -1369,8 +1369,8 @@
       "thc_pct": 0.0,
       "rating": 5.0,
       "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442330532_IMG_1976.JPG",
-      "image_local": "211716139.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442068621_tricho1.JPG",
+      "image_local": "215306333.jpg",
       "prices": [
         {
           "label": "1 g",
@@ -1380,7 +1380,7 @@
         }
       ],
       "current_deal_title": null,
-      "slug": "purple-ice-water-cured-resin"
+      "slug": "tricho-jordan-cured-resin-1g"
     },
     {
       "id": 199254888,
@@ -1498,35 +1498,6 @@
       "slug": "lonely-bones-zkittles-thc-distillate-disposable"
     },
     {
-      "id": 199487998,
-      "name": "Trop Cherry Cured Resin 14G Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439023431_Nectarine_kush.JPG",
-      "image_local": "199487998.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "nectarine-kush-cured-resin-14g-baller-jar"
-    },
-    {
       "id": 185641461,
       "name": "Lonely Bones: Banana Bread 1G Cured Resin Penz",
       "category": "Concentrate",
@@ -1635,29 +1606,6 @@
       ],
       "current_deal_title": null,
       "slug": "animal-face-cured-resin-1g"
-    },
-    {
-      "id": 215306333,
-      "name": "Hash Burger Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442068621_tricho1.JPG",
-      "image_local": "215306333.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "tricho-jordan-cured-resin-1g"
     },
     {
       "id": 187039534,
@@ -1805,6 +1753,29 @@
       "slug": "fifo-melted-strawberry-cured-resin-14g-baller"
     },
     {
+      "id": 217921134,
+      "name": "Cap Junky Cured Resin 1g",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442514009_IMG_0708.jpeg",
+      "image_local": "217921134.jpeg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "popscotti-cured-resin-1g"
+    },
+    {
       "id": 220254188,
       "name": "FIFO: Ice Cream Candy Cured Resin 1G",
       "category": "Concentrate",
@@ -1826,6 +1797,70 @@
       ],
       "current_deal_title": null,
       "slug": "blueberry-kush-cured-resin-1g"
+    },
+    {
+      "id": 216793470,
+      "name": "Garlic Cookies: Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442347124_papayapumnch.JPG",
+      "image_local": "216793470.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "papaya-punch-live-hash-rosin-3-5g-baller"
+    },
+    {
+      "id": 211716139,
+      "name": "Grape Gas Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442330532_IMG_1976.JPG",
+      "image_local": "211716139.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "purple-ice-water-cured-resin"
     },
     {
       "id": 207413446,
@@ -1987,6 +2022,35 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-orange-soda-1g-thc-distillate-5-10-thread"
+    },
+    {
+      "id": 199487998,
+      "name": "Trop Cherry Cured Resin 14G Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439023431_Nectarine_kush.JPG",
+      "image_local": "199487998.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "nectarine-kush-cured-resin-14g-baller-jar"
     },
     {
       "id": 197733811,
@@ -2185,29 +2249,6 @@
       "slug": "cadillac-live-liquid-diamond-assorted-five-pack-2g-penjamin"
     },
     {
-      "id": 217921134,
-      "name": "Cap Junky Cured Resin 1g",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442514009_IMG_0708.jpeg",
-      "image_local": "217921134.jpeg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "popscotti-cured-resin-1g"
-    },
-    {
       "id": 220254209,
       "name": "Fire AF Cured Resin 1G",
       "category": "Concentrate",
@@ -2229,47 +2270,6 @@
       ],
       "current_deal_title": null,
       "slug": "super-lemon-haze-cured-resin-1g"
-    },
-    {
-      "id": 216793470,
-      "name": "Garlic Cookies: Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442347124_papayapumnch.JPG",
-      "image_local": "216793470.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "papaya-punch-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 187008889,
@@ -4751,6 +4751,121 @@
       "slug": "mix-any-28g-s-of-live-rosin-for-750"
     },
     {
+      "id": 226280215,
+      "name": "Northern Terps: Blue Flame x Tiger Balm 2G Dual Tank Cured Resin",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443827958_norethern_dual.JPG",
+      "image_local": "226280215.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 55.0,
+          "on_sale": false,
+          "original_price": 55.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-blue-flame-x-tiger-balm-2g-dual-tank-cured-resin"
+    },
+    {
+      "id": 226280153,
+      "name": "Northern Terps: Double Stuffed x Tres Glue 2G Dual Tank Cured Resin",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443827958_norethern_dual.JPG",
+      "image_local": "226280153.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 55.0,
+          "on_sale": false,
+          "original_price": 55.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-double-stuffed-x-tres-glue-dual-tank-cured-resin"
+    },
+    {
+      "id": 226280137,
+      "name": "Northern Terps: Grape Fritter x Red Pop 2G Dual Tank Cured Resin",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443827958_norethern_dual.JPG",
+      "image_local": "226280137.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 55.0,
+          "on_sale": false,
+          "original_price": 55.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-grape-fritter-x-red-pop-dual-tank-cured-resin"
+    },
+    {
+      "id": 226280139,
+      "name": "Northern Terps: RPM x La Kush Cake 2G Dual Tank Cured Resin",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443827958_norethern_dual.JPG",
+      "image_local": "226280139.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 55.0,
+          "on_sale": false,
+          "original_price": 55.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-rpm-x-la-kush-cake-dual-tank-cured-resin"
+    },
+    {
+      "id": 226280077,
+      "name": "Northern Terps: Sour Sherb x Black Ice 2G Dual Tank Cured Resin",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443827958_norethern_dual.JPG",
+      "image_local": "226280077.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 55.0,
+          "on_sale": false,
+          "original_price": 55.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-sour-sherb-x-black-ice-dual-tank-cured-resin"
+    },
+    {
       "id": 223575907,
       "name": "Red Runtz Live Rosin 3.5g Baller",
       "category": "Concentrate",
@@ -5007,7 +5122,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 3,
+      "reviews_count": 4,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456196_mixed_joints.JPG",
       "image_local": "223560220.jpg",
       "prices": [
@@ -5629,7 +5744,7 @@
       "id": 212117143,
       "name": "Cadillac LIVE 2g Disposable - Mango Haze X Durban Poison",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": "Sativa",
       "thc_pct": 0.0,
@@ -5675,7 +5790,7 @@
       "id": 198754080,
       "name": "Zsunami | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5698,7 +5813,7 @@
       "id": 212117889,
       "name": "Cadillac LIVE 2g Disposable - Larry Breath X Crunch Berries",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5882,7 +5997,7 @@
       "id": 199254765,
       "name": "zwiz | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5905,7 +6020,7 @@
       "id": 212117413,
       "name": "Cadillac LIVE 2g Disposable - Blue Zushi x Pineapple Fizz",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5928,7 +6043,7 @@
       "id": 212118779,
       "name": "Cadillac LIVE 2g Disposable - Pink Acai X White Gushers",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5951,7 +6066,7 @@
       "id": 212118034,
       "name": "Cadillac LIVE 2g Disposable - Papaya Pie X Blueberry Gelato",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": "Indica",
       "thc_pct": 0.0,
@@ -5974,7 +6089,7 @@
       "id": 212118552,
       "name": "Cadillac LIVE 2g Disposable - Super Boof X Grape Sorbet",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6337,6 +6452,190 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-10mg-assorted-gummies-100mg-per-pack"
+    },
+    {
+      "id": 226281019,
+      "name": "Northern Terps: Infused Pre Roll Bankroll x Amaretto Sour Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226281019.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-bankroll-x-amaretto-sour-cured-resin"
+    },
+    {
+      "id": 226280838,
+      "name": "Northern Terps: Infused Pre Roll Blood Money x Black Spritzer Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226280838.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-blood-money-x-black-spritzer-cured-resin"
+    },
+    {
+      "id": 226280640,
+      "name": "Northern Terps: Infused Pre Roll E-85 x Front Porch Sitting Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226280640.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-e-85-x-front-porch-sitting-cured-resin"
+    },
+    {
+      "id": 226280458,
+      "name": "Northern Terps: Infused Pre Roll Ice Cream Cake x Tokyo Fuzz Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226280458.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-ice-cream-cake-x-tokyo-fuzz-cured-resin"
+    },
+    {
+      "id": 226280803,
+      "name": "Northern Terps: Infused Pre Roll Karmel Kutt Throat x Tokyo Fuzz Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226280803.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-karmel-kutt-throat-x-tokyo-fuzz-cured-resin"
+    },
+    {
+      "id": 226280666,
+      "name": "Northern Terps: Infused Pre Roll Permafrost X Permaforst Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226280666.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-permafrost-x-permaforst-cured-resin"
+    },
+    {
+      "id": 226280390,
+      "name": "Northern Terps: Infused Pre Roll Rain Cloud Flower with GD Pluto Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226280390.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-rain-cloud-flower-with-gd-pluto-cured-resin"
+    },
+    {
+      "id": 226280954,
+      "name": "Northern Terps: Infused Pre Roll Violet Fog x Tech 9 Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226280954.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-violet-fog-x-tech-9-cured-resin"
     }
   ],
   "logo_file": "logo.png"
