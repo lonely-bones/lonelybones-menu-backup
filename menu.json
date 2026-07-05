@@ -588,6 +588,47 @@
       "slug": "living-matter-royal-jelly"
     },
     {
+      "id": 225133230,
+      "name": "Cannoisseur: Rainbow OG Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443693370_Rainbow_OG.JPG",
+      "image_local": "225133230.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "cannoisseur-rainbow-og-smalls"
+    },
+    {
       "id": 225734452,
       "name": "*NEW!* Northern Terps: It's A Secret",
       "category": "Indica",
@@ -709,47 +750,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "new-northern-terps-sour-sherb"
-    },
-    {
-      "id": 225133230,
-      "name": "Cannoisseur: Rainbow OG Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443693370_Rainbow_OG.JPG",
-      "image_local": "225133230.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "cannoisseur-rainbow-og-smalls"
     },
     {
       "id": 225060290,
@@ -6489,8 +6489,8 @@
       "top_category": "Vape Pens",
       "genetics": "Sativa",
       "thc_pct": 0.0,
-      "rating": 4.0,
-      "reviews_count": 7,
+      "rating": 4.1,
+      "reviews_count": 8,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
       "image_local": "212117143.jpg",
       "prices": [
@@ -6650,8 +6650,8 @@
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
-      "rating": 3.0,
-      "reviews_count": 4,
+      "rating": 3.4,
+      "reviews_count": 5,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
       "image_local": "212118552.jpg",
       "prices": [
