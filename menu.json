@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 265,
-    "updated_at": "2026-07-10T22:21:58.963Z",
+    "total_menu_items": 260,
+    "updated_at": "2026-07-11T22:08:51.256Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -351,47 +351,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "fifo-cultivation-cereal-milk"
-    },
-    {
-      "id": 180051350,
-      "name": "Koala Tea Grows: Weighted Blanket Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 17,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440577804_weighted_blanket.JPG",
-      "image_local": "180051350.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-weighted-blanket-smalls"
     },
     {
       "id": 223944509,
@@ -968,47 +927,6 @@
       "slug": "bankroll-smalls"
     },
     {
-      "id": 226607831,
-      "name": "Kool-Whip Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443870582_kool.JPG",
-      "image_local": "226607831.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "kool-whip-smalls"
-    },
-    {
       "id": 225060290,
       "name": "Northern Terps: Hash Burger (Han Solo Hash Plant x Double Burger)",
       "category": "Indica",
@@ -1444,35 +1362,6 @@
       "slug": "gmo-cured-resin-14g-baller-jar-1e0642f4-7099-44a5-8997-47c736d995c2"
     },
     {
-      "id": 185307719,
-      "name": "(Only 1 Left!) Gas Face Cured Resin 14G Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 4,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443526972_gfaceres.JPG",
-      "image_local": "185307719.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "gas-face-cured-resin-14g-baller-jar"
-    },
-    {
       "id": 207395282,
       "name": "Lonely Bones: Sour D 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -1563,29 +1452,6 @@
       ],
       "current_deal_title": null,
       "slug": "candy-runtz-14g-cured-resin-baller-jar"
-    },
-    {
-      "id": 219620292,
-      "name": "(Only 1 Left!!) FIFO: Miracle Mints Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442785678_Miracle_Mintz.JPG",
-      "image_local": "219620292.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "fifo-miracle-mints-cured-resin-14g-baller"
     },
     {
       "id": 199254888,
@@ -2406,6 +2272,29 @@
       "slug": "lonely-bones-birthday-cake-1g-thc-distillate-5-10-thread"
     },
     {
+      "id": 215146852,
+      "name": "Blood Honey Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.5,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442036132_Grape_Skittlez.JPG",
+      "image_local": "215146852.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "grape-skittlez-cured-resin-1g"
+    },
+    {
       "id": 207395557,
       "name": "Lonely Bones: Blueberry Pie 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -2658,29 +2547,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-strawbery-guava-1g-thc-distillate-screw-on-thread"
-    },
-    {
-      "id": 187008889,
-      "name": "Lonely Bones: Cap Junky 1G Cured Resin Penz",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "187008889.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-white-tahoe-cookies-1g-cured-resin-pen"
     },
     {
       "id": 199254777,
@@ -3158,7 +3024,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443718677_ipkglue.JPG",
       "image_local": "225330528.jpg",
       "prices": [
@@ -3396,47 +3262,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-gmo-1g-cured-resin-pen-42d918c3-0a50-4f8d-8c02-6c1d4110d576"
-    },
-    {
-      "id": 223574810,
-      "name": "(1 8th Left!) Blue Dream Live Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443457938_blue_dream_3.5.JPG",
-      "image_local": "223574810.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 160.0,
-          "on_sale": false,
-          "original_price": 160.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 300.0,
-          "on_sale": false,
-          "original_price": 300.0
-        },
-        {
-          "label": "1 oz",
-          "price": 600.0,
-          "on_sale": false,
-          "original_price": 600.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "600-ounce-blue-dream-live-rosin-3-5g-baller"
     },
     {
       "id": 198360042,
@@ -5725,33 +5550,27 @@
       "slug": "white-runtz-cured-resin-1g-baller-jar"
     },
     {
-      "id": 193050080,
-      "name": "Lonely Bones: Ready to Roll",
-      "category": "Indica",
-      "edge_category": "Ground",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
+      "id": 215952244,
+      "name": "Trop Cherry Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
       "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 81,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
-      "image_local": "193050080.jpg",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442183985_carbon.JPG",
+      "image_local": "215952244.jpg",
       "prices": [
         {
-          "label": "1/2 oz",
-          "price": 20.0,
+          "label": "1 g",
+          "price": 10.0,
           "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
+          "original_price": 10.0
         }
       ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-ready-to-roll"
+      "current_deal_title": null,
+      "slug": "carbon-fiber-cured-resin-1g"
     },
     {
       "id": 208951131,
@@ -6005,29 +5824,6 @@
       ],
       "current_deal_title": null,
       "slug": "leaf-labs-black-phoenix-1g-pre-roll"
-    },
-    {
-      "id": 220348251,
-      "name": "Leaf Labs: Pepe Silvia (Zweet OG x Grampa's Cookies) 1G Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Pre-rolls",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440790990_439360826_leaf_labs_pre_roll.JPG",
-      "image_local": "220348251.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "leaf-labs-pepe-silvia-1g-pre-roll"
     },
     {
       "id": 223560253,
@@ -6373,6 +6169,35 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-zoltar-1g-pre-roll"
+    },
+    {
+      "id": 193050080,
+      "name": "Lonely Bones: Ready to Roll",
+      "category": "Indica",
+      "edge_category": "Ground",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 81,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
+      "image_local": "193050080.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "lonely-bones-ready-to-roll"
     },
     {
       "id": 185241360,
@@ -6774,7 +6599,7 @@
       "genetics": null,
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 9,
+      "reviews_count": 10,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
       "image_local": "212117413.jpg",
       "prices": [
