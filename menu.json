@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 260,
-    "updated_at": "2026-07-11T22:08:51.256Z",
+    "total_menu_items": 259,
+    "updated_at": "2026-07-12T22:12:27.312Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -230,6 +230,47 @@
       "slug": "koala-tea-grows-rs-1000"
     },
     {
+      "id": 224146187,
+      "name": "*New Batch 100/OZ!* FIFO Cultivation: Cereal Milk",
+      "category": "Indica",
+      "edge_category": "Big Buds",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.6,
+      "reviews_count": 5,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443539265_ceral_miulk.JPG",
+      "image_local": "224146187.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "fifo-cultivation-cereal-milk"
+    },
+    {
       "id": 192017967,
       "name": "*Insane!* Tourma: Fire AF",
       "category": "Indica",
@@ -312,45 +353,45 @@
       "slug": "koala-tea-grows-neon-drip-smalls"
     },
     {
-      "id": 224146187,
-      "name": "*New Batch 100/OZ!* FIFO Cultivation: Cereal Milk",
+      "id": 216163724,
+      "name": "(1/2 OZ Left) Koala Tea Grows: Pink Starburst Smalls",
       "category": "Indica",
-      "edge_category": "Big Buds",
+      "edge_category": "Smalls",
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 4.6,
-      "reviews_count": 5,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443539265_ceral_miulk.JPG",
-      "image_local": "224146187.jpg",
+      "rating": 5.0,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443461571_pinkstar.JPG",
+      "image_local": "216163724.jpg",
       "prices": [
         {
           "label": "1/8 oz",
-          "price": 15.0,
+          "price": 10.0,
           "on_sale": false,
-          "original_price": 15.0
+          "original_price": 10.0
         },
         {
           "label": "1/4 oz",
-          "price": 30.0,
+          "price": 20.0,
           "on_sale": false,
-          "original_price": 30.0
+          "original_price": 20.0
         },
         {
           "label": "1/2 oz",
-          "price": 50.0,
+          "price": 40.0,
           "on_sale": false,
-          "original_price": 50.0
+          "original_price": 40.0
         },
         {
           "label": "1 oz",
-          "price": 100.0,
+          "price": 80.0,
           "on_sale": false,
-          "original_price": 100.0
+          "original_price": 80.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "fifo-cultivation-cereal-milk"
+      "slug": "brand-new-pink-starburst-smalls"
     },
     {
       "id": 223944509,
@@ -392,47 +433,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "living-matter-royal-jelly"
-    },
-    {
-      "id": 216163724,
-      "name": "Koala Tea Grows: Pink Starburst Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443461571_pinkstar.JPG",
-      "image_local": "216163724.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "brand-new-pink-starburst-smalls"
     },
     {
       "id": 162745720,
@@ -515,6 +515,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "new-tourma-apple-fritter"
+    },
+    {
+      "id": 225064350,
+      "name": "Northern Terps: Sin Mints",
+      "category": "Indica",
+      "edge_category": "Big Buds",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443684226_sin_mints.JPG",
+      "image_local": "225064350.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "northern-terps-sin-mints"
     },
     {
       "id": 226706157,
@@ -966,47 +1007,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "northern-terps-hash-burger"
-    },
-    {
-      "id": 225064350,
-      "name": "Northern Terps: Sin Mints",
-      "category": "Indica",
-      "edge_category": "Big Buds",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443684226_sin_mints.JPG",
-      "image_local": "225064350.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "northern-terps-sin-mints"
     },
     {
       "id": 226901095,
@@ -1829,29 +1829,6 @@
       "slug": "popscotti-cured-resin-1g"
     },
     {
-      "id": 220254188,
-      "name": "FIFO: Ice Cream Candy Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442879589_blueberry_kush.JPG",
-      "image_local": "220254188.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "blueberry-kush-cured-resin-1g"
-    },
-    {
       "id": 211716139,
       "name": "Grape Gas Cured Resin 1G",
       "category": "Concentrate",
@@ -2478,29 +2455,6 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-live-liquid-diamond-assorted-five-pack-2g-penjamin"
-    },
-    {
-      "id": 220254209,
-      "name": "Fire AF Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442879592_super_lemon_haze.JPG",
-      "image_local": "220254209.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "super-lemon-haze-cured-resin-1g"
     },
     {
       "id": 224725699,
@@ -5412,6 +5366,47 @@
       "slug": "northern-terps-z-marker-live-hash-rosin-3-5g-baller"
     },
     {
+      "id": 204857826,
+      "name": "Papaya Live Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443949871_papaya.JPG",
+      "image_local": "204857826.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "papaya-live-rosin-3-5g-baller"
+    },
+    {
       "id": 209063704,
       "name": "Slap Happy Live Hash Rosin 1G",
       "category": "Concentrate",
@@ -6502,7 +6497,7 @@
       "id": 212117143,
       "name": "Cadillac LIVE 2g Disposable - Mango Haze X Durban Poison",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": "Sativa",
       "thc_pct": 0.0,
@@ -6525,7 +6520,7 @@
       "id": 198754080,
       "name": "Zsunami | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6548,7 +6543,7 @@
       "id": 212117889,
       "name": "Cadillac LIVE 2g Disposable - Larry Breath X Crunch Berries",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6571,7 +6566,7 @@
       "id": 199254765,
       "name": "zwiz | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6594,7 +6589,7 @@
       "id": 212117413,
       "name": "Cadillac LIVE 2g Disposable - Blue Zushi x Pineapple Fizz",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6617,7 +6612,7 @@
       "id": 212118779,
       "name": "Cadillac LIVE 2g Disposable - Pink Acai X White Gushers",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6640,7 +6635,7 @@
       "id": 212118034,
       "name": "Cadillac LIVE 2g Disposable - Papaya Pie X Blueberry Gelato",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": "Indica",
       "thc_pct": 0.0,
@@ -6663,7 +6658,7 @@
       "id": 212118552,
       "name": "Cadillac LIVE 2g Disposable - Super Boof X Grape Sorbet",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
