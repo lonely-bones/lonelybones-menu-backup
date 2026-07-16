@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 263,
-    "updated_at": "2026-07-14T19:14:12.202Z",
+    "total_menu_items": 262,
+    "updated_at": "2026-07-15T18:21:02.135Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -207,6 +207,47 @@
       "slug": "koala-tea-grows-neon-drip-smalls"
     },
     {
+      "id": 152591494,
+      "name": "Sunset Sherbet Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 9,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437314062_caddy_rainbow_sm.JPG",
+      "image_local": "152591494.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "sunset-sherbet-smalls"
+    },
+    {
       "id": 159392938,
       "name": "Super Boof Smalls",
       "category": "Indica",
@@ -371,47 +412,6 @@
       "slug": "tourma-fire-af"
     },
     {
-      "id": 152591494,
-      "name": "Sunset Sherbet Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 9,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437314062_caddy_rainbow_sm.JPG",
-      "image_local": "152591494.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "sunset-sherbet-smalls"
-    },
-    {
       "id": 223944509,
       "name": "*Fresh Batch!* Tourma Cannabis: Royal Jelly",
       "category": "Indica",
@@ -533,6 +533,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "gr-farms-rs-11-smalls"
+    },
+    {
+      "id": 225060290,
+      "name": "(1/2oz Left) Northern Terps: Hash Burger (Han Solo Hash Plant x Double Burger)",
+      "category": "Indica",
+      "edge_category": "Big Buds",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443683565_hash_burgewr.JPG",
+      "image_local": "225060290.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        },
+        {
+          "label": "1 oz",
+          "price": 120.0,
+          "on_sale": false,
+          "original_price": 120.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "northern-terps-hash-burger"
     },
     {
       "id": 182957686,
@@ -738,47 +779,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "northern-terps-sin-mints"
-    },
-    {
-      "id": 226705608,
-      "name": "Tourma: GG4",
-      "category": "Indica",
-      "edge_category": "Big Buds",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443883922_tourma_GG4.JPG",
-      "image_local": "226705608.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "tourma-gg4"
     },
     {
       "id": 225734452,
@@ -1273,47 +1273,6 @@
       "slug": "motor-breath-smalls"
     },
     {
-      "id": 225060290,
-      "name": "Northern Terps: Hash Burger (Han Solo Hash Plant x Double Burger)",
-      "category": "Indica",
-      "edge_category": "Big Buds",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443683565_hash_burgewr.JPG",
-      "image_local": "225060290.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        },
-        {
-          "label": "1 oz",
-          "price": 120.0,
-          "on_sale": false,
-          "original_price": 120.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "northern-terps-hash-burger"
-    },
-    {
       "id": 226901095,
       "name": "Northern Terps: Tribute",
       "category": "Indica",
@@ -1394,6 +1353,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "rainbow-gelato-smalls"
+    },
+    {
+      "id": 226705608,
+      "name": "Tourma: GG4",
+      "category": "Indica",
+      "edge_category": "Big Buds",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443883922_tourma_GG4.JPG",
+      "image_local": "226705608.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "tourma-gg4"
     },
     {
       "id": 226706334,
@@ -2173,29 +2173,6 @@
       ],
       "current_deal_title": null,
       "slug": "popscotti-cured-resin-1g"
-    },
-    {
-      "id": 211716139,
-      "name": "Grape Gas Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442330532_IMG_1976.JPG",
-      "image_local": "211716139.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "purple-ice-water-cured-resin"
     },
     {
       "id": 207393576,
