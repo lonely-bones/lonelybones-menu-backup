@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 257,
-    "updated_at": "2026-07-17T18:30:56.663Z",
+    "total_menu_items": 259,
+    "updated_at": "2026-07-18T18:33:09.269Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -166,6 +166,47 @@
       "slug": "gmo"
     },
     {
+      "id": 173746062,
+      "name": "Koala Tea Grows: Liquid Hot Magma Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 21,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436339695_liquid_hot_magma.JPG",
+      "image_local": "173746062.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-liquid-hot-magma-smalls"
+    },
+    {
       "id": 216198954,
       "name": "Koala Tea Grows: Neon Drip Smalls",
       "category": "Indica",
@@ -246,6 +287,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "sunset-sherbet-smalls"
+    },
+    {
+      "id": 163540330,
+      "name": "*New Batch!* Koala Tea Grows: RS-1000 Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.7,
+      "reviews_count": 15,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440263904_RS-1000.JPG",
+      "image_local": "163540330.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-rs-1000"
     },
     {
       "id": 224146187,
@@ -453,6 +535,47 @@
       "slug": "living-matter-royal-jelly"
     },
     {
+      "id": 216163724,
+      "name": "Koala Tea Grows: Pink Starburst Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443461571_pinkstar.JPG",
+      "image_local": "216163724.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "brand-new-pink-starburst-smalls"
+    },
+    {
       "id": 171220200,
       "name": "Black Cherry Kush Smalls",
       "category": "Indica",
@@ -492,47 +615,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "gr-farms-rs-11-smalls"
-    },
-    {
-      "id": 182957686,
-      "name": "*Fire!* Tourma: Apple Fritter",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443634385_frit.JPG",
-      "image_local": "182957686.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-tourma-apple-fritter"
     },
     {
       "id": 226607934,
@@ -1150,6 +1232,47 @@
       "slug": "bankroll-smalls"
     },
     {
+      "id": 227762150,
+      "name": "Koala Tea Grows: Permanet Marker Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444023169_perm_mark.JPG",
+      "image_local": "227762150.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-permanet-marker-smalls"
+    },
+    {
       "id": 227261484,
       "name": "Motor Breath Smalls",
       "category": "Indica",
@@ -1718,6 +1841,29 @@
       "slug": "candy-runtz-14g-cured-resin-baller-jar"
     },
     {
+      "id": 219620292,
+      "name": "*Fire!* Grape Gas Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442785678_Miracle_Mintz.JPG",
+      "image_local": "219620292.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "fifo-miracle-mints-cured-resin-14g-baller"
+    },
+    {
       "id": 199254888,
       "name": "Lonely Bones: Fire AF Cured Resin Penjamin 1G",
       "category": "Concentrate",
@@ -2041,29 +2187,6 @@
       "slug": "fifo-melted-strawberry-cured-resin-14g-baller"
     },
     {
-      "id": 217921134,
-      "name": "Cap Junky Cured Resin 1g",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442514009_IMG_0708.jpeg",
-      "image_local": "217921134.jpeg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "popscotti-cured-resin-1g"
-    },
-    {
       "id": 207393576,
       "name": "Lonely Bones: Acapulco Gold 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -2315,52 +2438,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-lemon-slushie-1g-thc-distillate-5-10-thread"
-    },
-    {
-      "id": 187038418,
-      "name": "Lonely Bones: Mac 1G Cured Resin Penz",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "187038418.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-candyland-1g-cured-resin-pen"
-    },
-    {
-      "id": 187005574,
-      "name": "Lonely Bones: Pink Starburst 1G Cured Resin Penz",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 5,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "187005574.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-white-runtz-1g-cured-resin-pen"
     },
     {
       "id": 207394503,
@@ -3004,7 +3081,7 @@
     },
     {
       "id": 220266135,
-      "name": "*Insane!* Cream Caramel 14g Cured Resin Baller jar",
+      "name": "(1 Left!) Cream Caramel 14g Cured Resin Baller jar",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -3174,6 +3251,29 @@
       ],
       "current_deal_title": null,
       "slug": "popscotti-cured-resin-14g-baller-jar"
+    },
+    {
+      "id": 219579728,
+      "name": "Fire AF Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775999_Blood_Honey.JPG",
+      "image_local": "219579728.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "fifo-blood-honey-cured-resin-14g-baller"
     },
     {
       "id": 194338325,
