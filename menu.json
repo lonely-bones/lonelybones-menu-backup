@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 266,
-    "updated_at": "2026-07-22T21:49:12.615Z",
+    "total_menu_items": 265,
+    "updated_at": "2026-07-23T13:50:55.949Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -55,17 +55,17 @@
       "slug": "northern-terps-infused-pre-roll-karmel-kutt-throat-x-tokyo-fuzz-cured-resin"
     },
     {
-      "id": 211796555,
-      "name": "Royal Jelly Cured Resin 14G Baller",
+      "id": 182699761,
+      "name": "Gary Payton Cured Resin 14G Baller",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
-      "genetics": "Hybrid",
+      "genetics": "Indica",
       "thc_pct": 0.0,
-      "rating": 5.0,
+      "rating": 4.0,
       "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442370110_IMG_1983.JPG",
-      "image_local": "211796555.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437118824_sophies_breath14.JPG",
+      "image_local": "182699761.jpg",
       "prices": [
         {
           "label": "1/2 oz",
@@ -81,7 +81,7 @@
         }
       ],
       "current_deal_title": null,
-      "slug": "purple-ice-water-cured-resin-14g-baller"
+      "slug": "sophies-breath-cured-resin-14g-baller"
     },
     {
       "id": 198364174,
@@ -230,17 +230,17 @@
       "slug": "koala-tea-grows-neon-drip-smalls"
     },
     {
-      "id": 152591494,
-      "name": "(Half OZ Left!) Sunset Sherbet Smalls",
+      "id": 152456472,
+      "name": "$60/oz G&R Farms: Black Scotti Smalls",
       "category": "Indica",
-      "edge_category": "Flower",
+      "edge_category": "Smalls",
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 9,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437314062_caddy_rainbow_sm.JPG",
-      "image_local": "152591494.jpg",
+      "rating": 4.5,
+      "reviews_count": 4,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/433498495_Black_Scotti.jpg",
+      "image_local": "152456472.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -256,19 +256,19 @@
         },
         {
           "label": "1/2 oz",
-          "price": 40.0,
+          "price": 30.0,
           "on_sale": false,
-          "original_price": 40.0
+          "original_price": 30.0
         },
         {
           "label": "1 oz",
-          "price": 80.0,
+          "price": 60.0,
           "on_sale": false,
-          "original_price": 80.0
+          "original_price": 60.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "sunset-sherbet-smalls"
+      "slug": "method-maine-black-scotti-smalls"
     },
     {
       "id": 163540330,
@@ -353,47 +353,6 @@
       "slug": "fifo-cultivation-cereal-milk"
     },
     {
-      "id": 152456472,
-      "name": "$60/oz G&R Farms: Black Scotti Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 4,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/433498495_Black_Scotti.jpg",
-      "image_local": "152456472.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "method-maine-black-scotti-smalls"
-    },
-    {
       "id": 192017967,
       "name": "*Insane!* Tourma: Fire AF",
       "category": "Indica",
@@ -476,47 +435,6 @@
       "slug": "living-matter-royal-jelly"
     },
     {
-      "id": 213495274,
-      "name": "*$60/OZ* G&R Farms: Trop Cherry Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715771_Trop_Cherry.JPG",
-      "image_local": "213495274.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "g-r-farms-trop-cherry-smalls"
-    },
-    {
       "id": 216163724,
       "name": "Koala Tea Grows: Pink Starburst Smalls",
       "category": "Indica",
@@ -556,6 +474,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "brand-new-pink-starburst-smalls"
+    },
+    {
+      "id": 213495274,
+      "name": "*$60/OZ* G&R Farms: Trop Cherry Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715771_Trop_Cherry.JPG",
+      "image_local": "213495274.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "g-r-farms-trop-cherry-smalls"
     },
     {
       "id": 171220200,
@@ -720,6 +679,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "g-r-farms-blue-andes-smalls"
+    },
+    {
+      "id": 226701305,
+      "name": "*NEW!* Northern Terps: Pure Michigan",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443883345_Pure_Mich.JPG",
+      "image_local": "226701305.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        },
+        {
+          "label": "1 oz",
+          "price": 120.0,
+          "on_sale": false,
+          "original_price": 120.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-northern-terps-pure-michigan"
     },
     {
       "id": 225734529,
@@ -968,47 +968,6 @@
       "slug": "new-northern-terps-illmonic"
     },
     {
-      "id": 226701305,
-      "name": "*NEW!* Northern Terps: Pure Michigan",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443883345_Pure_Mich.JPG",
-      "image_local": "226701305.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        },
-        {
-          "label": "1 oz",
-          "price": 120.0,
-          "on_sale": false,
-          "original_price": 120.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-northern-terps-pure-michigan"
-    },
-    {
       "id": 225734777,
       "name": "*NEW!* Northern Terps: Rain Drop",
       "category": "Indica",
@@ -1253,47 +1212,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "tourma-sour-apple"
-    },
-    {
-      "id": 184774156,
-      "name": "(Half OZ left!) Rainbow Gelato Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443954741_rainbow_gelato.JPG",
-      "image_local": "184774156.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "rainbow-gelato-smalls"
     },
     {
       "id": 227361947,
@@ -2269,6 +2187,29 @@
       "slug": "fifo-melted-strawberry-cured-resin-14g-baller"
     },
     {
+      "id": 220254188,
+      "name": "Ice Cream Cake Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442879589_blueberry_kush.JPG",
+      "image_local": "220254188.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "blueberry-kush-cured-resin-1g"
+    },
+    {
       "id": 207393576,
       "name": "Lonely Bones: Acapulco Gold 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -2693,35 +2634,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-blue-dream-1g-thc-distillate-screw-on-thread"
-    },
-    {
-      "id": 182699761,
-      "name": "Gary Payton Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 4.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437118824_sophies_breath14.JPG",
-      "image_local": "182699761.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "sophies-breath-cured-resin-14g-baller"
     },
     {
       "id": 198745525,
@@ -3162,8 +3074,8 @@
       "slug": "northern-terps-tahiti-lime-live-hash-rosin-3-5g-baller"
     },
     {
-      "id": 220266135,
-      "name": "(1 Left!) Cream Caramel 14g Cured Resin Baller jar",
+      "id": 223154452,
+      "name": "(Only 1 Left) Blue Cookies Cured Resin 14G Baller Jar",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -3171,18 +3083,18 @@
       "thc_pct": 0.0,
       "rating": 5.0,
       "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442880858_Cream_Caramel.JPG",
-      "image_local": "220266135.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443400795_blue_cookies.JPG",
+      "image_local": "223154452.jpg",
       "prices": [
         {
-          "label": "each",
+          "label": "1/2 oz",
           "price": 100.0,
           "on_sale": false,
           "original_price": 100.0
         }
       ],
       "current_deal_title": null,
-      "slug": "cream-caramel-14g-cured-resin-baller-jar"
+      "slug": "blue-cookies-cured-resin-14g-baller-jar"
     },
     {
       "id": 219576681,
@@ -3212,29 +3124,6 @@
       ],
       "current_deal_title": null,
       "slug": "fifo-gas-mix-cured-resin-14g-baller"
-    },
-    {
-      "id": 223154452,
-      "name": "Blue Cookies Cured Resin 14G Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443400795_blue_cookies.JPG",
-      "image_local": "223154452.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "blue-cookies-cured-resin-14g-baller-jar"
     },
     {
       "id": 223154409,
@@ -3566,6 +3455,35 @@
       "slug": "lonely-bones-dantes-inferno-1g-cured-resin-pen"
     },
     {
+      "id": 211796555,
+      "name": "Royal Jelly Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442370110_IMG_1983.JPG",
+      "image_local": "211796555.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "purple-ice-water-cured-resin-14g-baller"
+    },
+    {
       "id": 213496293,
       "name": "Sherb Cocktail Cured Resin 1G",
       "category": "Concentrate",
@@ -3587,6 +3505,29 @@
       ],
       "current_deal_title": null,
       "slug": "peach-rings-cured-resin-1g"
+    },
+    {
+      "id": 215146897,
+      "name": "SuperBoof Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442036150_White_Berry.JPG",
+      "image_local": "215146897.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "white-berry-cured-resin-1g"
     },
     {
       "id": 222437550,
