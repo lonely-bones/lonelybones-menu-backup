@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 269,
-    "updated_at": "2026-07-24T22:20:09.320Z",
+    "total_menu_items": 277,
+    "updated_at": "2026-07-25T21:02:55.484Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -149,7 +149,7 @@
     },
     {
       "id": 173746062,
-      "name": "(1 OZ left!) Koala Tea Grows: Liquid Hot Magma Smalls",
+      "name": "Koala Tea Grows: Liquid Hot Magma Smalls",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -187,6 +187,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-grows-liquid-hot-magma-smalls"
+    },
+    {
+      "id": 206742151,
+      "name": "Koala Tea Grows: Obama Runtz",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.6,
+      "reviews_count": 11,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443803205_Obama_Runtz_smalls.JPG",
+      "image_local": "206742151.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "insane-koala-tea-grows-obama-runtz"
     },
     {
       "id": 216198954,
@@ -269,47 +310,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "method-maine-black-scotti-smalls"
-    },
-    {
-      "id": 163540330,
-      "name": "*New Batch!* Koala Tea Grows: RS-1000 Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.7,
-      "reviews_count": 15,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440263904_RS-1000.JPG",
-      "image_local": "163540330.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-rs-1000"
     },
     {
       "id": 224146187,
@@ -433,6 +433,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "living-matter-royal-jelly"
+    },
+    {
+      "id": 163540330,
+      "name": "*New Batch!* Koala Tea Grows: RS-1000 Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.7,
+      "reviews_count": 15,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440263904_RS-1000.JPG",
+      "image_local": "163540330.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-rs-1000"
     },
     {
       "id": 213495274,
@@ -764,7 +805,7 @@
     },
     {
       "id": 162745720,
-      "name": "Koala Tea Grows: Royal Runtz Smalls",
+      "name": "(1/2 Ounce Left) Koala Tea Grows: Royal Runtz Smalls",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -1335,6 +1376,293 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "g-r-farms-face-off-smalls"
+    },
+    {
+      "id": 228246379,
+      "name": "*Incredible!* Cherry Dosi",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096946_Cherry_Dosi_120.JPG",
+      "image_local": "228246379.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        },
+        {
+          "label": "1 oz",
+          "price": 120.0,
+          "on_sale": false,
+          "original_price": 120.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "incredible-cherry-dosi"
+    },
+    {
+      "id": 228246661,
+      "name": "*NEW!* Biscotti",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096982_Biscotti_NEW_100.JPG",
+      "image_local": "228246661.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-biscotti"
+    },
+    {
+      "id": 228246316,
+      "name": "*NEW!* Secret Weapon",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096934_Secret_Weapon_100.JPG",
+      "image_local": "228246316.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-secret-weapon"
+    },
+    {
+      "id": 228246861,
+      "name": "*NEW!* Smoke Proper: AJ's Sour",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444097006_AJ_s_Sour_100.JPG",
+      "image_local": "228246861.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-aj-s-sour"
+    },
+    {
+      "id": 228246595,
+      "name": "*NEW!* Smoke Proper: Legend Larry",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096971_Larry_Legend_120.JPG",
+      "image_local": "228246595.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        },
+        {
+          "label": "1 oz",
+          "price": 120.0,
+          "on_sale": false,
+          "original_price": 120.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-smoke-proper-legend-larry"
+    },
+    {
+      "id": 228246361,
+      "name": "*NEW!* White Truffle",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096941_White_Truffle_100.JPG",
+      "image_local": "228246361.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-white-truffle"
+    },
+    {
+      "id": 228245546,
+      "name": "*The Truth* Smoke Proper: Lemon Cherry Gelato",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096823_Lemon_Cherry_Gelato_120.JPG",
+      "image_local": "228245546.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        },
+        {
+          "label": "1 oz",
+          "price": 120.0,
+          "on_sale": false,
+          "original_price": 120.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "the-truth-lemon-cherry-gelato"
     },
     {
       "id": 226608117,
@@ -6840,7 +7168,7 @@
       "genetics": null,
       "thc_pct": 0.0,
       "rating": 4.9,
-      "reviews_count": 8,
+      "reviews_count": 9,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
       "image_local": "212118779.jpg",
       "prices": [
@@ -6901,6 +7229,52 @@
       "slug": "cadillac-live-liquid-diamond-papaya-pie-x-blueberry-gelato-2g-penjamin"
     },
     {
+      "id": 226280458,
+      "name": "Northern Terps: Infused Pre Roll Ice Cream Cake x Tokyo Fuzz Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226280458.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-ice-cream-cake-x-tokyo-fuzz-cured-resin"
+    },
+    {
+      "id": 226280666,
+      "name": "Northern Terps: Infused Pre Roll Permafrost X Permaforst Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226280666.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-permafrost-x-permaforst-cured-resin"
+    },
+    {
       "id": 226280390,
       "name": "Northern Terps: Infused Pre Roll Rain Cloud Flower with GD Pluto Cured Resin",
       "category": "Hybrid",
@@ -6922,6 +7296,29 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-infused-pre-roll-rain-cloud-flower-with-gd-pluto-cured-resin"
+    },
+    {
+      "id": 226280954,
+      "name": "Northern Terps: Infused Pre Roll Violet Fog x Tech 9 Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226280954.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-violet-fog-x-tech-9-cured-resin"
     },
     {
       "id": 226281019,
@@ -6970,29 +7367,6 @@
       "slug": "northern-terps-infused-pre-roll-e-85-x-front-porch-sitting-cured-resin"
     },
     {
-      "id": 226280458,
-      "name": "Northern Terps: Infused Pre Roll Ice Cream Cake x Tokyo Fuzz Cured Resin",
-      "category": "Hybrid",
-      "edge_category": "Infused Joints",
-      "top_category": "Infused Pre-rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226280458.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 12.0,
-          "on_sale": false,
-          "original_price": 12.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-infused-pre-roll-ice-cream-cake-x-tokyo-fuzz-cured-resin"
-    },
-    {
       "id": 226280838,
       "name": "Northern Terps: Infused Pre Roll Karamel Kutt Throat x Black Spritzer Cured Resin",
       "category": "Hybrid",
@@ -7014,52 +7388,6 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-infused-pre-roll-blood-money-x-black-spritzer-cured-resin"
-    },
-    {
-      "id": 226280666,
-      "name": "Northern Terps: Infused Pre Roll Permafrost X Permaforst Cured Resin",
-      "category": "Hybrid",
-      "edge_category": "Infused Joints",
-      "top_category": "Infused Pre-rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226280666.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 12.0,
-          "on_sale": false,
-          "original_price": 12.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-infused-pre-roll-permafrost-x-permaforst-cured-resin"
-    },
-    {
-      "id": 226280954,
-      "name": "Northern Terps: Infused Pre Roll Violet Fog x Tech 9 Cured Resin",
-      "category": "Hybrid",
-      "edge_category": "Infused Joints",
-      "top_category": "Infused Pre-rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226280954.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 12.0,
-          "on_sale": false,
-          "original_price": 12.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-infused-pre-roll-violet-fog-x-tech-9-cured-resin"
     },
     {
       "id": 228154015,
