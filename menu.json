@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 273,
-    "updated_at": "2026-07-25T18:49:23.807Z",
+    "total_menu_items": 279,
+    "updated_at": "2026-07-27T21:55:13.480Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -108,7 +108,7 @@
     },
     {
       "id": 145008363,
-      "name": "Tourma Cannabis: GMO",
+      "name": "(1 Ounce Left) Tourma Cannabis: GMO",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -146,6 +146,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "gmo"
+    },
+    {
+      "id": 162743551,
+      "name": "Super Buff Cherry Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 14,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/433027440_super_boof_cherry.jpg",
+      "image_local": "162743551.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-super-boof-cherry"
     },
     {
       "id": 173746062,
@@ -187,6 +228,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-grows-liquid-hot-magma-smalls"
+    },
+    {
+      "id": 181645234,
+      "name": "Cap Junky Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.9,
+      "reviews_count": 24,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438151840_cap_junky.JPG",
+      "image_local": "181645234.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "cap-junky-smalls-ac03ef61-bca1-4883-b94a-8053debbffa8"
     },
     {
       "id": 206742151,
@@ -310,6 +392,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "method-maine-black-scotti-smalls"
+    },
+    {
+      "id": 159392938,
+      "name": "Super Boof Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 5,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436431306_Superboof.JPG",
+      "image_local": "159392938.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "method-maine-super-boof-smalls"
     },
     {
       "id": 224146187,
@@ -436,7 +559,7 @@
     },
     {
       "id": 163540330,
-      "name": "*New Batch!* Koala Tea Grows: RS-1000 Smalls",
+      "name": "(1 Ounce Left) Koala Tea Grows: RS-1000 Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -518,7 +641,7 @@
     },
     {
       "id": 171220200,
-      "name": "Black Cherry Kush Smalls",
+      "name": "(1/2 Ounce left) Black Cherry Kush Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -1173,6 +1296,47 @@
       "slug": "tourma-sour-apple"
     },
     {
+      "id": 226608117,
+      "name": "(1 Ounce Left) Bankroll Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443870617_bankroll.JPG",
+      "image_local": "226608117.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "bankroll-smalls"
+    },
+    {
       "id": 227361947,
       "name": "*$60/OZ* G&R Farms: Biscotti Pop Smalls",
       "category": "Indica",
@@ -1624,8 +1788,8 @@
       "slug": "the-truth-lemon-cherry-gelato"
     },
     {
-      "id": 226608117,
-      "name": "Bankroll Smalls",
+      "id": 228329892,
+      "name": "Hawaiin Haze Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -1633,8 +1797,8 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443870617_bankroll.JPG",
-      "image_local": "226608117.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444109379_hhaze.JPG",
+      "image_local": "228329892.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -1662,7 +1826,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "bankroll-smalls"
+      "slug": "hawaiin-haze-smalls"
     },
     {
       "id": 227762150,
@@ -1745,6 +1909,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "motor-breath-smalls"
+    },
+    {
+      "id": 184774156,
+      "name": "Rainbow Gelato Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443954741_rainbow_gelato.JPG",
+      "image_local": "184774156.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "rainbow-gelato-smalls"
     },
     {
       "id": 223152297,
@@ -2766,6 +2971,29 @@
       "slug": "lonely-bones-birthday-cake-1g-thc-distillate-5-10-thread"
     },
     {
+      "id": 215146852,
+      "name": "Blood Honey Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.7,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442036132_Grape_Skittlez.JPG",
+      "image_local": "215146852.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "grape-skittlez-cured-resin-1g"
+    },
+    {
       "id": 207395557,
       "name": "Lonely Bones: Blueberry Pie 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -3765,6 +3993,29 @@
       "slug": "white-berry-cured-resin-1g"
     },
     {
+      "id": 215952244,
+      "name": "Trop Cherry Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442183985_carbon.JPG",
+      "image_local": "215952244.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "carbon-fiber-cured-resin-1g"
+    },
+    {
       "id": 222437550,
       "name": "White Fire Cured Resin 1G",
       "category": "Concentrate",
@@ -3773,7 +4024,7 @@
       "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443926850_white_fire.JPG",
       "image_local": "222437550.jpg",
       "prices": [
@@ -5980,29 +6231,6 @@
       "slug": "white-runtz-cured-resin-1g-baller-jar"
     },
     {
-      "id": 215952244,
-      "name": "Trop Cherry Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442183985_carbon.JPG",
-      "image_local": "215952244.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "carbon-fiber-cured-resin-1g"
-    },
-    {
       "id": 193050080,
       "name": "Lonely Bones: Ready to Roll",
       "category": "Indica",
@@ -6932,7 +7160,7 @@
       "id": 212117143,
       "name": "Cadillac LIVE 2g Disposable - Mango Haze X Durban Poison",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": "Sativa",
       "thc_pct": 0.0,
@@ -6955,7 +7183,7 @@
       "id": 198754080,
       "name": "Zsunami | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6978,7 +7206,7 @@
       "id": 212117889,
       "name": "Cadillac LIVE 2g Disposable - Larry Breath X Crunch Berries",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -7001,7 +7229,7 @@
       "id": 199254765,
       "name": "zwiz | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -7024,7 +7252,7 @@
       "id": 212117413,
       "name": "Cadillac LIVE 2g Disposable - Blue Zushi x Pineapple Fizz",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -7047,12 +7275,12 @@
       "id": 212118779,
       "name": "Cadillac LIVE 2g Disposable - Pink Acai X White Gushers",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
       "rating": 4.9,
-      "reviews_count": 9,
+      "reviews_count": 10,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
       "image_local": "212118779.jpg",
       "prices": [
@@ -7070,7 +7298,7 @@
       "id": 212118552,
       "name": "Cadillac LIVE 2g Disposable - Super Boof X Grape Sorbet",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -7093,7 +7321,7 @@
       "id": 212118034,
       "name": "Cadillac LIVE 2g Disposable - Papaya Pie X Blueberry Gelato",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": "Indica",
       "thc_pct": 0.0,
