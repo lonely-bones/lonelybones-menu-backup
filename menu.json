@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 279,
-    "updated_at": "2026-07-27T21:55:13.480Z",
+    "total_menu_items": 278,
+    "updated_at": "2026-07-28T17:06:42.634Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -436,7 +436,7 @@
     },
     {
       "id": 224146187,
-      "name": "*New Batch 100/OZ!* FIFO Cultivation: Cereal Milk",
+      "name": "(Half OZ left!) FIFO Cultivation: Cereal Milk",
       "category": "Indica",
       "edge_category": "Big Buds",
       "top_category": "Flower",
@@ -2346,7 +2346,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442785678_Miracle_Mintz.JPG",
       "image_local": "219620292.jpg",
       "prices": [
@@ -2568,6 +2568,47 @@
       "slug": "lonely-bones-20-mix-and-match-thc-distillate-1g-5-10-thread-260"
     },
     {
+      "id": 226903593,
+      "name": "Northern Terps: Guava Tangie Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909837_guava_t.JPG",
+      "image_local": "226903593.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-guava-tangie-live-hash-rosin-3-5g-baller"
+    },
+    {
       "id": 219610127,
       "name": "Blue Powerade: Cured Resin 14G Baller",
       "category": "Concentrate",
@@ -2605,7 +2646,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442879589_blueberry_kush.JPG",
       "image_local": "220254188.jpg",
       "prices": [
@@ -2618,6 +2659,47 @@
       ],
       "current_deal_title": null,
       "slug": "blueberry-kush-cured-resin-1g"
+    },
+    {
+      "id": 225330528,
+      "name": "IPK/MegaRaw: Original Glue Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443718677_ipkglue.JPG",
+      "image_local": "225330528.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "ipk-megaraw-original-glue-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 207393576,
@@ -2720,7 +2802,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 5,
+      "reviews_count": 6,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
       "image_local": "198745189.jpg",
       "prices": [
@@ -3455,47 +3537,6 @@
       "slug": "norhtern-terps-aroz-con-leche-live-hash-rosin-3-5g-baller"
     },
     {
-      "id": 226903593,
-      "name": "Northern Terps: Guava Tangie Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909837_guava_t.JPG",
-      "image_local": "226903593.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-guava-tangie-live-hash-rosin-3-5g-baller"
-    },
-    {
       "id": 226906597,
       "name": "Northern Terps: Tahiti Lime Live Hash Rosin 3.5G Baller",
       "category": "Concentrate",
@@ -3737,47 +3778,6 @@
       ],
       "current_deal_title": null,
       "slug": "cream-caramel-14g-cured-resin-baller-jar"
-    },
-    {
-      "id": 225330528,
-      "name": "IPK/MegaRaw: Original Glue Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443718677_ipkglue.JPG",
-      "image_local": "225330528.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "ipk-megaraw-original-glue-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 198353287,
@@ -6582,29 +6582,6 @@
       "slug": "method-dante-s-inferno-1g-pre-roll"
     },
     {
-      "id": 223056864,
-      "name": "Method: Garlic Breath 1G Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443381619_method_pre.jpeg",
-      "image_local": "223056864.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "method-garlic-breath-1g-pre-roll"
-    },
-    {
       "id": 223061837,
       "name": "Method: Ghost Pepper 1g Pre Roll",
       "category": "Preroll",
@@ -7157,6 +7134,167 @@
       "slug": "lonely-bones-10mg-assorted-gummies-100mg-per-pack"
     },
     {
+      "id": 226280458,
+      "name": "Northern Terps: Infused Pre Roll Ice Cream Cake x Tokyo Fuzz Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226280458.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-ice-cream-cake-x-tokyo-fuzz-cured-resin"
+    },
+    {
+      "id": 226280666,
+      "name": "Northern Terps: Infused Pre Roll Permafrost X Permaforst Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226280666.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-permafrost-x-permaforst-cured-resin"
+    },
+    {
+      "id": 226280390,
+      "name": "Northern Terps: Infused Pre Roll Rain Cloud Flower with GD Pluto Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226280390.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-rain-cloud-flower-with-gd-pluto-cured-resin"
+    },
+    {
+      "id": 226280954,
+      "name": "Northern Terps: Infused Pre Roll Violet Fog x Tech 9 Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226280954.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-violet-fog-x-tech-9-cured-resin"
+    },
+    {
+      "id": 226281019,
+      "name": "Northern Terps: Infused Pre Roll Bankroll x Amaretto Sour Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226281019.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-bankroll-x-amaretto-sour-cured-resin"
+    },
+    {
+      "id": 226280640,
+      "name": "Northern Terps: Infused Pre Roll E-85 x Front Porch Sitting Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226280640.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-e-85-x-front-porch-sitting-cured-resin"
+    },
+    {
+      "id": 226280838,
+      "name": "Northern Terps: Infused Pre Roll Karamel Kutt Throat x Black Spritzer Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226280838.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-blood-money-x-black-spritzer-cured-resin"
+    },
+    {
       "id": 212117143,
       "name": "Cadillac LIVE 2g Disposable - Mango Haze X Durban Poison",
       "category": "Concentrate",
@@ -7339,167 +7477,6 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-live-liquid-diamond-papaya-pie-x-blueberry-gelato-2g-penjamin"
-    },
-    {
-      "id": 226280458,
-      "name": "Northern Terps: Infused Pre Roll Ice Cream Cake x Tokyo Fuzz Cured Resin",
-      "category": "Hybrid",
-      "edge_category": "Infused Joints",
-      "top_category": "Infused Pre-rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226280458.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 12.0,
-          "on_sale": false,
-          "original_price": 12.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-infused-pre-roll-ice-cream-cake-x-tokyo-fuzz-cured-resin"
-    },
-    {
-      "id": 226280666,
-      "name": "Northern Terps: Infused Pre Roll Permafrost X Permaforst Cured Resin",
-      "category": "Hybrid",
-      "edge_category": "Infused Joints",
-      "top_category": "Infused Pre-rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226280666.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 12.0,
-          "on_sale": false,
-          "original_price": 12.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-infused-pre-roll-permafrost-x-permaforst-cured-resin"
-    },
-    {
-      "id": 226280390,
-      "name": "Northern Terps: Infused Pre Roll Rain Cloud Flower with GD Pluto Cured Resin",
-      "category": "Hybrid",
-      "edge_category": "Infused Joints",
-      "top_category": "Infused Pre-rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226280390.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 12.0,
-          "on_sale": false,
-          "original_price": 12.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-infused-pre-roll-rain-cloud-flower-with-gd-pluto-cured-resin"
-    },
-    {
-      "id": 226280954,
-      "name": "Northern Terps: Infused Pre Roll Violet Fog x Tech 9 Cured Resin",
-      "category": "Hybrid",
-      "edge_category": "Infused Joints",
-      "top_category": "Infused Pre-rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226280954.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 12.0,
-          "on_sale": false,
-          "original_price": 12.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-infused-pre-roll-violet-fog-x-tech-9-cured-resin"
-    },
-    {
-      "id": 226281019,
-      "name": "Northern Terps: Infused Pre Roll Bankroll x Amaretto Sour Cured Resin",
-      "category": "Hybrid",
-      "edge_category": "Infused Joints",
-      "top_category": "Infused Pre-rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226281019.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 12.0,
-          "on_sale": false,
-          "original_price": 12.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-infused-pre-roll-bankroll-x-amaretto-sour-cured-resin"
-    },
-    {
-      "id": 226280640,
-      "name": "Northern Terps: Infused Pre Roll E-85 x Front Porch Sitting Cured Resin",
-      "category": "Hybrid",
-      "edge_category": "Infused Joints",
-      "top_category": "Infused Pre-rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226280640.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 12.0,
-          "on_sale": false,
-          "original_price": 12.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-infused-pre-roll-e-85-x-front-porch-sitting-cured-resin"
-    },
-    {
-      "id": 226280838,
-      "name": "Northern Terps: Infused Pre Roll Karamel Kutt Throat x Black Spritzer Cured Resin",
-      "category": "Hybrid",
-      "edge_category": "Infused Joints",
-      "top_category": "Infused Pre-rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226280838.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 12.0,
-          "on_sale": false,
-          "original_price": 12.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-infused-pre-roll-blood-money-x-black-spritzer-cured-resin"
     },
     {
       "id": 228154015,
