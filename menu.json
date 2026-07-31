@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 282,
-    "updated_at": "2026-07-29T19:42:28.390Z",
+    "total_menu_items": 277,
+    "updated_at": "2026-07-30T20:21:56.822Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -146,47 +146,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "gmo"
-    },
-    {
-      "id": 162743551,
-      "name": "Super Buff Cherry Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 14,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/433027440_super_boof_cherry.jpg",
-      "image_local": "162743551.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-super-boof-cherry"
     },
     {
       "id": 173746062,
@@ -435,47 +394,6 @@
       "slug": "method-maine-super-boof-smalls"
     },
     {
-      "id": 224146187,
-      "name": "(Half OZ left!) FIFO Cultivation: Cereal Milk",
-      "category": "Indica",
-      "edge_category": "Big Buds",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.6,
-      "reviews_count": 5,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443539265_ceral_miulk.JPG",
-      "image_local": "224146187.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "fifo-cultivation-cereal-milk"
-    },
-    {
       "id": 192017967,
       "name": "*Insane!* Tourma: Fire AF",
       "category": "Indica",
@@ -558,49 +476,8 @@
       "slug": "living-matter-royal-jelly"
     },
     {
-      "id": 163540330,
-      "name": "(1 Ounce Left) Koala Tea Grows: RS-1000 Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.7,
-      "reviews_count": 15,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440263904_RS-1000.JPG",
-      "image_local": "163540330.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-rs-1000"
-    },
-    {
       "id": 213495274,
-      "name": "*$60/OZ* G&R Farms: Trop Cherry Smalls",
+      "name": "(1 OZ left) G&R Farms: Trop Cherry Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -638,47 +515,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "g-r-farms-trop-cherry-smalls"
-    },
-    {
-      "id": 171220200,
-      "name": "(1/2 Ounce left) Black Cherry Kush Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.9,
-      "reviews_count": 15,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436092049_rs_11.JPG",
-      "image_local": "171220200.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "gr-farms-rs-11-smalls"
     },
     {
       "id": 225064350,
@@ -966,47 +802,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "banana-tangie-smalls"
-    },
-    {
-      "id": 171220212,
-      "name": "Peach Rings Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 6,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443954666_peach_rings_smalls.JPG",
-      "image_local": "171220212.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "gr-farms-popscotti-smalls"
     },
     {
       "id": 225734452,
@@ -1745,6 +1540,88 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "the-truth-lemon-cherry-gelato"
+    },
+    {
+      "id": 229039066,
+      "name": "Dr. Melo's: Bad Apple smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444177824_Bad_Apple_DR_MELO.JPG",
+      "image_local": "229039066.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "dr-melo-s-bad-apple-smalls"
+    },
+    {
+      "id": 229039134,
+      "name": "Dr. Melo's: Tropsicle smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444177840_Tropsicle_DR_MELO.JPG",
+      "image_local": "229039134.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "dr-melo-s-tropsicle-smalls"
     },
     {
       "id": 228329892,
@@ -3496,29 +3373,6 @@
       "slug": "norhtern-terps-aroz-con-leche-live-hash-rosin-3-5g-baller"
     },
     {
-      "id": 226280153,
-      "name": "Northern Terps: Double Stuffed x Tres Glue 2G Dual Tank Cured Resin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443827958_norethern_dual.JPG",
-      "image_local": "226280153.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 55.0,
-          "on_sale": false,
-          "original_price": 55.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-double-stuffed-x-tres-glue-dual-tank-cured-resin"
-    },
-    {
       "id": 226906597,
       "name": "Northern Terps: Tahiti Lime Live Hash Rosin 3.5G Baller",
       "category": "Concentrate",
@@ -4111,29 +3965,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-candy-rain-cured-resin-penz-1g"
-    },
-    {
-      "id": 220310353,
-      "name": "(1G left!) Guava Tangie Live Rosin 1G",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442887488_GT1G.JPG",
-      "image_local": "220310353.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 35.0,
-          "on_sale": false,
-          "original_price": 35.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "guava-tangie-live-rosin-1g"
     },
     {
       "id": 223152264,
@@ -5795,6 +5626,29 @@
       "slug": "northern-terps-blue-flame-x-tiger-balm-2g-dual-tank-cured-resin"
     },
     {
+      "id": 226280153,
+      "name": "Northern Terps: Double Stuffed x Tres Glue 2G Dual Tank Cured Resin",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443827958_norethern_dual.JPG",
+      "image_local": "226280153.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 55.0,
+          "on_sale": false,
+          "original_price": 55.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-double-stuffed-x-tres-glue-dual-tank-cured-resin"
+    },
+    {
       "id": 226907571,
       "name": "Northern Terps: Forbidden Cake Live Hash Rosin 3.5G Baller",
       "category": "Concentrate",
@@ -6470,29 +6324,6 @@
       ],
       "current_deal_title": null,
       "slug": "cannaseaur-berry-bonds-pre-roll"
-    },
-    {
-      "id": 223559090,
-      "name": "Cannoisseur: OG Kiss Pre Roll (OG Kush X Smooch)",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
-      "image_local": "223559090.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cannaseaur-og-kiss-pre-roll"
     },
     {
       "id": 223559067,
