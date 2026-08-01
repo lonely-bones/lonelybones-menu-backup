@@ -1,7 +1,7 @@
 {
   "meta": {
     "total_menu_items": 277,
-    "updated_at": "2026-07-30T20:21:56.822Z",
+    "updated_at": "2026-07-31T13:28:25.871Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -108,7 +108,7 @@
     },
     {
       "id": 145008363,
-      "name": "(1 Ounce Left) Tourma Cannabis: GMO",
+      "name": "Tourma Cannabis: GMO",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -484,7 +484,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 2,
+      "reviews_count": 3,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715771_Trop_Cherry.JPG",
       "image_local": "213495274.jpg",
       "prices": [
@@ -804,6 +804,88 @@
       "slug": "banana-tangie-smalls"
     },
     {
+      "id": 227851168,
+      "name": "Northern Terps: Spritzer (Runtz with Grape Pie and MAC)",
+      "category": "Indica",
+      "edge_category": "Big Buds",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 4.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444036474_spritz.JPG",
+      "image_local": "227851168.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "northern-terps-spritzer-runtz-with-grape-pie-and-mac"
+    },
+    {
+      "id": 228246316,
+      "name": "*NEW!* Secret Weapon",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 3.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096934_Secret_Weapon_100.JPG",
+      "image_local": "228246316.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-secret-weapon"
+    },
+    {
       "id": 225734452,
       "name": "*Fire!* Northern Terps: It's A Secret",
       "category": "Indica",
@@ -927,47 +1009,6 @@
       "slug": "new-northern-terps-rain-drop"
     },
     {
-      "id": 228246316,
-      "name": "*NEW!* Secret Weapon",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096934_Secret_Weapon_100.JPG",
-      "image_local": "228246316.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-secret-weapon"
-    },
-    {
       "id": 227850638,
       "name": "Northern Terps: Black Ice (Black Domina x White Widow)",
       "category": "Indica",
@@ -1007,47 +1048,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "northern-terps-black-ice-black-domina-x-white-widow"
-    },
-    {
-      "id": 227851168,
-      "name": "Northern Terps: Spritzer (Runtz with Grape Pie and MAC)",
-      "category": "Indica",
-      "edge_category": "Big Buds",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444036474_spritz.JPG",
-      "image_local": "227851168.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "northern-terps-spritzer-runtz-with-grape-pie-and-mac"
     },
     {
       "id": 226901095,
@@ -1173,6 +1173,47 @@
       "slug": "tourma-sour-apple"
     },
     {
+      "id": 227351724,
+      "name": "*$60/OZ* G&R Farms: GG4 X Dosido Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443967365_GG4_X_DosiDO.JPG",
+      "image_local": "227351724.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "g-r-farms-gg4-x-dosido-smalls"
+    },
+    {
       "id": 228246379,
       "name": "*Incredible!* Cherry Dosi",
       "category": "Indica",
@@ -1214,6 +1255,47 @@
       "slug": "incredible-cherry-dosi"
     },
     {
+      "id": 228246661,
+      "name": "*NEW!* Biscotti",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096982_Biscotti_NEW_100.JPG",
+      "image_local": "228246661.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-biscotti"
+    },
+    {
       "id": 228246595,
       "name": "*NEW!* Smoke Proper: Legend Larry",
       "category": "Indica",
@@ -1253,6 +1335,88 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "new-smoke-proper-legend-larry"
+    },
+    {
+      "id": 184774156,
+      "name": "Rainbow Gelato Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443954741_rainbow_gelato.JPG",
+      "image_local": "184774156.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "rainbow-gelato-smalls"
+    },
+    {
+      "id": 229039134,
+      "name": "Dr. Melo's: Tropsicle smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 3.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444177840_Tropsicle_DR_MELO.JPG",
+      "image_local": "229039134.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "dr-melo-s-tropsicle-smalls"
     },
     {
       "id": 227361947,
@@ -1337,47 +1501,6 @@
       "slug": "g-r-farms-buttermilk-pancakes-smalls"
     },
     {
-      "id": 227351724,
-      "name": "*$60/OZ* G&R Farms: GG4 X Dosido Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443967365_GG4_X_DosiDO.JPG",
-      "image_local": "227351724.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "g-r-farms-gg4-x-dosido-smalls"
-    },
-    {
       "id": 227362123,
       "name": "*$60/OZ*G&R Farms: Face Off Smalls",
       "category": "Indica",
@@ -1417,47 +1540,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "g-r-farms-face-off-smalls"
-    },
-    {
-      "id": 228246661,
-      "name": "*NEW!* Biscotti",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096982_Biscotti_NEW_100.JPG",
-      "image_local": "228246661.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-biscotti"
     },
     {
       "id": 228246861,
@@ -1583,47 +1665,6 @@
       "slug": "dr-melo-s-bad-apple-smalls"
     },
     {
-      "id": 229039134,
-      "name": "Dr. Melo's: Tropsicle smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444177840_Tropsicle_DR_MELO.JPG",
-      "image_local": "229039134.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "dr-melo-s-tropsicle-smalls"
-    },
-    {
       "id": 228329892,
       "name": "Hawaiin Haze Smalls",
       "category": "Indica",
@@ -1745,47 +1786,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "motor-breath-smalls"
-    },
-    {
-      "id": 184774156,
-      "name": "Rainbow Gelato Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443954741_rainbow_gelato.JPG",
-      "image_local": "184774156.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "rainbow-gelato-smalls"
     },
     {
       "id": 223152297,
@@ -7162,7 +7162,7 @@
       "genetics": null,
       "thc_pct": 0.0,
       "rating": 4.9,
-      "reviews_count": 10,
+      "reviews_count": 11,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
       "image_local": "212118779.jpg",
       "prices": [
