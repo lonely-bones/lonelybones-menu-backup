@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 277,
-    "updated_at": "2026-08-01T18:30:33.118Z",
+    "total_menu_items": 272,
+    "updated_at": "2026-08-04T20:31:32.371Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -2650,6 +2650,47 @@
       "slug": "lonely-bones-20-mix-and-match-thc-distillate-1g-5-10-thread-260"
     },
     {
+      "id": 225330528,
+      "name": "(2 left!) IPK/MegaRaw: Original Glue Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443718677_ipkglue.JPG",
+      "image_local": "225330528.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "ipk-megaraw-original-glue-live-hash-rosin-3-5g-baller"
+    },
+    {
       "id": 219610127,
       "name": "Blue Powerade: Cured Resin 14G Baller",
       "category": "Concentrate",
@@ -2700,47 +2741,6 @@
       ],
       "current_deal_title": null,
       "slug": "blueberry-kush-cured-resin-1g"
-    },
-    {
-      "id": 225330528,
-      "name": "IPK/MegaRaw: Original Glue Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443718677_ipkglue.JPG",
-      "image_local": "225330528.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "ipk-megaraw-original-glue-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 207393576,
@@ -3092,29 +3092,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-birthday-cake-1g-thc-distillate-5-10-thread"
-    },
-    {
-      "id": 215146852,
-      "name": "Blood Honey Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.7,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442036132_Grape_Skittlez.JPG",
-      "image_local": "215146852.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "grape-skittlez-cured-resin-1g"
     },
     {
       "id": 207395557,
@@ -3524,35 +3501,6 @@
       ],
       "current_deal_title": null,
       "slug": "norhtern-terps-aroz-con-leche-live-hash-rosin-3-5g-baller"
-    },
-    {
-      "id": 194338325,
-      "name": "(1 left!) Guava Pie Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 4,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443308602_guava_pie.JPG",
-      "image_local": "194338325.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "kush-cake-cured-resin-14g-baller"
     },
     {
       "id": 219576681,
@@ -4102,6 +4050,47 @@
       "slug": "lonely-bones-candy-rain-cured-resin-penz-1g"
     },
     {
+      "id": 226901391,
+      "name": "(2left!) Northern Terps: Hash Burger Live Rosin 3.5G",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909676_new_hash_burg.JPG",
+      "image_local": "226901391.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-hash-burger-live-rosin-3-5g"
+    },
+    {
       "id": 223152264,
       "name": "Amber Valley: Candied Runtz 1G Shatter",
       "category": "Concentrate",
@@ -4286,49 +4275,8 @@
       "slug": "sub-zero-cured-resin-1g"
     },
     {
-      "id": 225327441,
-      "name": "IPK/MegaRaw: Grease Bucket Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443718214_ipkgrease.JPG",
-      "image_local": "225327441.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "ipk-megaraw-grease-bucket-live-hash-rosin-3-5g-baller"
-    },
-    {
       "id": 225945490,
-      "name": "IPK/MegaRaw: Grease Bukcet Live Rosin 1G",
+      "name": "IPK/MegaRaw: Grease Bucket Live Rosin 1G",
       "category": "Concentrate",
       "edge_category": "Cold Cure Badder",
       "top_category": "Concentrates",
@@ -5848,70 +5796,6 @@
       "slug": "northern-terps-forbidden-cake-live-hash-rosin-3-5g-baller"
     },
     {
-      "id": 226280137,
-      "name": "Northern Terps: Grape Fritter x Red Pop 2G Dual Tank Cured Resin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443827958_norethern_dual.JPG",
-      "image_local": "226280137.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 55.0,
-          "on_sale": false,
-          "original_price": 55.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-grape-fritter-x-red-pop-dual-tank-cured-resin"
-    },
-    {
-      "id": 226901391,
-      "name": "Northern Terps: Hash Burger Live Rosin 3.5G",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909676_new_hash_burg.JPG",
-      "image_local": "226901391.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-hash-burger-live-rosin-3-5g"
-    },
-    {
       "id": 226905626,
       "name": "Northern Terps: JMO AKA Garlic Jelly Live Hash Rosin 3.5G Baller",
       "category": "Concentrate",
@@ -6038,47 +5922,6 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-z-marker-live-hash-rosin-3-5g-baller"
-    },
-    {
-      "id": 204857826,
-      "name": "Papaya Live Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443949871_papaya.JPG",
-      "image_local": "204857826.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "papaya-live-rosin-3-5g-baller"
     },
     {
       "id": 209063704,
