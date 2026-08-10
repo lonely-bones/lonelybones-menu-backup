@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 288,
-    "updated_at": "2026-08-08T21:43:49.814Z",
+    "total_menu_items": 286,
+    "updated_at": "2026-08-09T18:36:04.028Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -1191,47 +1191,6 @@
       "slug": "cannoisseur-rainbow-og-smalls"
     },
     {
-      "id": 229219190,
-      "name": "Living Matters: Bubblegum Marker Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208230_bubble.JPG",
-      "image_local": "229219190.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matters-bubblegum-marker-smalls"
-    },
-    {
       "id": 227850638,
       "name": "Northern Terps: Black Ice (Black Domina x White Widow)",
       "category": "Indica",
@@ -1560,6 +1519,47 @@
       "slug": "new-biscotti"
     },
     {
+      "id": 227362123,
+      "name": "*$60/OZ*G&R Farms: Face Off Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443968265_Face_Off_GR_farm.JPG",
+      "image_local": "227362123.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "g-r-farms-face-off-smalls"
+    },
+    {
       "id": 229039134,
       "name": "Dr. Melo's: Tropsicle smalls",
       "category": "Indica",
@@ -1681,47 +1681,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "g-r-farms-biscotti-pop-smalls"
-    },
-    {
-      "id": 227362123,
-      "name": "*$60/OZ*G&R Farms: Face Off Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443968265_Face_Off_GR_farm.JPG",
-      "image_local": "227362123.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "g-r-farms-face-off-smalls"
     },
     {
       "id": 228246861,
@@ -1927,6 +1886,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-grows-permanet-marker-smalls"
+    },
+    {
+      "id": 229219190,
+      "name": "Living Matters: Bubblegum Marker Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208230_bubble.JPG",
+      "image_local": "229219190.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matters-bubblegum-marker-smalls"
     },
     {
       "id": 229219941,
@@ -2727,6 +2727,29 @@
       "slug": "lonely-bones-banana-smoothie-1g-thc-distillate-5-10-thread"
     },
     {
+      "id": 214519692,
+      "name": "Blue Zushi Live Rosin 1G",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441912114_zushi_hash.JPG",
+      "image_local": "214519692.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 35.0,
+          "on_sale": false,
+          "original_price": 35.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "blue-zushi-live-rosin-1g"
+    },
+    {
       "id": 187039534,
       "name": "Lonely Bones: 20 Mix and Match Cured Resin 1G Penz",
       "category": "Concentrate",
@@ -3303,27 +3326,27 @@
       "slug": "lonely-bones-mylar-og-1g-cured-resin-pen-a0992790-97ad-4c27-933f-c0dacbbeef7c"
     },
     {
-      "id": 214519692,
-      "name": "Blue Zushi Live Rosin 1G",
+      "id": 229815082,
+      "name": "(ONLY 1 OZ!) IPK/MegaRaw: GG4 Live Hash Rosin 3.5G Baller",
       "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
+      "edge_category": "Concentrates",
       "top_category": "Concentrates",
-      "genetics": "Indica",
+      "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441912114_zushi_hash.JPG",
-      "image_local": "214519692.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444279981_GG4_3.5G_IPK.JPG",
+      "image_local": "229815082.jpg",
       "prices": [
         {
-          "label": "1 g",
-          "price": 35.0,
+          "label": "each",
+          "price": 90.0,
           "on_sale": false,
-          "original_price": 35.0
+          "original_price": 90.0
         }
       ],
       "current_deal_title": null,
-      "slug": "blue-zushi-live-rosin-1g"
+      "slug": "only-1-oz-ipk-megaraw-gg4-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 216928456,
@@ -4217,29 +4240,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-candy-rain-cured-resin-penz-1g"
-    },
-    {
-      "id": 229815082,
-      "name": "(ONLY 1 OZ!) IPK/MegaRaw: GG4 Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444279981_GG4_3.5G_IPK.JPG",
-      "image_local": "229815082.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "only-1-oz-ipk-megaraw-gg4-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 219320576,
@@ -6056,47 +6056,6 @@
       "slug": "northern-terps-double-stuffed-x-tres-glue-dual-tank-cured-resin"
     },
     {
-      "id": 226907571,
-      "name": "Northern Terps: Forbidden Cake Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443910053_forbidden_cake.JPG",
-      "image_local": "226907571.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-forbidden-cake-live-hash-rosin-3-5g-baller"
-    },
-    {
       "id": 226280139,
       "name": "Northern Terps: RPM x La Kush Cake 2G Dual Tank Cured Resin",
       "category": "Concentrate",
@@ -7077,8 +7036,8 @@
       "top_category": "Edibles",
       "genetics": "Hybrid",
       "thc_pct": 50.0,
-      "rating": 5.0,
-      "reviews_count": 1,
+      "rating": 4.5,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922600_20_mg_disty_edi.jpg",
       "image_local": "185245420.jpg",
       "prices": [
@@ -7160,6 +7119,29 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-10mg-assorted-gummies-100mg-per-pack"
+    },
+    {
+      "id": 229862749,
+      "name": "Northern Terps: Infused Pre Roll Carmel Apple gelato x Blue Andes Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
+      "image_local": "229862749.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-caramel-apple-gelato-x-blue-andes-cured-resin"
     },
     {
       "id": 226280458,
@@ -7321,29 +7303,6 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-infused-pre-roll-bubble-bath-x-violet-fog-cured-resin"
-    },
-    {
-      "id": 229862749,
-      "name": "Northern Terps: Infused Pre Roll Carmel Apple gelato x Blue Andes Cured Resin",
-      "category": "Hybrid",
-      "edge_category": "Infused Joints",
-      "top_category": "Infused Pre-rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
-      "image_local": "229862749.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 12.0,
-          "on_sale": false,
-          "original_price": 12.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-infused-pre-roll-caramel-apple-gelato-x-blue-andes-cured-resin"
     },
     {
       "id": 226280640,
@@ -7666,29 +7625,6 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-live-liquid-diamond-papaya-pie-x-blueberry-gelato-2g-penjamin"
-    },
-    {
-      "id": 185641039,
-      "name": "GMO | Disposable | 1g",
-      "category": "Concentrate",
-      "edge_category": "Disposable",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "185641039.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-gmo-1g-cured-resin-pen-42d918c3-0a50-4f8d-8c02-6c1d4110d576"
     },
     {
       "id": 228154015,
