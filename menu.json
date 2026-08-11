@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 286,
-    "updated_at": "2026-08-09T18:36:04.028Z",
+    "total_menu_items": 289,
+    "updated_at": "2026-08-10T19:56:12.359Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -166,47 +166,6 @@
       "slug": "gmo"
     },
     {
-      "id": 158608345,
-      "name": "Living Matters: Bananaconda",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.7,
-      "reviews_count": 10,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208104_bvonda.JPG",
-      "image_local": "158608345.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "spinnery-creek-bananaconda"
-    },
-    {
       "id": 162743551,
       "name": "Super Buff Cherry Smalls",
       "category": "Indica",
@@ -246,6 +205,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-grows-super-boof-cherry"
+    },
+    {
+      "id": 158608345,
+      "name": "Living Matters: Bananaconda",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.7,
+      "reviews_count": 10,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208104_bvonda.JPG",
+      "image_local": "158608345.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "spinnery-creek-bananaconda"
     },
     {
       "id": 181645234,
@@ -289,17 +289,17 @@
       "slug": "cap-junky-smalls-ac03ef61-bca1-4883-b94a-8053debbffa8"
     },
     {
-      "id": 216198954,
-      "name": "Koala Tea Grows: Neon Drip Smalls",
+      "id": 173746062,
+      "name": "Koala Tea Grows: Liquid Hot Magma Smalls",
       "category": "Indica",
-      "edge_category": "Smalls",
+      "edge_category": "Flower",
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 7,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442234498_IMG_0681.JPG",
-      "image_local": "216198954.jpg",
+      "reviews_count": 21,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436339695_liquid_hot_magma.JPG",
+      "image_local": "173746062.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -327,7 +327,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-neon-drip-smalls"
+      "slug": "koala-tea-grows-liquid-hot-magma-smalls"
     },
     {
       "id": 159392938,
@@ -369,6 +369,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "method-maine-super-boof-smalls"
+    },
+    {
+      "id": 216198954,
+      "name": "Koala Tea Grows: Neon Drip Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 7,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442234498_IMG_0681.JPG",
+      "image_local": "216198954.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-neon-drip-smalls"
     },
     {
       "id": 223944509,
@@ -492,6 +533,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "candy-runtz-smalls"
+    },
+    {
+      "id": 180051350,
+      "name": "Koala Tea Grows: Weighted Blanket Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 17,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440577804_weighted_blanket.JPG",
+      "image_local": "180051350.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-weighted-blanket-smalls"
     },
     {
       "id": 226701305,
@@ -2502,6 +2584,35 @@
       "slug": "lonely-bones-watermelon-zkittles-1g-thc-distillate-5-10-thread"
     },
     {
+      "id": 185400556,
+      "name": "Wedding Cake Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444329406_IMG_4311.JPG",
+      "image_local": "185400556.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "wedding-cake-cured-resin-14g-baller"
+    },
+    {
       "id": 211990926,
       "name": "Candy Runtz 14g Cured Resin Baller Jar",
       "category": "Concentrate",
@@ -2523,29 +2634,6 @@
       ],
       "current_deal_title": null,
       "slug": "candy-runtz-14g-cured-resin-baller-jar"
-    },
-    {
-      "id": 219620292,
-      "name": "*Fire!* Grape Gas Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442785678_Miracle_Mintz.JPG",
-      "image_local": "219620292.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "fifo-miracle-mints-cured-resin-14g-baller"
     },
     {
       "id": 199254888,
@@ -2725,6 +2813,29 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-banana-smoothie-1g-thc-distillate-5-10-thread"
+    },
+    {
+      "id": 219620292,
+      "name": "*Fire!* Grape Gas Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.3,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442785678_Miracle_Mintz.JPG",
+      "image_local": "219620292.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "fifo-miracle-mints-cured-resin-14g-baller"
     },
     {
       "id": 214519692,
@@ -3151,29 +3262,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-orange-soda-1g-thc-distillate-5-10-thread"
-    },
-    {
-      "id": 213496293,
-      "name": "Sherb Cocktail Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715957_Peach_Rings.JPG",
-      "image_local": "213496293.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "peach-rings-cured-resin-1g"
     },
     {
       "id": 211797764,
@@ -3687,52 +3775,6 @@
       ],
       "current_deal_title": null,
       "slug": "norhtern-terps-aroz-con-leche-live-hash-rosin-3-5g-baller"
-    },
-    {
-      "id": 229826971,
-      "name": "Strawberry Pop-Tart Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280879_IMG_4301.JPG",
-      "image_local": "229826971.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "strawberry-pop-tart-cured-resin-1g"
-    },
-    {
-      "id": 229826566,
-      "name": "Trop Candy Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280846_trop_candy.JPG",
-      "image_local": "229826566.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "trop-candy-cured-resin-1g-ba209190-0a28-4235-878c-9f7446da1bbd"
     },
     {
       "id": 223154409,
@@ -5859,6 +5901,35 @@
       "slug": "lonely-bones-zangria-1g-thc-distillate-screw-on-thread"
     },
     {
+      "id": 164216213,
+      "name": "Mai Tai Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Solvent",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444321869_IMG_4309.JPG",
+      "image_local": "164216213.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-mai-tai-cured-resin-1g"
+    },
+    {
       "id": 220450964,
       "name": "Miracle Mints Live Hash Rosin 3.5G Baller",
       "category": "Concentrate",
@@ -6166,6 +6237,29 @@
       "slug": "slap-happy-live-hash-rosin-1g"
     },
     {
+      "id": 229826971,
+      "name": "Strawberry Pop-Tart Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280879_IMG_4301.JPG",
+      "image_local": "229826971.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "strawberry-pop-tart-cured-resin-1g"
+    },
+    {
       "id": 209696858,
       "name": "Tourma Cannabis: Kush Mints x The Soap Live Rosin 1G",
       "category": "Concentrate",
@@ -6262,6 +6356,29 @@
       ],
       "current_deal_title": null,
       "slug": "white-runtz-cured-resin-1g-baller-jar"
+    },
+    {
+      "id": 229826566,
+      "name": "Trop Candy Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280846_trop_candy.JPG",
+      "image_local": "229826566.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "trop-candy-cured-resin-1g-ba209190-0a28-4235-878c-9f7446da1bbd"
     },
     {
       "id": 193050080,
@@ -7443,6 +7560,29 @@
       "slug": "cadillac-live-liquid-diamond-larry-breath-x-crunch-berries-2g-penjamin"
     },
     {
+      "id": 187051292,
+      "name": "Rainbow Sherb | Disposable | 1g",
+      "category": "Concentrate",
+      "edge_category": "Disposable",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 4.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
+      "image_local": "187051292.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-rainbow-sundae-1g-cured-resin-pen"
+    },
+    {
       "id": 199254780,
       "name": "bowser | Disposable | 1g",
       "category": "Concentrate",
@@ -7510,29 +7650,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-white-runtz-1g-cured-resin-pen"
-    },
-    {
-      "id": 187051292,
-      "name": "Rainbow Sherb | Disposable | 1g",
-      "category": "Concentrate",
-      "edge_category": "Disposable",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "187051292.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-rainbow-sundae-1g-cured-resin-pen"
     },
     {
       "id": 199254765,
