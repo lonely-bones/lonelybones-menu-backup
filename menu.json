@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 289,
-    "updated_at": "2026-08-10T19:56:12.359Z",
+    "total_menu_items": 284,
+    "updated_at": "2026-08-11T21:38:21.141Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -379,7 +379,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 7,
+      "reviews_count": 8,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442234498_IMG_0681.JPG",
       "image_local": "216198954.jpg",
       "prices": [
@@ -451,47 +451,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "living-matter-royal-jelly"
-    },
-    {
-      "id": 148861245,
-      "name": "(1oz Left!) Kimbo Kush Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.9,
-      "reviews_count": 12,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/429881643_franken_cakes_smalls.jpg",
-      "image_local": "148861245.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "franken-cakes-smalls"
     },
     {
       "id": 202383501,
@@ -1025,6 +984,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "banana-tangie-smalls"
+    },
+    {
+      "id": 229219941,
+      "name": "Living Matters: Georgia Pie Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208301_georgia_pie.JPG",
+      "image_local": "229219941.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matters-georgia-pie-smalls"
     },
     {
       "id": 184774156,
@@ -1601,6 +1601,47 @@
       "slug": "new-biscotti"
     },
     {
+      "id": 227762150,
+      "name": "Koala Tea Grows: Permanet Marker Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444023169_perm_mark.JPG",
+      "image_local": "227762150.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-permanet-marker-smalls"
+    },
+    {
       "id": 227362123,
       "name": "*$60/OZ*G&R Farms: Face Off Smalls",
       "category": "Indica",
@@ -1684,7 +1725,7 @@
     },
     {
       "id": 229219008,
-      "name": "(1 OZ left!) Living Matters: Gush Mints Smalls",
+      "name": "(1/2 OZ left!) Living Matters: Gush Mints Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -1929,47 +1970,6 @@
       "slug": "dr-melo-s-bad-apple-smalls"
     },
     {
-      "id": 227762150,
-      "name": "Koala Tea Grows: Permanet Marker Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444023169_perm_mark.JPG",
-      "image_local": "227762150.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-permanet-marker-smalls"
-    },
-    {
       "id": 229219190,
       "name": "Living Matters: Bubblegum Marker Smalls",
       "category": "Indica",
@@ -2009,47 +2009,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "living-matters-bubblegum-marker-smalls"
-    },
-    {
-      "id": 229219941,
-      "name": "Living Matters: Georgia Pie Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208301_georgia_pie.JPG",
-      "image_local": "229219941.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matters-georgia-pie-smalls"
     },
     {
       "id": 229218599,
@@ -6040,47 +5999,6 @@
       "slug": "mix-any-28g-s-of-live-rosin-for-750"
     },
     {
-      "id": 226904150,
-      "name": "Norhtern Terps: Grape Pie Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909865_grape_pie.JPG",
-      "image_local": "226904150.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "norhtern-terps-grape-pie-live-hash-rosin-3-5g-baller"
-    },
-    {
       "id": 226280215,
       "name": "Northern Terps: Blue Flame x Tiger Balm 2G Dual Tank Cured Resin",
       "category": "Concentrate",
@@ -6686,29 +6604,6 @@
       "slug": "method-ghost-pepper-1g-pre-roll"
     },
     {
-      "id": 218711344,
-      "name": "Method: P-Funk 1G Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442639084_Method_Pre_roll_default.JPG",
-      "image_local": "218711344.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "method-p-funk-1g-pre-roll"
-    },
-    {
       "id": 229861279,
       "name": "Northern Terps: Bubble Bath 1g Pre Roll",
       "category": "Preroll",
@@ -6730,29 +6625,6 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-bubble-bath-1g-pre-roll"
-    },
-    {
-      "id": 226059454,
-      "name": "Northern Terps: Karmel Kutt Throat 1g Pre roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226059454.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-karmel-kutt-throat-1g-pre-roll"
     },
     {
       "id": 226060001,
@@ -7422,29 +7294,6 @@
       "slug": "northern-terps-infused-pre-roll-bubble-bath-x-violet-fog-cured-resin"
     },
     {
-      "id": 226280640,
-      "name": "Northern Terps: Infused Pre Roll E-85 x Front Porch Sitting Cured Resin",
-      "category": "Hybrid",
-      "edge_category": "Infused Joints",
-      "top_category": "Infused Pre-rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226280640.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 12.0,
-          "on_sale": false,
-          "original_price": 12.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-infused-pre-roll-e-85-x-front-porch-sitting-cured-resin"
-    },
-    {
       "id": 226280838,
       "name": "Northern Terps: Infused Pre Roll Karamel Kutt Throat x Black Spritzer Cured Resin",
       "category": "Hybrid",
@@ -7544,8 +7393,8 @@
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 6,
+      "rating": 4.9,
+      "reviews_count": 7,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
       "image_local": "212117889.jpg",
       "prices": [
@@ -7683,7 +7532,7 @@
       "genetics": null,
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 11,
+      "reviews_count": 12,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
       "image_local": "212117413.jpg",
       "prices": [
