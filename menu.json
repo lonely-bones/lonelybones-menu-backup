@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 284,
-    "updated_at": "2026-08-11T21:38:21.141Z",
+    "total_menu_items": 278,
+    "updated_at": "2026-08-12T20:33:14.049Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -207,47 +207,6 @@
       "slug": "koala-tea-grows-super-boof-cherry"
     },
     {
-      "id": 158608345,
-      "name": "Living Matters: Bananaconda",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.7,
-      "reviews_count": 10,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208104_bvonda.JPG",
-      "image_local": "158608345.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "spinnery-creek-bananaconda"
-    },
-    {
       "id": 181645234,
       "name": "Cap Junky Smalls",
       "category": "Indica",
@@ -287,6 +246,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "cap-junky-smalls-ac03ef61-bca1-4883-b94a-8053debbffa8"
+    },
+    {
+      "id": 158608345,
+      "name": "Living Matters: Bananaconda",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.7,
+      "reviews_count": 10,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208104_bvonda.JPG",
+      "image_local": "158608345.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "spinnery-creek-bananaconda"
     },
     {
       "id": 173746062,
@@ -1110,7 +1110,7 @@
     },
     {
       "id": 226705608,
-      "name": "(1 OZ left!) Tourma: GG4",
+      "name": "(1/2 OZ left!) Tourma: GG4",
       "category": "Indica",
       "edge_category": "Big Buds",
       "top_category": "Flower",
@@ -1722,47 +1722,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "dr-melo-s-tropsicle-smalls"
-    },
-    {
-      "id": 229219008,
-      "name": "(1/2 OZ left!) Living Matters: Gush Mints Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208202_gush_m.JPG",
-      "image_local": "229219008.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matters-gush-mints-smalls"
     },
     {
       "id": 227361947,
@@ -3695,70 +3654,6 @@
       "slug": "mix-and-match-any-8ths-of-live-rosin-for-a-350"
     },
     {
-      "id": 226904823,
-      "name": "Norhtern Terps: Aroz Con Leche Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909912_aroz_con.JPG",
-      "image_local": "226904823.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "norhtern-terps-aroz-con-leche-live-hash-rosin-3-5g-baller"
-    },
-    {
-      "id": 223154409,
-      "name": "(1 Left!) Bolo Runtz Cured Resin 14G Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443400784_bolo_runtz_cured.JPG",
-      "image_local": "223154409.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "bolo-runtz-cured-resin-14g-baller-jar"
-    },
-    {
       "id": 219576681,
       "name": "Blackberry Fizz Cured Resin 14G Baller",
       "category": "Concentrate",
@@ -3878,6 +3773,29 @@
       ],
       "current_deal_title": null,
       "slug": "fifo-blood-honey-cured-resin-14g-baller"
+    },
+    {
+      "id": 224516565,
+      "name": "Garlic Breath Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443605697_sub_zero.JPG",
+      "image_local": "224516565.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "sub-zero-cured-resin-1g"
     },
     {
       "id": 220266135,
@@ -4093,6 +4011,29 @@
       "slug": "blue-cookies-cured-resin-14g-baller-jar"
     },
     {
+      "id": 229826971,
+      "name": "Strawberry Pop-Tart Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280879_IMG_4301.JPG",
+      "image_local": "229826971.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "strawberry-pop-tart-cured-resin-1g"
+    },
+    {
       "id": 152085741,
       "name": "Super Boof Cherry Cured Resin 14G Baller Jar",
       "category": "Concentrate",
@@ -4172,6 +4113,29 @@
       ],
       "current_deal_title": null,
       "slug": "white-berry-cured-resin-1g"
+    },
+    {
+      "id": 229826566,
+      "name": "Trop Candy Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280846_trop_candy.JPG",
+      "image_local": "229826566.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "trop-candy-cured-resin-1g-ba209190-0a28-4235-878c-9f7446da1bbd"
     },
     {
       "id": 218361637,
@@ -4500,29 +4464,6 @@
       ],
       "current_deal_title": null,
       "slug": "fifo-forbidden-cake-live-rosin"
-    },
-    {
-      "id": 224516565,
-      "name": "Garlic Breath Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443605697_sub_zero.JPG",
-      "image_local": "224516565.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "sub-zero-cured-resin-1g"
     },
     {
       "id": 229854941,
@@ -5099,29 +5040,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-ghost-train-haze-1g-thc-distillate-screw-on-thread"
-    },
-    {
-      "id": 185251027,
-      "name": "Lonely Bones: GMO 1G Cured Resin Pen",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437370999_Cured_Resin_1G_new.JPG",
-      "image_local": "185251027.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-gmo-1g-cured-resin-pen"
     },
     {
       "id": 207395790,
@@ -6022,29 +5940,6 @@
       "slug": "northern-terps-blue-flame-x-tiger-balm-2g-dual-tank-cured-resin"
     },
     {
-      "id": 226280153,
-      "name": "Northern Terps: Double Stuffed x Tres Glue 2G Dual Tank Cured Resin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443827958_norethern_dual.JPG",
-      "image_local": "226280153.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 55.0,
-          "on_sale": false,
-          "original_price": 55.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-double-stuffed-x-tres-glue-dual-tank-cured-resin"
-    },
-    {
       "id": 226280139,
       "name": "Northern Terps: RPM x La Kush Cake 2G Dual Tank Cured Resin",
       "category": "Concentrate",
@@ -6155,29 +6050,6 @@
       "slug": "slap-happy-live-hash-rosin-1g"
     },
     {
-      "id": 229826971,
-      "name": "Strawberry Pop-Tart Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280879_IMG_4301.JPG",
-      "image_local": "229826971.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "strawberry-pop-tart-cured-resin-1g"
-    },
-    {
       "id": 209696858,
       "name": "Tourma Cannabis: Kush Mints x The Soap Live Rosin 1G",
       "category": "Concentrate",
@@ -6274,29 +6146,6 @@
       ],
       "current_deal_title": null,
       "slug": "white-runtz-cured-resin-1g-baller-jar"
-    },
-    {
-      "id": 229826566,
-      "name": "Trop Candy Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280846_trop_candy.JPG",
-      "image_local": "229826566.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "trop-candy-cured-resin-1g-ba209190-0a28-4235-878c-9f7446da1bbd"
     },
     {
       "id": 193050080,
@@ -6418,29 +6267,6 @@
       ],
       "current_deal_title": null,
       "slug": "cannaseaur-grape-gas-pre-roll"
-    },
-    {
-      "id": 202048916,
-      "name": "Leaf Labs: 5-Pack Mix and Match for $25!",
-      "category": "Preroll",
-      "edge_category": "Pre-rolls",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 6,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439360826_leaf_labs_pre_roll.JPG",
-      "image_local": "202048916.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "leaf-labs-5-pack-mix-and-match-for-25"
     },
     {
       "id": 226059530,
