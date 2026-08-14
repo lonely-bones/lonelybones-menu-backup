@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 278,
-    "updated_at": "2026-08-12T20:33:14.049Z",
+    "total_menu_items": 284,
+    "updated_at": "2026-08-13T22:20:15.271Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -297,7 +297,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 21,
+      "reviews_count": 22,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436339695_liquid_hot_magma.JPG",
       "image_local": "173746062.jpg",
       "prices": [
@@ -338,7 +338,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.8,
-      "reviews_count": 5,
+      "reviews_count": 6,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436431306_Superboof.JPG",
       "image_local": "159392938.jpg",
       "prices": [
@@ -543,7 +543,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 2,
+      "reviews_count": 3,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443883345_Pure_Mich.JPG",
       "image_local": "226701305.jpg",
       "prices": [
@@ -830,7 +830,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 2,
+      "reviews_count": 3,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443968299_Blue_Andes_Smalls.JPG",
       "image_local": "227362388.jpg",
       "prices": [
@@ -945,6 +945,47 @@
       "slug": "new-white-truffle"
     },
     {
+      "id": 228246379,
+      "name": "*Staff Pick!* Cherry Dosi",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096946_Cherry_Dosi_120.JPG",
+      "image_local": "228246379.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        },
+        {
+          "label": "1 oz",
+          "price": 120.0,
+          "on_sale": false,
+          "original_price": 120.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "incredible-cherry-dosi"
+    },
+    {
       "id": 226607934,
       "name": "Banana Tangie Smalls",
       "category": "Indica",
@@ -1035,7 +1076,7 @@
       "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443954741_rainbow_gelato.JPG",
       "image_local": "184774156.jpg",
       "prices": [
@@ -1109,47 +1150,6 @@
       "slug": "northern-terps-spritzer-runtz-with-grape-pie-and-mac"
     },
     {
-      "id": 226705608,
-      "name": "(1/2 OZ left!) Tourma: GG4",
-      "category": "Indica",
-      "edge_category": "Big Buds",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443883922_tourma_GG4.JPG",
-      "image_local": "226705608.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "tourma-gg4"
-    },
-    {
       "id": 226701248,
       "name": "*NEW!* Northern Terps: Illmonic",
       "category": "Indica",
@@ -1189,6 +1189,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "new-northern-terps-illmonic"
+    },
+    {
+      "id": 228245546,
+      "name": "*The Truth* Smoke Proper: Lemon Cherry Gelato",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096823_Lemon_Cherry_Gelato_120.JPG",
+      "image_local": "228245546.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        },
+        {
+          "label": "1 oz",
+          "price": 120.0,
+          "on_sale": false,
+          "original_price": 120.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "the-truth-lemon-cherry-gelato"
     },
     {
       "id": 161022429,
@@ -1315,7 +1356,7 @@
     },
     {
       "id": 226901095,
-      "name": "Northern Terps: Tribute",
+      "name": "Northern Terps: Tribute (Gelato #41 x Apples & Bananas)",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -1517,47 +1558,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "new-smoke-proper-legend-larry"
-    },
-    {
-      "id": 228246379,
-      "name": "*Staff Pick!* Cherry Dosi",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096946_Cherry_Dosi_120.JPG",
-      "image_local": "228246379.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        },
-        {
-          "label": "1 oz",
-          "price": 120.0,
-          "on_sale": false,
-          "original_price": 120.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "incredible-cherry-dosi"
     },
     {
       "id": 228246661,
@@ -1845,47 +1845,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "cannoisseur-stuffed-cherry-smalls"
-    },
-    {
-      "id": 228245546,
-      "name": "*The Truth* Smoke Proper: Lemon Cherry Gelato",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096823_Lemon_Cherry_Gelato_120.JPG",
-      "image_local": "228245546.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        },
-        {
-          "label": "1 oz",
-          "price": 120.0,
-          "on_sale": false,
-          "original_price": 120.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "the-truth-lemon-cherry-gelato"
     },
     {
       "id": 229039066,
@@ -2756,6 +2715,47 @@
       "slug": "fifo-miracle-mints-cured-resin-14g-baller"
     },
     {
+      "id": 204862742,
+      "name": "Blackberry Kush Live Rosin 3.5g Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443385958_rasp.JPG",
+      "image_local": "204862742.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "animal-cookies-live-rosin-3-5g-baller"
+    },
+    {
       "id": 214519692,
       "name": "Blue Zushi Live Rosin 1G",
       "category": "Concentrate",
@@ -2825,33 +2825,45 @@
       "slug": "lonely-bones-20-mix-and-match-thc-distillate-1g-5-10-thread-260"
     },
     {
-      "id": 219610127,
-      "name": "(3 left!) Blue Powerade: Cured Resin 14G Baller",
+      "id": 223653053,
+      "name": "*NEW!* FIFO: Orange Mints Live Rosin 3.5G Baller",
       "category": "Concentrate",
-      "edge_category": "Concentrates",
+      "edge_category": "Cold Cure Badder",
       "top_category": "Concentrates",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442783062_Melted_Strawberry.JPG",
-      "image_local": "219610127.jpg",
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443468557_orange_mintz.JPG",
+      "image_local": "223653053.jpg",
       "prices": [
         {
-          "label": "1/2 oz",
-          "price": 100.0,
+          "label": "1/8 oz",
+          "price": 90.0,
           "on_sale": false,
-          "original_price": 100.0
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
         },
         {
           "label": "1 oz",
-          "price": 200.0,
+          "price": 650.0,
           "on_sale": false,
-          "original_price": 200.0
+          "original_price": 650.0
         }
       ],
       "current_deal_title": null,
-      "slug": "fifo-melted-strawberry-cured-resin-14g-baller"
+      "slug": "in-house-favorite-fifo-orange-mints-live-rosin-3-5g-baller"
     },
     {
       "id": 172183568,
@@ -3654,6 +3666,47 @@
       "slug": "mix-and-match-any-8ths-of-live-rosin-for-a-350"
     },
     {
+      "id": 226906597,
+      "name": "Northern Terps: Tahiti Lime Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443910006_tahitit.JPG",
+      "image_local": "226906597.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-tahiti-lime-live-hash-rosin-3-5g-baller"
+    },
+    {
       "id": 219576681,
       "name": "Blackberry Fizz Cured Resin 14G Baller",
       "category": "Concentrate",
@@ -4161,6 +4214,47 @@
       "slug": "white-runtz-cured-resin-14g-baller-jar"
     },
     {
+      "id": 223574810,
+      "name": "*NEW!* Blue Dream Live Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.5,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443457938_blue_dream_3.5.JPG",
+      "image_local": "223574810.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "600-ounce-blue-dream-live-rosin-3-5g-baller"
+    },
+    {
       "id": 198360042,
       "name": "Lonely Bones: Girl Scout Cookie 1G THC Distillate Penjamin",
       "category": "Concentrate",
@@ -4251,6 +4345,88 @@
       ],
       "current_deal_title": null,
       "slug": "blood-honey-cured-resin-14g-baller-jar"
+    },
+    {
+      "id": 220450964,
+      "name": "*NEW!* FIFO: Miracle Mints Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442912486_miracle_mint.JPG",
+      "image_local": "220450964.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "miracle-mints-live-hash-rosin-3-5g-baller"
+    },
+    {
+      "id": 216792358,
+      "name": "*NEW!* FIFO: Point Break Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442346909_pointbreak.JPG",
+      "image_local": "216792358.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "point-break-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 223152264,
@@ -4464,6 +4640,88 @@
       ],
       "current_deal_title": null,
       "slug": "fifo-forbidden-cake-live-rosin"
+    },
+    {
+      "id": 226902913,
+      "name": "Gas Face Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909803_mr_plow.JPG",
+      "image_local": "226902913.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "norhtern-terps-mr-plow-motorbreath-x-cold-snap-live-hash-rosin-3-5g-baller"
+    },
+    {
+      "id": 215584146,
+      "name": "Grape Zkittles Live Rosin 3.5G",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442117549_gskitlle.JPG",
+      "image_local": "215584146.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "grape-zkittles-live-rosin-3-5g"
     },
     {
       "id": 229854941,
@@ -5807,47 +6065,6 @@
       "slug": "lonely-bones-mai-tai-cured-resin-1g"
     },
     {
-      "id": 220450964,
-      "name": "Miracle Mints Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442912486_miracle_mint.JPG",
-      "image_local": "220450964.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "miracle-mints-live-hash-rosin-3-5g-baller"
-    },
-    {
       "id": 220446170,
       "name": "Mix and match any 8ths of Live Rosin for a $650",
       "category": "Concentrate",
@@ -5938,6 +6155,47 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-blue-flame-x-tiger-balm-2g-dual-tank-cured-resin"
+    },
+    {
+      "id": 226905626,
+      "name": "Northern Terps: JMO AKA Garlic Jelly Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909966_JMO.JPG",
+      "image_local": "226905626.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-jmo-aka-garlic-jelly-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 226280139,
@@ -6125,27 +6383,45 @@
       "slug": "tricho-jordan-cured-resin-14g-baller"
     },
     {
-      "id": 218373489,
-      "name": "Triangle Kush Cured Resin 1G Jar",
+      "id": 226907571,
+      "name": "Wedding Cake Live Hash Rosin 3.5G Baller",
       "category": "Concentrate",
-      "edge_category": "Concentrates",
+      "edge_category": "Cold Cure Badder",
       "top_category": "Concentrates",
-      "genetics": "Hybrid",
+      "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443926877_trikush.JPG",
-      "image_local": "218373489.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443910053_forbidden_cake.JPG",
+      "image_local": "226907571.jpg",
       "prices": [
         {
-          "label": "1 g",
-          "price": 10.0,
+          "label": "1/8 oz",
+          "price": 90.0,
           "on_sale": false,
-          "original_price": 10.0
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
         }
       ],
       "current_deal_title": null,
-      "slug": "white-runtz-cured-resin-1g-baller-jar"
+      "slug": "northern-terps-forbidden-cake-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 193050080,
@@ -6156,7 +6432,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.8,
-      "reviews_count": 85,
+      "reviews_count": 86,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
       "image_local": "193050080.jpg",
       "prices": [
