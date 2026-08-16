@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 284,
-    "updated_at": "2026-08-14T21:44:27.612Z",
+    "total_menu_items": 283,
+    "updated_at": "2026-08-15T14:12:48.563Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -232,8 +232,8 @@
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 4.9,
-      "reviews_count": 24,
+      "rating": 4.8,
+      "reviews_count": 25,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438151840_cap_junky.JPG",
       "image_local": "181645234.jpg",
       "prices": [
@@ -1709,7 +1709,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208301_georgia_pie.JPG",
       "image_local": "229219941.jpg",
       "prices": [
@@ -1740,6 +1740,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "living-matters-georgia-pie-smalls"
+    },
+    {
+      "id": 229218431,
+      "name": "Living Matters: Wild Berries",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208118_wild_berries.JPG",
+      "image_local": "229218431.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matters-wild-berries"
     },
     {
       "id": 227362123,
@@ -1781,6 +1822,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "g-r-farms-face-off-smalls"
+    },
+    {
+      "id": 227261484,
+      "name": "Motor Breath Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443954819_motor_breath.JPG",
+      "image_local": "227261484.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "motor-breath-smalls"
     },
     {
       "id": 229039134,
@@ -2068,88 +2150,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "living-matters-gypsy-road"
-    },
-    {
-      "id": 229218431,
-      "name": "Living Matters: Wild Berries",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208118_wild_berries.JPG",
-      "image_local": "229218431.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matters-wild-berries"
-    },
-    {
-      "id": 227261484,
-      "name": "Motor Breath Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443954819_motor_breath.JPG",
-      "image_local": "227261484.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "motor-breath-smalls"
     },
     {
       "id": 223152297,
@@ -6491,7 +6491,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.8,
-      "reviews_count": 86,
+      "reviews_count": 87,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
       "image_local": "193050080.jpg",
       "prices": [
@@ -6832,29 +6832,6 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-rain-drop-1g-pre-roll"
-    },
-    {
-      "id": 226060075,
-      "name": "Northern Terps: Sour Sherb 1g Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226060075.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-sour-sherb-1g-pre-roll"
     },
     {
       "id": 226060189,
