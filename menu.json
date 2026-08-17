@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_menu_items": 283,
+    "total_menu_items": 282,
     "updated_at": "2026-08-15T14:12:48.563Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
@@ -315,7 +315,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 22,
+      "reviews_count": 23,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436339695_liquid_hot_magma.JPG",
       "image_local": "173746062.jpg",
       "prices": [
@@ -1127,6 +1127,47 @@
       "slug": "banana-tangie-smalls"
     },
     {
+      "id": 227762150,
+      "name": "Koala Tea Grows: Permanet Marker Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444023169_perm_mark.JPG",
+      "image_local": "227762150.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-permanet-marker-smalls"
+    },
+    {
       "id": 184774156,
       "name": "Rainbow Gelato Smalls",
       "category": "Indica",
@@ -1207,6 +1248,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "northern-terps-spritzer-runtz-with-grape-pie-and-mac"
+    },
+    {
+      "id": 227850638,
+      "name": "Northern Terps: Black Ice (Black Domina x White Widow)",
+      "category": "Indica",
+      "edge_category": "Big Buds",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444036300_black_ice.JPG",
+      "image_local": "227850638.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "northern-terps-black-ice-black-domina-x-white-widow"
     },
     {
       "id": 226701248,
@@ -1371,47 +1453,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "cannoisseur-rainbow-og-smalls"
-    },
-    {
-      "id": 227850638,
-      "name": "Northern Terps: Black Ice (Black Domina x White Widow)",
-      "category": "Indica",
-      "edge_category": "Big Buds",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444036300_black_ice.JPG",
-      "image_local": "227850638.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "northern-terps-black-ice-black-domina-x-white-widow"
     },
     {
       "id": 226901095,
@@ -1658,47 +1699,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "new-biscotti"
-    },
-    {
-      "id": 227762150,
-      "name": "Koala Tea Grows: Permanet Marker Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444023169_perm_mark.JPG",
-      "image_local": "227762150.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-permanet-marker-smalls"
     },
     {
       "id": 229219941,
@@ -3859,6 +3859,47 @@
       "slug": "northern-terps-tahiti-lime-live-hash-rosin-3-5g-baller"
     },
     {
+      "id": 220450964,
+      "name": "*NEW!* FIFO: Miracle Mints Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442912486_miracle_mint.JPG",
+      "image_local": "220450964.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "miracle-mints-live-hash-rosin-3-5g-baller"
+    },
+    {
       "id": 219576681,
       "name": "Blackberry Fizz Cured Resin 14G Baller",
       "category": "Concentrate",
@@ -4520,47 +4561,6 @@
       ],
       "current_deal_title": null,
       "slug": "blood-honey-cured-resin-14g-baller-jar"
-    },
-    {
-      "id": 220450964,
-      "name": "*NEW!* FIFO: Miracle Mints Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442912486_miracle_mint.JPG",
-      "image_local": "220450964.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "miracle-mints-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 216792358,
@@ -6811,29 +6811,6 @@
       "slug": "northern-terps-pinyatti-1g-pre-roll"
     },
     {
-      "id": 226059606,
-      "name": "Northern Terps: Rain Drop 1g Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226059606.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-rain-drop-1g-pre-roll"
-    },
-    {
       "id": 226060189,
       "name": "Northern Terps: Stay Puft 1g Pre Roll",
       "category": "Preroll",
@@ -7481,7 +7458,7 @@
       "id": 198754080,
       "name": "Zsunami | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -7504,7 +7481,7 @@
       "id": 212117889,
       "name": "Cadillac LIVE 2g Disposable - Larry Breath X Crunch Berries",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -7527,7 +7504,7 @@
       "id": 187051292,
       "name": "Rainbow Sherb | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -7550,7 +7527,7 @@
       "id": 199254780,
       "name": "bowser | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -7573,7 +7550,7 @@
       "id": 187051534,
       "name": "Crunch Berries | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -7596,7 +7573,7 @@
       "id": 187005574,
       "name": "Pink Starburst | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -7619,7 +7596,7 @@
       "id": 199254765,
       "name": "zwiz | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -7642,7 +7619,7 @@
       "id": 212117413,
       "name": "Cadillac LIVE 2g Disposable - Blue Zushi x Pineapple Fizz",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -7665,7 +7642,7 @@
       "id": 212118552,
       "name": "Cadillac LIVE 2g Disposable - Super Boof X Grape Sorbet",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -7688,7 +7665,7 @@
       "id": 212118034,
       "name": "Cadillac LIVE 2g Disposable - Papaya Pie X Blueberry Gelato",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": "Indica",
       "thc_pct": 0.0,
