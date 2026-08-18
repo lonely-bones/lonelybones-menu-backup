@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 282,
-    "updated_at": "2026-08-15T14:12:48.563Z",
+    "total_menu_items": 283,
+    "updated_at": "2026-08-17T17:06:19.439Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -348,8 +348,49 @@
       "slug": "koala-tea-grows-liquid-hot-magma-smalls"
     },
     {
+      "id": 206742151,
+      "name": "Koala Tea Grows: Obama Runtz",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.7,
+      "reviews_count": 12,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443803205_Obama_Runtz_smalls.JPG",
+      "image_local": "206742151.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "insane-koala-tea-grows-obama-runtz"
+    },
+    {
       "id": 159392938,
-      "name": "Super Boof Smalls",
+      "name": "(1/2 Ounce Left) Super Boof Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -512,17 +553,17 @@
       "slug": "franken-cakes-smalls"
     },
     {
-      "id": 202383501,
-      "name": "(1 OZ left!) Cannoisseur: Runtz Smalls",
+      "id": 207771314,
+      "name": "Koala Tea Grows : Miagi Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 5,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439401907_canruntz.JPG",
-      "image_local": "202383501.jpg",
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442596694_dosi.JPG",
+      "image_local": "207771314.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -550,48 +591,48 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "candy-runtz-smalls"
+      "slug": "new-cannaisseur-grape-gas"
     },
     {
-      "id": 180051350,
-      "name": "Koala Tea Grows: Weighted Blanket Smalls",
+      "id": 182957686,
+      "name": "*Fresh Batch!* Tourma: Apple Fritter",
       "category": "Indica",
-      "edge_category": "Smalls",
+      "edge_category": "Flower",
       "top_category": "Flower",
-      "genetics": "Indica",
+      "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 18,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440577804_weighted_blanket.JPG",
-      "image_local": "180051350.jpg",
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443634385_frit.JPG",
+      "image_local": "182957686.jpg",
       "prices": [
         {
           "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
           "price": 20.0,
           "on_sale": false,
           "original_price": 20.0
         },
         {
-          "label": "1/2 oz",
+          "label": "1/4 oz",
           "price": 40.0,
           "on_sale": false,
           "original_price": 40.0
         },
         {
-          "label": "1 oz",
-          "price": 80.0,
+          "label": "1/2 oz",
+          "price": 60.0,
           "on_sale": false,
-          "original_price": 80.0
+          "original_price": 60.0
+        },
+        {
+          "label": "1 oz",
+          "price": 120.0,
+          "on_sale": false,
+          "original_price": 120.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-weighted-blanket-smalls"
+      "slug": "new-tourma-apple-fritter"
     },
     {
       "id": 226701305,
@@ -717,49 +758,8 @@
       "slug": "new-secret-weapon"
     },
     {
-      "id": 225734452,
-      "name": "*Fire!* Northern Terps: It's A Secret",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443767397_NT_It_s_a_secret.JPG",
-      "image_local": "225734452.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-northern-terps-it-s-a-secret"
-    },
-    {
       "id": 228329892,
-      "name": "Hawaiin Haze Smalls",
+      "name": "(1/2 Ounce Left) Hawaiin Haze Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -800,7 +800,7 @@
     },
     {
       "id": 226706157,
-      "name": "Tourma: Blue Slushie",
+      "name": "(1/2 Ounce Left) Tourma: Blue Slushie",
       "category": "Indica",
       "edge_category": "Big Buds",
       "top_category": "Flower",
@@ -838,6 +838,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "tourma-blue-slushie"
+    },
+    {
+      "id": 225734452,
+      "name": "*Fire!* Northern Terps: It's A Secret",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443767397_NT_It_s_a_secret.JPG",
+      "image_local": "225734452.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-northern-terps-it-s-a-secret"
     },
     {
       "id": 226706334,
@@ -961,47 +1002,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "g-r-farms-blue-andes-smalls"
-    },
-    {
-      "id": 182957686,
-      "name": "*Fresh Batch!* Tourma: Apple Fritter",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443634385_frit.JPG",
-      "image_local": "182957686.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        },
-        {
-          "label": "1 oz",
-          "price": 120.0,
-          "on_sale": false,
-          "original_price": 120.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-tourma-apple-fritter"
     },
     {
       "id": 225734529,
@@ -7292,6 +7292,29 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-infused-pre-roll-violet-fog-x-tech-9-cured-resin"
+    },
+    {
+      "id": 230026973,
+      "name": "*$50* Northern Terps: Infused Pre Roll Five Pack!",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
+      "image_local": "230026973.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "50-northern-terps-infused-pre-roll-five-pack"
     },
     {
       "id": 226281019,
