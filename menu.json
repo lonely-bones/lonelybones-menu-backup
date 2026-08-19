@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 283,
-    "updated_at": "2026-08-17T17:06:19.439Z",
+    "total_menu_items": 275,
+    "updated_at": "2026-08-18T20:10:44.068Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -389,47 +389,6 @@
       "slug": "insane-koala-tea-grows-obama-runtz"
     },
     {
-      "id": 159392938,
-      "name": "(1/2 Ounce Left) Super Boof Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 6,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436431306_Superboof.JPG",
-      "image_local": "159392938.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "method-maine-super-boof-smalls"
-    },
-    {
       "id": 216198954,
       "name": "Koala Tea Grows: Neon Drip Smalls",
       "category": "Indica",
@@ -717,6 +676,47 @@
       "slug": "og-kush-smalls-60397ab2-2567-4178-83f7-e9d683d9c4c9"
     },
     {
+      "id": 225734452,
+      "name": "*Fire!* Northern Terps: It's A Secret",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 3.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443767397_NT_It_s_a_secret.JPG",
+      "image_local": "225734452.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-northern-terps-it-s-a-secret"
+    },
+    {
       "id": 228246316,
       "name": "*NEW!* Secret Weapon",
       "category": "Indica",
@@ -758,47 +758,6 @@
       "slug": "new-secret-weapon"
     },
     {
-      "id": 228329892,
-      "name": "(1/2 Ounce Left) Hawaiin Haze Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444109379_hhaze.JPG",
-      "image_local": "228329892.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "hawaiin-haze-smalls"
-    },
-    {
       "id": 226706157,
       "name": "(1/2 Ounce Left) Tourma: Blue Slushie",
       "category": "Indica",
@@ -838,47 +797,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "tourma-blue-slushie"
-    },
-    {
-      "id": 225734452,
-      "name": "*Fire!* Northern Terps: It's A Secret",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443767397_NT_It_s_a_secret.JPG",
-      "image_local": "225734452.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-northern-terps-it-s-a-secret"
     },
     {
       "id": 226706334,
@@ -961,47 +879,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "new-white-truffle"
-    },
-    {
-      "id": 227362388,
-      "name": "*$60/OZ* G&R Farms: Blue Andes Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 4,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443968299_Blue_Andes_Smalls.JPG",
-      "image_local": "227362388.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "g-r-farms-blue-andes-smalls"
     },
     {
       "id": 225734529,
@@ -1291,6 +1168,47 @@
       "slug": "northern-terps-black-ice-black-domina-x-white-widow"
     },
     {
+      "id": 225133230,
+      "name": "(Fire!) Cannoisseur: Rainbow OG Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443693370_Rainbow_OG.JPG",
+      "image_local": "225133230.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "cannoisseur-rainbow-og-smalls"
+    },
+    {
       "id": 226701248,
       "name": "*NEW!* Northern Terps: Illmonic",
       "category": "Indica",
@@ -1414,49 +1332,8 @@
       "slug": "dialed-in-farms-high-octane-grape-smalls"
     },
     {
-      "id": 225133230,
-      "name": "Cannoisseur: Rainbow OG Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443693370_Rainbow_OG.JPG",
-      "image_local": "225133230.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "cannoisseur-rainbow-og-smalls"
-    },
-    {
       "id": 226901095,
-      "name": "Northern Terps: Tribute (Gelato #41 x Apples & Bananas)",
+      "name": "Northern Terps: Tribute",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -1701,47 +1578,6 @@
       "slug": "new-biscotti"
     },
     {
-      "id": 229219941,
-      "name": "Living Matters: Georgia Pie Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208301_georgia_pie.JPG",
-      "image_local": "229219941.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matters-georgia-pie-smalls"
-    },
-    {
       "id": 229218431,
       "name": "Living Matters: Wild Berries",
       "category": "Indica",
@@ -1947,47 +1783,6 @@
       "slug": "g-r-farms-biscotti-pop-smalls"
     },
     {
-      "id": 225133193,
-      "name": "*1/2 Ounce Left* Cannoisseur: Stuffed Cherry Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443693350_Stuffed_Cherry.JPG",
-      "image_local": "225133193.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "cannoisseur-stuffed-cherry-smalls"
-    },
-    {
       "id": 228246861,
       "name": "*NEW!* Smoke Proper: AJ's Sour",
       "category": "Indica",
@@ -2150,29 +1945,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "living-matters-gypsy-road"
-    },
-    {
-      "id": 223152297,
-      "name": "Amber Valley Shatter 1g - Gelato (H)",
-      "category": "Concentrate",
-      "edge_category": "Shatter",
-      "top_category": "Concentrates",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443400339_shatter.jpg",
-      "image_local": "223152297.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "amber-valley-gelato-1g-shatter"
     },
     {
       "id": 163167402,
@@ -3900,35 +3672,6 @@
       "slug": "miracle-mints-live-hash-rosin-3-5g-baller"
     },
     {
-      "id": 219576681,
-      "name": "Blackberry Fizz Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443526994_blkfiz.JPG",
-      "image_local": "219576681.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "fifo-gas-mix-cured-resin-14g-baller"
-    },
-    {
       "id": 218300928,
       "name": "Blue Gummies Cured Resin 14G Baller Jar",
       "category": "Concentrate",
@@ -4602,29 +4345,6 @@
       ],
       "current_deal_title": null,
       "slug": "point-break-live-hash-rosin-3-5g-baller"
-    },
-    {
-      "id": 223152264,
-      "name": "Amber Valley: Candied Runtz 1G Shatter",
-      "category": "Concentrate",
-      "edge_category": "Shatter",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443400339_shatter.jpg",
-      "image_local": "223152264.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "amber-valley-candied-runtz-1g-shatter"
     },
     {
       "id": 223152313,
@@ -7002,8 +6722,8 @@
       "top_category": "Edibles",
       "genetics": "Hybrid",
       "thc_pct": 10.0,
-      "rating": 0.0,
-      "reviews_count": 0,
+      "rating": 5.0,
+      "reviews_count": 1,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922602_10mg_disty_edi.jpg",
       "image_local": "185242558.jpg",
       "prices": [
@@ -7509,7 +7229,7 @@
       "genetics": null,
       "thc_pct": 0.0,
       "rating": 4.9,
-      "reviews_count": 7,
+      "reviews_count": 8,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
       "image_local": "212117889.jpg",
       "prices": [
