@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 273,
-    "updated_at": "2026-08-20T22:07:40.078Z",
+    "total_menu_items": 283,
+    "updated_at": "2026-08-21T21:36:19.865Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -50,17 +50,17 @@
       "slug": "northern-terps-z-marker-live-hash-rosin-3-5g-baller"
     },
     {
-      "id": 192017967,
-      "name": "*Insane!* Tourma: Fire AF",
+      "id": 229218599,
+      "name": "*Staff Pick!* Living Matters: Gypsy Road",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
-      "genetics": null,
+      "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 4.3,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440152717_Fire_AF_new.JPG",
-      "image_local": "192017967.jpg",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208143_gypsy.JPG",
+      "image_local": "229218599.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -88,7 +88,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "tourma-fire-af"
+      "slug": "living-matters-gypsy-road"
     },
     {
       "id": 168556367,
@@ -184,47 +184,6 @@
       "slug": "gmo"
     },
     {
-      "id": 162743551,
-      "name": "(1 Ounce Left) Super Buff Cherry Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 14,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/433027440_super_boof_cherry.jpg",
-      "image_local": "162743551.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-super-boof-cherry"
-    },
-    {
       "id": 181645234,
       "name": "Cap Junky Smalls",
       "category": "Indica",
@@ -308,7 +267,7 @@
     },
     {
       "id": 173746062,
-      "name": "Koala Tea Grows: Liquid Hot Magma Smalls",
+      "name": "(1 OZ left!) Koala Tea Grows: Liquid Hot Magma Smalls",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -389,6 +348,47 @@
       "slug": "insane-koala-tea-grows-obama-runtz"
     },
     {
+      "id": 192017967,
+      "name": "*Insane!* Tourma: Fire AF",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 4.3,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440152717_Fire_AF_new.JPG",
+      "image_local": "192017967.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "tourma-fire-af"
+    },
+    {
       "id": 216198954,
       "name": "Koala Tea Grows: Neon Drip Smalls",
       "category": "Indica",
@@ -397,7 +397,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 8,
+      "reviews_count": 9,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442234498_IMG_0681.JPG",
       "image_local": "216198954.jpg",
       "prices": [
@@ -431,7 +431,7 @@
     },
     {
       "id": 223944509,
-      "name": "(1OZ Left!) Tourma Cannabis: Royal Jelly",
+      "name": "(1/2OZ Left!) Tourma Cannabis: Royal Jelly",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -635,47 +635,6 @@
       "slug": "new-northern-terps-pure-michigan"
     },
     {
-      "id": 213696103,
-      "name": "Cannoisseur: OG Kush Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441753583_OG_KUSH.JPG",
-      "image_local": "213696103.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "og-kush-smalls-60397ab2-2567-4178-83f7-e9d683d9c4c9"
-    },
-    {
       "id": 225734452,
       "name": "*Fire!* Northern Terps: It's A Secret",
       "category": "Indica",
@@ -838,47 +797,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "tourma-sour-apple"
-    },
-    {
-      "id": 227762150,
-      "name": "(1 Ounce Left) Koala Tea Grows: Permanet Marker Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444023169_perm_mark.JPG",
-      "image_local": "227762150.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-permanet-marker-smalls"
     },
     {
       "id": 225734529,
@@ -1127,8 +1045,49 @@
       "slug": "northern-terps-spritzer-runtz-with-grape-pie-and-mac"
     },
     {
+      "id": 225133230,
+      "name": "(Fire!) Cannoisseur: Rainbow OG Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443693370_Rainbow_OG.JPG",
+      "image_local": "225133230.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "cannoisseur-rainbow-og-smalls"
+    },
+    {
       "id": 227850638,
-      "name": "Northern Terps: Black Ice (Black Domina x White Widow)",
+      "name": "(Half OZ left!) Northern Terps: Black Ice (Black Domina x White Widow)",
       "category": "Indica",
       "edge_category": "Big Buds",
       "top_category": "Flower",
@@ -1166,47 +1125,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "northern-terps-black-ice-black-domina-x-white-widow"
-    },
-    {
-      "id": 225133230,
-      "name": "(Fire!) Cannoisseur: Rainbow OG Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443693370_Rainbow_OG.JPG",
-      "image_local": "225133230.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "cannoisseur-rainbow-og-smalls"
     },
     {
       "id": 226701248,
@@ -1742,6 +1660,47 @@
       "slug": "dr-melo-s-tropsicle-smalls"
     },
     {
+      "id": 228246861,
+      "name": "(1 OZ left!) Smoke Proper: AJ's Sour",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444097006_AJ_s_Sour_100.JPG",
+      "image_local": "228246861.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-aj-s-sour"
+    },
+    {
       "id": 227361947,
       "name": "*$60/OZ* G&R Farms: Biscotti Pop Smalls",
       "category": "Indica",
@@ -1781,47 +1740,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "g-r-farms-biscotti-pop-smalls"
-    },
-    {
-      "id": 228246861,
-      "name": "*NEW!* Smoke Proper: AJ's Sour",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444097006_AJ_s_Sour_100.JPG",
-      "image_local": "228246861.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-aj-s-sour"
     },
     {
       "id": 229039066,
@@ -1865,45 +1783,27 @@
       "slug": "dr-melo-s-bad-apple-smalls"
     },
     {
-      "id": 229218599,
-      "name": "Living Matters: Gypsy Road",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
+      "id": 214676571,
+      "name": "Amber Valley Shatter 1g - Red Runtz (H)",
+      "category": "Concentrate",
+      "edge_category": "Shatter",
+      "top_category": "Concentrates",
+      "genetics": null,
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208143_gypsy.JPG",
-      "image_local": "229218599.jpg",
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438526643_SHATTER_AYDEN.jpg",
+      "image_local": "214676571.jpg",
       "prices": [
         {
-          "label": "1/8 oz",
-          "price": 15.0,
+          "label": "1 g",
+          "price": 10.0,
           "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
+          "original_price": 10.0
         }
       ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matters-gypsy-road"
+      "current_deal_title": null,
+      "slug": "amber-valley-red-runtz-shatter"
     },
     {
       "id": 163167402,
@@ -2544,6 +2444,29 @@
       ],
       "current_deal_title": null,
       "slug": "blue-zushi-live-rosin-1g"
+    },
+    {
+      "id": 229815082,
+      "name": "(ONLY 1 OZ!) IPK/MegaRaw: GG4 Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444279981_GG4_3.5G_IPK.JPG",
+      "image_local": "229815082.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "only-1-oz-ipk-megaraw-gg4-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 204862742,
@@ -3227,27 +3150,45 @@
       "slug": "lonely-bones-mylar-og-1g-cured-resin-pen-a0992790-97ad-4c27-933f-c0dacbbeef7c"
     },
     {
-      "id": 229815082,
-      "name": "(ONLY 1 OZ!) IPK/MegaRaw: GG4 Live Hash Rosin 3.5G Baller",
+      "id": 152503392,
+      "name": "Amber Valley: Blue Dream 1g Shatter",
       "category": "Concentrate",
-      "edge_category": "Concentrates",
+      "edge_category": "Shatter",
       "top_category": "Concentrates",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444279981_GG4_3.5G_IPK.JPG",
-      "image_local": "229815082.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/430657083_blue_dream_shatter.JPG",
+      "image_local": "152503392.jpg",
       "prices": [
         {
-          "label": "each",
-          "price": 90.0,
+          "label": "1 g",
+          "price": 10.0,
           "on_sale": false,
-          "original_price": 90.0
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 110.0,
+          "on_sale": false,
+          "original_price": 110.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
         }
       ],
       "current_deal_title": null,
-      "slug": "only-1-oz-ipk-megaraw-gg4-live-hash-rosin-3-5g-baller"
+      "slug": "amber-valley-blue-dream-1g-shatter"
     },
     {
       "id": 216928456,
@@ -3795,6 +3736,52 @@
       "slug": "miracle-mints-live-hash-rosin-3-5g-baller"
     },
     {
+      "id": 195351339,
+      "name": "Amber Valley: Crookies Shatter 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438526643_SHATTER_AYDEN.jpg",
+      "image_local": "195351339.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "amber-valley-white-runtz-1g"
+    },
+    {
+      "id": 169662477,
+      "name": "Amber Valley: Pink Cookies Shatter 1G",
+      "category": "Concentrate",
+      "edge_category": "Shatter",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/433174706_shattr.jpg",
+      "image_local": "169662477.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "amber-valley-ogkb-shatter-1g"
+    },
+    {
       "id": 218300928,
       "name": "Blue Gummies Cured Resin 14G Baller Jar",
       "category": "Concentrate",
@@ -3839,29 +3826,6 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-live-liquid-diamond-strawberry-milk-x-slurty-2g-penjamin"
-    },
-    {
-      "id": 212119054,
-      "name": "Cadillac: Live Liquid Diamond Unicorn Cake X Guava Daiquiri 2G Penjamin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "212119054.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-unicorn-cake-x-guava-daiquiri-2g-penjamin"
     },
     {
       "id": 219579728,
@@ -4173,6 +4137,29 @@
       ],
       "current_deal_title": null,
       "slug": "blue-cookies-cured-resin-14g-baller-jar"
+    },
+    {
+      "id": 222437550,
+      "name": "Motorbreath Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443926850_white_fire.JPG",
+      "image_local": "222437550.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "grape-ape-cured-resin-1g"
     },
     {
       "id": 152085741,
@@ -4522,6 +4509,29 @@
       "slug": "amber-valley-flapjacks-1g-shatter"
     },
     {
+      "id": 208202014,
+      "name": "Amber Valley: Orange Diesel Shatter 1g",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438526643_SHATTER_AYDEN.jpg",
+      "image_local": "208202014.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "amber-valley-peach-runtz-shatter-1g"
+    },
+    {
       "id": 223152239,
       "name": "Amber Valley: Strawberry Haze 1G Shatter",
       "category": "Concentrate",
@@ -4543,6 +4553,29 @@
       ],
       "current_deal_title": null,
       "slug": "amber-valley-strawberry-haze-1g-shatter-364afd7a-d762-4243-88e9-7382eea0eb05"
+    },
+    {
+      "id": 208201821,
+      "name": "Amber Valley: Sun Cake Shatter 1g",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438526643_SHATTER_AYDEN.jpg",
+      "image_local": "208201821.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "amber-valley-ak-47-shatter-1g"
     },
     {
       "id": 181551205,
@@ -4643,6 +4676,29 @@
       "slug": "cadillac-live-liquid-diamond-glitter-bomb-x-red-congolese-2g-penjamin"
     },
     {
+      "id": 211334357,
+      "name": "FIFO: Cap Junky Live Rosin 1G",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441260239_cap_.JPG",
+      "image_local": "211334357.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 35.0,
+          "on_sale": false,
+          "original_price": 35.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cap-junky-live-rosin-1g"
+    },
+    {
       "id": 223653553,
       "name": "FIFO: Forbidden Cake Live Rosin",
       "category": "Concentrate",
@@ -4664,6 +4720,75 @@
       ],
       "current_deal_title": null,
       "slug": "fifo-forbidden-cake-live-rosin"
+    },
+    {
+      "id": 211333318,
+      "name": "FIFO: Grape Gas Live Rosin 1G",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441259984_gcandy.JPG",
+      "image_local": "211333318.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 35.0,
+          "on_sale": false,
+          "original_price": 35.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "grape-candy-live-rosin-1g"
+    },
+    {
+      "id": 231406061,
+      "name": "FIFO: Orange Mints Live Rosin 1G",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444487562_orange1G.JPG",
+      "image_local": "231406061.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 35.0,
+          "on_sale": false,
+          "original_price": 35.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "fifo-orange-mints-live-rosin-1g"
+    },
+    {
+      "id": 223574401,
+      "name": "FIFO: Tallymon Live Rosin 1G",
+      "category": "Concentrate",
+      "edge_category": "Rosin",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443457888_bluberry_punch_1g_rosin.JPG",
+      "image_local": "223574401.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 35.0,
+          "on_sale": false,
+          "original_price": 35.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "blueberry-punch-live-rosin-1g"
     },
     {
       "id": 229854941,
@@ -6105,6 +6230,29 @@
       "slug": "lonely-bones-ready-to-roll"
     },
     {
+      "id": 212117143,
+      "name": "Cadillac LIVE 2g Disposable - Mango Haze X Durban Poison",
+      "category": "Concentrate",
+      "edge_category": "Disposable",
+      "top_category": "Vape Pens",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 4.2,
+      "reviews_count": 9,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
+      "image_local": "212117143.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 45.0,
+          "on_sale": false,
+          "original_price": 45.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cadillac-live-liquid-diamond-mango-haze-x-durban-poison-2g-penjamin"
+    },
+    {
       "id": 198754080,
       "name": "Zsunami | Disposable | 1g",
       "category": "Concentrate",
@@ -6310,6 +6458,52 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-live-liquid-diamond-blue-zushi-x-pineapple-fizz-2g-penjamin"
+    },
+    {
+      "id": 212119054,
+      "name": "Cadillac LIVE 2g Disposable - Guava Daquiri X Unicorn Cake",
+      "category": "Concentrate",
+      "edge_category": "Disposable",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 7,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
+      "image_local": "212119054.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 45.0,
+          "on_sale": false,
+          "original_price": 45.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cadillac-live-liquid-diamond-unicorn-cake-x-guava-daiquiri-2g-penjamin"
+    },
+    {
+      "id": 212118779,
+      "name": "Cadillac LIVE 2g Disposable - Pink Acai X White Gushers",
+      "category": "Concentrate",
+      "edge_category": "Disposable",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 13,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
+      "image_local": "212118779.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 45.0,
+          "on_sale": false,
+          "original_price": 45.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cadillac-live-liquid-diamond-pink-acai-x-white-gushers-2g-penjamin"
     },
     {
       "id": 212118552,
