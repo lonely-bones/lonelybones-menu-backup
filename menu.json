@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 283,
-    "updated_at": "2026-08-21T21:36:19.865Z",
+    "total_menu_items": 282,
+    "updated_at": "2026-08-22T16:02:16.907Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -264,47 +264,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "spinnery-creek-bananaconda"
-    },
-    {
-      "id": 173746062,
-      "name": "(1 OZ left!) Koala Tea Grows: Liquid Hot Magma Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 24,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436339695_liquid_hot_magma.JPG",
-      "image_local": "173746062.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-liquid-hot-magma-smalls"
     },
     {
       "id": 206742151,
@@ -800,7 +759,7 @@
     },
     {
       "id": 225734529,
-      "name": "*NEW!* Northern Terps: Sour Sherb",
+      "name": "(One OZ left!) Northern Terps: Sour Sherb",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -2556,6 +2515,29 @@
       "slug": "lonely-bones-20-mix-and-match-thc-distillate-1g-5-10-thread-260"
     },
     {
+      "id": 229826673,
+      "name": "(1 G left!) Blueberry Runtz Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280854_IMG_4300.JPG",
+      "image_local": "229826673.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "blueberry-runtz-cured-resin-1g"
+    },
+    {
       "id": 223653053,
       "name": "*NEW!* FIFO: Orange Mints Live Rosin 3.5G Baller",
       "category": "Concentrate",
@@ -2597,8 +2579,8 @@
       "slug": "in-house-favorite-fifo-orange-mints-live-rosin-3-5g-baller"
     },
     {
-      "id": 229826673,
-      "name": "Blueberry Runtz Cured Resin 1G",
+      "id": 218300928,
+      "name": "Blue Gummies Cured Resin 14G Baller Jar",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -2606,18 +2588,18 @@
       "thc_pct": 0.0,
       "rating": 5.0,
       "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280854_IMG_4300.JPG",
-      "image_local": "229826673.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444263951_IMG_4293.JPG",
+      "image_local": "218300928.jpg",
       "prices": [
         {
-          "label": "1 g",
-          "price": 10.0,
+          "label": "each",
+          "price": 100.0,
           "on_sale": false,
-          "original_price": 10.0
+          "original_price": 100.0
         }
       ],
       "current_deal_title": null,
-      "slug": "blueberry-runtz-cured-resin-1g"
+      "slug": "blue-gummies-cured-resin-14g-baller-jar"
     },
     {
       "id": 172183568,
@@ -3780,29 +3762,6 @@
       ],
       "current_deal_title": null,
       "slug": "amber-valley-ogkb-shatter-1g"
-    },
-    {
-      "id": 218300928,
-      "name": "Blue Gummies Cured Resin 14G Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444263951_IMG_4293.JPG",
-      "image_local": "218300928.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "blue-gummies-cured-resin-14g-baller-jar"
     },
     {
       "id": 212118830,
