@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 282,
-    "updated_at": "2026-08-22T16:02:16.907Z",
+    "total_menu_items": 276,
+    "updated_at": "2026-08-23T17:41:31.434Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -51,7 +51,7 @@
     },
     {
       "id": 229218599,
-      "name": "*Staff Pick!* Living Matters: Gypsy Road",
+      "name": "*Staff Pick!* Living Matters: Gypsy Road (Garlic Snake Breath and Dual OG)",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -389,88 +389,6 @@
       "slug": "koala-tea-grows-neon-drip-smalls"
     },
     {
-      "id": 223944509,
-      "name": "(1/2OZ Left!) Tourma Cannabis: Royal Jelly",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443510386_royal_jewlly.JPG",
-      "image_local": "223944509.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-royal-jelly"
-    },
-    {
-      "id": 148861245,
-      "name": "Kimbo Kush Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.9,
-      "reviews_count": 13,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/429881643_franken_cakes_smalls.jpg",
-      "image_local": "148861245.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "franken-cakes-smalls"
-    },
-    {
       "id": 207771314,
       "name": "Koala Tea Grows : Miagi Smalls",
       "category": "Indica",
@@ -636,7 +554,7 @@
     },
     {
       "id": 228246316,
-      "name": "*NEW!* Secret Weapon",
+      "name": "*NEW!*(1oz Left) Secret Weapon",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -799,6 +717,47 @@
       "slug": "new-northern-terps-sour-sherb"
     },
     {
+      "id": 227351724,
+      "name": "*$60/OZ* G&R Farms: GG4 X Dosido Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443967365_GG4_X_DosiDO.JPG",
+      "image_local": "227351724.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "g-r-farms-gg4-x-dosido-smalls"
+    },
+    {
       "id": 228246379,
       "name": "*Staff Pick!* Cherry Dosi",
       "category": "Indica",
@@ -838,88 +797,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "incredible-cherry-dosi"
-    },
-    {
-      "id": 226607934,
-      "name": "Banana Tangie Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443870595_bantang.JPG",
-      "image_local": "226607934.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "banana-tangie-smalls"
-    },
-    {
-      "id": 184774156,
-      "name": "Rainbow Gelato Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443954741_rainbow_gelato.JPG",
-      "image_local": "184774156.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "rainbow-gelato-smalls"
     },
     {
       "id": 228246361,
@@ -964,7 +841,7 @@
     },
     {
       "id": 227851168,
-      "name": "Northern Terps: Spritzer (Runtz with Grape Pie and MAC)",
+      "name": "(1/2 Ounce Left) Northern Terps: Spritzer (Runtz with Grape Pie and MAC)",
       "category": "Indica",
       "edge_category": "Big Buds",
       "top_category": "Flower",
@@ -1332,47 +1209,6 @@
       "slug": "g-r-farms-buttermilk-pancakes-smalls"
     },
     {
-      "id": 227351724,
-      "name": "*$60/OZ* G&R Farms: GG4 X Dosido Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443967365_GG4_X_DosiDO.JPG",
-      "image_local": "227351724.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "g-r-farms-gg4-x-dosido-smalls"
-    },
-    {
       "id": 228246595,
       "name": "*Fantastic!* Smoke Proper: Legend Larry",
       "category": "Indica",
@@ -1496,6 +1332,47 @@
       "slug": "living-matters-wild-berries"
     },
     {
+      "id": 227261484,
+      "name": "(1/2 Ounce Left) Motor Breath Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443954819_motor_breath.JPG",
+      "image_local": "227261484.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "motor-breath-smalls"
+    },
+    {
       "id": 227362123,
       "name": "*$60/OZ*G&R Farms: Face Off Smalls",
       "category": "Indica",
@@ -1535,47 +1412,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "g-r-farms-face-off-smalls"
-    },
-    {
-      "id": 227261484,
-      "name": "Motor Breath Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443954819_motor_breath.JPG",
-      "image_local": "227261484.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "motor-breath-smalls"
     },
     {
       "id": 229039134,
@@ -2513,29 +2349,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-20-mix-and-match-thc-distillate-1g-5-10-thread-260"
-    },
-    {
-      "id": 229826673,
-      "name": "(1 G left!) Blueberry Runtz Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280854_IMG_4300.JPG",
-      "image_local": "229826673.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "blueberry-runtz-cured-resin-1g"
     },
     {
       "id": 223653053,
@@ -4200,29 +4013,6 @@
       ],
       "current_deal_title": null,
       "slug": "white-berry-cured-resin-1g"
-    },
-    {
-      "id": 229826566,
-      "name": "Trop Candy Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280846_trop_candy.JPG",
-      "image_local": "229826566.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "trop-candy-cured-resin-1g-ba209190-0a28-4235-878c-9f7446da1bbd"
     },
     {
       "id": 218361637,
