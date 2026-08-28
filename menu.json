@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 271,
-    "updated_at": "2026-08-27T15:14:13.223Z",
+    "total_menu_items": 272,
+    "updated_at": "2026-08-28T16:36:44.036Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -145,7 +145,7 @@
       "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 4.7,
-      "reviews_count": 13,
+      "reviews_count": 14,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/429482321_GMO.jpg",
       "image_local": "145008363.jpg",
       "prices": [
@@ -186,7 +186,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.8,
-      "reviews_count": 25,
+      "reviews_count": 26,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438151840_cap_junky.JPG",
       "image_local": "181645234.jpg",
       "prices": [
@@ -226,8 +226,8 @@
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 4.7,
-      "reviews_count": 13,
+      "rating": 4.6,
+      "reviews_count": 14,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443803205_Obama_Runtz_smalls.JPG",
       "image_local": "206742151.jpg",
       "prices": [
@@ -422,47 +422,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "new-cannaisseur-grape-gas"
-    },
-    {
-      "id": 228246361,
-      "name": "(1 Ounce Left) White Truffle",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096941_White_Truffle_100.JPG",
-      "image_local": "228246361.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-white-truffle"
     },
     {
       "id": 182957686,
@@ -1365,6 +1324,170 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "g-r-farms-biscotti-pop-smalls"
+    },
+    {
+      "id": 231841206,
+      "name": "Pie Scream",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444552422_piescream.JPG",
+      "image_local": "231841206.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "pie-scream"
+    },
+    {
+      "id": 231840630,
+      "name": "Smoke Proper: Master Kush",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444552329_master_kush.JPG",
+      "image_local": "231840630.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "smoke-proper-master-kush"
+    },
+    {
+      "id": 231840856,
+      "name": "Sour Diesel Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444552366_sour_d.JPG",
+      "image_local": "231840856.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "sour-diesel-smalls"
+    },
+    {
+      "id": 231842255,
+      "name": "Space Candy Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444552563_space_cnady.JPG",
+      "image_local": "231842255.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "space-candy-smalls"
     },
     {
       "id": 214676571,
@@ -3579,29 +3702,6 @@
       "slug": "lonely-bones-cherry-pie-1g-thc-distillate-disposable"
     },
     {
-      "id": 187051439,
-      "name": "Lonely Bones: Garlic Icing 1G Cured Resin Penz",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "187051439.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-karma-sour-1g-cured-resin-pen"
-    },
-    {
       "id": 207394289,
       "name": "Lonely Bones: Grape Ape 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -3698,35 +3798,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-mai-tai-cured-resin-14g-ba7e9174-58c5-4cac-bff4-d973064f9878"
-    },
-    {
-      "id": 164216213,
-      "name": "Mai Tai Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Solvent",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444321869_IMG_4309.JPG",
-      "image_local": "164216213.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-mai-tai-cured-resin-1g"
     },
     {
       "id": 223154452,
@@ -3959,29 +4030,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-girl-scout-cookie-1g-thc-distillate-disposable"
-    },
-    {
-      "id": 217733882,
-      "name": "Lonely Bones: Candy Rain Cured Resin Penz 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "217733882.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-candy-rain-cured-resin-penz-1g"
     },
     {
       "id": 226280139,
@@ -5530,6 +5578,29 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-super-lemon-mac-1g-thc-distillate-screw-on-thread"
+    },
+    {
+      "id": 231907739,
+      "name": "Lonely Bones: Super Silver Haze 1G THC Distillate Screw On Thread",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444564370_screw_on_cart.jpg",
+      "image_local": "231907739.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-super-silver-haze-1g-thc-distillate-screw-on-thread-369ed5f8-b780-417c-90b7-f49ff0e448c0"
     },
     {
       "id": 208024506,
