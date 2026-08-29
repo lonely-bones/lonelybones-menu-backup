@@ -1,7 +1,7 @@
 {
   "meta": {
     "total_menu_items": 272,
-    "updated_at": "2026-08-28T16:36:44.036Z",
+    "updated_at": "2026-08-29T13:27:10.161Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -16,8 +16,8 @@
       "top_category": "Concentrates",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
+      "rating": 5.0,
+      "reviews_count": 1,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442911811_black_maple_live_rosin_8th.JPG",
       "image_local": "220446652.jpg",
       "prices": [
@@ -50,17 +50,17 @@
       "slug": "black-maple-live-hash-rosin-3-5g-baller"
     },
     {
-      "id": 229218599,
-      "name": "Living Matters: Gypsy Road (Garlic Snake Breath and Dual OG)",
+      "id": 231841206,
+      "name": "Pie Scream",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
-      "genetics": "Hybrid",
+      "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208143_gypsy.JPG",
-      "image_local": "229218599.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444552422_piescream.JPG",
+      "image_local": "231841206.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -88,7 +88,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matters-gypsy-road"
+      "slug": "pie-scream"
     },
     {
       "id": 218361637,
@@ -1285,6 +1285,47 @@
       "slug": "dr-melo-s-tropsicle-smalls"
     },
     {
+      "id": 229218599,
+      "name": "(1 Ounce Left) Living Matters: Gypsy Road (Garlic Snake Breath and Dual OG)",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208143_gypsy.JPG",
+      "image_local": "229218599.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matters-gypsy-road"
+    },
+    {
       "id": 227361947,
       "name": "*$60/OZ* G&R Farms: Biscotti Pop Smalls",
       "category": "Indica",
@@ -1324,47 +1365,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "g-r-farms-biscotti-pop-smalls"
-    },
-    {
-      "id": 231841206,
-      "name": "Pie Scream",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444552422_piescream.JPG",
-      "image_local": "231841206.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "pie-scream"
     },
     {
       "id": 231840630,
@@ -2057,7 +2057,7 @@
       "genetics": "Sativa",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 3,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909837_guava_t.JPG",
       "image_local": "226903593.jpg",
       "prices": [
