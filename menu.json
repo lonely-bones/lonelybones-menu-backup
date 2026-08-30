@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 272,
-    "updated_at": "2026-08-29T13:27:10.161Z",
+    "total_menu_items": 265,
+    "updated_at": "2026-08-29T15:50:32.361Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -465,6 +465,88 @@
       "slug": "new-tourma-apple-fritter"
     },
     {
+      "id": 228246316,
+      "name": "*NEW!*(1oz Left) Secret Weapon",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 3.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096934_Secret_Weapon_100.JPG",
+      "image_local": "228246316.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-secret-weapon"
+    },
+    {
+      "id": 225734529,
+      "name": "(One OZ left!) Northern Terps: Sour Sherb",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443767427_NT_Sour_Sherb.JPG",
+      "image_local": "225734529.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-northern-terps-sour-sherb"
+    },
+    {
       "id": 226701305,
       "name": "*NEW!* Northern Terps: Pure Michigan",
       "category": "Indica",
@@ -547,88 +629,6 @@
       "slug": "new-northern-terps-it-s-a-secret"
     },
     {
-      "id": 228246316,
-      "name": "*NEW!*(1oz Left) Secret Weapon",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 3.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096934_Secret_Weapon_100.JPG",
-      "image_local": "228246316.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-secret-weapon"
-    },
-    {
-      "id": 226706157,
-      "name": "(1/2 Ounce Left) Tourma: Blue Slushie",
-      "category": "Indica",
-      "edge_category": "Buds",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443884024_Tourma_Blue_slushie.JPG",
-      "image_local": "226706157.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "tourma-blue-slushie"
-    },
-    {
       "id": 226706334,
       "name": "Tourma: Sour Apple",
       "category": "Indica",
@@ -668,47 +668,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "tourma-sour-apple"
-    },
-    {
-      "id": 225734529,
-      "name": "(One OZ left!) Northern Terps: Sour Sherb",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443767427_NT_Sour_Sherb.JPG",
-      "image_local": "225734529.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-northern-terps-sour-sherb"
     },
     {
       "id": 228246379,
@@ -998,6 +957,129 @@
       "slug": "northern-terps-tribute"
     },
     {
+      "id": 231840630,
+      "name": "Smoke Proper: Master Kush",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444552329_master_kush.JPG",
+      "image_local": "231840630.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "smoke-proper-master-kush"
+    },
+    {
+      "id": 231840856,
+      "name": "Sour Diesel Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444552366_sour_d.JPG",
+      "image_local": "231840856.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "sour-diesel-smalls"
+    },
+    {
+      "id": 231842255,
+      "name": "Space Candy Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444552563_space_cnady.JPG",
+      "image_local": "231842255.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "space-candy-smalls"
+    },
+    {
       "id": 229814472,
       "name": "Tourma Cannabis: Funk Mountain",
       "category": "Indica",
@@ -1285,47 +1367,6 @@
       "slug": "dr-melo-s-tropsicle-smalls"
     },
     {
-      "id": 229218599,
-      "name": "(1 Ounce Left) Living Matters: Gypsy Road (Garlic Snake Breath and Dual OG)",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208143_gypsy.JPG",
-      "image_local": "229218599.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matters-gypsy-road"
-    },
-    {
       "id": 227361947,
       "name": "*$60/OZ* G&R Farms: Biscotti Pop Smalls",
       "category": "Indica",
@@ -1365,129 +1406,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "g-r-farms-biscotti-pop-smalls"
-    },
-    {
-      "id": 231840630,
-      "name": "Smoke Proper: Master Kush",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444552329_master_kush.JPG",
-      "image_local": "231840630.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "smoke-proper-master-kush"
-    },
-    {
-      "id": 231840856,
-      "name": "Sour Diesel Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444552366_sour_d.JPG",
-      "image_local": "231840856.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "sour-diesel-smalls"
-    },
-    {
-      "id": 231842255,
-      "name": "Space Candy Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444552563_space_cnady.JPG",
-      "image_local": "231842255.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "space-candy-smalls"
     },
     {
       "id": 214676571,
@@ -2205,29 +2123,6 @@
       "slug": "blue-zushi-live-rosin-1g"
     },
     {
-      "id": 229815082,
-      "name": "(ONE LEFT!) IPK/MegaRaw: GG4 Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444279981_GG4_3.5G_IPK.JPG",
-      "image_local": "229815082.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "only-1-oz-ipk-megaraw-gg4-live-hash-rosin-3-5g-baller"
-    },
-    {
       "id": 204862742,
       "name": "Blackberry Kush Live Rosin 3.5g Baller",
       "category": "Concentrate",
@@ -2738,7 +2633,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 3,
+      "reviews_count": 4,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442879589_blueberry_kush.JPG",
       "image_local": "220254188.jpg",
       "prices": [
@@ -2930,88 +2825,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-mylar-og-1g-cured-resin-pen-a0992790-97ad-4c27-933f-c0dacbbeef7c"
-    },
-    {
-      "id": 226906597,
-      "name": "(2 left!) Northern Terps: Tahiti Lime Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443910006_tahitit.JPG",
-      "image_local": "226906597.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-tahiti-lime-live-hash-rosin-3-5g-baller"
-    },
-    {
-      "id": 225327441,
-      "name": "(ONE Left!) IPK/MegaRaw: Grease Bucket Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443718214_ipkgrease.JPG",
-      "image_local": "225327441.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "ipk-megaraw-grease-bucket-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 152503392,
@@ -3564,6 +3377,29 @@
       "slug": "amber-valley-ogkb-shatter-1g"
     },
     {
+      "id": 181551177,
+      "name": "Apples & Bananas Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444529496_IMG_4323.JPG",
+      "image_local": "181551177.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "apples-bananas-cured-resin-1g"
+    },
+    {
       "id": 219579728,
       "name": "Fire AF Cured Resin 14G Baller",
       "category": "Concentrate",
@@ -3969,7 +3805,7 @@
     },
     {
       "id": 223574810,
-      "name": "*NEW!* Blue Dream Live Rosin 3.5G Baller",
+      "name": "(1 Left) Blue Dream Live Rosin 3.5G Baller",
       "category": "Concentrate",
       "edge_category": "Cold Cure Badder",
       "top_category": "Concentrates",
@@ -4030,6 +3866,29 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-girl-scout-cookie-1g-thc-distillate-disposable"
+    },
+    {
+      "id": 226280215,
+      "name": "(1 left!) Northern Terps: Blue Flame x Tiger Balm 2G Dual Tank Cured Resin",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443827958_norethern_dual.JPG",
+      "image_local": "226280215.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 55.0,
+          "on_sale": false,
+          "original_price": 55.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-blue-flame-x-tiger-balm-2g-dual-tank-cured-resin"
     },
     {
       "id": 226280139,
@@ -4261,29 +4120,6 @@
       ],
       "current_deal_title": null,
       "slug": "apples-bananas-cured-resin-14g-baller"
-    },
-    {
-      "id": 181551177,
-      "name": "Apples & Bananas Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444529496_IMG_4323.JPG",
-      "image_local": "181551177.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "apples-bananas-cured-resin-1g"
     },
     {
       "id": 221998026,
@@ -5074,29 +4910,6 @@
       "slug": "lonely-bones-italian-ice-1g-thc-distillate-disposable"
     },
     {
-      "id": 198359161,
-      "name": "Lonely Bones: Jack Herer 1G THC Distillate Penjamin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
-      "image_local": "198359161.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-jack-herer-1g-thc-disposable"
-    },
-    {
       "id": 207409064,
       "name": "Lonely Bones: Lemon Drop 1G THC Distillate Penjamin",
       "category": "Concentrate",
@@ -5741,29 +5554,6 @@
       "slug": "mix-any-28g-s-of-live-rosin-for-750"
     },
     {
-      "id": 226280215,
-      "name": "Northern Terps: Blue Flame x Tiger Balm 2G Dual Tank Cured Resin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443827958_norethern_dual.JPG",
-      "image_local": "226280215.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 55.0,
-          "on_sale": false,
-          "original_price": 55.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-blue-flame-x-tiger-balm-2g-dual-tank-cured-resin"
-    },
-    {
       "id": 226909043,
       "name": "Northern Terps: Z- Marker Live Hash Rosin 3.5G Baller",
       "category": "Concentrate",
@@ -5977,351 +5767,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "lonely-bones-ready-to-roll"
-    },
-    {
-      "id": 223560220,
-      "name": "Any Assorted Pre Rolls: 5-Pack Mix and Match for $25!",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 10,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456196_mixed_joints.JPG",
-      "image_local": "223560220.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "any-assorted-pre-rolls-5-pack-mix-and-match-for-25"
-    },
-    {
-      "id": 223559082,
-      "name": "Cannoisseur: Glitter Bomb Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 4,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
-      "image_local": "223559082.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cannaseaur-glitter-bomb-pre-roll"
-    },
-    {
-      "id": 226060343,
-      "name": "Northern Terps: Mix and Match Pre Roll 5 Pack $25",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805956_northern_terps_5_pack.JPG",
-      "image_local": "226060343.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-mix-and-match-pre-roll-5-pack-25"
-    },
-    {
-      "id": 223559053,
-      "name": "Cannoisseur: Grape Gas Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
-      "image_local": "223559053.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cannaseaur-grape-gas-pre-roll"
-    },
-    {
-      "id": 223560109,
-      "name": "Cannoisseur: 5-Pack Mix and Match for $25!",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456172_5pack_canna.JPG",
-      "image_local": "223560109.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cannaseaur-5-pack-mix-and-match-for-25"
-    },
-    {
-      "id": 223559114,
-      "name": "Cannoisseur: Berry Bonds Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
-      "image_local": "223559114.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cannaseaur-berry-bonds-pre-roll"
-    },
-    {
-      "id": 223559067,
-      "name": "Cannoisseur: Sour G Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
-      "image_local": "223559067.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cannaseaur-sour-g-pre-roll"
-    },
-    {
-      "id": 215865425,
-      "name": "Leaf Labs: Dirty Taxi 1G Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439360826_leaf_labs_pre_roll.JPG",
-      "image_local": "215865425.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "leaf-labs-jedi-breath-1g-pre-roll-8c5b5e7c-76ab-444e-b1b9-5fab9843901e"
-    },
-    {
-      "id": 229861279,
-      "name": "Northern Terps: Bubble Bath 1g Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
-      "image_local": "229861279.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-bubble-bath-1g-pre-roll"
-    },
-    {
-      "id": 226060001,
-      "name": "Northern Terps: P-85 1g Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226060001.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-p-85-1g-pre-roll"
-    },
-    {
-      "id": 229861753,
-      "name": "Northern Terps: Pinyatti 1g Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
-      "image_local": "229861753.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-pinyatti-1g-pre-roll"
-    },
-    {
-      "id": 226060189,
-      "name": "Northern Terps: Stay Puft 1g Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226060189.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-stay-puft-1g-pre-roll"
-    },
-    {
-      "id": 229861984,
-      "name": "Northern Terps: Tiger Balm 1g Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
-      "image_local": "229861984.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-tiger-balm-1g-pre-roll"
-    },
-    {
-      "id": 229861472,
-      "name": "Northern Terps: Tribute 1g Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
-      "image_local": "229861472.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-tribute-1g-pre-roll"
-    },
-    {
-      "id": 226059857,
-      "name": "Northern Terps: Zoltar 1g Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226059857.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-zoltar-1g-pre-roll"
     },
     {
       "id": 198754080,
@@ -6667,6 +6112,328 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-birthday-cake-1g-thc-distillate-screw-on-thread"
+    },
+    {
+      "id": 223560220,
+      "name": "Any Assorted Pre Rolls: 5-Pack Mix and Match for $25!",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 11,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456196_mixed_joints.JPG",
+      "image_local": "223560220.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "any-assorted-pre-rolls-5-pack-mix-and-match-for-25"
+    },
+    {
+      "id": 223559082,
+      "name": "Cannoisseur: Glitter Bomb Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 4,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
+      "image_local": "223559082.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cannaseaur-glitter-bomb-pre-roll"
+    },
+    {
+      "id": 226060343,
+      "name": "Northern Terps: Mix and Match Pre Roll 5 Pack $25",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805956_northern_terps_5_pack.JPG",
+      "image_local": "226060343.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-mix-and-match-pre-roll-5-pack-25"
+    },
+    {
+      "id": 223559053,
+      "name": "Cannoisseur: Grape Gas Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
+      "image_local": "223559053.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cannaseaur-grape-gas-pre-roll"
+    },
+    {
+      "id": 223560109,
+      "name": "Cannoisseur: 5-Pack Mix and Match for $25!",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456172_5pack_canna.JPG",
+      "image_local": "223560109.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cannaseaur-5-pack-mix-and-match-for-25"
+    },
+    {
+      "id": 223559114,
+      "name": "Cannoisseur: Berry Bonds Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
+      "image_local": "223559114.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cannaseaur-berry-bonds-pre-roll"
+    },
+    {
+      "id": 223559067,
+      "name": "Cannoisseur: Sour G Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
+      "image_local": "223559067.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cannaseaur-sour-g-pre-roll"
+    },
+    {
+      "id": 229861279,
+      "name": "Northern Terps: Bubble Bath 1g Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
+      "image_local": "229861279.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-bubble-bath-1g-pre-roll"
+    },
+    {
+      "id": 226060001,
+      "name": "Northern Terps: P-85 1g Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226060001.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-p-85-1g-pre-roll"
+    },
+    {
+      "id": 229861753,
+      "name": "Northern Terps: Pinyatti 1g Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
+      "image_local": "229861753.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-pinyatti-1g-pre-roll"
+    },
+    {
+      "id": 226060189,
+      "name": "Northern Terps: Stay Puft 1g Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226060189.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-stay-puft-1g-pre-roll"
+    },
+    {
+      "id": 229861984,
+      "name": "Northern Terps: Tiger Balm 1g Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
+      "image_local": "229861984.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-tiger-balm-1g-pre-roll"
+    },
+    {
+      "id": 229861472,
+      "name": "Northern Terps: Tribute 1g Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
+      "image_local": "229861472.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-tribute-1g-pre-roll"
+    },
+    {
+      "id": 226059857,
+      "name": "Northern Terps: Zoltar 1g Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226059857.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-zoltar-1g-pre-roll"
     },
     {
       "id": 185241360,
