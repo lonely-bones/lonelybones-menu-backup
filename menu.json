@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 265,
-    "updated_at": "2026-08-29T15:50:32.361Z",
+    "total_menu_items": 263,
+    "updated_at": "2026-08-31T15:26:08.196Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -9,17 +9,17 @@
   },
   "products": [
     {
-      "id": 220446652,
-      "name": "FIFO: Black Maple Live Hash Rosin 3.5G Baller",
+      "id": 191397663,
+      "name": "Tally Mon Live Rosin 3.5G Baller",
       "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
+      "edge_category": "Rosin",
       "top_category": "Concentrates",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
       "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442911811_black_maple_live_rosin_8th.JPG",
-      "image_local": "220446652.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438103575_tally3.5.JPG",
+      "image_local": "191397663.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -47,20 +47,20 @@
         }
       ],
       "current_deal_title": null,
-      "slug": "black-maple-live-hash-rosin-3-5g-baller"
+      "slug": "tally-mon-live-rosin-3-5g-baller"
     },
     {
-      "id": 231841206,
-      "name": "Pie Scream",
+      "id": 231840856,
+      "name": "Sour Diesel Smalls",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
-      "genetics": "Indica",
+      "genetics": "Sativa",
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444552422_piescream.JPG",
-      "image_local": "231841206.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444552366_sour_d.JPG",
+      "image_local": "231840856.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -88,7 +88,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "pie-scream"
+      "slug": "sour-diesel-smalls"
     },
     {
       "id": 218361637,
@@ -145,7 +145,7 @@
       "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 4.7,
-      "reviews_count": 14,
+      "reviews_count": 15,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/429482321_GMO.jpg",
       "image_local": "145008363.jpg",
       "prices": [
@@ -383,6 +383,47 @@
       "slug": "method-maine-black-scotti-smalls"
     },
     {
+      "id": 202383501,
+      "name": "Cannoisseur: Runtz Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 6,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439401907_canruntz.JPG",
+      "image_local": "202383501.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "candy-runtz-smalls"
+    },
+    {
       "id": 207771314,
       "name": "Koala Tea Grows : Miagi Smalls",
       "category": "Indica",
@@ -465,47 +506,6 @@
       "slug": "new-tourma-apple-fritter"
     },
     {
-      "id": 228246316,
-      "name": "*NEW!*(1oz Left) Secret Weapon",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 3.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096934_Secret_Weapon_100.JPG",
-      "image_local": "228246316.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-secret-weapon"
-    },
-    {
       "id": 225734529,
       "name": "(One OZ left!) Northern Terps: Sour Sherb",
       "category": "Indica",
@@ -545,47 +545,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "new-northern-terps-sour-sherb"
-    },
-    {
-      "id": 226701305,
-      "name": "*NEW!* Northern Terps: Pure Michigan",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 4,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443883345_Pure_Mich.JPG",
-      "image_local": "226701305.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-northern-terps-pure-michigan"
     },
     {
       "id": 225734452,
@@ -670,47 +629,6 @@
       "slug": "tourma-sour-apple"
     },
     {
-      "id": 228246379,
-      "name": "*Staff Pick!* Cherry Dosi",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096946_Cherry_Dosi_120.JPG",
-      "image_local": "228246379.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "incredible-cherry-dosi"
-    },
-    {
       "id": 161022429,
       "name": "Cannoisseur: Grape Kush Smalls",
       "category": "Indica",
@@ -752,6 +670,47 @@
       "slug": "dialed-in-farms-high-octane-grape-smalls"
     },
     {
+      "id": 227850638,
+      "name": "(Half OZ left!) Northern Terps: Black Ice (Black Domina x White Widow)",
+      "category": "Indica",
+      "edge_category": "Buds",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.5,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444036300_black_ice.JPG",
+      "image_local": "227850638.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "northern-terps-black-ice-black-domina-x-white-widow"
+    },
+    {
       "id": 225133230,
       "name": "(Fire!) Cannoisseur: Rainbow OG Smalls",
       "category": "Indica",
@@ -791,47 +750,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "cannoisseur-rainbow-og-smalls"
-    },
-    {
-      "id": 227850638,
-      "name": "(Half OZ left!) Northern Terps: Black Ice (Black Domina x White Widow)",
-      "category": "Indica",
-      "edge_category": "Buds",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444036300_black_ice.JPG",
-      "image_local": "227850638.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "northern-terps-black-ice-black-domina-x-white-widow"
     },
     {
       "id": 226701248,
@@ -996,47 +914,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "smoke-proper-master-kush"
-    },
-    {
-      "id": 231840856,
-      "name": "Sour Diesel Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444552366_sour_d.JPG",
-      "image_local": "231840856.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "sour-diesel-smalls"
     },
     {
       "id": 231842255,
@@ -1245,7 +1122,7 @@
     },
     {
       "id": 229218431,
-      "name": "Living Matters: Wild Berries",
+      "name": "Living Matters: (1oz left) Wild Berries",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -1324,6 +1201,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "g-r-farms-face-off-smalls"
+    },
+    {
+      "id": 212290559,
+      "name": "Cannaisseur: Sour Zkittles Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 4.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441477063_grapegasss.JPG",
+      "image_local": "212290559.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "cannaseur-grape-gas-smalls"
     },
     {
       "id": 229039134,
@@ -1406,6 +1324,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "g-r-farms-biscotti-pop-smalls"
+    },
+    {
+      "id": 231841206,
+      "name": "Pie Scream",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444552422_piescream.JPG",
+      "image_local": "231841206.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "pie-scream"
     },
     {
       "id": 214676571,
@@ -2100,29 +2059,6 @@
       "slug": "lonely-bones-banana-smoothie-1g-thc-distillate-5-10-thread"
     },
     {
-      "id": 214519692,
-      "name": "(1 left!) Blue Zushi Live Rosin 1G",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441912114_zushi_hash.JPG",
-      "image_local": "214519692.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 35.0,
-          "on_sale": false,
-          "original_price": 35.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "blue-zushi-live-rosin-1g"
-    },
-    {
       "id": 204862742,
       "name": "Blackberry Kush Live Rosin 3.5g Baller",
       "category": "Concentrate",
@@ -2295,6 +2231,47 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-live-liquid-diamond-strawberry-milk-x-slurty-2g-penjamin"
+    },
+    {
+      "id": 220446652,
+      "name": "FIFO: Black Maple Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442911811_black_maple_live_rosin_8th.JPG",
+      "image_local": "220446652.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "black-maple-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 172183568,
@@ -3385,7 +3362,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444529496_IMG_4323.JPG",
       "image_local": "181551177.jpg",
       "prices": [
@@ -3761,47 +3738,6 @@
       ],
       "current_deal_title": null,
       "slug": "white-berry-cured-resin-1g"
-    },
-    {
-      "id": 191397663,
-      "name": "Tally Mon Live Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Rosin",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438103575_tally3.5.JPG",
-      "image_local": "191397663.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "tally-mon-live-rosin-3-5g-baller"
     },
     {
       "id": 223574810,
