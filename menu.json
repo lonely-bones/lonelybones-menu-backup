@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 263,
-    "updated_at": "2026-08-31T15:26:08.196Z",
+    "total_menu_items": 264,
+    "updated_at": "2026-08-31T18:11:41.744Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -1326,6 +1326,88 @@
       "slug": "g-r-farms-biscotti-pop-smalls"
     },
     {
+      "id": 232096276,
+      "name": "Garlic Cookies",
+      "category": "Indica",
+      "edge_category": "Buds",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444591017_garlic_cookies.JPG",
+      "image_local": "232096276.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "garlic-cookies"
+    },
+    {
+      "id": 232096161,
+      "name": "Mimosa",
+      "category": "Indica",
+      "edge_category": "Buds",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444591000_mimosa.JPG",
+      "image_local": "232096161.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "mimosa"
+    },
+    {
       "id": 231841206,
       "name": "Pie Scream",
       "category": "Indica",
@@ -1805,6 +1887,29 @@
       "slug": "lonely-bones-watermelon-zkittles-1g-thc-distillate-5-10-thread"
     },
     {
+      "id": 149594241,
+      "name": "Tourma: GMO Live Hash Rosin 3.5G Ballers",
+      "category": "Concentrate",
+      "edge_category": "Solventless",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441251513_gmohash.JPG",
+      "image_local": "149594241.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "tourma-cannabis-gmo-live-hash-rosin-3-5g-ballers"
+    },
+    {
       "id": 185400556,
       "name": "Wedding Cake Cured Resin 14G Baller",
       "category": "Concentrate",
@@ -1832,6 +1937,29 @@
       ],
       "current_deal_title": null,
       "slug": "wedding-cake-cured-resin-14g-baller"
+    },
+    {
+      "id": 185641461,
+      "name": "Lonely Bones: Banana Bread 1G Cured Resin Penz",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 8,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
+      "image_local": "185641461.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-banana-bread-1g-cured-resin-pen-882a2ebb-8668-4673-81ed-8ea21dcfdbe1"
     },
     {
       "id": 211990926,
@@ -1965,52 +2093,6 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-guava-tangie-live-hash-rosin-3-5g-baller"
-    },
-    {
-      "id": 149594241,
-      "name": "Tourma: GMO Live Hash Rosin 3.5G Ballers",
-      "category": "Concentrate",
-      "edge_category": "Solventless",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441251513_gmohash.JPG",
-      "image_local": "149594241.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "tourma-cannabis-gmo-live-hash-rosin-3-5g-ballers"
-    },
-    {
-      "id": 185641461,
-      "name": "Lonely Bones: Banana Bread 1G Cured Resin Penz",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 8,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "185641461.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-banana-bread-1g-cured-resin-pen-882a2ebb-8668-4673-81ed-8ea21dcfdbe1"
     },
     {
       "id": 198745717,
@@ -6715,29 +6797,6 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-infused-pre-roll-permafrost-x-permaforst-cured-resin"
-    },
-    {
-      "id": 226280954,
-      "name": "Northern Terps: Infused Pre Roll Violet Fog x Tech 9 Cured Resin",
-      "category": "Hybrid",
-      "edge_category": "Infused Joints",
-      "top_category": "Infused Pre-rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226280954.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 12.0,
-          "on_sale": false,
-          "original_price": 12.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-infused-pre-roll-violet-fog-x-tech-9-cured-resin"
     },
     {
       "id": 230026973,
