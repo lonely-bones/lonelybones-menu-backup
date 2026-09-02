@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 264,
-    "updated_at": "2026-08-31T18:11:41.744Z",
+    "total_menu_items": 260,
+    "updated_at": "2026-09-01T19:04:05.640Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -343,7 +343,7 @@
     },
     {
       "id": 152456472,
-      "name": "$60/oz G&R Farms: Black Scotti Smalls",
+      "name": "(HALF OZ LEFT!) G&R Farms: Black Scotti Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -473,7 +473,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443634385_frit.JPG",
       "image_local": "182957686.jpg",
       "prices": [
@@ -507,7 +507,7 @@
     },
     {
       "id": 225734529,
-      "name": "(One OZ left!) Northern Terps: Sour Sherb",
+      "name": "(HALF OZ left!) Northern Terps: Sour Sherb",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -545,6 +545,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "new-northern-terps-sour-sherb"
+    },
+    {
+      "id": 228245546,
+      "name": "*Amazing!* Smoke Proper: Lemon Cherry Gelato",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096823_Lemon_Cherry_Gelato_120.JPG",
+      "image_local": "228245546.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "the-truth-lemon-cherry-gelato"
     },
     {
       "id": 225734452,
@@ -586,6 +627,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "new-northern-terps-it-s-a-secret"
+    },
+    {
+      "id": 231840630,
+      "name": "Smoke Proper: Master Kush",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444552329_master_kush.JPG",
+      "image_local": "231840630.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "smoke-proper-master-kush"
     },
     {
       "id": 226706334,
@@ -752,88 +834,6 @@
       "slug": "cannoisseur-rainbow-og-smalls"
     },
     {
-      "id": 226701248,
-      "name": "*$80/OZ!*Northern Terps: Illmonic",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443883327_Illmonic.JPG",
-      "image_local": "226701248.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-northern-terps-illmonic"
-    },
-    {
-      "id": 228245546,
-      "name": "*Amazing!* Smoke Proper: Lemon Cherry Gelato",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096823_Lemon_Cherry_Gelato_120.JPG",
-      "image_local": "228245546.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "the-truth-lemon-cherry-gelato"
-    },
-    {
       "id": 226901095,
       "name": "Northern Terps: Tribute",
       "category": "Indica",
@@ -873,47 +873,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "northern-terps-tribute"
-    },
-    {
-      "id": 231840630,
-      "name": "Smoke Proper: Master Kush",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444552329_master_kush.JPG",
-      "image_local": "231840630.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "smoke-proper-master-kush"
     },
     {
       "id": 231842255,
@@ -1119,88 +1078,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "new-biscotti"
-    },
-    {
-      "id": 229218431,
-      "name": "Living Matters: (1oz left) Wild Berries",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208118_wild_berries.JPG",
-      "image_local": "229218431.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matters-wild-berries"
-    },
-    {
-      "id": 227362123,
-      "name": "*$60/OZ*G&R Farms: Face Off Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443968265_Face_Off_GR_farm.JPG",
-      "image_local": "227362123.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "g-r-farms-face-off-smalls"
     },
     {
       "id": 212290559,
@@ -2886,6 +2763,47 @@
       "slug": "lonely-bones-mylar-og-1g-cured-resin-pen-a0992790-97ad-4c27-933f-c0dacbbeef7c"
     },
     {
+      "id": 226902913,
+      "name": "(1 Left) Gas Face Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909803_mr_plow.JPG",
+      "image_local": "226902913.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "norhtern-terps-mr-plow-motorbreath-x-cold-snap-live-hash-rosin-3-5g-baller"
+    },
+    {
       "id": 152503392,
       "name": "Amber Valley: Blue Dream 1g Shatter",
       "category": "Concentrate",
@@ -2971,47 +2889,6 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-live-liquid-diamond-assorted-five-pack-2g-penjamin"
-    },
-    {
-      "id": 226902913,
-      "name": "Gas Face Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909803_mr_plow.JPG",
-      "image_local": "226902913.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "norhtern-terps-mr-plow-motorbreath-x-cold-snap-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 215584146,
@@ -5766,7 +5643,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.8,
-      "reviews_count": 87,
+      "reviews_count": 88,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
       "image_local": "193050080.jpg",
       "prices": [
@@ -5785,351 +5662,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "lonely-bones-ready-to-roll"
-    },
-    {
-      "id": 198754080,
-      "name": "Zsunami | Disposable | 1g",
-      "category": "Concentrate",
-      "edge_category": "Disposable",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "198754080.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-zsunami-1g-cured-resin-pen"
-    },
-    {
-      "id": 212117889,
-      "name": "Cadillac LIVE 2g Disposable - Larry Breath (I) x Crunch Berries (H)",
-      "category": "Concentrate",
-      "edge_category": "Disposable",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 4.9,
-      "reviews_count": 8,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "212117889.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-larry-breath-x-crunch-berries-2g-penjamin"
-    },
-    {
-      "id": 187051292,
-      "name": "Rainbow Sherb | Disposable | 1g",
-      "category": "Concentrate",
-      "edge_category": "Disposable",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 4.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "187051292.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-rainbow-sundae-1g-cured-resin-pen"
-    },
-    {
-      "id": 199254780,
-      "name": "bowser | Disposable | 1g",
-      "category": "Concentrate",
-      "edge_category": "Disposable",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "199254780.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-pine-mints-cured-resin-pen-1g"
-    },
-    {
-      "id": 187051534,
-      "name": "Crunch Berries | Disposable | 1g",
-      "category": "Concentrate",
-      "edge_category": "Disposable",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "187051534.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-khalifa-kush1g-cured-resin-pen"
-    },
-    {
-      "id": 224714597,
-      "name": "mai tai | Cartridge | 1g",
-      "category": "Concentrate",
-      "edge_category": "Cartridge",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "224714597.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-mai-tai-1g-thc-distillate-screw-on-thread-4ceffa19-e79e-47ae-9721-1182914c60e1"
-    },
-    {
-      "id": 187005574,
-      "name": "Pink Starburst | Disposable | 1g",
-      "category": "Concentrate",
-      "edge_category": "Disposable",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "187005574.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-white-runtz-1g-cured-resin-pen"
-    },
-    {
-      "id": 199254765,
-      "name": "zwiz | Disposable | 1g",
-      "category": "Concentrate",
-      "edge_category": "Disposable",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "199254765.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-zwiz-cured-resin-pen-1g"
-    },
-    {
-      "id": 212117413,
-      "name": "Cadillac LIVE 2g Disposable - Blue Zushi (I) x Pineapple Fizz (S)",
-      "category": "Concentrate",
-      "edge_category": "Disposable",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 12,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "212117413.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-blue-zushi-x-pineapple-fizz-2g-penjamin"
-    },
-    {
-      "id": 212119054,
-      "name": "Cadillac LIVE 2g Disposable - Guava Daquiri (S) x Unicorn Cake (H)",
-      "category": "Concentrate",
-      "edge_category": "Disposable",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 7,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "212119054.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-unicorn-cake-x-guava-daiquiri-2g-penjamin"
-    },
-    {
-      "id": 212118779,
-      "name": "Cadillac LIVE 2g Disposable - Pink Acai (H) x White Gushers (H)",
-      "category": "Concentrate",
-      "edge_category": "Disposable",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 14,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "212118779.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-pink-acai-x-white-gushers-2g-penjamin"
-    },
-    {
-      "id": 212118552,
-      "name": "Cadillac LIVE 2g Disposable - Super Boof (S) x Grape Sorbet (I)",
-      "category": "Concentrate",
-      "edge_category": "Disposable",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 3.7,
-      "reviews_count": 6,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "212118552.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-super-boof-x-grape-sorbet-2g-penjamin"
-    },
-    {
-      "id": 212118034,
-      "name": "Cadillac LIVE 2g Disposable - Papaya Pie (I) x Blueberry Gelato (I)",
-      "category": "Concentrate",
-      "edge_category": "Disposable",
-      "top_category": "Vape Pens",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 3.6,
-      "reviews_count": 7,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "212118034.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-papaya-pie-x-blueberry-gelato-2g-penjamin"
-    },
-    {
-      "id": 224684951,
-      "name": "Animal Cookies | Cartridge | 1g",
-      "category": "Concentrate",
-      "edge_category": "Cartridge",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "224684951.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-animal-cookies-1g-thc-distillate-screw-on-thread"
-    },
-    {
-      "id": 224684981,
-      "name": "birthday cake | Cartridge | 1g",
-      "category": "Concentrate",
-      "edge_category": "Cartridge",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "224684981.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-birthday-cake-1g-thc-distillate-screw-on-thread"
     },
     {
       "id": 223560220,
@@ -6452,6 +5984,328 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-zoltar-1g-pre-roll"
+    },
+    {
+      "id": 198754080,
+      "name": "Zsunami | Disposable | 1g",
+      "category": "Concentrate",
+      "edge_category": "Disposable",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
+      "image_local": "198754080.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-zsunami-1g-cured-resin-pen"
+    },
+    {
+      "id": 212117889,
+      "name": "Cadillac LIVE 2g Disposable - Larry Breath (I) x Crunch Berries (H)",
+      "category": "Concentrate",
+      "edge_category": "Disposable",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 4.9,
+      "reviews_count": 8,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
+      "image_local": "212117889.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 45.0,
+          "on_sale": false,
+          "original_price": 45.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cadillac-live-liquid-diamond-larry-breath-x-crunch-berries-2g-penjamin"
+    },
+    {
+      "id": 187051292,
+      "name": "Rainbow Sherb | Disposable | 1g",
+      "category": "Concentrate",
+      "edge_category": "Disposable",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 4.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
+      "image_local": "187051292.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-rainbow-sundae-1g-cured-resin-pen"
+    },
+    {
+      "id": 199254780,
+      "name": "bowser | Disposable | 1g",
+      "category": "Concentrate",
+      "edge_category": "Disposable",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
+      "image_local": "199254780.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-pine-mints-cured-resin-pen-1g"
+    },
+    {
+      "id": 187051534,
+      "name": "Crunch Berries | Disposable | 1g",
+      "category": "Concentrate",
+      "edge_category": "Disposable",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
+      "image_local": "187051534.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-khalifa-kush1g-cured-resin-pen"
+    },
+    {
+      "id": 224714597,
+      "name": "mai tai | Cartridge | 1g",
+      "category": "Concentrate",
+      "edge_category": "Cartridge",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "224714597.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-mai-tai-1g-thc-distillate-screw-on-thread-4ceffa19-e79e-47ae-9721-1182914c60e1"
+    },
+    {
+      "id": 187005574,
+      "name": "Pink Starburst | Disposable | 1g",
+      "category": "Concentrate",
+      "edge_category": "Disposable",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
+      "image_local": "187005574.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-white-runtz-1g-cured-resin-pen"
+    },
+    {
+      "id": 199254765,
+      "name": "zwiz | Disposable | 1g",
+      "category": "Concentrate",
+      "edge_category": "Disposable",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
+      "image_local": "199254765.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-zwiz-cured-resin-pen-1g"
+    },
+    {
+      "id": 212117413,
+      "name": "Cadillac LIVE 2g Disposable - Blue Zushi (I) x Pineapple Fizz (S)",
+      "category": "Concentrate",
+      "edge_category": "Disposable",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 12,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
+      "image_local": "212117413.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 45.0,
+          "on_sale": false,
+          "original_price": 45.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cadillac-live-liquid-diamond-blue-zushi-x-pineapple-fizz-2g-penjamin"
+    },
+    {
+      "id": 212119054,
+      "name": "Cadillac LIVE 2g Disposable - Guava Daquiri (S) x Unicorn Cake (H)",
+      "category": "Concentrate",
+      "edge_category": "Disposable",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 7,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
+      "image_local": "212119054.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 45.0,
+          "on_sale": false,
+          "original_price": 45.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cadillac-live-liquid-diamond-unicorn-cake-x-guava-daiquiri-2g-penjamin"
+    },
+    {
+      "id": 212118552,
+      "name": "Cadillac LIVE 2g Disposable - Super Boof (S) x Grape Sorbet (I)",
+      "category": "Concentrate",
+      "edge_category": "Disposable",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 3.7,
+      "reviews_count": 6,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
+      "image_local": "212118552.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 45.0,
+          "on_sale": false,
+          "original_price": 45.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cadillac-live-liquid-diamond-super-boof-x-grape-sorbet-2g-penjamin"
+    },
+    {
+      "id": 212118034,
+      "name": "Cadillac LIVE 2g Disposable - Papaya Pie (I) x Blueberry Gelato (I)",
+      "category": "Concentrate",
+      "edge_category": "Disposable",
+      "top_category": "Vape Pens",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 3.6,
+      "reviews_count": 7,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
+      "image_local": "212118034.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 45.0,
+          "on_sale": false,
+          "original_price": 45.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cadillac-live-liquid-diamond-papaya-pie-x-blueberry-gelato-2g-penjamin"
+    },
+    {
+      "id": 224684951,
+      "name": "Animal Cookies | Cartridge | 1g",
+      "category": "Concentrate",
+      "edge_category": "Cartridge",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "224684951.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-animal-cookies-1g-thc-distillate-screw-on-thread"
+    },
+    {
+      "id": 224684981,
+      "name": "birthday cake | Cartridge | 1g",
+      "category": "Concentrate",
+      "edge_category": "Cartridge",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "224684981.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-birthday-cake-1g-thc-distillate-screw-on-thread"
     },
     {
       "id": 185241360,
