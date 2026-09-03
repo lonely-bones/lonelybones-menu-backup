@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 260,
-    "updated_at": "2026-09-01T19:04:05.640Z",
+    "total_menu_items": 257,
+    "updated_at": "2026-09-01T14:01:40.678Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -178,47 +178,6 @@
       "slug": "gmo"
     },
     {
-      "id": 181645234,
-      "name": "Cap Junky Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 26,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438151840_cap_junky.JPG",
-      "image_local": "181645234.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "cap-junky-smalls-ac03ef61-bca1-4883-b94a-8053debbffa8"
-    },
-    {
       "id": 206742151,
       "name": "Koala Tea Grows: Obama Runtz",
       "category": "Indica",
@@ -342,47 +301,6 @@
       "slug": "tourma-fire-af"
     },
     {
-      "id": 152456472,
-      "name": "(HALF OZ LEFT!) G&R Farms: Black Scotti Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.6,
-      "reviews_count": 5,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/433498495_Black_Scotti.jpg",
-      "image_local": "152456472.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "method-maine-black-scotti-smalls"
-    },
-    {
       "id": 202383501,
       "name": "Cannoisseur: Runtz Smalls",
       "category": "Indica",
@@ -422,47 +340,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "candy-runtz-smalls"
-    },
-    {
-      "id": 207771314,
-      "name": "Koala Tea Grows : Miagi Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442596694_dosi.JPG",
-      "image_local": "207771314.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-cannaisseur-grape-gas"
     },
     {
       "id": 182957686,
@@ -506,45 +383,45 @@
       "slug": "new-tourma-apple-fritter"
     },
     {
-      "id": 225734529,
-      "name": "(HALF OZ left!) Northern Terps: Sour Sherb",
+      "id": 207771314,
+      "name": "Koala Tea Grows : Miagi Smalls",
       "category": "Indica",
-      "edge_category": "Flower",
+      "edge_category": "Smalls",
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443767427_NT_Sour_Sherb.JPG",
-      "image_local": "225734529.jpg",
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442596694_dosi.JPG",
+      "image_local": "207771314.jpg",
       "prices": [
         {
           "label": "1/8 oz",
-          "price": 15.0,
+          "price": 10.0,
           "on_sale": false,
-          "original_price": 15.0
+          "original_price": 10.0
         },
         {
           "label": "1/4 oz",
-          "price": 30.0,
+          "price": 20.0,
           "on_sale": false,
-          "original_price": 30.0
+          "original_price": 20.0
         },
         {
           "label": "1/2 oz",
-          "price": 50.0,
+          "price": 40.0,
           "on_sale": false,
-          "original_price": 50.0
+          "original_price": 40.0
         },
         {
           "label": "1 oz",
-          "price": 100.0,
+          "price": 80.0,
           "on_sale": false,
-          "original_price": 100.0
+          "original_price": 80.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-northern-terps-sour-sherb"
+      "slug": "new-cannaisseur-grape-gas"
     },
     {
       "id": 228245546,
@@ -670,47 +547,6 @@
       "slug": "smoke-proper-master-kush"
     },
     {
-      "id": 226706334,
-      "name": "Tourma: Sour Apple",
-      "category": "Indica",
-      "edge_category": "Buds",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443884050_tourma_Sour_Apple.JPG",
-      "image_local": "226706334.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "tourma-sour-apple"
-    },
-    {
       "id": 161022429,
       "name": "Cannoisseur: Grape Kush Smalls",
       "category": "Indica",
@@ -750,6 +586,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "dialed-in-farms-high-octane-grape-smalls"
+    },
+    {
+      "id": 226706334,
+      "name": "Tourma: Sour Apple",
+      "category": "Indica",
+      "edge_category": "Buds",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443884050_tourma_Sour_Apple.JPG",
+      "image_local": "226706334.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "tourma-sour-apple"
     },
     {
       "id": 227850638,
@@ -1418,6 +1295,29 @@
       "slug": "ipk-megaraw-gg4-live-hash-rosin-1g"
     },
     {
+      "id": 198745874,
+      "name": "Lonely Bones: 5 Mix and Match THC Distillate 1G Screw ON Thread $75",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 4,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "198745874.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 75.0,
+          "on_sale": false,
+          "original_price": 75.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-5-mix-and-match-thc-distillate-1g-5-10-thread-75"
+    },
+    {
       "id": 176445949,
       "name": "*New Batch* Lonely Bones Dry Diamonds 14G Baller Jar",
       "category": "Concentrate",
@@ -1445,29 +1345,6 @@
       ],
       "current_deal_title": null,
       "slug": "dry-diamonds-14g-baller-jar"
-    },
-    {
-      "id": 198745874,
-      "name": "Lonely Bones: 5 Mix and Match THC Distillate 1G Screw ON Thread $75",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 4,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198745874.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 75.0,
-          "on_sale": false,
-          "original_price": 75.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-5-mix-and-match-thc-distillate-1g-5-10-thread-75"
     },
     {
       "id": 161559350,
