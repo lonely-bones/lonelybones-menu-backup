@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 275,
-    "updated_at": "2026-09-04T21:02:03.681Z",
+    "total_menu_items": 269,
+    "updated_at": "2026-09-05T21:55:50.291Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -466,7 +466,7 @@
     },
     {
       "id": 182957686,
-      "name": "*Fresh Batch!* Tourma: Apple Fritter",
+      "name": "(Half OZ!) Tourma: Apple Fritter",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -1039,47 +1039,6 @@
       "slug": "gr-farms-popscotti-smalls"
     },
     {
-      "id": 227850638,
-      "name": "(Half OZ left!) Northern Terps: Black Ice (Black Domina x White Widow)",
-      "category": "Indica",
-      "edge_category": "Buds",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444036300_black_ice.JPG",
-      "image_local": "227850638.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "northern-terps-black-ice-black-domina-x-white-widow"
-    },
-    {
       "id": 225133230,
       "name": "(Fire!) Cannoisseur: Rainbow OG Smalls",
       "category": "Indica",
@@ -1286,7 +1245,7 @@
     },
     {
       "id": 228246661,
-      "name": "(1 OZ left!) Biscotti",
+      "name": "(Half OZ left!) Biscotti",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -2231,47 +2190,6 @@
       "slug": "candy-runtz-14g-cured-resin-baller-jar"
     },
     {
-      "id": 226903593,
-      "name": "(1 left!) Northern Terps: Guava Tangie Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909837_guava_t.JPG",
-      "image_local": "226903593.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-guava-tangie-live-hash-rosin-3-5g-baller"
-    },
-    {
       "id": 199254888,
       "name": "Lonely Bones: Fire AF Cured Resin Penjamin 1G",
       "category": "Concentrate",
@@ -2411,7 +2329,7 @@
     },
     {
       "id": 204862742,
-      "name": "Blackberry Kush Live Rosin 3.5g Baller",
+      "name": "(Only 1 left) Blackberry Kush Live Rosin 3.5g Baller",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -3147,47 +3065,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-mylar-og-1g-cured-resin-pen-a0992790-97ad-4c27-933f-c0dacbbeef7c"
-    },
-    {
-      "id": 226902913,
-      "name": "(1 Left) Gas Face Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909803_mr_plow.JPG",
-      "image_local": "226902913.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "norhtern-terps-mr-plow-motorbreath-x-cold-snap-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 152503392,
@@ -4199,29 +4076,6 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-blue-flame-x-tiger-balm-2g-dual-tank-cured-resin"
-    },
-    {
-      "id": 226280139,
-      "name": "(Only 1 Left) Northern Terps: RPM x La Kush Cake 2G Dual Tank Cured Resin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443827958_norethern_dual.JPG",
-      "image_local": "226280139.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 55.0,
-          "on_sale": false,
-          "original_price": 55.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-rpm-x-la-kush-cake-dual-tank-cured-resin"
     },
     {
       "id": 219320576,
@@ -5910,47 +5764,6 @@
       "slug": "mix-any-28g-s-of-live-rosin-for-750"
     },
     {
-      "id": 226909043,
-      "name": "Northern Terps: Z- Marker Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443910132_zmarker.JPG",
-      "image_local": "226909043.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-z-marker-live-hash-rosin-3-5g-baller"
-    },
-    {
       "id": 209063704,
       "name": "Slap Happy Live Hash Rosin 1G",
       "category": "Concentrate",
@@ -6404,29 +6217,6 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-pinyatti-1g-pre-roll"
-    },
-    {
-      "id": 226060189,
-      "name": "Northern Terps: Stay Puft 1g Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226060189.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-stay-puft-1g-pre-roll"
     },
     {
       "id": 229861984,
