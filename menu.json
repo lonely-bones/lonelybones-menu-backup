@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_menu_items": 265,
+    "total_menu_items": 262,
     "updated_at": "2026-09-07T21:45:44.722Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
@@ -2912,29 +2912,6 @@
       "slug": "lonely-bones-orange-soda-1g-thc-distillate-5-10-thread"
     },
     {
-      "id": 220254188,
-      "name": "Sherbdawg Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 6,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442879589_blueberry_kush.JPG",
-      "image_local": "220254188.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "blueberry-kush-cured-resin-1g"
-    },
-    {
       "id": 211797764,
       "name": "White Fire Cured Resin 14G Baller",
       "category": "Concentrate",
@@ -3170,29 +3147,6 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-live-liquid-diamond-assorted-five-pack-2g-penjamin"
-    },
-    {
-      "id": 223575907,
-      "name": "Forum Cookies Live Rosin 3.5g Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444628191_Forum_Cookies_IPK.JPG",
-      "image_local": "223575907.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "red-runtz-live-rosin-3-5g-baller"
     },
     {
       "id": 215584146,
@@ -4014,29 +3968,6 @@
       "slug": "lonely-bones-girl-scout-cookie-1g-thc-distillate-disposable"
     },
     {
-      "id": 226280215,
-      "name": "(1 left!) Northern Terps: Blue Flame x Tiger Balm 2G Dual Tank Cured Resin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443827958_norethern_dual.JPG",
-      "image_local": "226280215.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 55.0,
-          "on_sale": false,
-          "original_price": 55.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-blue-flame-x-tiger-balm-2g-dual-tank-cured-resin"
-    },
-    {
       "id": 229700294,
       "name": "*NEW!* Blood Honey Cured resin 14G Baller Jar",
       "category": "Concentrate",
@@ -4404,6 +4335,29 @@
       ],
       "current_deal_title": null,
       "slug": "blueberry-punch-live-rosin-1g"
+    },
+    {
+      "id": 223575907,
+      "name": "Forum Cookies Live Rosin 3.5g Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444628191_Forum_Cookies_IPK.JPG",
+      "image_local": "223575907.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "red-runtz-live-rosin-3-5g-baller"
     },
     {
       "id": 229854941,
@@ -6130,29 +6084,6 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-tiger-balm-1g-pre-roll"
-    },
-    {
-      "id": 226059857,
-      "name": "Northern Terps: Zoltar 1g Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226059857.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-zoltar-1g-pre-roll"
     },
     {
       "id": 198754080,
