@@ -1,7 +1,7 @@
 {
   "meta": {
     "total_menu_items": 262,
-    "updated_at": "2026-09-07T21:45:44.722Z",
+    "updated_at": "2026-09-09T18:00:29.167Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -50,45 +50,45 @@
       "slug": "miracle-mints-live-hash-rosin-3-5g-baller"
     },
     {
-      "id": 232096276,
-      "name": "Garlic Cookies",
+      "id": 145008363,
+      "name": "*New Round!* Tourma Cannabis: GMO",
       "category": "Indica",
-      "edge_category": "Buds",
+      "edge_category": "Flower",
       "top_category": "Flower",
       "genetics": "Indica",
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444591017_garlic_cookies.JPG",
-      "image_local": "232096276.jpg",
+      "rating": 4.7,
+      "reviews_count": 15,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/429482321_GMO.jpg",
+      "image_local": "145008363.jpg",
       "prices": [
         {
           "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
           "price": 20.0,
           "on_sale": false,
           "original_price": 20.0
         },
         {
-          "label": "1/2 oz",
+          "label": "1/4 oz",
           "price": 40.0,
           "on_sale": false,
           "original_price": 40.0
         },
         {
-          "label": "1 oz",
-          "price": 80.0,
+          "label": "1/2 oz",
+          "price": 70.0,
           "on_sale": false,
-          "original_price": 80.0
+          "original_price": 70.0
+        },
+        {
+          "label": "1 oz",
+          "price": 140.0,
+          "on_sale": false,
+          "original_price": 140.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "garlic-cookies"
+      "slug": "gmo"
     },
     {
       "id": 218361637,
@@ -135,47 +135,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-strawberry-pop-rocks-1g-thc-distillate-disposable"
-    },
-    {
-      "id": 145008363,
-      "name": "*New Round!* Tourma Cannabis: GMO",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 4.7,
-      "reviews_count": 15,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/429482321_GMO.jpg",
-      "image_local": "145008363.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 70.0,
-          "on_sale": false,
-          "original_price": 70.0
-        },
-        {
-          "label": "1 oz",
-          "price": 140.0,
-          "on_sale": false,
-          "original_price": 140.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "gmo"
     },
     {
       "id": 181645234,
@@ -342,6 +301,47 @@
       "slug": "koala-tea-grows-zoltan-smalls"
     },
     {
+      "id": 192017967,
+      "name": "*Fresh Batch!* Tourma: Fire AF",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 4.3,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440152717_Fire_AF_new.JPG",
+      "image_local": "192017967.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "tourma-fire-af"
+    },
+    {
       "id": 207771314,
       "name": "Koala Tea Grows : Miagi Smalls",
       "category": "Indica",
@@ -422,47 +422,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "method-maine-black-scotti-smalls"
-    },
-    {
-      "id": 202383501,
-      "name": "(1/2 Ounce Left) Cannoisseur: Runtz Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 6,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439401907_canruntz.JPG",
-      "image_local": "202383501.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "candy-runtz-smalls"
     },
     {
       "id": 161022429,
@@ -1039,6 +998,47 @@
       "slug": "tourma-sour-apple"
     },
     {
+      "id": 227361947,
+      "name": "*$60/OZ* G&R Farms: Biscotti Pop Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443968254_Biscotti_Pop_GR_farm.JPG",
+      "image_local": "227361947.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "g-r-farms-biscotti-pop-smalls"
+    },
+    {
       "id": 229814472,
       "name": "Tourma Cannabis: Funk Mountain",
       "category": "Indica",
@@ -1201,47 +1201,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "tourma-cannabis-cap-junky-smalls"
-    },
-    {
-      "id": 227361947,
-      "name": "*$60/OZ* G&R Farms: Biscotti Pop Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443968254_Biscotti_Pop_GR_farm.JPG",
-      "image_local": "227361947.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "g-r-farms-biscotti-pop-smalls"
     },
     {
       "id": 208663076,
@@ -1529,6 +1488,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "dr-melo-s-tropsicle-smalls"
+    },
+    {
+      "id": 232096276,
+      "name": "(1oz Left) Garlic Cookies",
+      "category": "Indica",
+      "edge_category": "Buds",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444591017_garlic_cookies.JPG",
+      "image_local": "232096276.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "garlic-cookies"
     },
     {
       "id": 210992106,
