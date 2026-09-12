@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 263,
-    "updated_at": "2026-09-10T16:26:01.560Z",
+    "total_menu_items": 260,
+    "updated_at": "2026-09-11T20:10:20.523Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -219,45 +219,45 @@
       "slug": "koala-tea-grows-liquid-hot-magma-smalls"
     },
     {
-      "id": 206742151,
-      "name": "Koala Tea Grows: Obama Runtz",
+      "id": 192017967,
+      "name": "*Fresh Batch!* Tourma: Fire AF",
       "category": "Indica",
-      "edge_category": "Smalls",
+      "edge_category": "Flower",
       "top_category": "Flower",
-      "genetics": "Hybrid",
+      "genetics": null,
       "thc_pct": 0.0,
-      "rating": 4.6,
-      "reviews_count": 14,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443803205_Obama_Runtz_smalls.JPG",
-      "image_local": "206742151.jpg",
+      "rating": 4.3,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440152717_Fire_AF_new.JPG",
+      "image_local": "192017967.jpg",
       "prices": [
         {
           "label": "1/8 oz",
-          "price": 10.0,
+          "price": 15.0,
           "on_sale": false,
-          "original_price": 10.0
+          "original_price": 15.0
         },
         {
           "label": "1/4 oz",
-          "price": 20.0,
+          "price": 30.0,
           "on_sale": false,
-          "original_price": 20.0
+          "original_price": 30.0
         },
         {
           "label": "1/2 oz",
-          "price": 40.0,
+          "price": 50.0,
           "on_sale": false,
-          "original_price": 40.0
+          "original_price": 50.0
         },
         {
           "label": "1 oz",
-          "price": 80.0,
+          "price": 100.0,
           "on_sale": false,
-          "original_price": 80.0
+          "original_price": 100.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "insane-koala-tea-grows-obama-runtz"
+      "slug": "tourma-fire-af"
     },
     {
       "id": 182032186,
@@ -299,47 +299,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-grows-zoltan-smalls"
-    },
-    {
-      "id": 192017967,
-      "name": "*Fresh Batch!* Tourma: Fire AF",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 4.3,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440152717_Fire_AF_new.JPG",
-      "image_local": "192017967.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "tourma-fire-af"
     },
     {
       "id": 207771314,
@@ -629,6 +588,47 @@
       "slug": "koala-tea-grows-weighted-blanket-smalls"
     },
     {
+      "id": 213495274,
+      "name": "G&R Farms: Trop Cherry Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.5,
+      "reviews_count": 4,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715771_Trop_Cherry.JPG",
+      "image_local": "213495274.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "g-r-farms-trop-cherry-smalls"
+    },
+    {
       "id": 225734452,
       "name": "*Fire!* Northern Terps: It's A Secret",
       "category": "Indica",
@@ -752,45 +752,45 @@
       "slug": "lemon-cherry-garlic-smalls"
     },
     {
-      "id": 213495274,
-      "name": "G&R Farms: Trop Cherry Smalls",
+      "id": 229814472,
+      "name": "Tourma Cannabis: Funk Mountain",
       "category": "Indica",
-      "edge_category": "Smalls",
+      "edge_category": "Flower",
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 4,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715771_Trop_Cherry.JPG",
-      "image_local": "213495274.jpg",
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444279894_funk_mountain.JPG",
+      "image_local": "229814472.jpg",
       "prices": [
         {
           "label": "1/8 oz",
-          "price": 10.0,
+          "price": 15.0,
           "on_sale": false,
-          "original_price": 10.0
+          "original_price": 15.0
         },
         {
           "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
           "price": 30.0,
           "on_sale": false,
           "original_price": 30.0
         },
         {
-          "label": "1 oz",
-          "price": 60.0,
+          "label": "1/2 oz",
+          "price": 50.0,
           "on_sale": false,
-          "original_price": 60.0
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "g-r-farms-trop-cherry-smalls"
+      "slug": "tourma-cannabis-funk-mountain"
     },
     {
       "id": 176563287,
@@ -832,6 +832,129 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "purple-ice-water-smalls"
+    },
+    {
+      "id": 160962949,
+      "name": "GR Farms: MAC (miracle alien cookies) Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 3.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/432582682_cap_junky_smalls.jpg",
+      "image_local": "160962949.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "tourma-cannabis-cap-junky-smalls"
+    },
+    {
+      "id": 226706334,
+      "name": "(HALF OZ LEFT!) Tourma: Sour Apple",
+      "category": "Indica",
+      "edge_category": "Buds",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443884050_tourma_Sour_Apple.JPG",
+      "image_local": "226706334.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "tourma-sour-apple"
+    },
+    {
+      "id": 226901095,
+      "name": "Northern Terps: Tribute",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909638_tribute.JPG",
+      "image_local": "226901095.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "northern-terps-tribute"
     },
     {
       "id": 231841206,
@@ -916,47 +1039,6 @@
       "slug": "space-candy-smalls"
     },
     {
-      "id": 226706334,
-      "name": "Tourma: Sour Apple",
-      "category": "Indica",
-      "edge_category": "Buds",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443884050_tourma_Sour_Apple.JPG",
-      "image_local": "226706334.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "tourma-sour-apple"
-    },
-    {
       "id": 227361947,
       "name": "*$60/OZ* G&R Farms: Biscotti Pop Smalls",
       "category": "Indica",
@@ -998,17 +1080,17 @@
       "slug": "g-r-farms-biscotti-pop-smalls"
     },
     {
-      "id": 229814472,
-      "name": "Tourma Cannabis: Funk Mountain",
+      "id": 228246595,
+      "name": "*Fantastic!* Smoke Proper: Legend Larry",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444279894_funk_mountain.JPG",
-      "image_local": "229814472.jpg",
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096971_Larry_Legend_120.JPG",
+      "image_local": "228246595.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -1036,7 +1118,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "tourma-cannabis-funk-mountain"
+      "slug": "new-smoke-proper-legend-larry"
     },
     {
       "id": 171220212,
@@ -1121,17 +1203,17 @@
       "slug": "cannoisseur-rainbow-og-smalls"
     },
     {
-      "id": 160962949,
-      "name": "GR Farms: MAC (miracle alien cookies) Smalls",
+      "id": 232096276,
+      "name": "(1oz Left) Garlic Cookies",
       "category": "Indica",
-      "edge_category": "Flower",
+      "edge_category": "Buds",
       "top_category": "Flower",
-      "genetics": "Hybrid",
+      "genetics": "Indica",
       "thc_pct": 0.0,
-      "rating": 3.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/432582682_cap_junky_smalls.jpg",
-      "image_local": "160962949.jpg",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444591017_garlic_cookies.JPG",
+      "image_local": "232096276.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -1147,19 +1229,19 @@
         },
         {
           "label": "1/2 oz",
-          "price": 30.0,
+          "price": 40.0,
           "on_sale": false,
-          "original_price": 30.0
+          "original_price": 40.0
         },
         {
           "label": "1 oz",
-          "price": 60.0,
+          "price": 80.0,
           "on_sale": false,
-          "original_price": 60.0
+          "original_price": 80.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "tourma-cannabis-cap-junky-smalls"
+      "slug": "garlic-cookies"
     },
     {
       "id": 208663076,
@@ -1201,129 +1283,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "new-jungle-cake-smalls"
-    },
-    {
-      "id": 226901095,
-      "name": "Northern Terps: Tribute",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909638_tribute.JPG",
-      "image_local": "226901095.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "northern-terps-tribute"
-    },
-    {
-      "id": 228246661,
-      "name": "(Half OZ left!) Biscotti",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208394_scotti.JPG",
-      "image_local": "228246661.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-biscotti"
-    },
-    {
-      "id": 228246595,
-      "name": "*Fantastic!* Smoke Proper: Legend Larry",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096971_Larry_Legend_120.JPG",
-      "image_local": "228246595.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-smoke-proper-legend-larry"
     },
     {
       "id": 152768907,
@@ -1409,7 +1368,7 @@
     },
     {
       "id": 229039134,
-      "name": "Dr. Melo's: Tropsicle smalls",
+      "name": "(1/2 OZ Left) Dr. Melo's: Tropsicle smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -1447,47 +1406,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "dr-melo-s-tropsicle-smalls"
-    },
-    {
-      "id": 232096276,
-      "name": "(1oz Left) Garlic Cookies",
-      "category": "Indica",
-      "edge_category": "Buds",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444591017_garlic_cookies.JPG",
-      "image_local": "232096276.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "garlic-cookies"
     },
     {
       "id": 210992106,
@@ -1777,7 +1695,7 @@
       "genetics": null,
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 24,
+      "reviews_count": 25,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437880927_dry_dia.JPG",
       "image_local": "176445949.jpg",
       "prices": [
@@ -2175,7 +2093,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443468557_orange_mintz.JPG",
       "image_local": "223653053.jpg",
       "prices": [
@@ -4875,29 +4793,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-headband-1g-thc-distillate-screw-on-thread"
-    },
-    {
-      "id": 187037961,
-      "name": "Lonely Bones: Ice Cream Candy 1G Cured Resin Penz",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "187037961.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-lemon-mochi-1g-cured-resin-pen"
     },
     {
       "id": 198360281,
