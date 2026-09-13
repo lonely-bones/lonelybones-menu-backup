@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 260,
-    "updated_at": "2026-09-11T20:10:20.523Z",
+    "total_menu_items": 258,
+    "updated_at": "2026-09-12T14:37:12.850Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -260,47 +260,6 @@
       "slug": "tourma-fire-af"
     },
     {
-      "id": 182032186,
-      "name": "*Fire!* Koala Tea Grows: Cadillac Runtz Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 10,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442338852_caddy.JPG",
-      "image_local": "182032186.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-zoltan-smalls"
-    },
-    {
       "id": 207771314,
       "name": "Koala Tea Grows : Miagi Smalls",
       "category": "Indica",
@@ -340,6 +299,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "new-cannaisseur-grape-gas"
+    },
+    {
+      "id": 182032186,
+      "name": "*Fire!* Koala Tea Grows: Cadillac Runtz Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.5,
+      "reviews_count": 10,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442338852_caddy.JPG",
+      "image_local": "182032186.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-zoltan-smalls"
     },
     {
       "id": 152456472,
@@ -391,7 +391,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/432607149_High_Octane_Grape.jpg",
       "image_local": "161022429.jpg",
       "prices": [
@@ -504,47 +504,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "brand-new-pink-starburst-smalls"
-    },
-    {
-      "id": 231840856,
-      "name": "Sour Diesel Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444552366_sour_d.JPG",
-      "image_local": "231840856.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "sour-diesel-smalls"
     },
     {
       "id": 180051350,
@@ -1201,47 +1160,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "cannoisseur-rainbow-og-smalls"
-    },
-    {
-      "id": 232096276,
-      "name": "(1oz Left) Garlic Cookies",
-      "category": "Indica",
-      "edge_category": "Buds",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444591017_garlic_cookies.JPG",
-      "image_local": "232096276.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "garlic-cookies"
     },
     {
       "id": 208663076,
@@ -2086,7 +2004,7 @@
     },
     {
       "id": 223653053,
-      "name": "*NEW!* FIFO: Orange Mints Live Rosin 3.5G Baller",
+      "name": "(1 Left!) FiFo: Orange Mints Live Rosin 3.5G Baller",
       "category": "Concentrate",
       "edge_category": "Cold Cure Badder",
       "top_category": "Concentrates",
@@ -5825,29 +5743,6 @@
       "slug": "lonely-bones-zwiz-cured-resin-pen-1g"
     },
     {
-      "id": 212117413,
-      "name": "Cadillac LIVE 2g Disposable - Blue Zushi (I) x Pineapple Fizz (S)",
-      "category": "Concentrate",
-      "edge_category": "Disposable",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 12,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "212117413.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-blue-zushi-x-pineapple-fizz-2g-penjamin"
-    },
-    {
       "id": 212119054,
       "name": "Cadillac LIVE 2g Disposable - Guava Daquiri (S) x Unicorn Cake (H)",
       "category": "Concentrate",
@@ -5856,7 +5751,7 @@
       "genetics": null,
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 7,
+      "reviews_count": 8,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
       "image_local": "212119054.jpg",
       "prices": [
@@ -5869,6 +5764,29 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-live-liquid-diamond-unicorn-cake-x-guava-daiquiri-2g-penjamin"
+    },
+    {
+      "id": 212117413,
+      "name": "Cadillac LIVE 2g Disposable - Blue Zushi (I) x Pineapple Fizz (S)",
+      "category": "Concentrate",
+      "edge_category": "Disposable",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 4.9,
+      "reviews_count": 13,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
+      "image_local": "212117413.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 45.0,
+          "on_sale": false,
+          "original_price": 45.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cadillac-live-liquid-diamond-blue-zushi-x-pineapple-fizz-2g-penjamin"
     },
     {
       "id": 212118779,
