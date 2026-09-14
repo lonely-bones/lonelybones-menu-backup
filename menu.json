@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 258,
-    "updated_at": "2026-09-12T14:37:12.850Z",
+    "total_menu_items": 255,
+    "updated_at": "2026-09-12T14:36:58.328Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -424,47 +424,6 @@
       "slug": "dialed-in-farms-high-octane-grape-smalls"
     },
     {
-      "id": 163540330,
-      "name": "Koala Tea Grows: RS-1000 Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.7,
-      "reviews_count": 15,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440263904_RS-1000.JPG",
-      "image_local": "163540330.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-rs-1000"
-    },
-    {
       "id": 216163724,
       "name": "Koala Tea Grows: Pink Starburst Smalls",
       "category": "Indica",
@@ -504,6 +463,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "brand-new-pink-starburst-smalls"
+    },
+    {
+      "id": 163540330,
+      "name": "Koala Tea Grows: RS-1000 Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.7,
+      "reviews_count": 15,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440263904_RS-1000.JPG",
+      "image_local": "163540330.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-rs-1000"
     },
     {
       "id": 180051350,
@@ -709,6 +709,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "lemon-cherry-garlic-smalls"
+    },
+    {
+      "id": 228246595,
+      "name": "*Fantastic!* Smoke Proper: Legend Larry",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096971_Larry_Legend_120.JPG",
+      "image_local": "228246595.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-smoke-proper-legend-larry"
     },
     {
       "id": 229814472,
@@ -1039,47 +1080,6 @@
       "slug": "g-r-farms-biscotti-pop-smalls"
     },
     {
-      "id": 228246595,
-      "name": "*Fantastic!* Smoke Proper: Legend Larry",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096971_Larry_Legend_120.JPG",
-      "image_local": "228246595.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-smoke-proper-legend-larry"
-    },
-    {
       "id": 171220212,
       "name": "Peach Rings Smalls",
       "category": "Indica",
@@ -1201,6 +1201,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "new-jungle-cake-smalls"
+    },
+    {
+      "id": 232096161,
+      "name": "Mimosa (Purple Punch X Clementine)",
+      "category": "Indica",
+      "edge_category": "Buds",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444591000_mimosa.JPG",
+      "image_local": "232096161.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "mimosa"
     },
     {
       "id": 152768907,
@@ -1406,47 +1447,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "cannoisseur-blue-dream-smalls"
-    },
-    {
-      "id": 232096161,
-      "name": "Mimosa (Purple Punch X Clementine)",
-      "category": "Indica",
-      "edge_category": "Buds",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444591000_mimosa.JPG",
-      "image_local": "232096161.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "mimosa"
     },
     {
       "id": 232423416,
@@ -2001,47 +2001,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-banana-bread-1g-cured-resin-pen-882a2ebb-8668-4673-81ed-8ea21dcfdbe1"
-    },
-    {
-      "id": 223653053,
-      "name": "(1 Left!) FiFo: Orange Mints Live Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443468557_orange_mintz.JPG",
-      "image_local": "223653053.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "in-house-favorite-fifo-orange-mints-live-rosin-3-5g-baller"
     },
     {
       "id": 199254888,
@@ -3328,29 +3287,6 @@
       ],
       "current_deal_title": null,
       "slug": "cream-caramel-14g-cured-resin-baller-jar"
-    },
-    {
-      "id": 229826971,
-      "name": "Jokerz Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280879_IMG_4301.JPG",
-      "image_local": "229826971.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "strawberry-pop-tart-cured-resin-1g"
     },
     {
       "id": 198353287,
@@ -5557,29 +5493,6 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-live-liquid-diamond-mango-haze-x-durban-poison-2g-penjamin"
-    },
-    {
-      "id": 198754080,
-      "name": "Zsunami | Disposable | 1g",
-      "category": "Concentrate",
-      "edge_category": "Disposable",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "198754080.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-zsunami-1g-cured-resin-pen"
     },
     {
       "id": 224714597,
