@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 255,
-    "updated_at": "2026-09-12T14:36:58.328Z",
+    "total_menu_items": 256,
+    "updated_at": "2026-09-14T20:49:41.703Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -873,47 +873,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "tourma-cannabis-cap-junky-smalls"
-    },
-    {
-      "id": 226706334,
-      "name": "(HALF OZ LEFT!) Tourma: Sour Apple",
-      "category": "Indica",
-      "edge_category": "Buds",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443884050_tourma_Sour_Apple.JPG",
-      "image_local": "226706334.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "tourma-sour-apple"
     },
     {
       "id": 226901095,
@@ -2903,6 +2862,29 @@
       "slug": "cadillac-live-liquid-diamond-assorted-five-pack-2g-penjamin"
     },
     {
+      "id": 212117514,
+      "name": "Cadillac: Live Liquid Diamond Glitter Bomb X Red Congolese 2G Penjamin",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
+      "image_local": "212117514.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 45.0,
+          "on_sale": false,
+          "original_price": 45.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cadillac-live-liquid-diamond-glitter-bomb-x-red-congolese-2g-penjamin"
+    },
+    {
       "id": 215584146,
       "name": "Grape Zkittles Live Rosin 3.5G",
       "category": "Concentrate",
@@ -3264,6 +3246,35 @@
       ],
       "current_deal_title": null,
       "slug": "fifo-blood-honey-cured-resin-14g-baller"
+    },
+    {
+      "id": 209499133,
+      "name": "Grape Gas Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440906242_bubba_kush14g.JPG",
+      "image_local": "209499133.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "bubba-kush-cured-resin-14g-baller"
     },
     {
       "id": 220266135,
@@ -3647,6 +3658,29 @@
       "slug": "tally-mon-live-rosin-3-5g-baller"
     },
     {
+      "id": 224516565,
+      "name": "Trop Cherry Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443605697_sub_zero.JPG",
+      "image_local": "224516565.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "sub-zero-cured-resin-1g"
+    },
+    {
       "id": 219576681,
       "name": "White Truffle Cured Resin 14G Baller",
       "category": "Concentrate",
@@ -3928,29 +3962,6 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-live-liquid-diamond-assorted-twenty-pack-2g-penjamin"
-    },
-    {
-      "id": 212117514,
-      "name": "Cadillac: Live Liquid Diamond Glitter Bomb X Red Congolese 2G Penjamin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "212117514.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-glitter-bomb-x-red-congolese-2g-penjamin"
     },
     {
       "id": 211334357,
