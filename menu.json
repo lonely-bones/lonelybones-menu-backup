@@ -1,7 +1,7 @@
 {
   "meta": {
     "total_menu_items": 254,
-    "updated_at": "2026-09-14T20:49:41.703Z",
+    "updated_at": "2026-09-16T22:12:46.687Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -711,6 +711,47 @@
       "slug": "new-northern-terps-it-s-a-secret"
     },
     {
+      "id": 226901095,
+      "name": "Northern Terps: Tribute",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909638_tribute.JPG",
+      "image_local": "226901095.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "northern-terps-tribute"
+    },
+    {
       "id": 159392442,
       "name": "Wedding Pie Smalls",
       "category": "Indica",
@@ -916,49 +957,8 @@
       "slug": "tourma-cannabis-cap-junky-smalls"
     },
     {
-      "id": 226901095,
-      "name": "Northern Terps: Tribute",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909638_tribute.JPG",
-      "image_local": "226901095.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "northern-terps-tribute"
-    },
-    {
       "id": 231841206,
-      "name": "Pie Scream",
+      "name": "(HALF OZ LEFT!) Pie Scream",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -2000,29 +2000,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-zkittles-thc-distillate-disposable"
-    },
-    {
-      "id": 215306333,
-      "name": "White Truffle Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442068621_tricho1.JPG",
-      "image_local": "215306333.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "tricho-jordan-cured-resin-1g"
     },
     {
       "id": 198745717,
@@ -3257,6 +3234,29 @@
       ],
       "current_deal_title": null,
       "slug": "tourma-jokerz-91-14g-cured-resin-baller-jar"
+    },
+    {
+      "id": 187943212,
+      "name": "LA Kush Cake Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444742971_IMG_4358.JPG",
+      "image_local": "187943212.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "la-kush-cake-cured-resin-1g-6c2065cc-2fe4-4222-b37e-8bd9660e3ac6"
     },
     {
       "id": 198353287,
@@ -5280,6 +5280,35 @@
       "slug": "mix-any-28g-s-of-live-rosin-for-750"
     },
     {
+      "id": 233099117,
+      "name": "Purple Ice Water 1g Cured Resin",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444742992_IMG_4359.JPG",
+      "image_local": "233099117.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "purple-ice-water-1g-cured-resin"
+    },
+    {
       "id": 209063704,
       "name": "Slap Happy Live Hash Rosin 1G",
       "category": "Concentrate",
@@ -6009,29 +6038,6 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-bubble-bath-1g-pre-roll"
-    },
-    {
-      "id": 226060001,
-      "name": "Northern Terps: P-85 1g Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226060001.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-p-85-1g-pre-roll"
     },
     {
       "id": 232301429,
