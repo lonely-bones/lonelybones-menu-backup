@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 251,
-    "updated_at": "2026-09-18T20:40:35.117Z",
+    "total_menu_items": 248,
+    "updated_at": "2026-09-19T21:38:11.540Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -425,7 +425,7 @@
     },
     {
       "id": 216163724,
-      "name": "Koala Tea Grows: Pink Starburst Smalls",
+      "name": "(One OZ left!) Koala Tea Grows: Pink Starburst Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -670,49 +670,8 @@
       "slug": "koala-tea-grows-weighted-blanket-smalls"
     },
     {
-      "id": 176563287,
-      "name": "(1/2 Ounce Left) Purple Ice Water Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436569505_Purple_Ice_Water.JPG",
-      "image_local": "176563287.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "purple-ice-water-smalls"
-    },
-    {
       "id": 225734452,
-      "name": "*Fire!* Northern Terps: It's A Secret",
+      "name": "(1 OZ left!) Northern Terps: It's A Secret",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -791,47 +750,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "tourma-cannabis-cap-junky-smalls"
-    },
-    {
-      "id": 226901095,
-      "name": "Northern Terps: Tribute",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909638_tribute.JPG",
-      "image_local": "226901095.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "northern-terps-tribute"
     },
     {
       "id": 159392442,
@@ -2074,29 +1992,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-20-mix-and-match-thc-distillate-1g-5-10-thread-260"
-    },
-    {
-      "id": 218300928,
-      "name": "(1 left!) Blue Gummies Cured Resin 14G Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444263951_IMG_4293.JPG",
-      "image_local": "218300928.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "blue-gummies-cured-resin-14g-baller-jar"
     },
     {
       "id": 212118830,
@@ -5352,7 +5247,7 @@
       "id": 212117143,
       "name": "Cadillac LIVE 2g Disposable - Mango Haze (S) X Durban Poison (S)",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": "Sativa",
       "thc_pct": 0.0,
@@ -5398,7 +5293,7 @@
       "id": 212117889,
       "name": "Cadillac LIVE 2g Disposable - Larry Breath (I) x Crunch Berries (H)",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5421,7 +5316,7 @@
       "id": 187051292,
       "name": "Rainbow Sherb | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5444,7 +5339,7 @@
       "id": 199254780,
       "name": "bowser | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5467,7 +5362,7 @@
       "id": 187051534,
       "name": "Crunch Berries | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5490,7 +5385,7 @@
       "id": 187005574,
       "name": "Pink Starburst | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5513,7 +5408,7 @@
       "id": 199254765,
       "name": "zwiz | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5536,7 +5431,7 @@
       "id": 212119054,
       "name": "Cadillac LIVE 2g Disposable - Guava Daquiri (S) x Unicorn Cake (H)",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5559,12 +5454,12 @@
       "id": 212117413,
       "name": "Cadillac LIVE 2g Disposable - Blue Zushi (I) x Pineapple Fizz (S)",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
       "rating": 4.9,
-      "reviews_count": 13,
+      "reviews_count": 14,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
       "image_local": "212117413.jpg",
       "prices": [
@@ -5582,7 +5477,7 @@
       "id": 212118779,
       "name": "Cadillac LIVE 2g Disposable - Pink Acai (H) x White Gushers (H)",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5605,7 +5500,7 @@
       "id": 212118552,
       "name": "Cadillac LIVE 2g Disposable - Super Boof (S) x Grape Sorbet (I)",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5628,7 +5523,7 @@
       "id": 212118034,
       "name": "Cadillac LIVE 2g Disposable - Papaya Pie (I) x Blueberry Gelato (I)",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": "Indica",
       "thc_pct": 0.0,
