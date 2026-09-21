@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 248,
-    "updated_at": "2026-09-19T21:38:11.540Z",
+    "total_menu_items": 244,
+    "updated_at": "2026-09-21T13:23:30.902Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -91,27 +91,33 @@
       "slug": "gmo"
     },
     {
-      "id": 218361637,
-      "name": "White Runtz Cured Resin 14G Baller Jar",
+      "id": 213498278,
+      "name": "Triangle Kush Cured Resin 14G Baller",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442586034_White_runtz_14G_new.JPG",
-      "image_local": "218361637.jpg",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441716348_Tricho_Jordan.JPG",
+      "image_local": "213498278.jpg",
       "prices": [
         {
-          "label": "each",
+          "label": "1/2 oz",
           "price": 100.0,
           "on_sale": false,
           "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
         }
       ],
       "current_deal_title": null,
-      "slug": "white-runtz-cured-resin-14g-baller-jar"
+      "slug": "tricho-jordan-cured-resin-14g-baller"
     },
     {
       "id": 198364174,
@@ -422,47 +428,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "method-maine-black-scotti-smalls"
-    },
-    {
-      "id": 216163724,
-      "name": "(One OZ left!) Koala Tea Grows: Pink Starburst Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443461571_pinkstar.JPG",
-      "image_local": "216163724.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "brand-new-pink-starburst-smalls"
     },
     {
       "id": 161022429,
@@ -793,6 +758,47 @@
       "slug": "method-maine-wedding-pie-smalls"
     },
     {
+      "id": 231841206,
+      "name": "Pie Scream",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444552422_piescream.JPG",
+      "image_local": "231841206.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "pie-scream"
+    },
+    {
       "id": 229814472,
       "name": "Tourma Cannabis: Funk Mountain",
       "category": "Indica",
@@ -914,47 +920,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "mimosa"
-    },
-    {
-      "id": 228246595,
-      "name": "Smoke Proper: Legend Larry (1 Ounce Left)",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444096971_Larry_Legend_120.JPG",
-      "image_local": "228246595.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-smoke-proper-legend-larry"
     },
     {
       "id": 225133230,
@@ -1201,47 +1166,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "superboof-smalls"
-    },
-    {
-      "id": 212290559,
-      "name": "Cannaisseur: Sour Zkittles Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 3.7,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441477063_grapegasss.JPG",
-      "image_local": "212290559.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "cannaseur-grape-gas-smalls"
     },
     {
       "id": 233221395,
@@ -1994,27 +1918,33 @@
       "slug": "lonely-bones-20-mix-and-match-thc-distillate-1g-5-10-thread-260"
     },
     {
-      "id": 212118830,
-      "name": "Cadillac: Live Liquid Diamond Strawberry Milk X Slurty 2G Penjamin",
+      "id": 207912334,
+      "name": "Dosi Punch Cured Resin 14G Baller",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "212118830.jpg",
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440544802_Animal_cookies_new.JPG",
+      "image_local": "207912334.jpg",
       "prices": [
         {
-          "label": "each",
-          "price": 45.0,
+          "label": "1/2 oz",
+          "price": 100.0,
           "on_sale": false,
-          "original_price": 45.0
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
         }
       ],
       "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-strawberry-milk-x-slurty-2g-penjamin"
+      "slug": "animal-cookies-cured-resin-14g-baller"
     },
     {
       "id": 220446652,
@@ -2056,35 +1986,6 @@
       ],
       "current_deal_title": null,
       "slug": "black-maple-live-hash-rosin-3-5g-baller"
-    },
-    {
-      "id": 172183568,
-      "name": "Garlic Breath Cured Resin 14G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444263965_IMG_4294.JPG",
-      "image_local": "172183568.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "driftwood-garlic-breath-cured-resin-14g"
     },
     {
       "id": 207393576,
@@ -2413,6 +2314,29 @@
       ],
       "current_deal_title": null,
       "slug": "sherbdawg-cured-resin-14g-baller"
+    },
+    {
+      "id": 218361637,
+      "name": "White Runtz Cured Resin 14G Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442586034_White_runtz_14G_new.JPG",
+      "image_local": "218361637.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "white-runtz-cured-resin-14g-baller-jar"
     },
     {
       "id": 164788352,
@@ -2756,29 +2680,6 @@
       "slug": "lonely-bones-strawbery-guava-1g-thc-distillate-screw-on-thread"
     },
     {
-      "id": 199254777,
-      "name": "Lonely Bones: Carbon FIber Cured Resin Penz 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "199254777.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-rainbow-runtz-cured-resin-pen-1g"
-    },
-    {
       "id": 198745465,
       "name": "Lonely Bones: Clemetine 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -2984,6 +2885,29 @@
       ],
       "current_deal_title": null,
       "slug": "amber-valley-ogkb-shatter-1g"
+    },
+    {
+      "id": 223154409,
+      "name": "Blue Cookies Cured Resin 14G Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443400784_bolo_runtz_cured.JPG",
+      "image_local": "223154409.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "bolo-runtz-cured-resin-14g-baller-jar"
     },
     {
       "id": 219579728,
@@ -4277,29 +4201,6 @@
       "slug": "lonely-bones-fruity-pebbles-1g-thc-distillate-screw-on-thread"
     },
     {
-      "id": 185640549,
-      "name": "Lonely Bones: Gas Face 1G Cured Resin Penz",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "185640549.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-gas-face-1g-cured-resin-pen"
-    },
-    {
       "id": 224657758,
       "name": "Lonely Bones: Ghost Train Haze 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -5111,6 +5012,35 @@
       "slug": "purple-ice-water-1g-cured-resin"
     },
     {
+      "id": 206340329,
+      "name": "Purple Ice Water Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437729315_wpie14.JPG",
+      "image_local": "206340329.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "z-pie-cured-resin-14g-baller"
+    },
+    {
       "id": 209063704,
       "name": "Slap Happy Live Hash Rosin 1G",
       "category": "Concentrate",
@@ -5184,35 +5114,6 @@
       ],
       "current_deal_title": null,
       "slug": "tourma-cannabis-kush-mints-x-the-soap-live-rosin-1g"
-    },
-    {
-      "id": 213498278,
-      "name": "Triangle Kush Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441716348_Tricho_Jordan.JPG",
-      "image_local": "213498278.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "tricho-jordan-cured-resin-14g-baller"
     },
     {
       "id": 193050080,
@@ -5932,29 +5833,6 @@
       ],
       "current_deal_title": null,
       "slug": "any-assorted-pre-rolls-5-pack-mix-and-match-for-25"
-    },
-    {
-      "id": 223559082,
-      "name": "Cannoisseur: Glitter Bomb Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 4,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
-      "image_local": "223559082.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cannaseaur-glitter-bomb-pre-roll"
     },
     {
       "id": 226060343,
