@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 255,
-    "updated_at": "2026-09-22T00:12:33.885Z",
+    "total_menu_items": 254,
+    "updated_at": "2026-09-23T10:46:25.218Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -594,6 +594,47 @@
       "slug": "lemon-cherry-garlic-smalls"
     },
     {
+      "id": 231841206,
+      "name": "Pie Scream",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444552422_piescream.JPG",
+      "image_local": "231841206.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "pie-scream"
+    },
+    {
       "id": 180051350,
       "name": "Koala Tea Grows: Weighted Blanket Smalls",
       "category": "Indica",
@@ -756,47 +797,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "method-maine-wedding-pie-smalls"
-    },
-    {
-      "id": 231841206,
-      "name": "Pie Scream",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444552422_piescream.JPG",
-      "image_local": "231841206.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "pie-scream"
     },
     {
       "id": 229814472,
@@ -1757,47 +1757,6 @@
       "slug": "super-lemon-haze-cured-resin-1g"
     },
     {
-      "id": 223653053,
-      "name": "Cherry Pound Cake Live Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443468557_orange_mintz.JPG",
-      "image_local": "223653053.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "in-house-favorite-fifo-orange-mints-live-rosin-3-5g-baller"
-    },
-    {
       "id": 199254888,
       "name": "Lonely Bones: Fire AF Cured Resin Penjamin 1G",
       "category": "Concentrate",
@@ -2023,46 +1982,17 @@
       "slug": "blue-zushi-live-rosin-1g"
     },
     {
-      "id": 207912334,
-      "name": "Dosi Punch Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440544802_Animal_cookies_new.JPG",
-      "image_local": "207912334.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "animal-cookies-cured-resin-14g-baller"
-    },
-    {
-      "id": 220446652,
-      "name": "FIFO: Black Maple Live Hash Rosin 3.5G Baller",
+      "id": 223653053,
+      "name": "Cherry Pound Cake Live Rosin 3.5G Baller",
       "category": "Concentrate",
       "edge_category": "Cold Cure Badder",
       "top_category": "Concentrates",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442911811_black_maple_live_rosin_8th.JPG",
-      "image_local": "220446652.jpg",
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443468557_orange_mintz.JPG",
+      "image_local": "223653053.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -2090,7 +2020,36 @@
         }
       ],
       "current_deal_title": null,
-      "slug": "black-maple-live-hash-rosin-3-5g-baller"
+      "slug": "in-house-favorite-fifo-orange-mints-live-rosin-3-5g-baller"
+    },
+    {
+      "id": 207912334,
+      "name": "Dosi Punch Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440544802_Animal_cookies_new.JPG",
+      "image_local": "207912334.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "animal-cookies-cured-resin-14g-baller"
     },
     {
       "id": 207393576,
@@ -2321,29 +2280,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-lemon-cherry-gelato-1g-thc-distillate-disposable"
-    },
-    {
-      "id": 198745342,
-      "name": "Lonely Bones: Lemon Slushie 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198745342.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-lemon-slushie-1g-thc-distillate-5-10-thread"
     },
     {
       "id": 207394503,
@@ -2824,29 +2760,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-strawbery-guava-1g-thc-distillate-screw-on-thread"
-    },
-    {
-      "id": 198745465,
-      "name": "Lonely Bones: Clemetine 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198745465.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-gary-satan-1g-thc-distillate-5-10-thread"
     },
     {
       "id": 208617574,
@@ -5624,6 +5537,29 @@
       "slug": "cadillac-live-liquid-diamond-mango-haze-x-durban-poison-2g-penjamin"
     },
     {
+      "id": 198745342,
+      "name": "Lemon Slushie | Cartridge | 1g",
+      "category": "Concentrate",
+      "edge_category": "Cartridge",
+      "top_category": "Vape Pens",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "198745342.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-lemon-slushie-1g-thc-distillate-5-10-thread"
+    },
+    {
       "id": 224714597,
       "name": "mai tai | Cartridge | 1g",
       "category": "Concentrate",
@@ -5714,6 +5650,29 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-pine-mints-cured-resin-pen-1g"
+    },
+    {
+      "id": 198745465,
+      "name": "clementine | Cartridge | 1g",
+      "category": "Concentrate",
+      "edge_category": "Cartridge",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "198745465.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-gary-satan-1g-thc-distillate-5-10-thread"
     },
     {
       "id": 187051534,
