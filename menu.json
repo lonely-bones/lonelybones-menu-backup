@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 254,
-    "updated_at": "2026-09-23T10:46:25.218Z",
+    "total_menu_items": 260,
+    "updated_at": "2026-09-24T12:27:40.061Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -185,7 +185,7 @@
     },
     {
       "id": 181645234,
-      "name": "Cap Junky Smalls",
+      "name": "(Half OZ left!) Cap Junky Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -799,47 +799,6 @@
       "slug": "method-maine-wedding-pie-smalls"
     },
     {
-      "id": 229814472,
-      "name": "Tourma Cannabis: Funk Mountain",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444279894_funk_mountain.JPG",
-      "image_local": "229814472.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "tourma-cannabis-funk-mountain"
-    },
-    {
       "id": 231842255,
       "name": "Space Candy Smalls",
       "category": "Indica",
@@ -1004,6 +963,47 @@
       "slug": "g-r-farms-gush-mintz-smalls"
     },
     {
+      "id": 232423416,
+      "name": "(Half OZ left!) Peak Punch Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444639533_peak_punch.JPG",
+      "image_local": "232423416.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "peak-punch-smalls"
+    },
+    {
       "id": 208663076,
       "name": "*NEW!* Gas Berry Smalls",
       "category": "Indica",
@@ -1086,47 +1086,6 @@
       "slug": "black-ice-black-domina-x-white-widow"
     },
     {
-      "id": 232423416,
-      "name": "Peak Punch Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444639533_peak_punch.JPG",
-      "image_local": "232423416.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "peak-punch-smalls"
-    },
-    {
       "id": 152768907,
       "name": "Superboof Smalls",
       "category": "Indica",
@@ -1166,6 +1125,88 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "superboof-smalls"
+    },
+    {
+      "id": 233621712,
+      "name": "*Pure Sativa!* Tangerine Sunrise",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444829572_Tangerine_Sunrise.JPG",
+      "image_local": "233621712.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "pure-sativa-tangerine-sunrise"
+    },
+    {
+      "id": 233622019,
+      "name": "Candy Land Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444829617_Candy_land_smalls.JPG",
+      "image_local": "233622019.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "candy-land-smalls-8e2633ef-9f97-48dd-a1c7-2b7d02665d7d"
     },
     {
       "id": 233221395,
@@ -1209,6 +1250,211 @@
       "slug": "northern-terps-death-kiss-dantes-inferno-x-frosted-flakes"
     },
     {
+      "id": 233615247,
+      "name": "Smoke Proper: Amaretto Sour",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444828611_Amaretto_Sour_100.JPG",
+      "image_local": "233615247.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "smoke-proper-amaretto-sour"
+    },
+    {
+      "id": 233615092,
+      "name": "Smoke Proper: Blue Zushi",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444828599_Blue_Zushi_100.JPG",
+      "image_local": "233615092.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "smoke-proper-blue-zushi"
+    },
+    {
+      "id": 233614968,
+      "name": "Smoke Proper: Capoeira",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444828585_Capoeira_100.JPG",
+      "image_local": "233614968.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "smoke-proper-capoeira"
+    },
+    {
+      "id": 233615544,
+      "name": "Smoke Proper: Garlic Ice",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444828683_Garlic_Ice_100.JPG",
+      "image_local": "233615544.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "smoke-proper-garlic-ice"
+    },
+    {
+      "id": 233615422,
+      "name": "Smoke Proper: Pop Rockets",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444828669_Pop_Rockets_100.JPG",
+      "image_local": "233615422.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "smoke-proper-pop-rockets"
+    },
+    {
       "id": 233204986,
       "name": "Sub-Zero *Employees Favorite*",
       "category": "Indica",
@@ -1250,6 +1496,93 @@
       "slug": "sub-zero-employees-favorite"
     },
     {
+      "id": 233622090,
+      "name": "Tropnana Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444829628_Tropnana_smalls.JPG",
+      "image_local": "233622090.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "tropnana-smalls"
+    },
+    {
+      "id": 207395282,
+      "name": "Sour D | Solvent | 1g",
+      "category": "Concentrate",
+      "edge_category": "Solvent",
+      "top_category": "Concentrates",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "207395282.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-sour-d-1g-thc-distillate-screw-on-thread"
+    },
+    {
+      "id": 207395557,
+      "name": "blueberry pie | Solvent | 1g",
+      "category": "Concentrate",
+      "edge_category": "Solvent",
+      "top_category": "Concentrates",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "207395557.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-blue-dream-1g-thc-distillate-screw-on-thread"
+    },
+    {
       "id": 214676571,
       "name": "Amber Valley Shatter 1g - Red Runtz (H)",
       "category": "Concentrate",
@@ -1271,6 +1604,29 @@
       ],
       "current_deal_title": null,
       "slug": "amber-valley-red-runtz-shatter"
+    },
+    {
+      "id": 207396042,
+      "name": "Super Lemon Mac | Solvent | 1g",
+      "category": "Concentrate",
+      "edge_category": "Solvent",
+      "top_category": "Concentrates",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "207396042.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-super-lemon-mac-1g-thc-distillate-screw-on-thread"
     },
     {
       "id": 163167402,
@@ -1402,7 +1758,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 2,
+      "reviews_count": 3,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/429722003_LonelyBones-MainLogo-Square.png",
       "image_local": "161559350.png",
       "prices": [
@@ -1523,7 +1879,7 @@
       "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 4.9,
-      "reviews_count": 24,
+      "reviews_count": 25,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436555360_GMO_Baller.JPG",
       "image_local": "176406205.jpg",
       "prices": [
@@ -1542,29 +1898,6 @@
       ],
       "current_deal_title": null,
       "slug": "gmo-cured-resin-14g-baller-jar-1e0642f4-7099-44a5-8997-47c736d995c2"
-    },
-    {
-      "id": 207395282,
-      "name": "Lonely Bones: Sour D 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 5,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "207395282.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-sour-d-1g-thc-distillate-screw-on-thread"
     },
     {
       "id": 185336092,
@@ -1594,29 +1927,6 @@
       ],
       "current_deal_title": null,
       "slug": "gorilla-glue-4-cured-resin-14g-baller"
-    },
-    {
-      "id": 198745134,
-      "name": "Lonely Bones: Animal Cookies 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198745134.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-animal-cookies-1g-thc-distillate-5-10-thread"
     },
     {
       "id": 198745092,
@@ -1663,29 +1973,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-tangie-1g-thc-distillate-5-10-thread"
-    },
-    {
-      "id": 198745407,
-      "name": "Lonely Bones: Watermelon Zkittles 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198745407.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-watermelon-zkittles-1g-thc-distillate-5-10-thread"
     },
     {
       "id": 149594241,
@@ -1890,29 +2177,6 @@
       "slug": "lonely-bones-tropical-punch-1g-thc-distillate-5-10-thread"
     },
     {
-      "id": 198744959,
-      "name": "Lonely Bones: Chem D 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 4,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198744959.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-banana-smoothie-1g-thc-distillate-5-10-thread"
-    },
-    {
       "id": 187039534,
       "name": "Lonely Bones: 20 Mix and Match Cured Resin 1G Penz",
       "category": "Concentrate",
@@ -2052,52 +2316,6 @@
       "slug": "animal-cookies-cured-resin-14g-baller"
     },
     {
-      "id": 207393576,
-      "name": "Lonely Bones: Acapulco Gold 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "207393576.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-acapulco-gold-1g-thc-distillate-screw-on-thread"
-    },
-    {
-      "id": 198745313,
-      "name": "Lonely Bones: Blueberry Caviar 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198745313.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-purple-ice-water-1g-thc-distillate-5-10-thread"
-    },
-    {
       "id": 198744865,
       "name": "Lonely Bones: Blueberry Muffin 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -2144,29 +2362,6 @@
       "slug": "lonely-bones-blueberry-pie-1g-thc-distillate-5-10-thread"
     },
     {
-      "id": 198745189,
-      "name": "Lonely Bones: Fruit Roll Upz 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 6,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198745189.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-fruit-roll-upz-1g-thc-distillate-5-10-thread"
-    },
-    {
       "id": 198745568,
       "name": "Lonely Bones: Girl Scout Cookie 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -2188,29 +2383,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-girl-scout-glue-1g-thc-distillate-5-10-thread"
-    },
-    {
-      "id": 198745453,
-      "name": "Lonely Bones: Grape Frost 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198745453.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-blue-sunset-1g-thc-distillate-5-10-thread"
     },
     {
       "id": 207413446,
@@ -2303,29 +2475,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-trop-cherry-1g-thc-distillate-screw-on-thread"
-    },
-    {
-      "id": 198745371,
-      "name": "Lonely Bones: Wedding Cake 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 4,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198745371.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-orange-soda-1g-thc-distillate-5-10-thread"
     },
     {
       "id": 211797764,
@@ -2430,75 +2579,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-birthday-cake-1g-thc-distillate-5-10-thread"
-    },
-    {
-      "id": 207395557,
-      "name": "Lonely Bones: Blueberry Pie 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 4,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "207395557.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-blue-dream-1g-thc-distillate-screw-on-thread"
-    },
-    {
-      "id": 198745525,
-      "name": "Lonely Bones: Orange Creamsicle THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198745525.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-fruit-punch-1g-thc-distillate-5-10-thread"
-    },
-    {
-      "id": 187051467,
-      "name": "Lonely Bones: Trop Cookies 1G Cured Resin Penz",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 3.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "187051467.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-mylar-og-1g-cured-resin-pen-a0992790-97ad-4c27-933f-c0dacbbeef7c"
     },
     {
       "id": 152503392,
@@ -2831,29 +2911,6 @@
       "slug": "strawberry-milk-1g-thc-distillate-penjamin"
     },
     {
-      "id": 198745032,
-      "name": "Lonely Bones: Strawnana 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198745032.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-strawnana-1g-thc-distillate-5-10-thread"
-    },
-    {
       "id": 198745103,
       "name": "Lonely Bones: Sundae Driver 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -3059,7 +3116,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 2,
+      "reviews_count": 3,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775999_Blood_Honey.JPG",
       "image_local": "219579728.jpg",
       "prices": [
@@ -3291,29 +3348,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-grape-ape-1g-thc-distillate-screw-on-thread"
-    },
-    {
-      "id": 185640884,
-      "name": "Lonely Bones: Sour Apple 1G Cured Resin Penz",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "185640884.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-dantes-inferno-1g-cured-resin-pen"
     },
     {
       "id": 207417095,
@@ -4999,29 +5033,6 @@
       "slug": "lonely-bones-super-lemon-haze-1g-thc-distillate-screw-on-thread"
     },
     {
-      "id": 207396042,
-      "name": "Lonely Bones: Super Lemon Mac 1G THC Distillate Screw On Thread",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "207396042.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-super-lemon-mac-1g-thc-distillate-screw-on-thread"
-    },
-    {
       "id": 231907739,
       "name": "Lonely Bones: Super Silver Haze 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -5493,7 +5504,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.8,
-      "reviews_count": 90,
+      "reviews_count": 91,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
       "image_local": "193050080.jpg",
       "prices": [
@@ -5517,7 +5528,7 @@
       "id": 212117143,
       "name": "Cadillac LIVE 2g Disposable - Mango Haze (S) X Durban Poison (S)",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": "Sativa",
       "thc_pct": 0.0,
@@ -5535,6 +5546,75 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-live-liquid-diamond-mango-haze-x-durban-poison-2g-penjamin"
+    },
+    {
+      "id": 198745134,
+      "name": "Animal Cookies | Cartridge | 1g",
+      "category": "Concentrate",
+      "edge_category": "Cartridge",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "198745134.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-animal-cookies-1g-thc-distillate-5-10-thread"
+    },
+    {
+      "id": 198745407,
+      "name": "watermelon zkittles | Cartridge | 1g",
+      "category": "Concentrate",
+      "edge_category": "Cartridge",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "198745407.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-watermelon-zkittles-1g-thc-distillate-5-10-thread"
+    },
+    {
+      "id": 198744959,
+      "name": "Chem D | Solvent | 1g",
+      "category": "Concentrate",
+      "edge_category": "Cartridge",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "198744959.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-banana-smoothie-1g-thc-distillate-5-10-thread"
     },
     {
       "id": 198745342,
@@ -5586,7 +5666,7 @@
       "id": 212117889,
       "name": "Cadillac LIVE 2g Disposable - Larry Breath (I) x Crunch Berries (H)",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5609,7 +5689,7 @@
       "id": 187051292,
       "name": "Rainbow Sherb | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5629,10 +5709,56 @@
       "slug": "lonely-bones-rainbow-sundae-1g-cured-resin-pen"
     },
     {
+      "id": 207393576,
+      "name": "Acapulco Gold | Cartridge | 1g",
+      "category": "Concentrate",
+      "edge_category": "Cartridge",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "207393576.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-acapulco-gold-1g-thc-distillate-screw-on-thread"
+    },
+    {
+      "id": 198745313,
+      "name": "Blueberry Caviar | Cartridge | 1g",
+      "category": "Concentrate",
+      "edge_category": "Cartridge",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "198745313.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-purple-ice-water-1g-thc-distillate-5-10-thread"
+    },
+    {
       "id": 199254780,
       "name": "bowser | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5678,7 +5804,7 @@
       "id": 187051534,
       "name": "Crunch Berries | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5698,10 +5824,79 @@
       "slug": "lonely-bones-khalifa-kush1g-cured-resin-pen"
     },
     {
+      "id": 198745189,
+      "name": "Fruit Roll Upz | Cartridge | 1g",
+      "category": "Concentrate",
+      "edge_category": "Cartridge",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "198745189.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-fruit-roll-upz-1g-thc-distillate-5-10-thread"
+    },
+    {
+      "id": 198745453,
+      "name": "Grape Frost | Cartridge | 1g",
+      "category": "Concentrate",
+      "edge_category": "Cartridge",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "198745453.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-blue-sunset-1g-thc-distillate-5-10-thread"
+    },
+    {
+      "id": 198745525,
+      "name": "Orange Creamsicle | Cartridge | 1g",
+      "category": "Concentrate",
+      "edge_category": "Cartridge",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "198745525.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-fruit-punch-1g-thc-distillate-5-10-thread"
+    },
+    {
       "id": 187005574,
       "name": "Pink Starburst | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5721,10 +5916,79 @@
       "slug": "lonely-bones-white-runtz-1g-cured-resin-pen"
     },
     {
+      "id": 198745032,
+      "name": "Strawnana | Cartridge | 1g",
+      "category": "Concentrate",
+      "edge_category": "Cartridge",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "198745032.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-strawnana-1g-thc-distillate-5-10-thread"
+    },
+    {
+      "id": 187051467,
+      "name": "Trop Cookies | Disposable | 1g",
+      "category": "Concentrate",
+      "edge_category": "All-in-one",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
+      "image_local": "187051467.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-mylar-og-1g-cured-resin-pen-a0992790-97ad-4c27-933f-c0dacbbeef7c"
+    },
+    {
+      "id": 198745371,
+      "name": "Wedding Cake | Cartridge | 1g",
+      "category": "Concentrate",
+      "edge_category": "Cartridge",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "198745371.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-orange-soda-1g-thc-distillate-5-10-thread"
+    },
+    {
       "id": 212119054,
       "name": "Cadillac LIVE 2g Disposable - Guava Daquiri (S) x Unicorn Cake (H)",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5747,7 +6011,7 @@
       "id": 212117413,
       "name": "Cadillac LIVE 2g Disposable - Blue Zushi (I) x Pineapple Fizz (S)",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5770,7 +6034,7 @@
       "id": 212118779,
       "name": "Cadillac LIVE 2g Disposable - Pink Acai (H) x White Gushers (H)",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5793,7 +6057,7 @@
       "id": 212118552,
       "name": "Cadillac LIVE 2g Disposable - Super Boof (S) x Grape Sorbet (I)",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5816,7 +6080,7 @@
       "id": 212118034,
       "name": "Cadillac LIVE 2g Disposable - Papaya Pie (I) x Blueberry Gelato (I)",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": "Indica",
       "thc_pct": 0.0,
@@ -5880,6 +6144,29 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-birthday-cake-1g-thc-distillate-screw-on-thread"
+    },
+    {
+      "id": 185640884,
+      "name": "Sour Apple | Disposable | 1g",
+      "category": "Concentrate",
+      "edge_category": "All-in-one",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
+      "image_local": "185640884.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-dantes-inferno-1g-cured-resin-pen"
     },
     {
       "id": 185241360,
@@ -5982,7 +6269,7 @@
       "genetics": "Hybrid",
       "thc_pct": 10.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922602_10mg_disty_edi.jpg",
       "image_local": "185242558.jpg",
       "prices": [
@@ -6041,6 +6328,29 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-bulk-20-packs-of-50mg-hash-rosin-assorted-gummies-500mg-per-packs"
+    },
+    {
+      "id": 185244671,
+      "name": "Lonely Bones: (BULK) 5 Packs of 10MG Distillate Assorted Gummies 100MG Per",
+      "category": "Edible",
+      "edge_category": "Gummies",
+      "top_category": "Edibles",
+      "genetics": "Hybrid",
+      "thc_pct": 10.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922602_10mg_disty_edi.jpg",
+      "image_local": "185244671.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 35.0,
+          "on_sale": false,
+          "original_price": 35.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-bulk-5-packs-of-10mg-distillate-assorted-gummies-100mg-per-packs"
     },
     {
       "id": 185241807,
@@ -6135,29 +6445,6 @@
       "slug": "pinetree-sweets-1200-mg-gummies"
     },
     {
-      "id": 185244671,
-      "name": "Lonely Bones: (BULK) 5 Packs of 10MG Distillate Assorted Gummies 100MG Per packs",
-      "category": "Edible",
-      "edge_category": "Edibles",
-      "top_category": "Edibles",
-      "genetics": "Hybrid",
-      "thc_pct": 10.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922602_10mg_disty_edi.jpg",
-      "image_local": "185244671.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 35.0,
-          "on_sale": false,
-          "original_price": 35.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-bulk-5-packs-of-10mg-distillate-assorted-gummies-100mg-per-packs"
-    },
-    {
       "id": 185241029,
       "name": "Lonely Bones: 10MG Distillate Assorted Gummies 100MG Per pack",
       "category": "Edible",
@@ -6202,6 +6489,29 @@
       ],
       "current_deal_title": null,
       "slug": "leaf-labs-laughing-buddha-pre-roll-1g"
+    },
+    {
+      "id": 232301330,
+      "name": "Black Ice | Joints | 1g",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444622814_Northern_Terp_Preroll.jpeg",
+      "image_local": "232301330.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-black-ice-1g-pre-roll"
     },
     {
       "id": 223560220,
@@ -6342,29 +6652,6 @@
       "slug": "cannaseaur-sour-g-pre-roll"
     },
     {
-      "id": 232301330,
-      "name": "Northern Terps: Black Ice 1g Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Pre-rolls",
-      "top_category": "Pre-Rolls",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444622814_Northern_Terp_Preroll.jpeg",
-      "image_local": "232301330.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-black-ice-1g-pre-roll"
-    },
-    {
       "id": 232301368,
       "name": "Northern Terps: Blue Zangria 1g Pre Roll",
       "category": "Preroll",
@@ -6432,29 +6719,6 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-pie-face-1g-pre-roll"
-    },
-    {
-      "id": 229861984,
-      "name": "Northern Terps: Tiger Balm 1g Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
-      "image_local": "229861984.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-tiger-balm-1g-pre-roll"
     },
     {
       "id": 230026973,
