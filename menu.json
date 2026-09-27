@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 268,
-    "updated_at": "2026-09-25T18:10:47.315Z",
+    "total_menu_items": 265,
+    "updated_at": "2026-09-26T14:40:26.629Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -758,6 +758,47 @@
       "slug": "method-maine-wedding-pie-smalls"
     },
     {
+      "id": 208663076,
+      "name": "*NEW!* Gas Berry Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444641133_NEW_Gas_Berry.JPG",
+      "image_local": "208663076.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-jungle-cake-smalls"
+    },
+    {
       "id": 231842255,
       "name": "Space Candy Smalls",
       "category": "Indica",
@@ -881,6 +922,47 @@
       "slug": "mimosa"
     },
     {
+      "id": 152768907,
+      "name": "Superboof Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444640588_NEW_SUPERBOOOOOOF.JPG",
+      "image_local": "152768907.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "superboof-smalls"
+    },
+    {
       "id": 225133230,
       "name": "(1 OZ left!) Cannoisseur: Rainbow OG Smalls",
       "category": "Indica",
@@ -923,7 +1005,7 @@
     },
     {
       "id": 210992106,
-      "name": "$60/OZ GR Farms: Gush Mintz Smalls",
+      "name": "(1 OZ left!) $60/OZ GR Farms: Gush Mintz Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -961,47 +1043,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "g-r-farms-gush-mintz-smalls"
-    },
-    {
-      "id": 208663076,
-      "name": "*NEW!* Gas Berry Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444641133_NEW_Gas_Berry.JPG",
-      "image_local": "208663076.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-jungle-cake-smalls"
     },
     {
       "id": 233661834,
@@ -1086,17 +1127,17 @@
       "slug": "black-ice-black-domina-x-white-widow"
     },
     {
-      "id": 152768907,
-      "name": "Superboof Smalls",
+      "id": 233622019,
+      "name": "Candy Land Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
-      "genetics": "Hybrid",
+      "genetics": "Sativa",
       "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444640588_NEW_SUPERBOOOOOOF.JPG",
-      "image_local": "152768907.jpg",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444829617_Candy_land_smalls.JPG",
+      "image_local": "233622019.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -1124,7 +1165,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "superboof-smalls"
+      "slug": "candy-land-smalls-8e2633ef-9f97-48dd-a1c7-2b7d02665d7d"
     },
     {
       "id": 233662035,
@@ -1166,47 +1207,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "black-cherry-punch-smalls-ee18742f-0dee-47ad-8d1c-e7e209b4ee21"
-    },
-    {
-      "id": 233622019,
-      "name": "Candy Land Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444829617_Candy_land_smalls.JPG",
-      "image_local": "233622019.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "candy-land-smalls-8e2633ef-9f97-48dd-a1c7-2b7d02665d7d"
     },
     {
       "id": 233662475,
@@ -3281,47 +3281,6 @@
       "slug": "fifo-banana-og-live-rosin-3-5g"
     },
     {
-      "id": 191397663,
-      "name": "(1 left!) Tally Mon Live Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Rosin",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438103575_tally3.5.JPG",
-      "image_local": "191397663.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "tally-mon-live-rosin-3-5g-baller"
-    },
-    {
       "id": 220450964,
       "name": "*Only 1 left* FIFO: Miracle Mints Live Hash Rosin 3.5G Baller",
       "category": "Concentrate",
@@ -3643,6 +3602,35 @@
       ],
       "current_deal_title": null,
       "slug": "blue-cookies-cured-resin-14g-baller-jar"
+    },
+    {
+      "id": 233099117,
+      "name": "Purple Ice Water 1g Cured Resin",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444742992_IMG_4359.JPG",
+      "image_local": "233099117.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "purple-ice-water-1g-cured-resin"
     },
     {
       "id": 152085741,
@@ -5484,35 +5472,6 @@
       "slug": "northern-terps-z-marker-live-hash-rosin-3-5g-baller"
     },
     {
-      "id": 233099117,
-      "name": "Purple Ice Water 1g Cured Resin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444742992_IMG_4359.JPG",
-      "image_local": "233099117.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "purple-ice-water-1g-cured-resin"
-    },
-    {
       "id": 206340329,
       "name": "Purple Ice Water Cured Resin 14G Baller",
       "category": "Concentrate",
@@ -7049,29 +7008,6 @@
       "slug": "northern-terps-sour-sherb-1g-pre-roll"
     },
     {
-      "id": 229862749,
-      "name": "(1 left!) Northern Terps: Infused Pre Roll Carmel Apple gelato x Blue Andes Cured Resin",
-      "category": "Hybrid",
-      "edge_category": "Infused Joints",
-      "top_category": "Infused Pre-rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
-      "image_local": "229862749.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 12.0,
-          "on_sale": false,
-          "original_price": 12.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-infused-pre-roll-caramel-apple-gelato-x-blue-andes-cured-resin"
-    },
-    {
       "id": 230026973,
       "name": "*$50* Northern Terps: Infused Pre Roll Five Pack!",
       "category": "Hybrid",
@@ -7116,29 +7052,6 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-infused-pre-roll-permafrost-x-permaforst-cured-resin"
-    },
-    {
-      "id": 226281019,
-      "name": "Northern Terps: Infused Pre Roll Bankroll x Amaretto Sour Cured Resin",
-      "category": "Hybrid",
-      "edge_category": "Infused Joints",
-      "top_category": "Infused Pre-rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226281019.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 12.0,
-          "on_sale": false,
-          "original_price": 12.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-infused-pre-roll-bankroll-x-amaretto-sour-cured-resin"
     },
     {
       "id": 229863165,
