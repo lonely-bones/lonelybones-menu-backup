@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 261,
-    "updated_at": "2026-09-29T21:08:50.795Z",
+    "total_menu_items": 255,
+    "updated_at": "2026-09-30T17:38:07.703Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -226,7 +226,7 @@
     },
     {
       "id": 207771314,
-      "name": "Koala Tea Grows : Miagi Smalls",
+      "name": "Koala Tea Grows : Miyagi Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -356,7 +356,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 4,
+      "reviews_count": 6,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443461571_pinkstar.JPG",
       "image_local": "216163724.jpg",
       "prices": [
@@ -765,8 +765,8 @@
       "top_category": "Flower",
       "genetics": "Indica",
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
+      "rating": 5.0,
+      "reviews_count": 1,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444641133_NEW_Gas_Berry.JPG",
       "image_local": "208663076.jpg",
       "prices": [
@@ -840,6 +840,47 @@
       "slug": "space-candy-smalls"
     },
     {
+      "id": 233622019,
+      "name": "Candy Land Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444829617_Candy_land_smalls.JPG",
+      "image_local": "233622019.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "candy-land-smalls-8e2633ef-9f97-48dd-a1c7-2b7d02665d7d"
+    },
+    {
       "id": 227762150,
       "name": "Koala Tea Grows: Permanet Marker Smalls",
       "category": "Indica",
@@ -848,7 +889,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444023169_perm_mark.JPG",
       "image_local": "227762150.jpg",
       "prices": [
@@ -963,47 +1004,6 @@
       "slug": "superboof-smalls"
     },
     {
-      "id": 225133230,
-      "name": "(1 OZ left!) Cannoisseur: Rainbow OG Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443693370_Rainbow_OG.JPG",
-      "image_local": "225133230.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "cannoisseur-rainbow-og-smalls"
-    },
-    {
       "id": 233661834,
       "name": "Banana Taffy Smalls",
       "category": "Indica",
@@ -1086,17 +1086,17 @@
       "slug": "black-ice-black-domina-x-white-widow"
     },
     {
-      "id": 233622019,
-      "name": "Candy Land Smalls",
+      "id": 233662214,
+      "name": "Granddaddy Purple Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
-      "genetics": "Sativa",
+      "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444829617_Candy_land_smalls.JPG",
-      "image_local": "233622019.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444836175_Granddaddy_Purple.JPG",
+      "image_local": "233662214.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -1124,48 +1124,48 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "candy-land-smalls-8e2633ef-9f97-48dd-a1c7-2b7d02665d7d"
+      "slug": "granddaddy-purple-smalls"
     },
     {
-      "id": 233204986,
-      "name": "(HALF OZ LEFT!) Sub-Zero *Employees Favorite*",
+      "id": 233662175,
+      "name": "London Cheesecake Smalls",
       "category": "Indica",
-      "edge_category": "Buds",
+      "edge_category": "Smalls",
       "top_category": "Flower",
-      "genetics": "Hybrid",
+      "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444760531_sub_zero.JPG",
-      "image_local": "233204986.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444836169_London_Cheesecake.JPG",
+      "image_local": "233662175.jpg",
       "prices": [
         {
           "label": "1/8 oz",
-          "price": 15.0,
+          "price": 10.0,
           "on_sale": false,
-          "original_price": 15.0
+          "original_price": 10.0
         },
         {
           "label": "1/4 oz",
-          "price": 30.0,
+          "price": 20.0,
           "on_sale": false,
-          "original_price": 30.0
+          "original_price": 20.0
         },
         {
           "label": "1/2 oz",
-          "price": 50.0,
+          "price": 40.0,
           "on_sale": false,
-          "original_price": 50.0
+          "original_price": 40.0
         },
         {
           "label": "1 oz",
-          "price": 100.0,
+          "price": 80.0,
           "on_sale": false,
-          "original_price": 100.0
+          "original_price": 80.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "sub-zero-employees-favorite"
+      "slug": "london-cheesecake-smalls"
     },
     {
       "id": 233662035,
@@ -1250,47 +1250,6 @@
       "slug": "fuji-og-smalls"
     },
     {
-      "id": 233662214,
-      "name": "Granddaddy Purple Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444836175_Granddaddy_Purple.JPG",
-      "image_local": "233662214.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "granddaddy-purple-smalls"
-    },
-    {
       "id": 233661964,
       "name": "Jet Fuel OG Smalls",
       "category": "Indica",
@@ -1371,47 +1330,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "lemon-cherry-gelato-smalls-68361e78-2d17-4c8e-af25-ac87d3195625"
-    },
-    {
-      "id": 233662175,
-      "name": "London Cheesecake Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444836169_London_Cheesecake.JPG",
-      "image_local": "233662175.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "london-cheesecake-smalls"
     },
     {
       "id": 233221395,
@@ -2192,35 +2110,6 @@
       "slug": "gmo-cured-resin-14g-baller-jar-1e0642f4-7099-44a5-8997-47c736d995c2"
     },
     {
-      "id": 185336092,
-      "name": "Gorilla Glue Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442156522_IMG_1957.JPG",
-      "image_local": "185336092.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "gorilla-glue-4-cured-resin-14g-baller"
-    },
-    {
       "id": 198745092,
       "name": "Lonely Bones: Hawaiian Punch 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -2242,29 +2131,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-strawberry-cheesecake-1g-thc-distillate-5-10-thread"
-    },
-    {
-      "id": 220254209,
-      "name": "Animal Cookies Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442879592_super_lemon_haze.JPG",
-      "image_local": "220254209.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "super-lemon-haze-cured-resin-1g"
     },
     {
       "id": 207705799,
@@ -3222,54 +3088,8 @@
       "slug": "fifo-banana-og-live-rosin-3-5g"
     },
     {
-      "id": 206927245,
-      "name": "(2 Left!) Blackberry Fizz Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442910151_bcpunch.JPG",
-      "image_local": "206927245.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "black-cherry-punch-cured-resin-1g"
-    },
-    {
-      "id": 187943212,
-      "name": "(2 Left!) LA Kush Cake Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444742971_IMG_4358.JPG",
-      "image_local": "187943212.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "la-kush-cake-cured-resin-1g-6c2065cc-2fe4-4222-b37e-8bd9660e3ac6"
-    },
-    {
       "id": 229826566,
-      "name": "(4 Left!) Royal Jelly Cured Resin 1G",
+      "name": "(3 Left!) Royal Jelly Cured Resin 1G",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -3766,7 +3586,7 @@
     },
     {
       "id": 232562757,
-      "name": "(3 left!) Sour Blueberry 1g Cured Resin",
+      "name": "(1 left!) Sour Blueberry 1g Cured Resin",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
