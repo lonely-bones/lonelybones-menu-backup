@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 252,
-    "updated_at": "2026-10-02T13:32:39.914Z",
+    "total_menu_items": 251,
+    "updated_at": "2026-10-02T15:02:36.802Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -356,7 +356,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 6,
+      "reviews_count": 7,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443461571_pinkstar.JPG",
       "image_local": "216163724.jpg",
       "prices": [
@@ -1844,29 +1844,6 @@
       "slug": "tourma-cannabis-gmo-cured-resin-1g-jar"
     },
     {
-      "id": 229815158,
-      "name": "GG4 | Solventless | Rosin | 1g",
-      "category": "Concentrate",
-      "edge_category": "Rosin",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444279990_GG4_1gram_IPK.JPG",
-      "image_local": "229815158.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 35.0,
-          "on_sale": false,
-          "original_price": 35.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "ipk-megaraw-gg4-live-hash-rosin-1g"
-    },
-    {
       "id": 198745874,
       "name": "Lonely Bones: 5 Mix and Match THC Distillate 1G Screw ON Thread $75",
       "category": "Concentrate",
@@ -2092,6 +2069,35 @@
       "slug": "lonely-bones-strawberry-cheesecake-1g-thc-distillate-5-10-thread"
     },
     {
+      "id": 204253531,
+      "name": "Strawberry Diesel Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441626496_blue_runtz.JPG",
+      "image_local": "204253531.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "blue-runtz-cured-resin-14g-baller"
+    },
+    {
       "id": 207705799,
       "name": "Ice Cream Cake 1g Cured Resin",
       "category": "Concentrate",
@@ -2294,6 +2300,29 @@
       "slug": "lonely-bones-20-mix-and-match-thc-distillate-1g-5-10-thread-260"
     },
     {
+      "id": 220446102,
+      "name": "Mix and match any 8ths of Live Rosin for a $350",
+      "category": "Concentrate",
+      "edge_category": "Rosin",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442347167_laughinbuddha.JPG",
+      "image_local": "220446102.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "mix-and-match-any-8ths-of-live-rosin-for-a-350"
+    },
+    {
       "id": 214519692,
       "name": "Pink Starburst #36 Live Rosin 1G",
       "category": "Concentrate",
@@ -2315,35 +2344,6 @@
       ],
       "current_deal_title": null,
       "slug": "blue-zushi-live-rosin-1g"
-    },
-    {
-      "id": 211797764,
-      "name": "(Only 1 Left) White Fire Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441361048_sdawg14.JPG",
-      "image_local": "211797764.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "sherbdawg-cured-resin-14g-baller"
     },
     {
       "id": 207912334,
@@ -2373,6 +2373,29 @@
       ],
       "current_deal_title": null,
       "slug": "animal-cookies-cured-resin-14g-baller"
+    },
+    {
+      "id": 229826673,
+      "name": "Gelato Cookies Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280854_IMG_4300.JPG",
+      "image_local": "229826673.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "blueberry-runtz-cured-resin-1g"
     },
     {
       "id": 198745568,
@@ -2899,29 +2922,6 @@
       ],
       "current_deal_title": null,
       "slug": "strawberry-milk-1g-thc-distillate-penjamin"
-    },
-    {
-      "id": 220446102,
-      "name": "Mix and match any 8ths of Live Rosin for a $350",
-      "category": "Concentrate",
-      "edge_category": "Rosin",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442347167_laughinbuddha.JPG",
-      "image_local": "220446102.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "mix-and-match-any-8ths-of-live-rosin-for-a-350"
     },
     {
       "id": 220309893,
@@ -3519,47 +3519,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-girl-scout-cookie-1g-thc-distillate-disposable"
-    },
-    {
-      "id": 216792358,
-      "name": "*NEW!* FIFO: Point Break Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442346909_pointbreak.JPG",
-      "image_local": "216792358.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "point-break-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 223152239,
