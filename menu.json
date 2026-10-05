@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 247,
-    "updated_at": "2026-10-03T15:10:00.045Z",
+    "total_menu_items": 243,
+    "updated_at": "2026-10-05T14:09:06.591Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -430,47 +430,6 @@
       "slug": "sticky-rice-smalls"
     },
     {
-      "id": 184388988,
-      "name": "Koala Tea Grows: Tortuga Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.9,
-      "reviews_count": 11,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438417054_dlishssy.jpeg",
-      "image_local": "184388988.jpeg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-koala-tea-grows-d-lish-smalls"
-    },
-    {
       "id": 163540330,
       "name": "Koala Tea Grows: RS-1000 Smalls",
       "category": "Indica",
@@ -510,47 +469,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-grows-rs-1000"
-    },
-    {
-      "id": 181644973,
-      "name": "*$60/OZ* Garlic Breath Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436999387_Lemon_Cherry_Garlic.jpeg",
-      "image_local": "181644973.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lemon-cherry-garlic-smalls"
     },
     {
       "id": 225734452,
@@ -881,6 +799,47 @@
       "slug": "superboof-smalls"
     },
     {
+      "id": 233203870,
+      "name": "*1 Ounce Left* Black Ice (Black Domina x White Widow)",
+      "category": "Indica",
+      "edge_category": "Buds",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444760377_black_ice.JPG",
+      "image_local": "233203870.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "black-ice-black-domina-x-white-widow"
+    },
+    {
       "id": 233661834,
       "name": "Banana Taffy Smalls",
       "category": "Indica",
@@ -920,47 +879,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "banana-taffy-smalls"
-    },
-    {
-      "id": 233203870,
-      "name": "Black Ice (Black Domina x White Widow)",
-      "category": "Indica",
-      "edge_category": "Buds",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444760377_black_ice.JPG",
-      "image_local": "233203870.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "black-ice-black-domina-x-white-widow"
     },
     {
       "id": 233662175,
@@ -2748,29 +2666,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-strawbery-guava-1g-thc-distillate-screw-on-thread"
-    },
-    {
-      "id": 208617574,
-      "name": "Lonely Bones: Green Crack 1G THC Distillate Penjamin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442922925_singledispo.jpg",
-      "image_local": "208617574.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "green-crack-1g-thc-distillate-penjamin"
     },
     {
       "id": 186966387,
@@ -5075,35 +4970,6 @@
       "slug": "tricho-jordan-cured-resin-14g-baller"
     },
     {
-      "id": 193050080,
-      "name": "Lonely Bones: Ready to Roll",
-      "category": "Indica",
-      "edge_category": "Ground",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 91,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
-      "image_local": "193050080.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-ready-to-roll"
-    },
-    {
       "id": 212117143,
       "name": "Cadillac LIVE 2g Disposable - Mango Haze (S) X Durban Poison (S)",
       "category": "Concentrate",
@@ -5955,6 +5821,35 @@
       "slug": "lonely-bones-dantes-inferno-1g-cured-resin-pen"
     },
     {
+      "id": 193050080,
+      "name": "Lonely Bones: Ready to Roll",
+      "category": "Indica",
+      "edge_category": "Ground",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 91,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
+      "image_local": "193050080.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "lonely-bones-ready-to-roll"
+    },
+    {
       "id": 185241360,
       "name": "Lonely Bones: 10MG Hash Rosin (Full Spectrum) Assorted Gummies 100MG Per pa",
       "category": "Edible",
@@ -6620,29 +6515,6 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-infused-pre-roll-karmel-kutt-throat-x-tokyo-fuzz-cured-resin"
-    },
-    {
-      "id": 228154015,
-      "name": "Littlefield Confections Tincture \u2014 1,200mg CBD : 1,200mg CBG : 1,200mg THC",
-      "category": "Tincture",
-      "edge_category": "Tinctures",
-      "top_category": "Wellness",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/products/002/564/108/avatar/1784811496-photo_2026-07-23_08-39-54.jpeg",
-      "image_local": "228154015.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "littlefield-confections-tincture-1-200mg-cbd-1-200mg-cbg-1-200mg-thc"
     },
     {
       "id": 228154021,
