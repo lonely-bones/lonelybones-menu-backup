@@ -1,13 +1,54 @@
 {
   "meta": {
-    "total_menu_items": 243,
-    "updated_at": "2026-10-05T14:09:06.591Z",
+    "total_menu_items": 242,
+    "updated_at": "2026-10-06T14:03:03.006Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
     "has_taxes_included": false
   },
   "products": [
+    {
+      "id": 226901391,
+      "name": "Northern Terps: Hash Burger Live Rosin 3.5G",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909676_new_hash_burg.JPG",
+      "image_local": "226901391.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-hash-burger-live-rosin-3-5g"
+    },
     {
       "id": 233621712,
       "name": "*Pure Sativa!* Tangerine Sunrise",
@@ -2714,47 +2755,6 @@
       "slug": "strawberry-milk-1g-thc-distillate-penjamin"
     },
     {
-      "id": 220309893,
-      "name": "Norhtern Terps: Starburst #36 Live Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442887424_hbmints.JPG",
-      "image_local": "220309893.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "hubba-bubba-mints-live-rosin-3-5g-baller"
-    },
-    {
       "id": 226905626,
       "name": "Northern Terps: JMO AKA Garlic Jelly Live Hash Rosin 3.5G Baller",
       "category": "Concentrate",
@@ -2837,17 +2837,17 @@
       "slug": "fifo-banana-og-live-rosin-3-5g"
     },
     {
-      "id": 220450964,
-      "name": "*Only 1 left* FIFO: Miracle Mints Live Hash Rosin 3.5G Baller",
+      "id": 226909043,
+      "name": "Northern Terps: Z- Marker Live Hash Rosin 3.5G Baller",
       "category": "Concentrate",
       "edge_category": "Cold Cure Badder",
       "top_category": "Concentrates",
-      "genetics": "Hybrid",
+      "genetics": null,
       "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442912486_miracle_mint.JPG",
-      "image_local": "220450964.jpg",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443910132_zmarker.JPG",
+      "image_local": "226909043.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -2875,7 +2875,7 @@
         }
       ],
       "current_deal_title": null,
-      "slug": "miracle-mints-live-hash-rosin-3-5g-baller"
+      "slug": "northern-terps-z-marker-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 195351339,
@@ -4738,6 +4738,47 @@
       "slug": "mix-any-28g-s-of-live-rosin-for-750"
     },
     {
+      "id": 220309893,
+      "name": "Norhtern Terps: Starburst #36 Live Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442887424_hbmints.JPG",
+      "image_local": "220309893.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "hubba-bubba-mints-live-rosin-3-5g-baller"
+    },
+    {
       "id": 220310353,
       "name": "Northern Terps: Guava Tangie Live Rosin 1G",
       "category": "Concentrate",
@@ -4784,47 +4825,6 @@
       "slug": "northern-terps-hash-burger-live-rosin-1g"
     },
     {
-      "id": 226901391,
-      "name": "Northern Terps: Hash Burger Live Rosin 3.5G",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909676_new_hash_burg.JPG",
-      "image_local": "226901391.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-hash-burger-live-rosin-3-5g"
-    },
-    {
       "id": 225945600,
       "name": "Northern Terps: Papaya Live Rosin 1G",
       "category": "Concentrate",
@@ -4846,47 +4846,6 @@
       ],
       "current_deal_title": null,
       "slug": "ipk-megaraw-orignal-glue-live-rosin-1g"
-    },
-    {
-      "id": 226909043,
-      "name": "Northern Terps: Z- Marker Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443910132_zmarker.JPG",
-      "image_local": "226909043.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-z-marker-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 206340329,
