@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 242,
-    "updated_at": "2026-10-06T14:03:03.006Z",
+    "total_menu_items": 240,
+    "updated_at": "2026-10-06T21:13:52.893Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -348,47 +348,6 @@
       "slug": "koala-tea-grows-zoltan-smalls"
     },
     {
-      "id": 216163724,
-      "name": "Koala Tea Grows: Pink Starburst Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 7,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443461571_pinkstar.JPG",
-      "image_local": "216163724.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "brand-new-pink-starburst-smalls"
-    },
-    {
       "id": 150786172,
       "name": "Koala Tea Grows: Patronus Smalls",
       "category": "Indica",
@@ -717,6 +676,47 @@
       "slug": "space-candy-smalls"
     },
     {
+      "id": 227762150,
+      "name": "(1 OZ left!) Koala Tea Grows: Permanet Marker Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444023169_perm_mark.JPG",
+      "image_local": "227762150.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-permanet-marker-smalls"
+    },
+    {
       "id": 233622019,
       "name": "Candy Land Smalls",
       "category": "Indica",
@@ -756,47 +756,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "candy-land-smalls-8e2633ef-9f97-48dd-a1c7-2b7d02665d7d"
-    },
-    {
-      "id": 227762150,
-      "name": "Koala Tea Grows: Permanet Marker Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444023169_perm_mark.JPG",
-      "image_local": "227762150.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-permanet-marker-smalls"
     },
     {
       "id": 152768907,
@@ -2021,47 +1980,6 @@
       "slug": "lonely-bones-zkittles-thc-distillate-disposable"
     },
     {
-      "id": 226903593,
-      "name": "Northern Terps: Guava Tangie Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 4,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909837_guava_t.JPG",
-      "image_local": "226903593.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-guava-tangie-live-hash-rosin-3-5g-baller"
-    },
-    {
       "id": 198745227,
       "name": "Lonely Bones: Chocolate Dipped Bananas 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -2083,6 +2001,29 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-birthday-cake-1g-thc-distillate-5-10-thread"
+    },
+    {
+      "id": 212121141,
+      "name": "Cadillac: Live Liquid Diamond Assorted FIVE pack 2G Penjamin",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441440750_Assorted_Image_for_Caddy.jpg",
+      "image_local": "212121141.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cadillac-live-liquid-diamond-assorted-five-pack-2g-penjamin"
     },
     {
       "id": 211716405,
@@ -2481,29 +2422,6 @@
       ],
       "current_deal_title": null,
       "slug": "blueberry-runtz-14g-cured-resin-baller-jar"
-    },
-    {
-      "id": 212121141,
-      "name": "Cadillac: Live Liquid Diamond Assorted FIVE pack 2G Penjamin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441440750_Assorted_Image_for_Caddy.jpg",
-      "image_local": "212121141.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-assorted-five-pack-2g-penjamin"
     },
     {
       "id": 212117514,
