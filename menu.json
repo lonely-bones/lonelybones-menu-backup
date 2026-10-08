@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 240,
-    "updated_at": "2026-10-06T21:13:52.893Z",
+    "total_menu_items": 246,
+    "updated_at": "2026-10-07T20:54:45.592Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -57,8 +57,8 @@
       "top_category": "Flower",
       "genetics": "Sativa",
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
+      "rating": 2.0,
+      "reviews_count": 1,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444829572_Tangerine_Sunrise.JPG",
       "image_local": "233621712.jpg",
       "prices": [
@@ -184,6 +184,47 @@
       "slug": "gmo"
     },
     {
+      "id": 204560442,
+      "name": "*$60/OZ* GR Farm Gas Face Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 21,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444977359_Gas_Face_60.JPG",
+      "image_local": "204560442.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "lonely-bones-gas-face"
+    },
+    {
       "id": 173746062,
       "name": "Koala Tea Grows: Liquid Hot Magma Smalls",
       "category": "Indica",
@@ -232,8 +273,8 @@
       "top_category": "Flower",
       "genetics": null,
       "thc_pct": 0.0,
-      "rating": 4.3,
-      "reviews_count": 3,
+      "rating": 4.5,
+      "reviews_count": 4,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440152717_Fire_AF_new.JPG",
       "image_local": "192017967.jpg",
       "prices": [
@@ -389,6 +430,47 @@
       "slug": "method-maine-black-patronus-smalls"
     },
     {
+      "id": 210992006,
+      "name": "*$60/OZ* GR Farms : Pink Guava Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444977379_Pink_Guava_60.JPG",
+      "image_local": "210992006.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "g-r-farms-zoap-smalls"
+    },
+    {
       "id": 190403400,
       "name": "Koala Tea Grows: Sticky Rice Smalls",
       "category": "Indica",
@@ -469,6 +551,129 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-grows-rs-1000"
+    },
+    {
+      "id": 213495274,
+      "name": "*$60/OZ* GR Farms: Trop Cherry Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.7,
+      "reviews_count": 6,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715771_Trop_Cherry.JPG",
+      "image_local": "213495274.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "g-r-farms-trop-cherry-smalls"
+    },
+    {
+      "id": 181644973,
+      "name": "*$60/OZ* GR Farm Garlic Breath Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444977036_Garlic_Breath_60.JPG",
+      "image_local": "181644973.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "lemon-cherry-garlic-smalls"
+    },
+    {
+      "id": 176563287,
+      "name": "*$60/OZ* GR Farm Purple Ice Water Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444977353_Purple_Ice_Water_60.JPG",
+      "image_local": "176563287.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "purple-ice-water-smalls"
     },
     {
       "id": 225734452,
@@ -717,6 +922,47 @@
       "slug": "koala-tea-grows-permanet-marker-smalls"
     },
     {
+      "id": 168998124,
+      "name": "*$60/OZ* GR Farms Cap Junky Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444977386_Cap_Junky_60.JPG",
+      "image_local": "168998124.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "enzy-farms-platinum-kush"
+    },
+    {
       "id": 233622019,
       "name": "Candy Land Smalls",
       "category": "Indica",
@@ -799,45 +1045,45 @@
       "slug": "superboof-smalls"
     },
     {
-      "id": 233203870,
-      "name": "*1 Ounce Left* Black Ice (Black Domina x White Widow)",
+      "id": 210992106,
+      "name": "*$60/OZ* GR Farms: Gush Mintz Smalls",
       "category": "Indica",
-      "edge_category": "Buds",
+      "edge_category": "Smalls",
       "top_category": "Flower",
       "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444760377_black_ice.JPG",
-      "image_local": "233203870.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441189548_Gush_Mintz_new.JPG",
+      "image_local": "210992106.jpg",
       "prices": [
         {
           "label": "1/8 oz",
-          "price": 15.0,
+          "price": 10.0,
           "on_sale": false,
-          "original_price": 15.0
+          "original_price": 10.0
         },
         {
           "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
           "price": 30.0,
           "on_sale": false,
           "original_price": 30.0
         },
         {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
           "label": "1 oz",
-          "price": 100.0,
+          "price": 60.0,
           "on_sale": false,
-          "original_price": 100.0
+          "original_price": 60.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "black-ice-black-domina-x-white-widow"
+      "slug": "g-r-farms-gush-mintz-smalls"
     },
     {
       "id": 233661834,
@@ -961,6 +1207,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "mimosa"
+    },
+    {
+      "id": 234522023,
+      "name": "*$60/OZ* GR Farms: Tropicana Cookies Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444977051_Tropicana_Cookies_60.JPG",
+      "image_local": "234522023.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "60-oz-gr-farms-tropicana-cookies-smalls"
     },
     {
       "id": 233662035,
@@ -4847,6 +5134,35 @@
       "slug": "tricho-jordan-cured-resin-14g-baller"
     },
     {
+      "id": 193050080,
+      "name": "Lonely Bones: Ready to Roll",
+      "category": "Indica",
+      "edge_category": "Ground",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 91,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
+      "image_local": "193050080.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "lonely-bones-ready-to-roll"
+    },
+    {
       "id": 212117143,
       "name": "Cadillac LIVE 2g Disposable - Mango Haze (S) X Durban Poison (S)",
       "category": "Concentrate",
@@ -5698,35 +6014,6 @@
       "slug": "lonely-bones-dantes-inferno-1g-cured-resin-pen"
     },
     {
-      "id": 193050080,
-      "name": "Lonely Bones: Ready to Roll",
-      "category": "Indica",
-      "edge_category": "Ground",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 91,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
-      "image_local": "193050080.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-ready-to-roll"
-    },
-    {
       "id": 185241360,
       "name": "Lonely Bones: 10MG Hash Rosin (Full Spectrum) Assorted Gummies 100MG Per pa",
       "category": "Edible",
@@ -6162,29 +6449,6 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-pinyatti-1g-pre-roll"
-    },
-    {
-      "id": 226059606,
-      "name": "Northern Terps: Rain Drop 1g Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226059606.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-rain-drop-1g-pre-roll"
     },
     {
       "id": 229861984,
