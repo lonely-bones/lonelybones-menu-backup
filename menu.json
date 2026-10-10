@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 252,
-    "updated_at": "2026-10-09T14:56:15.487Z",
+    "total_menu_items": 248,
+    "updated_at": "2026-10-10T13:39:02.469Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -144,7 +144,7 @@
     },
     {
       "id": 145008363,
-      "name": "(HALF OZ LEFT!) Tourma Cannabis: GMO",
+      "name": "*Fresh Batch!* Tourma Cannabis: GMO",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -2002,7 +2002,7 @@
       "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 4.9,
-      "reviews_count": 25,
+      "reviews_count": 26,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436555360_GMO_Baller.JPG",
       "image_local": "176406205.jpg",
       "prices": [
@@ -2075,29 +2075,6 @@
       "slug": "blue-runtz-cured-resin-14g-baller"
     },
     {
-      "id": 207705799,
-      "name": "Ice Cream Cake 1g Cured Resin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444870611_IMG_4398.JPG",
-      "image_local": "207705799.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "ice-cream-cake-1g-cured-resin"
-    },
-    {
       "id": 199254888,
       "name": "Lonely Bones: Fire AF Cured Resin Penjamin 1G",
       "category": "Concentrate",
@@ -2144,6 +2121,29 @@
       "slug": "lonely-bones-zkittles-thc-distillate-disposable"
     },
     {
+      "id": 220254209,
+      "name": "Sherbanger Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442879592_super_lemon_haze.JPG",
+      "image_local": "220254209.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "super-lemon-haze-cured-resin-1g"
+    },
+    {
       "id": 198745227,
       "name": "Lonely Bones: Chocolate Dipped Bananas 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -2165,29 +2165,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-birthday-cake-1g-thc-distillate-5-10-thread"
-    },
-    {
-      "id": 211716405,
-      "name": "*1 Left* Glitter Bomb Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442624655_animal_face_1g.JPG",
-      "image_local": "211716405.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "animal-face-cured-resin-1g"
     },
     {
       "id": 212121141,
@@ -2858,47 +2835,6 @@
       ],
       "current_deal_title": null,
       "slug": "strawberry-milk-1g-thc-distillate-penjamin"
-    },
-    {
-      "id": 226905626,
-      "name": "Northern Terps: JMO AKA Garlic Jelly Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909966_JMO.JPG",
-      "image_local": "226905626.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-jmo-aka-garlic-jelly-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 223657946,
@@ -5022,29 +4958,6 @@
       "slug": "lonely-bones-ready-to-roll"
     },
     {
-      "id": 212117143,
-      "name": "Cadillac LIVE 2g Disposable - Mango Haze (S) X Durban Poison (S)",
-      "category": "Concentrate",
-      "edge_category": "Disposable",
-      "top_category": "Vape Pens",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 4.3,
-      "reviews_count": 10,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "212117143.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-mango-haze-x-durban-poison-2g-penjamin"
-    },
-    {
       "id": 185641461,
       "name": "Banana Bread | Disposable | 1g",
       "category": "Concentrate",
@@ -5250,29 +5163,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-mai-tai-1g-thc-distillate-screw-on-thread-4ceffa19-e79e-47ae-9721-1182914c60e1"
-    },
-    {
-      "id": 212117889,
-      "name": "Cadillac LIVE 2g Disposable - Larry Breath (I) x Crunch Berries (H)",
-      "category": "Concentrate",
-      "edge_category": "Disposable",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 4.9,
-      "reviews_count": 9,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "212117889.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-larry-breath-x-crunch-berries-2g-penjamin"
     },
     {
       "id": 187051292,
