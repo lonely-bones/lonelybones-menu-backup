@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 248,
-    "updated_at": "2026-10-10T13:39:02.469Z",
+    "total_menu_items": 253,
+    "updated_at": "2026-10-11T14:06:03.844Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -185,7 +185,7 @@
     },
     {
       "id": 204560442,
-      "name": "*$60/OZ* GR Farm Gas Face Smalls",
+      "name": "*1OZ Left* GR Farm Gas Face Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -389,6 +389,47 @@
       "slug": "koala-tea-grows-zoltan-smalls"
     },
     {
+      "id": 223944509,
+      "name": "Tourma Cannabis: Royal Jelly",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443510386_royal_jewlly.JPG",
+      "image_local": "223944509.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matter-royal-jelly"
+    },
+    {
       "id": 150786172,
       "name": "Koala Tea Grows: Patronus Smalls",
       "category": "Indica",
@@ -510,6 +551,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "sticky-rice-smalls"
+    },
+    {
+      "id": 182957686,
+      "name": "Tourma: Apple Fritter",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443634385_frit.JPG",
+      "image_local": "182957686.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-tourma-apple-fritter"
     },
     {
       "id": 163540330,
@@ -1086,47 +1168,6 @@
       "slug": "london-cheesecake-smalls"
     },
     {
-      "id": 233614968,
-      "name": "(1oz Left) Smoke Proper: Capoeira",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444828585_Capoeira_100.JPG",
-      "image_local": "233614968.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "smoke-proper-capoeira"
-    },
-    {
       "id": 234522023,
       "name": "*$60/OZ* GR Farms: Tropicana Cookies Smalls",
       "category": "Indica",
@@ -1209,6 +1250,47 @@
       "slug": "lemon-cherry-gelato-smalls-68361e78-2d17-4c8e-af25-ac87d3195625"
     },
     {
+      "id": 234723617,
+      "name": "*Wild nose* Tourma : Durban Poison",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445017687_Durban_Poison_140.JPG",
+      "image_local": "234723617.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 70.0,
+          "on_sale": false,
+          "original_price": 70.0
+        },
+        {
+          "label": "1 oz",
+          "price": 140.0,
+          "on_sale": false,
+          "original_price": 140.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "wild-nose-tourma-durban-poison"
+    },
+    {
       "id": 233662035,
       "name": "Black Cherry Punch Smalls",
       "category": "Indica",
@@ -1248,6 +1330,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "black-cherry-punch-smalls-ee18742f-0dee-47ad-8d1c-e7e209b4ee21"
+    },
+    {
+      "id": 233614968,
+      "name": "Fruit Loops OG",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444828585_Capoeira_100.JPG",
+      "image_local": "233614968.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "smoke-proper-capoeira"
     },
     {
       "id": 233662475,
@@ -1775,29 +1898,6 @@
       "slug": "lonely-bones-super-lemon-mac-1g-thc-distillate-screw-on-thread"
     },
     {
-      "id": 163167402,
-      "name": "GMO | Solventless | Rosin | 1g",
-      "category": "Concentrate",
-      "edge_category": "Rosin",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 6,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442881883_gmonew1g.JPG",
-      "image_local": "163167402.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "tourma-cannabis-gmo-live-rosin-1g"
-    },
-    {
       "id": 157916459,
       "name": "GMO | Solvent | 1g",
       "category": "Concentrate",
@@ -2282,6 +2382,47 @@
       "slug": "blue-zushi-live-rosin-1g"
     },
     {
+      "id": 223653053,
+      "name": "Cherry Pound Cake Live Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443468557_orange_mintz.JPG",
+      "image_local": "223653053.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "in-house-favorite-fifo-orange-mints-live-rosin-3-5g-baller"
+    },
+    {
       "id": 207912334,
       "name": "Dosi Punch Cured Resin 14G Baller",
       "category": "Concentrate",
@@ -2694,7 +2835,7 @@
     },
     {
       "id": 225945490,
-      "name": "IPK/MegaRaw: Grease Bucket Live Rosin 1G",
+      "name": "Grease Bucket Live Rosin 1G",
       "category": "Concentrate",
       "edge_category": "Cold Cure Badder",
       "top_category": "Concentrates",
@@ -2963,6 +3104,47 @@
       ],
       "current_deal_title": null,
       "slug": "bolo-runtz-cured-resin-14g-baller-jar"
+    },
+    {
+      "id": 204843226,
+      "name": "FIFO: Tallymon Live Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441258462_grapes_and_c.JPG",
+      "image_local": "204843226.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "grapes-cream-live-rosin-3-5g-baller"
     },
     {
       "id": 219579728,
@@ -3517,6 +3699,47 @@
       ],
       "current_deal_title": null,
       "slug": "fifo-forbidden-cake-live-rosin"
+    },
+    {
+      "id": 233458633,
+      "name": "FIFO: Forbidden Fruit Cake Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442346975_bloodhoney.JPG",
+      "image_local": "233458633.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "fifo-forbidden-fruit-cake-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 211333318,
@@ -5832,6 +6055,29 @@
       "slug": "cadillac-pre-roll-1g-rainbow-beltz-i"
     },
     {
+      "id": 234637166,
+      "name": "Cadillac Pre-Roll 1g - Trouser Snake (S)",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444999308_glasstip_pre_roll.jpg",
+      "image_local": "234637166.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 7.0,
+          "on_sale": false,
+          "original_price": 7.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cadillac-cannabis-trouser-snake-1g-glass-tip-pre-roll"
+    },
+    {
       "id": 223560220,
       "name": "Any Assorted Pre Rolls: 5-Pack Mix and Match for $25!",
       "category": "Preroll",
@@ -5922,29 +6168,6 @@
       ],
       "current_deal_title": null,
       "slug": "coco-banana-1g-pre-roll"
-    },
-    {
-      "id": 234637166,
-      "name": "Cadillac Cannabis: Trouser Snake 1g Glass Tip Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444999308_glasstip_pre_roll.jpg",
-      "image_local": "234637166.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 7.0,
-          "on_sale": false,
-          "original_price": 7.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-cannabis-trouser-snake-1g-glass-tip-pre-roll"
     },
     {
       "id": 233941425,
