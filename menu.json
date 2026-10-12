@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 253,
-    "updated_at": "2026-10-11T14:06:03.844Z",
+    "total_menu_items": 250,
+    "updated_at": "2026-10-12T13:35:41.310Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -50,45 +50,45 @@
       "slug": "northern-terps-hash-burger-live-rosin-3-5g"
     },
     {
-      "id": 233621712,
-      "name": "*Pure Sativa!* Tangerine Sunrise",
+      "id": 234723617,
+      "name": "*Wild nose* Tourma : Durban Poison",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
       "genetics": "Sativa",
       "thc_pct": 0.0,
-      "rating": 3.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444829572_Tangerine_Sunrise.JPG",
-      "image_local": "233621712.jpg",
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445017687_Durban_Poison_140.JPG",
+      "image_local": "234723617.jpg",
       "prices": [
         {
           "label": "1/8 oz",
-          "price": 15.0,
+          "price": 20.0,
           "on_sale": false,
-          "original_price": 15.0
+          "original_price": 20.0
         },
         {
           "label": "1/4 oz",
-          "price": 30.0,
+          "price": 40.0,
           "on_sale": false,
-          "original_price": 30.0
+          "original_price": 40.0
         },
         {
           "label": "1/2 oz",
-          "price": 50.0,
+          "price": 70.0,
           "on_sale": false,
-          "original_price": 50.0
+          "original_price": 70.0
         },
         {
           "label": "1 oz",
-          "price": 100.0,
+          "price": 140.0,
           "on_sale": false,
-          "original_price": 100.0
+          "original_price": 140.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "pure-sativa-tangerine-sunrise"
+      "slug": "wild-nose-tourma-durban-poison"
     },
     {
       "id": 168556367,
@@ -349,7 +349,7 @@
     },
     {
       "id": 182032186,
-      "name": "*Fire!* Koala Tea Grows: Cadillac Runtz Smalls",
+      "name": "*1/2 Ounce Left* Koala Tea Grows: Cadillac Runtz Smalls",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -431,7 +431,7 @@
     },
     {
       "id": 150786172,
-      "name": "Koala Tea Grows: Patronus Smalls",
+      "name": "*1/2 Ounce Left* Koala Tea Grows: Patronus Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -1045,6 +1045,47 @@
       "slug": "superboof-smalls"
     },
     {
+      "id": 233621712,
+      "name": "Tangerine Sunrise",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 3.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444829572_Tangerine_Sunrise.JPG",
+      "image_local": "233621712.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "pure-sativa-tangerine-sunrise"
+    },
+    {
       "id": 210992106,
       "name": "*$60/OZ* GR Farms: Gush Mintz Smalls",
       "category": "Indica",
@@ -1248,47 +1289,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "lemon-cherry-gelato-smalls-68361e78-2d17-4c8e-af25-ac87d3195625"
-    },
-    {
-      "id": 234723617,
-      "name": "*Wild nose* Tourma : Durban Poison",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445017687_Durban_Poison_140.JPG",
-      "image_local": "234723617.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 70.0,
-          "on_sale": false,
-          "original_price": 70.0
-        },
-        {
-          "label": "1 oz",
-          "price": 140.0,
-          "on_sale": false,
-          "original_price": 140.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "wild-nose-tourma-durban-poison"
     },
     {
       "id": 233662035,
@@ -3387,35 +3387,6 @@
       ],
       "current_deal_title": null,
       "slug": "purple-ice-water-1g-cured-resin"
-    },
-    {
-      "id": 186584432,
-      "name": "SuperBoof Cherry Cured Resin 14G Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287060_super_boof_cherry.JPG",
-      "image_local": "186584432.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "staff-favorite-super-boof-cured-resin-14g-baller"
     },
     {
       "id": 224516565,
@@ -6108,8 +6079,8 @@
       "top_category": "Pre-Rolls",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
+      "rating": 5.0,
+      "reviews_count": 1,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805956_northern_terps_5_pack.JPG",
       "image_local": "226060343.jpg",
       "prices": [
@@ -6145,6 +6116,52 @@
       ],
       "current_deal_title": null,
       "slug": "candy-fusion-1g-pre-roll"
+    },
+    {
+      "id": 234636564,
+      "name": "Royal Rush: Tang Punch 2G Blunt",
+      "category": "Preroll",
+      "edge_category": "Blunts",
+      "top_category": "Pre-Rolls",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444999206_royal_septor.JPG",
+      "image_local": "234636564.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "royal-rush-tang-punch-2g-blunt"
+    },
+    {
+      "id": 234636737,
+      "name": "Royal Rush: Zerealz 2G Blunt",
+      "category": "Preroll",
+      "edge_category": "Blunts",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444999206_royal_septor.JPG",
+      "image_local": "234636737.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "royal-rush-zerealz-2g-blunt"
     },
     {
       "id": 145987683,
@@ -6239,29 +6256,6 @@
       "slug": "northern-terps-pinyatti-1g-pre-roll"
     },
     {
-      "id": 229861984,
-      "name": "Northern Terps: Russian Assassin 1g Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
-      "image_local": "229861984.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-tiger-balm-1g-pre-roll"
-    },
-    {
       "id": 226060075,
       "name": "Northern Terps: Sour Sherb 1g Pre Roll",
       "category": "Preroll",
@@ -6308,29 +6302,6 @@
       "slug": "royal-rush-banana-cream-x-jealousy-2g-blunt"
     },
     {
-      "id": 234636564,
-      "name": "Royal Rush: Tang Punch 2G Blunt",
-      "category": "Preroll",
-      "edge_category": "Blunts",
-      "top_category": "Pre-Rolls",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444999206_royal_septor.JPG",
-      "image_local": "234636564.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "royal-rush-tang-punch-2g-blunt"
-    },
-    {
       "id": 208660284,
       "name": "Royal Rush: White Truffle Cake 1g Pre-Roll",
       "category": "Preroll",
@@ -6352,29 +6323,6 @@
       ],
       "current_deal_title": null,
       "slug": "royal-rush-runtz-wedding-1g-pre-roll"
-    },
-    {
-      "id": 234636737,
-      "name": "Royal Rush: Zerealz 2G Blunt",
-      "category": "Preroll",
-      "edge_category": "Blunts",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444999206_royal_septor.JPG",
-      "image_local": "234636737.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "royal-rush-zerealz-2g-blunt"
     },
     {
       "id": 185241360,
@@ -6683,8 +6631,8 @@
       "top_category": "Infused Pre-rolls",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
+      "rating": 5.0,
+      "reviews_count": 1,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
       "image_local": "230026973.jpg",
       "prices": [
@@ -6697,29 +6645,6 @@
       ],
       "current_deal_title": null,
       "slug": "50-northern-terps-infused-pre-roll-five-pack"
-    },
-    {
-      "id": 226280666,
-      "name": "Northern Terps: Infused Pre Roll Permafrost X Permaforst Cured Resin",
-      "category": "Hybrid",
-      "edge_category": "Infused Joints",
-      "top_category": "Infused Pre-rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226280666.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 12.0,
-          "on_sale": false,
-          "original_price": 12.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-infused-pre-roll-permafrost-x-permaforst-cured-resin"
     },
     {
       "id": 229862447,
