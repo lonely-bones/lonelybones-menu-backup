@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 250,
-    "updated_at": "2026-10-12T13:35:41.310Z",
+    "total_menu_items": 255,
+    "updated_at": "2026-10-13T13:49:49.184Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -348,47 +348,6 @@
       "slug": "new-cannaisseur-grape-gas"
     },
     {
-      "id": 182032186,
-      "name": "*1/2 Ounce Left* Koala Tea Grows: Cadillac Runtz Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 10,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442338852_caddy.JPG",
-      "image_local": "182032186.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-zoltan-smalls"
-    },
-    {
       "id": 223944509,
       "name": "Tourma Cannabis: Royal Jelly",
       "category": "Indica",
@@ -428,6 +387,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "living-matter-royal-jelly"
+    },
+    {
+      "id": 213495274,
+      "name": "*$60/OZ* GR Farms: Trop Cherry Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.7,
+      "reviews_count": 6,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715771_Trop_Cherry.JPG",
+      "image_local": "213495274.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "g-r-farms-trop-cherry-smalls"
     },
     {
       "id": 150786172,
@@ -633,47 +633,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-grows-rs-1000"
-    },
-    {
-      "id": 213495274,
-      "name": "*$60/OZ* GR Farms: Trop Cherry Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.7,
-      "reviews_count": 6,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715771_Trop_Cherry.JPG",
-      "image_local": "213495274.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "g-r-farms-trop-cherry-smalls"
     },
     {
       "id": 181644973,
@@ -2175,6 +2134,29 @@
       "slug": "blue-runtz-cured-resin-14g-baller"
     },
     {
+      "id": 229826673,
+      "name": "Gelato Cookies Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280854_IMG_4300.JPG",
+      "image_local": "229826673.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "blueberry-runtz-cured-resin-1g"
+    },
+    {
       "id": 199254888,
       "name": "Lonely Bones: Fire AF Cured Resin Penjamin 1G",
       "category": "Concentrate",
@@ -2452,17 +2434,17 @@
       "slug": "animal-cookies-cured-resin-14g-baller"
     },
     {
-      "id": 229826673,
-      "name": "Gelato Cookies Cured Resin 1G",
+      "id": 182309498,
+      "name": "Dosido Cured Resin 1G",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
-      "genetics": "Hybrid",
+      "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280854_IMG_4300.JPG",
-      "image_local": "229826673.jpg",
+      "reviews_count": 5,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445039971_dosido.JPG",
+      "image_local": "182309498.jpg",
       "prices": [
         {
           "label": "1 g",
@@ -2472,7 +2454,7 @@
         }
       ],
       "current_deal_title": null,
-      "slug": "blueberry-runtz-cured-resin-1g"
+      "slug": "dosi-punch-cured-resin-1g"
     },
     {
       "id": 220254188,
@@ -2588,6 +2570,35 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-lemon-cherry-gelato-1g-thc-distillate-disposable"
+    },
+    {
+      "id": 233099117,
+      "name": "Purple Ice Water 1g Cured Resin",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444742992_IMG_4359.JPG",
+      "image_local": "233099117.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "purple-ice-water-1g-cured-resin"
     },
     {
       "id": 218361637,
@@ -3147,29 +3158,6 @@
       "slug": "grapes-cream-live-rosin-3-5g-baller"
     },
     {
-      "id": 219579728,
-      "name": "Fire AF Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442775999_Blood_Honey.JPG",
-      "image_local": "219579728.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "fifo-blood-honey-cured-resin-14g-baller"
-    },
-    {
       "id": 222437550,
       "name": "Ghost Train Haze Cured Resin 1G",
       "category": "Concentrate",
@@ -3191,6 +3179,35 @@
       ],
       "current_deal_title": null,
       "slug": "grape-ape-cured-resin-1g"
+    },
+    {
+      "id": 205628788,
+      "name": "Girl Scout Cookie 1g Cured Resin",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445039972_girl_scout_cookie.JPG",
+      "image_local": "205628788.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "girl-scout-cookie-1g-cured-resin"
     },
     {
       "id": 209499133,
@@ -3358,35 +3375,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-strawberry-cough-1g-thc-distillate-penjamin"
-    },
-    {
-      "id": 233099117,
-      "name": "Purple Ice Water 1g Cured Resin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444742992_IMG_4359.JPG",
-      "image_local": "233099117.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "purple-ice-water-1g-cured-resin"
     },
     {
       "id": 224516565,
@@ -5071,6 +5059,52 @@
       "slug": "z-pie-cured-resin-14g-baller"
     },
     {
+      "id": 234837899,
+      "name": "Sherbdawg Cured Resin 14g Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445040027_sherbdawg.JPG",
+      "image_local": "234837899.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "sherbdawg-cured-resin-14g-baller-jar"
+    },
+    {
+      "id": 234837840,
+      "name": "Smarties Cured Resin 1g",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445039974_smarties.JPG",
+      "image_local": "234837840.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "smarties-cured-resin-1g"
+    },
+    {
       "id": 209696858,
       "name": "Tourma Cannabis: Kush Mints x The Soap Live Rosin 1G",
       "category": "Concentrate",
@@ -5957,29 +5991,6 @@
       "slug": "lonely-bones-dantes-inferno-1g-cured-resin-pen"
     },
     {
-      "id": 229861472,
-      "name": "Blue Maple Syrup (Preroll) 1g",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
-      "image_local": "229861472.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-tribute-1g-pre-roll"
-    },
-    {
       "id": 234636927,
       "name": "Cadillac Pre-Roll 1g - Kimbo Glue (H)",
       "category": "Preroll",
@@ -6047,6 +6058,29 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-cannabis-trouser-snake-1g-glass-tip-pre-roll"
+    },
+    {
+      "id": 232301330,
+      "name": "Black Ice | Joints | 1g",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444622814_Northern_Terp_Preroll.jpeg",
+      "image_local": "232301330.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-black-ice-1g-pre-roll"
     },
     {
       "id": 223560220,
@@ -6233,6 +6267,52 @@
       "slug": "northern-terps-applescotti-1g-pre-roll"
     },
     {
+      "id": 226060189,
+      "name": "Northern Terps: Bon Bons 1g Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226060189.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-stay-puft-1g-pre-roll"
+    },
+    {
+      "id": 226060001,
+      "name": "Northern Terps: Illmonic 1g Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226060001.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-p-85-1g-pre-roll"
+    },
+    {
       "id": 229861753,
       "name": "Northern Terps: L.A. Kush Cake 1g Pre Roll",
       "category": "Preroll",
@@ -6277,6 +6357,29 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-sour-sherb-1g-pre-roll"
+    },
+    {
+      "id": 226059454,
+      "name": "Northern Terps: Spritzer 1g Pre roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226059454.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-karmel-kutt-throat-1g-pre-roll"
     },
     {
       "id": 234636693,
