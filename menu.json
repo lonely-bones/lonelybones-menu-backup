@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 257,
-    "updated_at": "2026-10-13T19:10:55.417Z",
+    "total_menu_items": 254,
+    "updated_at": "2026-10-14T20:46:02.119Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -182,47 +182,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "gmo"
-    },
-    {
-      "id": 204560442,
-      "name": "*1OZ Left* GR Farm Gas Face Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 21,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444977359_Gas_Face_60.JPG",
-      "image_local": "204560442.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-gas-face"
     },
     {
       "id": 207771314,
@@ -717,47 +676,6 @@
       "slug": "lemon-cherry-garlic-smalls"
     },
     {
-      "id": 159392442,
-      "name": "Wedding Pie Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444640606_NEW_Wedding_Pieeeee.JPG",
-      "image_local": "159392442.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "method-maine-wedding-pie-smalls"
-    },
-    {
       "id": 208663076,
       "name": "*NEW!* Gas Berry Smalls",
       "category": "Indica",
@@ -961,6 +879,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "space-candy-smalls"
+    },
+    {
+      "id": 159392442,
+      "name": "Wedding Pie Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444640606_NEW_Wedding_Pieeeee.JPG",
+      "image_local": "159392442.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "method-maine-wedding-pie-smalls"
     },
     {
       "id": 168998124,
@@ -1168,17 +1127,17 @@
       "slug": "banana-taffy-smalls"
     },
     {
-      "id": 233662175,
-      "name": "London Cheesecake Smalls",
+      "id": 233614968,
+      "name": "Fruit Loops OG",
       "category": "Indica",
-      "edge_category": "Smalls",
+      "edge_category": "Flower",
       "top_category": "Flower",
-      "genetics": "Indica",
+      "genetics": "Sativa",
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444836169_London_Cheesecake.JPG",
-      "image_local": "233662175.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444828585_Capoeira_100.JPG",
+      "image_local": "233614968.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -1206,7 +1165,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "london-cheesecake-smalls"
+      "slug": "smoke-proper-capoeira"
     },
     {
       "id": 234522023,
@@ -1248,47 +1207,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "60-oz-gr-farms-tropicana-cookies-smalls"
-    },
-    {
-      "id": 233661785,
-      "name": "*1/2 Ounce Left* Lemon Cherry Gelato Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444836109_Lemon_Cherry_Gelato_.JPG",
-      "image_local": "233661785.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lemon-cherry-gelato-smalls-68361e78-2d17-4c8e-af25-ac87d3195625"
     },
     {
       "id": 233662035,
@@ -1412,47 +1330,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "fifo-miracle-mints-smalls"
-    },
-    {
-      "id": 233614968,
-      "name": "Fruit Loops OG",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444828585_Capoeira_100.JPG",
-      "image_local": "233614968.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "smoke-proper-capoeira"
     },
     {
       "id": 233662475,
@@ -2487,6 +2364,29 @@
       "slug": "blue-zushi-live-rosin-1g"
     },
     {
+      "id": 218361637,
+      "name": "(1 left!) White Runtz Cured Resin 14G Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442586034_White_runtz_14G_new.JPG",
+      "image_local": "218361637.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "white-runtz-cured-resin-14g-baller-jar"
+    },
+    {
       "id": 223653053,
       "name": "Cherry Pound Cake Live Rosin 3.5G Baller",
       "category": "Concentrate",
@@ -2722,29 +2622,6 @@
       ],
       "current_deal_title": null,
       "slug": "purple-ice-water-1g-cured-resin"
-    },
-    {
-      "id": 218361637,
-      "name": "White Runtz Cured Resin 14G Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442586034_White_runtz_14G_new.JPG",
-      "image_local": "218361637.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "white-runtz-cured-resin-14g-baller-jar"
     },
     {
       "id": 164788352,
