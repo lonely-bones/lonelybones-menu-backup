@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 254,
-    "updated_at": "2026-10-14T20:46:02.119Z",
+    "total_menu_items": 252,
+    "updated_at": "2026-10-15T17:15:46.023Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -635,6 +635,47 @@
       "slug": "purple-ice-water-smalls"
     },
     {
+      "id": 208663076,
+      "name": "(1 OZ left!) Gas Berry Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444641133_NEW_Gas_Berry.JPG",
+      "image_local": "208663076.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-jungle-cake-smalls"
+    },
+    {
       "id": 181644973,
       "name": "*$60/OZ* GR Farm Garlic Breath Smalls",
       "category": "Indica",
@@ -674,47 +715,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "lemon-cherry-garlic-smalls"
-    },
-    {
-      "id": 208663076,
-      "name": "*NEW!* Gas Berry Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444641133_NEW_Gas_Berry.JPG",
-      "image_local": "208663076.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-jungle-cake-smalls"
     },
     {
       "id": 180051350,
@@ -1248,6 +1248,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "black-cherry-punch-smalls-ee18742f-0dee-47ad-8d1c-e7e209b4ee21"
+    },
+    {
+      "id": 229219008,
+      "name": "Blueberry Pie (Girl Scout Cookies X Blue Dream) Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208202_gush_m.JPG",
+      "image_local": "229219008.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matters-gush-mints-smalls"
     },
     {
       "id": 178370260,
@@ -2090,7 +2131,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 2,
+      "reviews_count": 3,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280854_IMG_4300.JPG",
       "image_local": "229826673.jpg",
       "prices": [
@@ -2362,29 +2403,6 @@
       ],
       "current_deal_title": null,
       "slug": "blue-zushi-live-rosin-1g"
-    },
-    {
-      "id": 218361637,
-      "name": "(1 left!) White Runtz Cured Resin 14G Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442586034_White_runtz_14G_new.JPG",
-      "image_local": "218361637.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "white-runtz-cured-resin-14g-baller-jar"
     },
     {
       "id": 223653053,
@@ -5761,29 +5779,6 @@
       "slug": "lonely-bones-orange-soda-1g-thc-distillate-5-10-thread"
     },
     {
-      "id": 212119054,
-      "name": "Cadillac LIVE 2g Disposable - Guava Daquiri (S) x Unicorn Cake (H)",
-      "category": "Concentrate",
-      "edge_category": "Disposable",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 8,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "212119054.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-liquid-diamond-unicorn-cake-x-guava-daiquiri-2g-penjamin"
-    },
-    {
       "id": 212118779,
       "name": "Cadillac LIVE 2g Disposable - Pink Acai (H) x White Gushers (H)",
       "category": "Concentrate",
@@ -6173,29 +6168,6 @@
       ],
       "current_deal_title": null,
       "slug": "royal-rush-zerealz-2g-blunt"
-    },
-    {
-      "id": 145987683,
-      "name": "Royal Rush: Candied Oranges 1g Pre-Roll",
-      "category": "Preroll",
-      "edge_category": "Pre-rolls",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439259446_Royal_Rolls.JPG",
-      "image_local": "145987683.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "coco-banana-1g-pre-roll"
     },
     {
       "id": 233941425,
