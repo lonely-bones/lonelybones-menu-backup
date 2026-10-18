@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 245,
-    "updated_at": "2026-10-16T19:47:27.980Z",
+    "total_menu_items": 248,
+    "updated_at": "2026-10-17T14:35:33.157Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -676,6 +676,47 @@
       "slug": "lemon-cherry-garlic-smalls"
     },
     {
+      "id": 159392442,
+      "name": "Wedding Pie Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444640606_NEW_Wedding_Pieeeee.JPG",
+      "image_local": "159392442.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "method-maine-wedding-pie-smalls"
+    },
+    {
       "id": 180051350,
       "name": "*Fresh Batch* Koala Tea Grows: Weighted Blanket Smalls",
       "category": "Indica",
@@ -838,47 +879,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "space-candy-smalls"
-    },
-    {
-      "id": 159392442,
-      "name": "Wedding Pie Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444640606_NEW_Wedding_Pieeeee.JPG",
-      "image_local": "159392442.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "method-maine-wedding-pie-smalls"
     },
     {
       "id": 168998124,
@@ -1045,6 +1045,47 @@
       "slug": "superboof-smalls"
     },
     {
+      "id": 229219008,
+      "name": "Blueberry Pie (Girl Scout Cookies X Blue Dream) Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208202_gush_m.JPG",
+      "image_local": "229219008.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matters-gush-mints-smalls"
+    },
+    {
       "id": 234522023,
       "name": "*$60/OZ* GR Farms: Tropicana Cookies Smalls",
       "category": "Indica",
@@ -1166,47 +1207,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "black-cherry-punch-smalls-ee18742f-0dee-47ad-8d1c-e7e209b4ee21"
-    },
-    {
-      "id": 229219008,
-      "name": "Blueberry Pie (Girl Scout Cookies X Blue Dream) Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208202_gush_m.JPG",
-      "image_local": "229219008.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matters-gush-mints-smalls"
     },
     {
       "id": 178370260,
@@ -1412,47 +1412,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "living-matters-gypsy-road"
-    },
-    {
-      "id": 233221395,
-      "name": "Northern Terps: Death Kiss (Dantes Inferno x Frosted Flakes)",
-      "category": "Indica",
-      "edge_category": "Buds",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444762607_death_kiss.JPG",
-      "image_local": "233221395.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "northern-terps-death-kiss-dantes-inferno-x-frosted-flakes"
     },
     {
       "id": 233662364,
@@ -2341,6 +2300,35 @@
       "slug": "mix-and-match-any-8ths-of-live-rosin-for-a-350"
     },
     {
+      "id": 211797764,
+      "name": "Amnesia Haze Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441361048_sdawg14.JPG",
+      "image_local": "211797764.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "sherbdawg-cured-resin-14g-baller"
+    },
+    {
       "id": 223653053,
       "name": "Cherry Pound Cake Live Rosin 3.5G Baller",
       "category": "Concentrate",
@@ -2526,6 +2514,47 @@
       "slug": "lonely-bones-lemon-cherry-gelato-1g-thc-distillate-disposable"
     },
     {
+      "id": 226909043,
+      "name": "Northern Terps: Z- Marker Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443910132_zmarker.JPG",
+      "image_local": "226909043.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-z-marker-live-hash-rosin-3-5g-baller"
+    },
+    {
       "id": 164788352,
       "name": "Sub-Zero Cured Resin 14g Baller Jar",
       "category": "Concentrate",
@@ -2576,6 +2605,35 @@
       ],
       "current_deal_title": null,
       "slug": "grape-skittlez-cured-resin-1g"
+    },
+    {
+      "id": 207912720,
+      "name": "Blueberry Skunk Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.5,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440544855_sherb_cocktail_new.JPG",
+      "image_local": "207912720.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "sherb-cocktail-cured-resin-14g-baller"
     },
     {
       "id": 216928456,
@@ -2932,47 +2990,6 @@
       "slug": "fifo-banana-og-live-rosin-3-5g"
     },
     {
-      "id": 226909043,
-      "name": "Northern Terps: Z- Marker Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443910132_zmarker.JPG",
-      "image_local": "226909043.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-z-marker-live-hash-rosin-3-5g-baller"
-    },
-    {
       "id": 195351339,
       "name": "Amber Valley: Crookies Shatter 1G",
       "category": "Concentrate",
@@ -3256,6 +3273,29 @@
       "slug": "lonely-bones-strawberry-cough-1g-thc-distillate-penjamin"
     },
     {
+      "id": 223154452,
+      "name": "Pink Starburst Cured Resin 14G Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443400795_blue_cookies.JPG",
+      "image_local": "223154452.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "blue-cookies-cured-resin-14g-baller-jar"
+    },
+    {
       "id": 224516565,
       "name": "Trop Cherry Cured Resin 1G",
       "category": "Concentrate",
@@ -3370,6 +3410,29 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-girl-scout-cookie-1g-thc-distillate-disposable"
+    },
+    {
+      "id": 229854941,
+      "name": "*1 Left*Icy MAC (Miracle Alien Cookies) Cured Resin 14G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444285902_Icy_Mac.JPG",
+      "image_local": "229854941.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "icy-mac-miracle-alien-cookies-cured-resin-14g"
     },
     {
       "id": 223152239,
@@ -3647,29 +3710,6 @@
       ],
       "current_deal_title": null,
       "slug": "red-runtz-live-rosin-3-5g-baller"
-    },
-    {
-      "id": 229854941,
-      "name": "Icy MAC (Miracle Alien Cookies) Cured Resin 14G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444285902_Icy_Mac.JPG",
-      "image_local": "229854941.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "icy-mac-miracle-alien-cookies-cured-resin-14g"
     },
     {
       "id": 207409399,
@@ -4861,6 +4901,29 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-hash-burger-live-rosin-1g"
+    },
+    {
+      "id": 229700294,
+      "name": "OG Kush Cured Resin 14G Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444263989_IMG_4295.JPG",
+      "image_local": "229700294.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "blood-honey-cured-resin-14g-baller-jar"
     },
     {
       "id": 206340329,
