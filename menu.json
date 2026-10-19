@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 248,
-    "updated_at": "2026-10-17T14:35:33.157Z",
+    "total_menu_items": 247,
+    "updated_at": "2026-10-19T14:02:08.347Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -512,6 +512,47 @@
       "slug": "new-tourma-apple-fritter"
     },
     {
+      "id": 184388988,
+      "name": "Koala Tea Grows: Tortuga Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.9,
+      "reviews_count": 11,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438417054_dlishssy.jpeg",
+      "image_local": "184388988.jpeg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-koala-tea-grows-d-lish-smalls"
+    },
+    {
       "id": 163540330,
       "name": "Koala Tea Grows: RS-1000 Smalls",
       "category": "Indica",
@@ -922,6 +963,47 @@
       "slug": "enzy-farms-platinum-kush"
     },
     {
+      "id": 229219008,
+      "name": "Blueberry Pie (Girl Scout Cookies X Blue Dream) Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208202_gush_m.JPG",
+      "image_local": "229219008.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matters-gush-mints-smalls"
+    },
+    {
       "id": 233622019,
       "name": "Candy Land Smalls",
       "category": "Indica",
@@ -1045,45 +1127,45 @@
       "slug": "superboof-smalls"
     },
     {
-      "id": 229219008,
-      "name": "Blueberry Pie (Girl Scout Cookies X Blue Dream) Smalls",
+      "id": 233615544,
+      "name": "Smoke Proper: Garlic Ice",
       "category": "Indica",
-      "edge_category": "Smalls",
+      "edge_category": "Flower",
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 5.0,
+      "rating": 1.0,
       "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208202_gush_m.JPG",
-      "image_local": "229219008.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444828683_Garlic_Ice_100.JPG",
+      "image_local": "233615544.jpg",
       "prices": [
         {
           "label": "1/8 oz",
-          "price": 10.0,
+          "price": 15.0,
           "on_sale": false,
-          "original_price": 10.0
+          "original_price": 15.0
         },
         {
           "label": "1/4 oz",
-          "price": 20.0,
+          "price": 30.0,
           "on_sale": false,
-          "original_price": 20.0
+          "original_price": 30.0
         },
         {
           "label": "1/2 oz",
-          "price": 40.0,
+          "price": 50.0,
           "on_sale": false,
-          "original_price": 40.0
+          "original_price": 50.0
         },
         {
           "label": "1 oz",
-          "price": 80.0,
+          "price": 100.0,
           "on_sale": false,
-          "original_price": 80.0
+          "original_price": 100.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matters-gush-mints-smalls"
+      "slug": "smoke-proper-garlic-ice"
     },
     {
       "id": 234522023,
@@ -1373,6 +1455,47 @@
       "slug": "jet-fuel-og-smalls"
     },
     {
+      "id": 235255648,
+      "name": "Living Matters: Apple Tahoe",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445115800_apple_tahoe.JPG",
+      "image_local": "235255648.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matters-apple-tahoe"
+    },
+    {
       "id": 229218599,
       "name": "Living Matters: Garlic Snake Breath Smalls",
       "category": "Indica",
@@ -1535,47 +1658,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "smoke-proper-blue-zushi"
-    },
-    {
-      "id": 233615544,
-      "name": "Smoke Proper: Garlic Ice",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444828683_Garlic_Ice_100.JPG",
-      "image_local": "233615544.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "smoke-proper-garlic-ice"
     },
     {
       "id": 233615422,
@@ -2085,35 +2167,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-strawberry-cheesecake-1g-thc-distillate-5-10-thread"
-    },
-    {
-      "id": 204253531,
-      "name": "Strawberry Diesel Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441626496_blue_runtz.JPG",
-      "image_local": "204253531.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "blue-runtz-cured-resin-14g-baller"
     },
     {
       "id": 199254888,
@@ -2762,47 +2815,6 @@
       ],
       "current_deal_title": null,
       "slug": "grape-candy-live-rosin-3-5g"
-    },
-    {
-      "id": 215584146,
-      "name": "Grape Zkittles Live Rosin 3.5G",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442117549_gskitlle.JPG",
-      "image_local": "215584146.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "grape-zkittles-live-rosin-3-5g"
     },
     {
       "id": 225945490,
@@ -6230,29 +6242,6 @@
       ],
       "current_deal_title": null,
       "slug": "royal-rush-banana-cream-x-jealousy-2g-blunt"
-    },
-    {
-      "id": 208660284,
-      "name": "Royal Rush: White Truffle Cake 1g Pre-Roll",
-      "category": "Preroll",
-      "edge_category": "Pre-rolls",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439259446_Royal_Rolls.JPG",
-      "image_local": "208660284.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "royal-rush-runtz-wedding-1g-pre-roll"
     },
     {
       "id": 185241360,
