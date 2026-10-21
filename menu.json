@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 249,
-    "updated_at": "2026-10-20T13:18:27.369Z",
+    "total_menu_items": 254,
+    "updated_at": "2026-10-20T17:41:32.095Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -971,7 +971,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208202_gush_m.JPG",
       "image_local": "229219008.jpg",
       "prices": [
@@ -2169,6 +2169,76 @@
       "slug": "lonely-bones-strawberry-cheesecake-1g-thc-distillate-5-10-thread"
     },
     {
+      "id": 185400556,
+      "name": "Wedding Cake Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444329406_IMG_4311.JPG",
+      "image_local": "185400556.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "wedding-cake-cured-resin-14g-baller"
+    },
+    {
+      "id": 223653053,
+      "name": "Cherry Pound Cake Live Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443468557_orange_mintz.JPG",
+      "image_local": "223653053.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "in-house-favorite-fifo-orange-mints-live-rosin-3-5g-baller"
+    },
+    {
       "id": 199254888,
       "name": "Lonely Bones: Fire AF Cured Resin Penjamin 1G",
       "category": "Concentrate",
@@ -2382,47 +2452,6 @@
       "slug": "sherbdawg-cured-resin-14g-baller"
     },
     {
-      "id": 223653053,
-      "name": "Cherry Pound Cake Live Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443468557_orange_mintz.JPG",
-      "image_local": "223653053.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "in-house-favorite-fifo-orange-mints-live-rosin-3-5g-baller"
-    },
-    {
       "id": 207912334,
       "name": "Dosi Punch Cured Resin 14G Baller",
       "category": "Concentrate",
@@ -2594,47 +2623,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-lemon-cherry-gelato-1g-thc-distillate-disposable"
-    },
-    {
-      "id": 226909043,
-      "name": "Northern Terps: Z- Marker Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443910132_zmarker.JPG",
-      "image_local": "226909043.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-z-marker-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 164788352,
@@ -2990,6 +2978,47 @@
       "slug": "strawberry-milk-1g-thc-distillate-penjamin"
     },
     {
+      "id": 220309893,
+      "name": "Norhtern Terps: Starburst #36 Live Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442887424_hbmints.JPG",
+      "image_local": "220309893.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "hubba-bubba-mints-live-rosin-3-5g-baller"
+    },
+    {
       "id": 223657946,
       "name": "Northern Terps: Papaya Live Rosin 3.5G",
       "category": "Concentrate",
@@ -3100,6 +3129,47 @@
       "slug": "blue-dream-cured-resin-1g-baller-jar"
     },
     {
+      "id": 233458633,
+      "name": "FIFO: Forbidden Fruit Cake Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442346975_bloodhoney.JPG",
+      "image_local": "233458633.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "fifo-forbidden-fruit-cake-live-hash-rosin-3-5g-baller"
+    },
+    {
       "id": 204843226,
       "name": "FIFO: Tallymon Live Rosin 3.5G Baller",
       "category": "Concentrate",
@@ -3168,29 +3238,6 @@
       ],
       "current_deal_title": null,
       "slug": "girl-scout-cookie-1g-cured-resin"
-    },
-    {
-      "id": 220266135,
-      "name": "Hash Burger 14g Cured Resin Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442880858_Cream_Caramel.JPG",
-      "image_local": "220266135.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cream-caramel-14g-cured-resin-baller-jar"
     },
     {
       "id": 198353287,
@@ -3360,6 +3407,35 @@
       "slug": "fifo-gas-mix-cured-resin-14g-baller"
     },
     {
+      "id": 186584214,
+      "name": "Blue Dream Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.5,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445136137_blue_dream.JPG",
+      "image_local": "186584214.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "blue-dream-cured-resin-14g-baller"
+    },
+    {
       "id": 223574810,
       "name": "Blue Powerade Live Rosin 3.5G Baller",
       "category": "Concentrate",
@@ -3422,29 +3498,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-girl-scout-cookie-1g-thc-distillate-disposable"
-    },
-    {
-      "id": 229854941,
-      "name": "*1 Left*Icy MAC (Miracle Alien Cookies) Cured Resin 14G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444285902_Icy_Mac.JPG",
-      "image_local": "229854941.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "icy-mac-miracle-alien-cookies-cured-resin-14g"
     },
     {
       "id": 223152239,
@@ -3568,6 +3621,29 @@
       "slug": "cadillac-live-liquid-diamond-assorted-twenty-pack-2g-penjamin"
     },
     {
+      "id": 235364607,
+      "name": "Dual OG 14g Cured Resin Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445136113_dual_og.JPG",
+      "image_local": "235364607.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "dual-og-14g-cured-resin-baller-jar"
+    },
+    {
       "id": 211334357,
       "name": "FIFO: Cap Junky Live Rosin 1G",
       "category": "Concentrate",
@@ -3612,47 +3688,6 @@
       ],
       "current_deal_title": null,
       "slug": "fifo-forbidden-cake-live-rosin"
-    },
-    {
-      "id": 233458633,
-      "name": "FIFO: Forbidden Fruit Cake Live Hash Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442346975_bloodhoney.JPG",
-      "image_local": "233458633.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "fifo-forbidden-fruit-cake-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 231406061,
@@ -4826,47 +4861,6 @@
       ],
       "current_deal_title": null,
       "slug": "mix-any-28g-s-of-live-rosin-for-750"
-    },
-    {
-      "id": 220309893,
-      "name": "Norhtern Terps: Starburst #36 Live Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442887424_hbmints.JPG",
-      "image_local": "220309893.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "hubba-bubba-mints-live-rosin-3-5g-baller"
     },
     {
       "id": 220310353,
@@ -6110,6 +6104,121 @@
       ],
       "current_deal_title": null,
       "slug": "royal-rush-zerealz-2g-blunt"
+    },
+    {
+      "id": 223559053,
+      "name": "Cannoisseur: Grape Kiss Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
+      "image_local": "223559053.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cannaseaur-grape-gas-pre-roll"
+    },
+    {
+      "id": 223560109,
+      "name": "Cannoisseur: 5-Pack Mix and Match for $25!",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456172_5pack_canna.JPG",
+      "image_local": "223560109.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cannaseaur-5-pack-mix-and-match-for-25"
+    },
+    {
+      "id": 235323998,
+      "name": "Cannoisseur: Hall of Fame 1g pre roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445131079_443456091_canna_pre_rolls.jpeg",
+      "image_local": "235323998.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cannoisseur-hall-of-fame-1g-pre-roll"
+    },
+    {
+      "id": 235324001,
+      "name": "Cannoisseur: Rainbow Guava 1g pre roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445131079_443456091_canna_pre_rolls.jpeg",
+      "image_local": "235324001.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cannoisseur-rainbow-guava-1g-pre-roll"
+    },
+    {
+      "id": 223559067,
+      "name": "Cannoisseur: Sour G Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443456091_canna_pre_rolls.JPG",
+      "image_local": "223559067.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cannaseaur-sour-g-pre-roll"
     },
     {
       "id": 235323996,
