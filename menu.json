@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 254,
-    "updated_at": "2026-10-20T17:41:32.095Z",
+    "total_menu_items": 252,
+    "updated_at": "2026-10-22T13:25:19.937Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -2123,29 +2123,6 @@
       "slug": "gmo-cured-resin-14g-baller-jar-1e0642f4-7099-44a5-8997-47c736d995c2"
     },
     {
-      "id": 229826673,
-      "name": "Gelato Cookies Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280854_IMG_4300.JPG",
-      "image_local": "229826673.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "blueberry-runtz-cured-resin-1g"
-    },
-    {
       "id": 198745092,
       "name": "Lonely Bones: Hawaiian Punch 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -2793,47 +2770,6 @@
       "slug": "cadillac-live-liquid-diamond-glitter-bomb-x-red-congolese-2g-penjamin"
     },
     {
-      "id": 215584220,
-      "name": "Grape Pie Live Rosin 3.5G",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444804000_grape_pie.JPG",
-      "image_local": "215584220.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "grape-candy-live-rosin-3-5g"
-    },
-    {
       "id": 225945490,
       "name": "Grease Bucket Live Rosin 1G",
       "category": "Concentrate",
@@ -3017,6 +2953,47 @@
       ],
       "current_deal_title": null,
       "slug": "hubba-bubba-mints-live-rosin-3-5g-baller"
+    },
+    {
+      "id": 215584220,
+      "name": "Northern Terps: Grape Pie Live Rosin 3.5G",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444804000_grape_pie.JPG",
+      "image_local": "215584220.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "grape-candy-live-rosin-3-5g"
     },
     {
       "id": 223657946,
@@ -3355,17 +3332,17 @@
       "slug": "blue-cookies-cured-resin-14g-baller-jar"
     },
     {
-      "id": 224516565,
-      "name": "Trop Cherry Cured Resin 1G",
+      "id": 234837840,
+      "name": "Smarties Cured Resin 1g",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443605697_sub_zero.JPG",
-      "image_local": "224516565.jpg",
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445039974_smarties.JPG",
+      "image_local": "234837840.jpg",
       "prices": [
         {
           "label": "1 g",
@@ -3375,7 +3352,7 @@
         }
       ],
       "current_deal_title": null,
-      "slug": "sub-zero-cured-resin-1g"
+      "slug": "smarties-cured-resin-1g"
     },
     {
       "id": 219576681,
@@ -4982,29 +4959,6 @@
       ],
       "current_deal_title": null,
       "slug": "sherbdawg-cured-resin-14g-baller-jar"
-    },
-    {
-      "id": 234837840,
-      "name": "Smarties Cured Resin 1g",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445039974_smarties.JPG",
-      "image_local": "234837840.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "smarties-cured-resin-1g"
     },
     {
       "id": 209696858,
