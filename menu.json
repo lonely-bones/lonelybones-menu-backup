@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 264,
-    "updated_at": "2026-10-22T19:05:45.417Z",
+    "total_menu_items": 263,
+    "updated_at": "2026-10-23T14:06:07.851Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -267,7 +267,7 @@
     },
     {
       "id": 192017967,
-      "name": "*Fresh Batch!* Tourma: Fire AF",
+      "name": "*1 Ounce Left* Tourma: Fire AF",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -554,7 +554,7 @@
     },
     {
       "id": 163540330,
-      "name": "Koala Tea Grows: RS-1000 Smalls",
+      "name": "*1/2 Ounce Left* Koala Tea Grows: RS-1000 Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -1127,6 +1127,47 @@
       "slug": "60-oz-gr-farms-tropicana-cookies-smalls"
     },
     {
+      "id": 229218599,
+      "name": "*1 Ounce Left* Garlic Snake Breath Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208143_gypsy.JPG",
+      "image_local": "229218599.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matters-gypsy-road"
+    },
+    {
       "id": 235255648,
       "name": "Living Matters: Apple Tahoe",
       "category": "Indica",
@@ -1166,47 +1207,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "living-matters-apple-tahoe"
-    },
-    {
-      "id": 229218599,
-      "name": "Living Matters: Garlic Snake Breath Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208143_gypsy.JPG",
-      "image_local": "229218599.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matters-gypsy-road"
     },
     {
       "id": 233615092,
@@ -2703,29 +2703,6 @@
       ],
       "current_deal_title": null,
       "slug": "eclipse-farms-sub-zero-cured-resin-14g-baller-jar"
-    },
-    {
-      "id": 215146852,
-      "name": "Apples & Bananas Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 5,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442036132_Grape_Skittlez.JPG",
-      "image_local": "215146852.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "grape-skittlez-cured-resin-1g"
     },
     {
       "id": 207912720,
