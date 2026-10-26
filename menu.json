@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 261,
-    "updated_at": "2026-10-24T18:21:03.817Z",
+    "total_menu_items": 257,
+    "updated_at": "2026-10-26T13:45:56.357Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -225,6 +225,47 @@
       "slug": "tourma-fire-af"
     },
     {
+      "id": 223944509,
+      "name": "Tourma Cannabis: Royal Jelly",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443510386_royal_jewlly.JPG",
+      "image_local": "223944509.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matter-royal-jelly"
+    },
+    {
       "id": 213495274,
       "name": "*$60/OZ* GR Farms: Trop Cherry Smalls",
       "category": "Indica",
@@ -305,47 +346,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "sticky-rice-smalls"
-    },
-    {
-      "id": 223944509,
-      "name": "Tourma Cannabis: Royal Jelly",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443510386_royal_jewlly.JPG",
-      "image_local": "223944509.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-royal-jelly"
     },
     {
       "id": 182957686,
@@ -841,7 +841,7 @@
     },
     {
       "id": 231842255,
-      "name": "Space Candy Smalls",
+      "name": "*1 OZ Left* Space Candy Smalls",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -879,47 +879,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "space-candy-smalls"
-    },
-    {
-      "id": 229219008,
-      "name": "*1/2 Ounce Left* Blueberry Pie (Girl Scout Cookies X Blue Dream) Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444208202_gush_m.JPG",
-      "image_local": "229219008.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matters-gush-mints-smalls"
     },
     {
       "id": 233622019,
@@ -1087,7 +1046,7 @@
     },
     {
       "id": 229218599,
-      "name": "*1 Ounce Left* Garlic Snake Breath Smalls",
+      "name": "*1/2 Ounce Left* Garlic Snake Breath Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -2226,29 +2185,6 @@
       "slug": "lonely-bones-zsunami-1g-cured-resin-pen"
     },
     {
-      "id": 220254209,
-      "name": "Sherbanger Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442879592_super_lemon_haze.JPG",
-      "image_local": "220254209.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "super-lemon-haze-cured-resin-1g"
-    },
-    {
       "id": 198745227,
       "name": "Lonely Bones: Chocolate Dipped Bananas 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -2778,35 +2714,6 @@
       ],
       "current_deal_title": null,
       "slug": "ipk-megaraw-grease-bukcet-live-rosin-1g"
-    },
-    {
-      "id": 215568188,
-      "name": "LA Kush Cake Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442115220_scough14.JPG",
-      "image_local": "215568188.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "strawberry-cough-cured-resin-14g-baller"
     },
     {
       "id": 224725699,
@@ -6459,29 +6366,6 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-p-85-1g-pre-roll"
-    },
-    {
-      "id": 229861753,
-      "name": "Northern Terps: L.A. Kush Cake 1g Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
-      "image_local": "229861753.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-pinyatti-1g-pre-roll"
     },
     {
       "id": 226059454,
