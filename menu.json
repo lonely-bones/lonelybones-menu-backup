@@ -1,13 +1,54 @@
 {
   "meta": {
-    "total_menu_items": 255,
-    "updated_at": "2026-10-25T18:39:14.606Z",
+    "total_menu_items": 253,
+    "updated_at": "2026-10-28T13:29:32.468Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
     "has_taxes_included": false
   },
   "products": [
+    {
+      "id": 204843226,
+      "name": "FIFO: Tallymon Live Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441258462_grapes_and_c.JPG",
+      "image_local": "204843226.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "grapes-cream-live-rosin-3-5g-baller"
+    },
     {
       "id": 234723617,
       "name": "*Wild nose* Tourma : Durban Poison",
@@ -23,27 +64,27 @@
       "prices": [
         {
           "label": "1/8 oz",
-          "price": 20.0,
+          "price": 15.0,
           "on_sale": false,
-          "original_price": 20.0
+          "original_price": 15.0
         },
         {
           "label": "1/4 oz",
-          "price": 40.0,
+          "price": 30.0,
           "on_sale": false,
-          "original_price": 40.0
+          "original_price": 30.0
         },
         {
           "label": "1/2 oz",
-          "price": 70.0,
+          "price": 50.0,
           "on_sale": false,
-          "original_price": 70.0
+          "original_price": 50.0
         },
         {
           "label": "1 oz",
-          "price": 140.0,
+          "price": 100.0,
           "on_sale": false,
-          "original_price": 140.0
+          "original_price": 100.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
@@ -225,6 +266,47 @@
       "slug": "tourma-fire-af"
     },
     {
+      "id": 210992006,
+      "name": "*$60/OZ* GR Farms : Pink Guava Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444977379_Pink_Guava_60.JPG",
+      "image_local": "210992006.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "g-r-farms-zoap-smalls"
+    },
+    {
       "id": 223944509,
       "name": "Tourma Cannabis: Royal Jelly",
       "category": "Indica",
@@ -305,47 +387,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "g-r-farms-trop-cherry-smalls"
-    },
-    {
-      "id": 210992006,
-      "name": "*$60/OZ* GR Farms : Pink Guava Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444977379_Pink_Guava_60.JPG",
-      "image_local": "210992006.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "g-r-farms-zoap-smalls"
     },
     {
       "id": 190403400,
@@ -520,7 +561,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.9,
-      "reviews_count": 11,
+      "reviews_count": 12,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438417054_dlishssy.jpeg",
       "image_local": "184388988.jpeg",
       "prices": [
@@ -592,47 +633,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "lemon-cherry-garlic-smalls"
-    },
-    {
-      "id": 180051350,
-      "name": "*Fresh Batch* Koala Tea Grows: Weighted Blanket Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 19,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440577804_weighted_blanket.JPG",
-      "image_local": "180051350.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-weighted-blanket-smalls"
     },
     {
       "id": 159392442,
@@ -889,7 +889,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 2,
+      "reviews_count": 3,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444640588_NEW_SUPERBOOOOOOF.JPG",
       "image_local": "152768907.jpg",
       "prices": [
@@ -3028,47 +3028,6 @@
       "slug": "fifo-forbidden-fruit-cake-live-hash-rosin-3-5g-baller"
     },
     {
-      "id": 204843226,
-      "name": "FIFO: Tallymon Live Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441258462_grapes_and_c.JPG",
-      "image_local": "204843226.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "grapes-cream-live-rosin-3-5g-baller"
-    },
-    {
       "id": 205628788,
       "name": "Girl Scout Cookie 1g Cured Resin",
       "category": "Concentrate",
@@ -3425,6 +3384,29 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-candy-rain-cured-resin-penz-1g"
+    },
+    {
+      "id": 233941571,
+      "name": "(1 left!) Melted Strawberry 14g Cured Resin Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444873151_melted_strawberry.JPG",
+      "image_local": "233941571.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "melted-strawberry-14g-cured-resin-baller-jar"
     },
     {
       "id": 223152239,
@@ -4721,29 +4703,6 @@
       "slug": "lonely-bones-zangria-1g-thc-distillate-screw-on-thread"
     },
     {
-      "id": 233941571,
-      "name": "Melted Strawberry 14g Cured Resin Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444873151_melted_strawberry.JPG",
-      "image_local": "233941571.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "melted-strawberry-14g-cured-resin-baller-jar"
-    },
-    {
       "id": 220446170,
       "name": "Mix and match any 8ths of Live Rosin for a $650",
       "category": "Concentrate",
@@ -5274,6 +5233,29 @@
       "slug": "lonely-bones-mai-tai-1g-thc-distillate-screw-on-thread-4ceffa19-e79e-47ae-9721-1182914c60e1"
     },
     {
+      "id": 198745371,
+      "name": "Wedding Cake | Cartridge | 1g",
+      "category": "Concentrate",
+      "edge_category": "Cartridge",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "198745371.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-orange-soda-1g-thc-distillate-5-10-thread"
+    },
+    {
       "id": 212117889,
       "name": "Cadillac LIVE 2g Disposable - Larry Breath (I) x Crunch Berries (H)",
       "category": "Concentrate",
@@ -5594,29 +5576,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-trop-cherry-1g-thc-distillate-screw-on-thread"
-    },
-    {
-      "id": 198745371,
-      "name": "Wedding Cake | Cartridge | 1g",
-      "category": "Concentrate",
-      "edge_category": "Cartridge",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "198745371.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-orange-soda-1g-thc-distillate-5-10-thread"
     },
     {
       "id": 212119054,
@@ -6008,29 +5967,6 @@
       ],
       "current_deal_title": null,
       "slug": "candy-fusion-1g-pre-roll"
-    },
-    {
-      "id": 234636564,
-      "name": "Royal Rush: Tang Punch 2G Blunt",
-      "category": "Preroll",
-      "edge_category": "Blunts",
-      "top_category": "Pre-Rolls",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444999206_royal_septor.JPG",
-      "image_local": "234636564.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "royal-rush-tang-punch-2g-blunt"
     },
     {
       "id": 234636737,
