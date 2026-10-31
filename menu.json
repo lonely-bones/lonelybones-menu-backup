@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 275,
-    "updated_at": "2026-10-30T14:39:55.379Z",
+    "total_menu_items": 279,
+    "updated_at": "2026-10-31T14:10:19.508Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -50,17 +50,17 @@
       "slug": "grapes-cream-live-rosin-3-5g-baller"
     },
     {
-      "id": 234723617,
-      "name": "*Wild nose* Tourma : Durban Poison",
+      "id": 236078143,
+      "name": "Northern Terps: Russian Assassin",
       "category": "Indica",
-      "edge_category": "Flower",
+      "edge_category": "Buds",
       "top_category": "Flower",
-      "genetics": "Sativa",
+      "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445017687_Durban_Poison_140.JPG",
-      "image_local": "234723617.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445257238_russian_assass.JPG",
+      "image_local": "236078143.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -88,7 +88,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "wild-nose-tourma-durban-poison"
+      "slug": "northern-terps-russian-assassin"
     },
     {
       "id": 168556367,
@@ -182,6 +182,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "gmo"
+    },
+    {
+      "id": 207771314,
+      "name": "Koala Tea Grows : Miyagi Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 6,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442596694_dosi.JPG",
+      "image_local": "207771314.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-cannaisseur-grape-gas"
     },
     {
       "id": 173746062,
@@ -305,47 +346,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "g-r-farms-zoap-smalls"
-    },
-    {
-      "id": 223944509,
-      "name": "Tourma Cannabis: Royal Jelly",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443510386_royal_jewlly.JPG",
-      "image_local": "223944509.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-royal-jelly"
     },
     {
       "id": 213495274,
@@ -1004,6 +1004,47 @@
       "slug": "60-oz-gr-farms-tropicana-cookies-smalls"
     },
     {
+      "id": 234723617,
+      "name": "*1/2 Ounce Left* Tourma : Durban Poison",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445017687_Durban_Poison_140.JPG",
+      "image_local": "234723617.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "wild-nose-tourma-durban-poison"
+    },
+    {
       "id": 232423416,
       "name": "Living Matter: Peak Punch Smalls",
       "category": "Indica",
@@ -1658,47 +1699,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "northern-terps-mule-fuel"
-    },
-    {
-      "id": 236078143,
-      "name": "Northern Terps: Russian Assassin",
-      "category": "Indica",
-      "edge_category": "Buds",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445257238_russian_assass.JPG",
-      "image_local": "236078143.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "northern-terps-russian-assassin"
     },
     {
       "id": 233662364,
@@ -2546,6 +2546,29 @@
       "slug": "mix-and-match-any-8ths-of-live-rosin-for-a-350"
     },
     {
+      "id": 182309498,
+      "name": "(1 left!) Dosido Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 5,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445039971_dosido.JPG",
+      "image_local": "182309498.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "dosi-punch-cured-resin-1g"
+    },
+    {
       "id": 211797764,
       "name": "Amnesia Haze Cured Resin 14G Baller",
       "category": "Concentrate",
@@ -2604,27 +2627,45 @@
       "slug": "animal-cookies-cured-resin-14g-baller"
     },
     {
-      "id": 182309498,
-      "name": "Dosido Cured Resin 1G",
+      "id": 220446652,
+      "name": "FIFO: Black Maple Live Hash Rosin 3.5G Baller",
       "category": "Concentrate",
-      "edge_category": "Concentrates",
+      "edge_category": "Cold Cure Badder",
       "top_category": "Concentrates",
-      "genetics": "Indica",
+      "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 5,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445039971_dosido.JPG",
-      "image_local": "182309498.jpg",
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442911811_black_maple_live_rosin_8th.JPG",
+      "image_local": "220446652.jpg",
       "prices": [
         {
-          "label": "1 g",
-          "price": 10.0,
+          "label": "1/8 oz",
+          "price": 90.0,
           "on_sale": false,
-          "original_price": 10.0
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
         }
       ],
       "current_deal_title": null,
-      "slug": "dosi-punch-cured-resin-1g"
+      "slug": "black-maple-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 209499133,
@@ -2898,6 +2939,47 @@
       "slug": "sherb-cocktail-cured-resin-14g-baller"
     },
     {
+      "id": 220309893,
+      "name": "(1 left!) Northern Terps: Starburst #36 Live Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442887424_hbmints.JPG",
+      "image_local": "220309893.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "hubba-bubba-mints-live-rosin-3-5g-baller"
+    },
+    {
       "id": 223657946,
       "name": "*1 Left* Northern Terps: Papaya Live Rosin 3.5G",
       "category": "Concentrate",
@@ -3162,47 +3244,6 @@
       ],
       "current_deal_title": null,
       "slug": "strawberry-milk-1g-thc-distillate-penjamin"
-    },
-    {
-      "id": 220309893,
-      "name": "Norhtern Terps: Starburst #36 Live Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442887424_hbmints.JPG",
-      "image_local": "220309893.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "hubba-bubba-mints-live-rosin-3-5g-baller"
     },
     {
       "id": 215584220,
@@ -3538,6 +3579,29 @@
       ],
       "current_deal_title": null,
       "slug": "smarties-cured-resin-1g"
+    },
+    {
+      "id": 229826566,
+      "name": "Wedding Pie Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280846_trop_candy.JPG",
+      "image_local": "229826566.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "trop-candy-cured-resin-1g-ba209190-0a28-4235-878c-9f7446da1bbd"
     },
     {
       "id": 219576681,
@@ -3942,6 +4006,111 @@
       ],
       "current_deal_title": null,
       "slug": "fifo-forbidden-cake-live-rosin"
+    },
+    {
+      "id": 236112997,
+      "name": "FIFO: Melted Strawberries Live Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445262810_melted_strawbs.JPG",
+      "image_local": "236112997.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "fifo-melted-strawberries-live-rosin-3-5g-baller"
+    },
+    {
+      "id": 236107084,
+      "name": "FIFO: OGKB Live Hash Rosin 1G",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445261885_ogkb_1g.JPG",
+      "image_local": "236107084.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 35.0,
+          "on_sale": false,
+          "original_price": 35.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "fifo-ogkb-live-hash-rosin-1g"
+    },
+    {
+      "id": 236107448,
+      "name": "FIFO: OGKB Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445261953_ogkb3.5.JPG",
+      "image_local": "236107448.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "fifo-ogkb-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 231406061,
@@ -5586,7 +5755,7 @@
       "genetics": "Sativa",
       "thc_pct": 0.0,
       "rating": 4.3,
-      "reviews_count": 10,
+      "reviews_count": 11,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
       "image_local": "212117143.jpg",
       "prices": [
@@ -6519,29 +6688,6 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-mix-and-match-pre-roll-5-pack-25"
-    },
-    {
-      "id": 145987829,
-      "name": "Royal Rush: Dantes Inferno",
-      "category": "Preroll",
-      "edge_category": "Pre-rolls",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439259446_Royal_Rolls.JPG",
-      "image_local": "145987829.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "candy-fusion-1g-pre-roll"
     },
     {
       "id": 234636737,
