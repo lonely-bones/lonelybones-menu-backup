@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 279,
-    "updated_at": "2026-10-31T14:10:19.508Z",
+    "total_menu_items": 280,
+    "updated_at": "2026-10-31T18:25:57.116Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -430,6 +430,47 @@
       "slug": "new-tourma-apple-fritter"
     },
     {
+      "id": 216163724,
+      "name": "Koala Tea Grows: Pink Starburst Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.9,
+      "reviews_count": 8,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443461571_pinkstar.JPG",
+      "image_local": "216163724.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "brand-new-pink-starburst-smalls"
+    },
+    {
       "id": 190403400,
       "name": "Koala Tea Grows: Sticky Rice Smalls",
       "category": "Indica",
@@ -676,6 +717,47 @@
       "slug": "lemon-cherry-garlic-smalls"
     },
     {
+      "id": 159392442,
+      "name": "Wedding Pie Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444640606_NEW_Wedding_Pieeeee.JPG",
+      "image_local": "159392442.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "method-maine-wedding-pie-smalls"
+    },
+    {
       "id": 168998124,
       "name": "*$60/OZ* GR Farms Cap Junky Smalls",
       "category": "Indica",
@@ -881,6 +963,88 @@
       "slug": "candy-land-smalls-8e2633ef-9f97-48dd-a1c7-2b7d02665d7d"
     },
     {
+      "id": 233662475,
+      "name": "Fuji OG Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444836208_Fuji_OG.JPG",
+      "image_local": "233662475.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "fuji-og-smalls"
+    },
+    {
+      "id": 227762150,
+      "name": "Koala Tea Grows: Permanet Marker Smalls",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444023169_perm_mark.JPG",
+      "image_local": "227762150.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-permanet-marker-smalls"
+    },
+    {
       "id": 152768907,
       "name": "Superboof Smalls",
       "category": "Indica",
@@ -1004,45 +1168,86 @@
       "slug": "60-oz-gr-farms-tropicana-cookies-smalls"
     },
     {
-      "id": 234723617,
-      "name": "*1/2 Ounce Left* Tourma : Durban Poison",
+      "id": 233615092,
+      "name": "*1 Ounce Left* Smoke Proper: Blue Zushi",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
-      "genetics": "Sativa",
+      "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445017687_Durban_Poison_140.JPG",
-      "image_local": "234723617.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444828599_Blue_Zushi_100.JPG",
+      "image_local": "233615092.jpg",
       "prices": [
         {
           "label": "1/8 oz",
-          "price": 15.0,
+          "price": 10.0,
           "on_sale": false,
-          "original_price": 15.0
+          "original_price": 10.0
         },
         {
           "label": "1/4 oz",
-          "price": 30.0,
+          "price": 20.0,
           "on_sale": false,
-          "original_price": 30.0
+          "original_price": 20.0
         },
         {
           "label": "1/2 oz",
-          "price": 50.0,
+          "price": 40.0,
           "on_sale": false,
-          "original_price": 50.0
+          "original_price": 40.0
         },
         {
           "label": "1 oz",
-          "price": 100.0,
+          "price": 80.0,
           "on_sale": false,
-          "original_price": 100.0
+          "original_price": 80.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "wild-nose-tourma-durban-poison"
+      "slug": "smoke-proper-blue-zushi"
+    },
+    {
+      "id": 235904161,
+      "name": "*Amazing!* Tourma : Melted Strawberries",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445230386_Melted_Strawberry10_28_140.JPG",
+      "image_local": "235904161.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 70.0,
+          "on_sale": false,
+          "original_price": 70.0
+        },
+        {
+          "label": "1 oz",
+          "price": 140.0,
+          "on_sale": false,
+          "original_price": 140.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "amazing-tourma-melted-strawberries"
     },
     {
       "id": 232423416,
@@ -1127,58 +1332,58 @@
       "slug": "living-matters-apple-tahoe"
     },
     {
-      "id": 233615092,
-      "name": "Smoke Proper: Blue Zushi",
+      "id": 236078202,
+      "name": "Northern Terps: Mule Fuel",
       "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444828599_Blue_Zushi_100.JPG",
-      "image_local": "233615092.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "smoke-proper-blue-zushi"
-    },
-    {
-      "id": 233662475,
-      "name": "Fuji OG Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
+      "edge_category": "Buds",
       "top_category": "Flower",
       "genetics": "Indica",
       "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445257284_mule_fuel.JPG",
+      "image_local": "236078202.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "northern-terps-mule-fuel"
+    },
+    {
+      "id": 233622090,
+      "name": "Tropnana Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
       "rating": 5.0,
       "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444836208_Fuji_OG.JPG",
-      "image_local": "233662475.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444829628_Tropnana_smalls.JPG",
+      "image_local": "233622090.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -1206,7 +1411,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "fuji-og-smalls"
+      "slug": "tropnana-smalls"
     },
     {
       "id": 233615544,
@@ -1330,47 +1535,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "living-matters-bubblegum-marker-smalls"
-    },
-    {
-      "id": 235904161,
-      "name": "*Amazing!* Tourma : Melted Strawberries",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445230386_Melted_Strawberry10_28_140.JPG",
-      "image_local": "235904161.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 70.0,
-          "on_sale": false,
-          "original_price": 70.0
-        },
-        {
-          "label": "1 oz",
-          "price": 140.0,
-          "on_sale": false,
-          "original_price": 140.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "amazing-tourma-melted-strawberries"
     },
     {
       "id": 233661834,
@@ -1578,6 +1742,47 @@
       "slug": "fifo-miracle-mints-smalls"
     },
     {
+      "id": 236153868,
+      "name": "Frozen Bag Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445271028_frozen_bag.JPG",
+      "image_local": "236153868.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "frozen-bag-smalls"
+    },
+    {
       "id": 233661964,
       "name": "Jet Fuel OG Smalls",
       "category": "Indica",
@@ -1658,47 +1863,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "living-matter-king-louis-smalls"
-    },
-    {
-      "id": 236078202,
-      "name": "Northern Terps: Mule Fuel",
-      "category": "Indica",
-      "edge_category": "Buds",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445257284_mule_fuel.JPG",
-      "image_local": "236078202.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "northern-terps-mule-fuel"
     },
     {
       "id": 233662364,
@@ -1822,47 +1986,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "smoke-proper-pop-rockets"
-    },
-    {
-      "id": 233622090,
-      "name": "Tropnana Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444829628_Tropnana_smalls.JPG",
-      "image_local": "233622090.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "tropnana-smalls"
     },
     {
       "id": 233662086,
@@ -2546,29 +2669,6 @@
       "slug": "mix-and-match-any-8ths-of-live-rosin-for-a-350"
     },
     {
-      "id": 182309498,
-      "name": "(1 left!) Dosido Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 5,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445039971_dosido.JPG",
-      "image_local": "182309498.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "dosi-punch-cured-resin-1g"
-    },
-    {
       "id": 211797764,
       "name": "Amnesia Haze Cured Resin 14G Baller",
       "category": "Concentrate",
@@ -2980,47 +3080,6 @@
       "slug": "hubba-bubba-mints-live-rosin-3-5g-baller"
     },
     {
-      "id": 223657946,
-      "name": "*1 Left* Northern Terps: Papaya Live Rosin 3.5G",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444801778_pap3.5.JPG",
-      "image_local": "223657946.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "fifo-banana-og-live-rosin-3-5g"
-    },
-    {
       "id": 152503392,
       "name": "Amber Valley: Blue Dream 1g Shatter",
       "category": "Concentrate",
@@ -3287,6 +3346,29 @@
       "slug": "grape-candy-live-rosin-3-5g"
     },
     {
+      "id": 223154409,
+      "name": "*1 Left* Blue Cookies Cured Resin 14G Baller Jar",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443400784_bolo_runtz_cured.JPG",
+      "image_local": "223154409.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "bolo-runtz-cured-resin-14g-baller-jar"
+    },
+    {
       "id": 195351339,
       "name": "Amber Valley: Crookies Shatter 1G",
       "category": "Concentrate",
@@ -3331,29 +3413,6 @@
       ],
       "current_deal_title": null,
       "slug": "strawberry-pop-tart-cured-resin-1g"
-    },
-    {
-      "id": 223154409,
-      "name": "Blue Cookies Cured Resin 14G Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443400784_bolo_runtz_cured.JPG",
-      "image_local": "223154409.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "bolo-runtz-cured-resin-14g-baller-jar"
     },
     {
       "id": 218343318,
