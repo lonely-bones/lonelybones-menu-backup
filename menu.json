@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 280,
-    "updated_at": "2026-10-31T18:25:57.116Z",
+    "total_menu_items": 277,
+    "updated_at": "2026-11-02T15:09:09.095Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -348,47 +348,6 @@
       "slug": "g-r-farms-zoap-smalls"
     },
     {
-      "id": 213495274,
-      "name": "*$60/OZ* GR Farms: Trop Cherry Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.7,
-      "reviews_count": 6,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715771_Trop_Cherry.JPG",
-      "image_local": "213495274.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "g-r-farms-trop-cherry-smalls"
-    },
-    {
       "id": 182957686,
       "name": "Tourma: Apple Fritter",
       "category": "Indica",
@@ -428,6 +387,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "new-tourma-apple-fritter"
+    },
+    {
+      "id": 213495274,
+      "name": "*$1 OZ Left* GR Farms: Trop Cherry Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.7,
+      "reviews_count": 6,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441715771_Trop_Cherry.JPG",
+      "image_local": "213495274.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "g-r-farms-trop-cherry-smalls"
     },
     {
       "id": 216163724,
@@ -717,6 +717,47 @@
       "slug": "lemon-cherry-garlic-smalls"
     },
     {
+      "id": 226706157,
+      "name": "Tourma: Blue Slushie",
+      "category": "Indica",
+      "edge_category": "Buds",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445230402_Blue_Slushie_10_28_100.JPG",
+      "image_local": "226706157.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "tourma-blue-slushie"
+    },
+    {
       "id": 159392442,
       "name": "Wedding Pie Smalls",
       "category": "Indica",
@@ -881,45 +922,45 @@
       "slug": "g-r-farms-gush-mintz-smalls"
     },
     {
-      "id": 226706157,
-      "name": "Tourma: Blue Slushie",
+      "id": 232423416,
+      "name": "Living Matter: Peak Punch Smalls",
       "category": "Indica",
-      "edge_category": "Buds",
+      "edge_category": "Smalls",
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445230402_Blue_Slushie_10_28_100.JPG",
-      "image_local": "226706157.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445230356_Peak_Punch_10_28.JPG",
+      "image_local": "232423416.jpg",
       "prices": [
         {
           "label": "1/8 oz",
-          "price": 15.0,
+          "price": 10.0,
           "on_sale": false,
-          "original_price": 15.0
+          "original_price": 10.0
         },
         {
           "label": "1/4 oz",
-          "price": 30.0,
+          "price": 20.0,
           "on_sale": false,
-          "original_price": 30.0
+          "original_price": 20.0
         },
         {
           "label": "1/2 oz",
-          "price": 50.0,
+          "price": 40.0,
           "on_sale": false,
-          "original_price": 50.0
+          "original_price": 40.0
         },
         {
           "label": "1 oz",
-          "price": 100.0,
+          "price": 80.0,
           "on_sale": false,
-          "original_price": 100.0
+          "original_price": 80.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "tourma-blue-slushie"
+      "slug": "peak-punch-smalls"
     },
     {
       "id": 233622019,
@@ -1127,6 +1168,47 @@
       "slug": "pure-sativa-tangerine-sunrise"
     },
     {
+      "id": 233615544,
+      "name": "Smoke Proper: Garlic Ice",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 1.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444828683_Garlic_Ice_100.JPG",
+      "image_local": "233615544.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "smoke-proper-garlic-ice"
+    },
+    {
       "id": 234522023,
       "name": "*$60/OZ* GR Farms: Tropicana Cookies Smalls",
       "category": "Indica",
@@ -1250,8 +1332,8 @@
       "slug": "amazing-tourma-melted-strawberries"
     },
     {
-      "id": 232423416,
-      "name": "Living Matter: Peak Punch Smalls",
+      "id": 236153868,
+      "name": "Frozen Bag Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -1259,8 +1341,8 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445230356_Peak_Punch_10_28.JPG",
-      "image_local": "232423416.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445271028_frozen_bag.JPG",
+      "image_local": "236153868.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -1288,7 +1370,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "peak-punch-smalls"
+      "slug": "frozen-bag-smalls"
     },
     {
       "id": 235255648,
@@ -1412,47 +1494,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "tropnana-smalls"
-    },
-    {
-      "id": 233615544,
-      "name": "Smoke Proper: Garlic Ice",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 1.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444828683_Garlic_Ice_100.JPG",
-      "image_local": "233615544.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "smoke-proper-garlic-ice"
     },
     {
       "id": 235904863,
@@ -1740,47 +1781,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "fifo-miracle-mints-smalls"
-    },
-    {
-      "id": 236153868,
-      "name": "Frozen Bag Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445271028_frozen_bag.JPG",
-      "image_local": "236153868.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "frozen-bag-smalls"
     },
     {
       "id": 233661964,
@@ -2982,7 +2982,7 @@
     },
     {
       "id": 164788352,
-      "name": "Sub-Zero Cured Resin 14g Baller Jar",
+      "name": "*1 Left* Sub-Zero Cured Resin 14g Baller Jar",
       "category": "Concentrate",
       "edge_category": "Solvent",
       "top_category": "Concentrates",
@@ -3393,14 +3393,14 @@
     },
     {
       "id": 229826971,
-      "name": "Blackberry Kush Cured Resin 1G",
+      "name": "Blackberry Fizz Cured Resin 1G",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 3,
+      "reviews_count": 4,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280879_IMG_4301.JPG",
       "image_local": "229826971.jpg",
       "prices": [
@@ -3663,35 +3663,6 @@
       "slug": "trop-candy-cured-resin-1g-ba209190-0a28-4235-878c-9f7446da1bbd"
     },
     {
-      "id": 219576681,
-      "name": "White Truffle Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443526994_blkfiz.JPG",
-      "image_local": "219576681.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "fifo-gas-mix-cured-resin-14g-baller"
-    },
-    {
       "id": 185641039,
       "name": "Lonely Bones: GMO 1G Cured Resin Penz",
       "category": "Concentrate",
@@ -3829,29 +3800,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-candy-rain-cured-resin-penz-1g"
-    },
-    {
-      "id": 233941571,
-      "name": "(1 left!) Melted Strawberry 14g Cured Resin Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444873151_melted_strawberry.JPG",
-      "image_local": "233941571.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "melted-strawberry-14g-cured-resin-baller-jar"
     },
     {
       "id": 208201821,
@@ -5596,29 +5544,6 @@
       ],
       "current_deal_title": null,
       "slug": "mix-any-28g-s-of-live-rosin-for-750"
-    },
-    {
-      "id": 220310353,
-      "name": "Northern Terps: Guava Tangie Live Rosin 1G",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442887488_GT1G.JPG",
-      "image_local": "220310353.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 35.0,
-          "on_sale": false,
-          "original_price": 35.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "guava-tangie-live-rosin-1g"
     },
     {
       "id": 229700294,
