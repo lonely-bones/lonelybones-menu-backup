@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 277,
-    "updated_at": "2026-11-02T15:09:09.095Z",
+    "total_menu_items": 279,
+    "updated_at": "2026-11-02T23:08:33.532Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -390,7 +390,7 @@
     },
     {
       "id": 213495274,
-      "name": "*$1 OZ Left* GR Farms: Trop Cherry Smalls",
+      "name": "*1/2 OZ Left* GR Farms: Trop Cherry Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -963,6 +963,47 @@
       "slug": "peak-punch-smalls"
     },
     {
+      "id": 234522023,
+      "name": "*$60/OZ* GR Farms: Tropicana Cookies Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444977051_Tropicana_Cookies_60.JPG",
+      "image_local": "234522023.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "60-oz-gr-farms-tropicana-cookies-smalls"
+    },
+    {
       "id": 233622019,
       "name": "Candy Land Smalls",
       "category": "Indica",
@@ -971,7 +1012,7 @@
       "genetics": "Sativa",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444829617_Candy_land_smalls.JPG",
       "image_local": "233622019.jpg",
       "prices": [
@@ -1207,47 +1248,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "smoke-proper-garlic-ice"
-    },
-    {
-      "id": 234522023,
-      "name": "*$60/OZ* GR Farms: Tropicana Cookies Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444977051_Tropicana_Cookies_60.JPG",
-      "image_local": "234522023.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "60-oz-gr-farms-tropicana-cookies-smalls"
     },
     {
       "id": 233615092,
@@ -6605,6 +6605,29 @@
       "slug": "cadillac-cannabis-trouser-snake-1g-glass-tip-pre-roll"
     },
     {
+      "id": 232301970,
+      "name": "Laughing Buddha 1g Pre Roll",
+      "category": "Preroll",
+      "edge_category": "Joints",
+      "top_category": "Pre-Rolls",
+      "genetics": "Sativa",
+      "thc_pct": 30.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444622939_luaghin_buddah_pre.JPG",
+      "image_local": "232301970.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "leaf-labs-laughing-buddha-pre-roll-1g"
+    },
+    {
       "id": 236077262,
       "name": "Fog Light | Joints | 1g",
       "category": "Preroll",
@@ -6649,6 +6672,29 @@
       ],
       "current_deal_title": null,
       "slug": "any-assorted-pre-rolls-5-pack-mix-and-match-for-25"
+    },
+    {
+      "id": 208951131,
+      "name": "Leaf Labs: Cherry Vanilla Cheese 1G Pre-Roll",
+      "category": "Preroll",
+      "edge_category": "Pre-rolls",
+      "top_category": "Pre-Rolls",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443817450_leaf_labs_cherry_vanilla.JPG",
+      "image_local": "208951131.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 6.0,
+          "on_sale": false,
+          "original_price": 6.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "leaf-labs-trop-cherry-1g-pre-roll"
     },
     {
       "id": 226060343,
