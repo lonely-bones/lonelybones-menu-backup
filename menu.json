@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 267,
-    "updated_at": "2026-11-06T15:14:56.142Z",
+    "total_menu_items": 265,
+    "updated_at": "2026-11-07T14:35:59.071Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -233,7 +233,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 24,
+      "reviews_count": 25,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436339695_liquid_hot_magma.JPG",
       "image_local": "173746062.jpg",
       "prices": [
@@ -274,7 +274,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444977379_Pink_Guava_60.JPG",
       "image_local": "210992006.jpg",
       "prices": [
@@ -595,7 +595,7 @@
     },
     {
       "id": 168998124,
-      "name": "*$1OZ Left* GR Farms Cap Junky Smalls",
+      "name": "*1OZ Left* GR Farms Cap Junky Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -963,47 +963,6 @@
       "slug": "fuji-og-smalls"
     },
     {
-      "id": 233621712,
-      "name": "Tangerine Sunrise",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 3.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444829572_Tangerine_Sunrise.JPG",
-      "image_local": "233621712.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "pure-sativa-tangerine-sunrise"
-    },
-    {
       "id": 233615544,
       "name": "Smoke Proper: Garlic Ice",
       "category": "Indica",
@@ -1168,6 +1127,47 @@
       "slug": "northern-terps-mule-fuel"
     },
     {
+      "id": 233662086,
+      "name": "White Butter Cookies Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444836158_White_Butter_Cookies.JPG",
+      "image_local": "233662086.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "white-butter-cookies-smalls"
+    },
+    {
       "id": 233662035,
       "name": "Black Cherry Punch Smalls",
       "category": "Indica",
@@ -1291,6 +1291,47 @@
       "slug": "80-oz-creamsicle"
     },
     {
+      "id": 233661834,
+      "name": "*1 Ounce Left* Banana Taffy Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444836114_Banana_Taffy.JPG",
+      "image_local": "233661834.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "banana-taffy-smalls"
+    },
+    {
       "id": 233615247,
       "name": "*80/OZ!* Smoke Proper: Amaretto Sour",
       "category": "Indica",
@@ -1371,47 +1412,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "smoke-proper-pop-rockets"
-    },
-    {
-      "id": 233661834,
-      "name": "Banana Taffy Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444836114_Banana_Taffy.JPG",
-      "image_local": "233661834.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "banana-taffy-smalls"
     },
     {
       "id": 235905140,
@@ -1658,47 +1658,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "p-l-h-peace-love-harmony-smalls"
-    },
-    {
-      "id": 233662086,
-      "name": "White Butter Cookies Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444836158_White_Butter_Cookies.JPG",
-      "image_local": "233662086.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "white-butter-cookies-smalls"
     },
     {
       "id": 207395282,
@@ -2769,6 +2728,29 @@
       "slug": "cadillac-live-liquid-diamond-glitter-bomb-x-red-congolese-2g-penjamin"
     },
     {
+      "id": 236107084,
+      "name": "FIFO: OGKB Live Hash Rosin 1G",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445261885_ogkb_1g.JPG",
+      "image_local": "236107084.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 35.0,
+          "on_sale": false,
+          "original_price": 35.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "fifo-ogkb-live-hash-rosin-1g"
+    },
+    {
       "id": 225945490,
       "name": "Grease Bucket Live Rosin 1G",
       "category": "Concentrate",
@@ -3025,7 +3007,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 1,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442346975_bloodhoney.JPG",
       "image_local": "233458633.jpg",
       "prices": [
@@ -3242,6 +3224,29 @@
       "slug": "lonely-bones-karma-sour-1g-cured-resin-pen"
     },
     {
+      "id": 236035833,
+      "name": "Lonely Bones: Point Break Cured Resin Penz 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445166408_cured_resin1g_new.PNG",
+      "image_local": "236035833.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 25.0,
+          "on_sale": false,
+          "original_price": 25.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-point-break-cured-resin-penz-1g"
+    },
+    {
       "id": 207417095,
       "name": "Lonely Bones: Strawberry Cough 1G THC Distillate Penjamin",
       "category": "Concentrate",
@@ -3384,47 +3389,6 @@
       ],
       "current_deal_title": null,
       "slug": "blue-dream-cured-resin-14g-baller"
-    },
-    {
-      "id": 223574810,
-      "name": "Blue Powerade Live Rosin 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443457938_blue_dream_3.5.JPG",
-      "image_local": "223574810.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "600-ounce-blue-dream-live-rosin-3-5g-baller"
     },
     {
       "id": 198360042,
@@ -3725,29 +3689,6 @@
       ],
       "current_deal_title": null,
       "slug": "fifo-melted-strawberries-live-rosin-3-5g-baller"
-    },
-    {
-      "id": 236107084,
-      "name": "FIFO: OGKB Live Hash Rosin 1G",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445261885_ogkb_1g.JPG",
-      "image_local": "236107084.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 35.0,
-          "on_sale": false,
-          "original_price": 35.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "fifo-ogkb-live-hash-rosin-1g"
     },
     {
       "id": 236107448,
@@ -4617,29 +4558,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-point-break-1g-thc-distillate-penjamin"
-    },
-    {
-      "id": 236035833,
-      "name": "Lonely Bones: Point Break Cured Resin Penz 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445166408_cured_resin1g_new.PNG",
-      "image_local": "236035833.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-point-break-cured-resin-penz-1g"
     },
     {
       "id": 224659032,
