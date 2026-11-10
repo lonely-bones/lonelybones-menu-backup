@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 264,
-    "updated_at": "2026-11-07T20:56:23.729Z",
+    "total_menu_items": 267,
+    "updated_at": "2026-11-10T14:17:46.899Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -162,8 +162,8 @@
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 6,
+      "rating": 4.9,
+      "reviews_count": 7,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442596694_dosi.JPG",
       "image_local": "207771314.jpg",
       "prices": [
@@ -204,7 +204,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 25,
+      "reviews_count": 26,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436339695_liquid_hot_magma.JPG",
       "image_local": "173746062.jpg",
       "prices": [
@@ -235,88 +235,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-grows-liquid-hot-magma-smalls"
-    },
-    {
-      "id": 210992006,
-      "name": "(HALF OZ LEFT!) *$60/OZ* GR Farms : Pink Guava Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444977379_Pink_Guava_60.JPG",
-      "image_local": "210992006.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "g-r-farms-zoap-smalls"
-    },
-    {
-      "id": 182957686,
-      "name": "*1 Ounce Left* Tourma: Apple Fritter",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443634385_frit.JPG",
-      "image_local": "182957686.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "new-tourma-apple-fritter"
     },
     {
       "id": 176563287,
@@ -483,47 +401,6 @@
       "slug": "tourma-blue-slushie"
     },
     {
-      "id": 181644973,
-      "name": "*$60/OZ* GR Farm Garlic Breath Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444977036_Garlic_Breath_60.JPG",
-      "image_local": "181644973.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lemon-cherry-garlic-smalls"
-    },
-    {
       "id": 159392442,
       "name": "Wedding Pie Smalls",
       "category": "Indica",
@@ -607,14 +484,14 @@
     },
     {
       "id": 210992106,
-      "name": "*$60/OZ* GR Farms: Gush Mintz Smalls",
+      "name": "GR Farms: Gush Mintz Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
       "genetics": "Indica",
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
+      "rating": 5.0,
+      "reviews_count": 1,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441189548_Gush_Mintz_new.JPG",
       "image_local": "210992106.jpg",
       "prices": [
@@ -654,8 +531,8 @@
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
+      "rating": 5.0,
+      "reviews_count": 2,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445230356_Peak_Punch_10_28.JPG",
       "image_local": "232423416.jpg",
       "prices": [
@@ -893,6 +770,47 @@
       "slug": "fuji-og-smalls"
     },
     {
+      "id": 233662086,
+      "name": "*1/2 Ounce Left* White Butter Cookies Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444836158_White_Butter_Cookies.JPG",
+      "image_local": "233662086.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "white-butter-cookies-smalls"
+    },
+    {
       "id": 235904161,
       "name": "*Amazing!* Tourma : Melted Strawberries",
       "category": "Indica",
@@ -1016,17 +934,17 @@
       "slug": "frozen-bag-smalls"
     },
     {
-      "id": 233662086,
-      "name": "White Butter Cookies Smalls",
+      "id": 233615247,
+      "name": "*80/OZ!* Smoke Proper: Amaretto Sour",
       "category": "Indica",
-      "edge_category": "Smalls",
+      "edge_category": "Flower",
       "top_category": "Flower",
-      "genetics": "Indica",
+      "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444836158_White_Butter_Cookies.JPG",
-      "image_local": "233662086.jpg",
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444828611_Amaretto_Sour_100.JPG",
+      "image_local": "233615247.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -1054,7 +972,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "white-butter-cookies-smalls"
+      "slug": "smoke-proper-amaretto-sour"
     },
     {
       "id": 233662035,
@@ -1140,7 +1058,7 @@
     },
     {
       "id": 233615544,
-      "name": "Smoke Proper: Garlic Ice",
+      "name": "*1 Ounce Left* Smoke Proper: Garlic Ice",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -1153,27 +1071,27 @@
       "prices": [
         {
           "label": "1/8 oz",
-          "price": 15.0,
+          "price": 10.0,
           "on_sale": false,
-          "original_price": 15.0
+          "original_price": 10.0
         },
         {
           "label": "1/4 oz",
-          "price": 30.0,
+          "price": 20.0,
           "on_sale": false,
-          "original_price": 30.0
+          "original_price": 20.0
         },
         {
           "label": "1/2 oz",
-          "price": 50.0,
+          "price": 40.0,
           "on_sale": false,
-          "original_price": 50.0
+          "original_price": 40.0
         },
         {
           "label": "1 oz",
-          "price": 100.0,
+          "price": 80.0,
           "on_sale": false,
-          "original_price": 100.0
+          "original_price": 80.0
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
@@ -1260,47 +1178,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "banana-taffy-smalls"
-    },
-    {
-      "id": 233615247,
-      "name": "*80/OZ!* Smoke Proper: Amaretto Sour",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444828611_Amaretto_Sour_100.JPG",
-      "image_local": "233615247.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "smoke-proper-amaretto-sour"
     },
     {
       "id": 233615422,
@@ -1912,6 +1789,29 @@
       "slug": "gmo-cured-resin-14g-baller-jar-1e0642f4-7099-44a5-8997-47c736d995c2"
     },
     {
+      "id": 229826673,
+      "name": "Gorilla Glue Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280854_IMG_4300.JPG",
+      "image_local": "229826673.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "blueberry-runtz-cured-resin-1g"
+    },
+    {
       "id": 199254888,
       "name": "Lonely Bones: Fire AF Cured Resin Penjamin 1G",
       "category": "Concentrate",
@@ -1985,6 +1885,29 @@
       ],
       "current_deal_title": null,
       "slug": "wedding-cake-cured-resin-14g-baller"
+    },
+    {
+      "id": 220254209,
+      "name": "Carbon Fiber Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442879592_super_lemon_haze.JPG",
+      "image_local": "220254209.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "super-lemon-haze-cured-resin-1g"
     },
     {
       "id": 223653053,
@@ -3205,6 +3128,35 @@
       "slug": "smarties-cured-resin-1g"
     },
     {
+      "id": 211796555,
+      "name": "Wedding Pie Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442370110_IMG_1983.JPG",
+      "image_local": "211796555.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "purple-ice-water-cured-resin-14g-baller"
+    },
+    {
       "id": 229826566,
       "name": "Wedding Pie Cured Resin 1G",
       "category": "Concentrate",
@@ -3770,6 +3722,70 @@
       ],
       "current_deal_title": null,
       "slug": "ipk-megaraw-lemon-lime-orange-apricot-live-hash-roisn-3-5g-baller"
+    },
+    {
+      "id": 236587233,
+      "name": "IPK/MegaRaw Papaya Live Hash Roisn 1G",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445450673_papa1g.JPG",
+      "image_local": "236587233.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 35.0,
+          "on_sale": false,
+          "original_price": 35.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "ipk-megaraw-papaya-live-hash-roisn-1g"
+    },
+    {
+      "id": 236587570,
+      "name": "IPK/MegaRaw Papaya Live Hash Roisn 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445450860_papa3.5.JPG",
+      "image_local": "236587570.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "ipk-megaraw-papaya-live-hash-roisn-3-5g-baller"
     },
     {
       "id": 236548047,
@@ -5946,6 +5962,29 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-live-liquid-diamond-blue-zushi-x-pineapple-fizz-2g-penjamin"
+    },
+    {
+      "id": 212118779,
+      "name": "Cadillac LIVE 2g Disposable - Pink Acai (H) x White Gushers (H)",
+      "category": "Concentrate",
+      "edge_category": "Disposable",
+      "top_category": "Vape Pens",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 15,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
+      "image_local": "212118779.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 45.0,
+          "on_sale": false,
+          "original_price": 45.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cadillac-live-liquid-diamond-pink-acai-x-white-gushers-2g-penjamin"
     },
     {
       "id": 224684951,
