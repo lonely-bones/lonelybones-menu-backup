@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 263,
-    "updated_at": "2026-11-10T22:32:41.345Z",
+    "total_menu_items": 266,
+    "updated_at": "2026-11-12T14:21:45.504Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -50,17 +50,17 @@
       "slug": "grapes-cream-live-rosin-3-5g-baller"
     },
     {
-      "id": 236078202,
-      "name": "Northern Terps: Mule Fuel",
+      "id": 236748353,
+      "name": "Tourma: Space Runtz",
       "category": "Indica",
-      "edge_category": "Buds",
+      "edge_category": "Flower",
       "top_category": "Flower",
-      "genetics": "Indica",
+      "genetics": null,
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445257284_mule_fuel.JPG",
-      "image_local": "236078202.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445503495_space_runtz.JPG",
+      "image_local": "236748353.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -88,7 +88,7 @@
         }
       ],
       "current_deal_title": "Mix and Match Ounces",
-      "slug": "northern-terps-mule-fuel"
+      "slug": "tourma-space-runtz"
     },
     {
       "id": 235993807,
@@ -258,6 +258,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-grows-liquid-hot-magma-smalls"
+    },
+    {
+      "id": 182957686,
+      "name": "Tourma: Apple Fritter",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443634385_frit.JPG",
+      "image_local": "182957686.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "new-tourma-apple-fritter"
     },
     {
       "id": 176563287,
@@ -547,6 +588,47 @@
       "slug": "peak-punch-smalls"
     },
     {
+      "id": 208527160,
+      "name": "FIFO: Miracle Mints Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440683023_miraclem.JPG",
+      "image_local": "208527160.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "fifo-miracle-mints-smalls"
+    },
+    {
       "id": 235255648,
       "name": "Living Matters: Apple Tahoe",
       "category": "Indica",
@@ -793,47 +875,6 @@
       "slug": "amazing-tourma-melted-strawberries"
     },
     {
-      "id": 208527160,
-      "name": "FIFO: Miracle Mints Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440683023_miraclem.JPG",
-      "image_local": "208527160.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "fifo-miracle-mints-smalls"
-    },
-    {
       "id": 236153868,
       "name": "Frozen Bag Smalls",
       "category": "Indica",
@@ -873,6 +914,88 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "frozen-bag-smalls"
+    },
+    {
+      "id": 236078202,
+      "name": "Northern Terps: Mule Fuel",
+      "category": "Indica",
+      "edge_category": "Buds",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445257284_mule_fuel.JPG",
+      "image_local": "236078202.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "northern-terps-mule-fuel"
+    },
+    {
+      "id": 234723617,
+      "name": "Tourma : Durban Poison",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445017687_Durban_Poison_140.JPG",
+      "image_local": "234723617.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 70.0,
+          "on_sale": false,
+          "original_price": 70.0
+        },
+        {
+          "label": "1 oz",
+          "price": 140.0,
+          "on_sale": false,
+          "original_price": 140.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "wild-nose-tourma-durban-poison"
     },
     {
       "id": 233615247,
@@ -1365,6 +1488,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "p-l-h-peace-love-harmony-smalls"
+    },
+    {
+      "id": 236747796,
+      "name": "Tourma: Cheetah Piss",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445503343_cheetah_piss.JPG",
+      "image_local": "236747796.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "tourma-cheetah-piss"
     },
     {
       "id": 207395282,
@@ -2328,6 +2492,29 @@
       ],
       "current_deal_title": null,
       "slug": "blue-gummies-cured-resin-14g-baller-jar"
+    },
+    {
+      "id": 185336118,
+      "name": "Blue Zushi Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 4,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445513367_blue_zushi.JPG",
+      "image_local": "185336118.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "blue-zushi-cured-resin-1g"
     },
     {
       "id": 197733811,
@@ -3299,29 +3486,6 @@
       ],
       "current_deal_title": null,
       "slug": "point-break-live-hash-rosin-3-5g-baller"
-    },
-    {
-      "id": 208201821,
-      "name": "Amber Valley: Sun Cake Shatter 1g",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438526643_SHATTER_AYDEN.jpg",
-      "image_local": "208201821.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "amber-valley-ak-47-shatter-1g"
     },
     {
       "id": 229854941,
@@ -5070,6 +5234,29 @@
       "slug": "blood-honey-cured-resin-14g-baller-jar"
     },
     {
+      "id": 167362321,
+      "name": "Papaya Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445513373_papaya.JPG",
+      "image_local": "167362321.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-papaya-cured-resin-1g"
+    },
+    {
       "id": 206340329,
       "name": "Purple Ice Water Cured Resin 14G Baller",
       "category": "Concentrate",
@@ -5172,6 +5359,35 @@
       ],
       "current_deal_title": null,
       "slug": "tricho-jordan-cured-resin-14g-baller"
+    },
+    {
+      "id": 193050080,
+      "name": "Lonely Bones: Ready to Roll",
+      "category": "Indica",
+      "edge_category": "Ground",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 92,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
+      "image_local": "193050080.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "lonely-bones-ready-to-roll"
     },
     {
       "id": 212117143,
@@ -5931,35 +6147,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-dantes-inferno-1g-cured-resin-pen"
-    },
-    {
-      "id": 193050080,
-      "name": "Lonely Bones: Ready to Roll",
-      "category": "Indica",
-      "edge_category": "Ground",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 92,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
-      "image_local": "193050080.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-ready-to-roll"
     },
     {
       "id": 234637035,
@@ -6813,29 +7000,6 @@
       "slug": "northern-terps-infused-pre-roll-bubble-bath-x-sour-sherb-cured-resin"
     },
     {
-      "id": 229862996,
-      "name": "northern Terps: infused Pre Roll Bubble Bath x Violet Fog Cured Resin",
-      "category": "Hybrid",
-      "edge_category": "Infused Joints",
-      "top_category": "Infused Pre-rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
-      "image_local": "229862996.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 12.0,
-          "on_sale": false,
-          "original_price": 12.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-infused-pre-roll-bubble-bath-x-violet-fog-cured-resin"
-    },
-    {
       "id": 226280838,
       "name": "Northern Terps: Infused Pre Roll Karamel Kutt Throat x Black Spritzer Cured Resin",
       "category": "Hybrid",
@@ -6880,29 +7044,6 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-infused-pre-roll-pinyatti-x-dulce-de-uva-cured-resin"
-    },
-    {
-      "id": 226280803,
-      "name": "Northern Terps: Infused Pre Roll Znowflake x Honey Comb Pave Cured Resin",
-      "category": "Hybrid",
-      "edge_category": "Infused Joints",
-      "top_category": "Infused Pre-rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226280803.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 12.0,
-          "on_sale": false,
-          "original_price": 12.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-infused-pre-roll-karmel-kutt-throat-x-tokyo-fuzz-cured-resin"
     },
     {
       "id": 228154021,
