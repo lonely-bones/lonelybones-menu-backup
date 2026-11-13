@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 266,
-    "updated_at": "2026-11-12T14:21:45.504Z",
+    "total_menu_items": 267,
+    "updated_at": "2026-11-13T14:28:16.888Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -1162,6 +1162,88 @@
       "slug": "smoke-proper-garlic-ice"
     },
     {
+      "id": 236827361,
+      "name": "*$60oz!* GR Farms: Grape Overload",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445526311_grape_overload.JPG",
+      "image_local": "236827361.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "60oz-gr-farms-grape-overload"
+    },
+    {
+      "id": 236827652,
+      "name": "*$60oz!* GR Farms: Lemon Cherry Pie",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445526409_lemon_cherry_pie.JPG",
+      "image_local": "236827652.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "60oz-gr-farms-lemon-cherry-pie"
+    },
+    {
       "id": 235904863,
       "name": "*$80/OZ* Creamsicle",
       "category": "Indica",
@@ -2287,6 +2369,35 @@
       "slug": "mix-and-match-any-8ths-of-live-rosin-for-a-350"
     },
     {
+      "id": 207912577,
+      "name": "Cap Junky Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442115207_cjunky.JPG",
+      "image_local": "207912577.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cap-junky-cured-resin-14g-baller"
+    },
+    {
       "id": 224725699,
       "name": "Lonely Bones: Alaskan Thunder Fuck 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -2882,6 +2993,35 @@
       "slug": "grape-candy-live-rosin-3-5g"
     },
     {
+      "id": 215568188,
+      "name": "Papaya Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442115220_scough14.JPG",
+      "image_local": "215568188.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "strawberry-cough-cured-resin-14g-baller"
+    },
+    {
       "id": 195351339,
       "name": "Amber Valley: Crookies Shatter 1G",
       "category": "Concentrate",
@@ -2932,29 +3072,6 @@
       ],
       "current_deal_title": null,
       "slug": "apples-bananas-cured-resin-14g-baller"
-    },
-    {
-      "id": 229826971,
-      "name": "Blackberry Fizz Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 4,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280879_IMG_4301.JPG",
-      "image_local": "229826971.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "strawberry-pop-tart-cured-resin-1g"
     },
     {
       "id": 224516565,
@@ -3019,6 +3136,35 @@
       ],
       "current_deal_title": null,
       "slug": "fifo-forbidden-fruit-cake-live-hash-rosin-3-5g-baller"
+    },
+    {
+      "id": 219576681,
+      "name": "Gelato 33 Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443526994_blkfiz.JPG",
+      "image_local": "219576681.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "fifo-gas-mix-cured-resin-14g-baller"
     },
     {
       "id": 207416285,
@@ -3251,29 +3397,6 @@
       "slug": "lonely-bones-strawberry-cough-1g-thc-distillate-penjamin"
     },
     {
-      "id": 223154452,
-      "name": "Pink Starburst Cured Resin 14G Baller Jar",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443400795_blue_cookies.JPG",
-      "image_local": "223154452.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "blue-cookies-cured-resin-14g-baller-jar"
-    },
-    {
       "id": 234837840,
       "name": "Smarties Cured Resin 1g",
       "category": "Concentrate",
@@ -3447,6 +3570,35 @@
       "slug": "lonely-bones-candy-rain-cured-resin-penz-1g"
     },
     {
+      "id": 206340329,
+      "name": "* Only 1 Left* Purple Ice Water Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437729315_wpie14.JPG",
+      "image_local": "206340329.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "z-pie-cured-resin-14g-baller"
+    },
+    {
       "id": 216792358,
       "name": "*NEW!* FIFO: Point Break Live Hash Rosin 3.5G Baller",
       "category": "Concentrate",
@@ -3509,6 +3661,35 @@
       ],
       "current_deal_title": null,
       "slug": "icy-mac-miracle-alien-cookies-cured-resin-14g"
+    },
+    {
+      "id": 236864750,
+      "name": "Blue Zushi Cured Resin Micro Diamonds 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445536016_blue_zushi_micro.JPG",
+      "image_local": "236864750.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "blue-zushi-cured-resin-micro-diamonds-14g-baller"
     },
     {
       "id": 221998026,
@@ -3578,29 +3759,6 @@
       ],
       "current_deal_title": null,
       "slug": "dual-og-14g-cured-resin-baller-jar"
-    },
-    {
-      "id": 235993801,
-      "name": "Duel OG 1g Cured Resin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445241268_duel_og.JPG",
-      "image_local": "235993801.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "duel-og-1g-cured-resin"
     },
     {
       "id": 211334357,
@@ -5257,35 +5415,6 @@
       "slug": "lonely-bones-papaya-cured-resin-1g"
     },
     {
-      "id": 206340329,
-      "name": "Purple Ice Water Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437729315_wpie14.JPG",
-      "image_local": "206340329.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "z-pie-cured-resin-14g-baller"
-    },
-    {
       "id": 234837899,
       "name": "Sherbdawg Cured Resin 14g Baller Jar",
       "category": "Concentrate",
@@ -5996,7 +6125,7 @@
       "genetics": null,
       "thc_pct": 0.0,
       "rating": 4.9,
-      "reviews_count": 16,
+      "reviews_count": 17,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
       "image_local": "212117413.jpg",
       "prices": [
@@ -6147,52 +6276,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-dantes-inferno-1g-cured-resin-pen"
-    },
-    {
-      "id": 234637035,
-      "name": "Cadillac Pre-Roll 1g - Rainbow Beltz (I)",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/products/002/525/362/avatar/1781534040-1781533986-1781533902-1781533868-1781533832-1781533791-1781533732-1781533682-1781533645-1781533175-1781533137-1781533053-1781532999-1781532952-1771877451-cadillac_1g_pre-roll.jpg",
-      "image_local": "234637035.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 7.0,
-          "on_sale": false,
-          "original_price": 7.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-pre-roll-1g-rainbow-beltz-i"
-    },
-    {
-      "id": 234636927,
-      "name": "Cadillac Pre-Roll 1g - Kimbo Glue (H)",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/products/002/525/360/avatar/1781533902-1781533868-1781533832-1781533791-1781533732-1781533682-1781533645-1781533175-1781533137-1781533053-1781532999-1781532952-1771877451-cadillac_1g_pre-roll.jpg",
-      "image_local": "234636927.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 7.0,
-          "on_sale": false,
-          "original_price": 7.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-pre-roll-1g-kimbo-glue-h"
     },
     {
       "id": 232301970,
