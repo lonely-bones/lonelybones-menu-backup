@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 259,
-    "updated_at": "2026-11-15T14:38:45.823Z",
+    "total_menu_items": 249,
+    "updated_at": "2026-11-16T17:36:20.290Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -258,47 +258,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-grows-liquid-hot-magma-smalls"
-    },
-    {
-      "id": 159392938,
-      "name": "(1/2 Ounce Left) Super Boof Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 6,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436431306_Superboof.JPG",
-      "image_local": "159392938.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "method-maine-super-boof-smalls"
     },
     {
       "id": 213495274,
@@ -629,47 +588,6 @@
       "slug": "g-r-farms-gush-mintz-smalls"
     },
     {
-      "id": 235255648,
-      "name": "*1/2 Ounce Left* Living Matters: Apple Tahoe",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445115800_apple_tahoe.JPG",
-      "image_local": "235255648.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matters-apple-tahoe"
-    },
-    {
       "id": 234522023,
       "name": "*$60/OZ* GR Farms: Tropicana Cookies Smalls",
       "category": "Indica",
@@ -958,7 +876,7 @@
     },
     {
       "id": 233615247,
-      "name": "*80/OZ!* Smoke Proper: Amaretto Sour",
+      "name": "*1/2 OZ Left* Smoke Proper: Amaretto Sour",
       "category": "Indica",
       "edge_category": "Flower",
       "top_category": "Flower",
@@ -1078,47 +996,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "tropnana-smalls"
-    },
-    {
-      "id": 219176764,
-      "name": "(1 OZ left!) *$60/OZ* Method Maine: Bolo Runtz smalls (Gelato \u00d7 Zkittlez)",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442715499_Bolo_Runtz.JPG",
-      "image_local": "219176764.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1 oz",
-          "price": 60.0,
-          "on_sale": false,
-          "original_price": 60.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "fire-method-maine-bolo-runtz-smalls"
     },
     {
       "id": 236827361,
@@ -2763,29 +2640,6 @@
       ],
       "current_deal_title": null,
       "slug": "strawberry-milk-1g-thc-distillate-penjamin"
-    },
-    {
-      "id": 235993807,
-      "name": "Mimosa 1g Cured Resin",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445241272_mimosa.JPG",
-      "image_local": "235993807.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "mimosa-1g-cured-resin"
     },
     {
       "id": 215584220,
@@ -5849,29 +5703,6 @@
       "slug": "lonely-bones-sour-razz-1g-thc-distillate-5-10-thread"
     },
     {
-      "id": 221998026,
-      "name": "Cadillac LIVE 2g Disposable - Black Cherry Gelato (I) x Blue Runtz (I)",
-      "category": "Concentrate",
-      "edge_category": "Disposable",
-      "top_category": "Vape Pens",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
-      "image_local": "221998026.jpg",
-      "prices": [
-        {
-          "label": "2 g",
-          "price": 45.0,
-          "on_sale": false,
-          "original_price": 45.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "cadillac-live-2g-liquid-diamond-switch-black-cherry-gelato-x-blue-runtz"
-    },
-    {
       "id": 212119054,
       "name": "Cadillac LIVE 2g Disposable - Guava Daquiri (S) x Unicorn Cake (H)",
       "category": "Concentrate",
@@ -6200,29 +6031,6 @@
       "slug": "northern-terps-mix-and-match-pre-roll-5-pack-25"
     },
     {
-      "id": 234636737,
-      "name": "(1 Left!) Royal Rush: Zerealz 2G Blunt",
-      "category": "Preroll",
-      "edge_category": "Blunts",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444999206_royal_septor.JPG",
-      "image_local": "234636737.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "royal-rush-zerealz-2g-blunt"
-    },
-    {
       "id": 223559053,
       "name": "Cannoisseur: Grape Kiss Pre Roll",
       "category": "Preroll",
@@ -6244,29 +6052,6 @@
       ],
       "current_deal_title": null,
       "slug": "cannaseaur-grape-gas-pre-roll"
-    },
-    {
-      "id": 236077268,
-      "name": "Northern Terps: Lemon Cherry Sherb 1g Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445256953_444622814_Northern_Terp_Preroll.jpeg",
-      "image_local": "236077268.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-lemon-cherry-sherb-1g-pre-roll"
     },
     {
       "id": 223560109,
@@ -6796,75 +6581,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-10mg-assorted-gummies-100mg-per-pack"
-    },
-    {
-      "id": 230026973,
-      "name": "*$50* Northern Terps: Infused Pre Roll Five Pack!",
-      "category": "Hybrid",
-      "edge_category": "Infused Joints",
-      "top_category": "Infused Pre-rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
-      "image_local": "230026973.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "50-northern-terps-infused-pre-roll-five-pack"
-    },
-    {
-      "id": 229862447,
-      "name": "Northern Terps: Infused Pre roll Bubble Bath x Sour Sherb Cured Resin",
-      "category": "Hybrid",
-      "edge_category": "Infused Joints",
-      "top_category": "Infused Pre-rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
-      "image_local": "229862447.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 12.0,
-          "on_sale": false,
-          "original_price": 12.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-infused-pre-roll-bubble-bath-x-sour-sherb-cured-resin"
-    },
-    {
-      "id": 229863104,
-      "name": "Northern Terps: Infused Pre Roll Pinyatti x Dulce De Uva Cured Resin",
-      "category": "Hybrid",
-      "edge_category": "Infused Joints",
-      "top_category": "Infused Pre-rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
-      "image_local": "229863104.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 12.0,
-          "on_sale": false,
-          "original_price": 12.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-infused-pre-roll-pinyatti-x-dulce-de-uva-cured-resin"
     },
     {
       "id": 228154021,
