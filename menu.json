@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 249,
-    "updated_at": "2026-11-16T17:36:20.290Z",
+    "total_menu_items": 265,
+    "updated_at": "2026-11-17T15:13:23.043Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -349,8 +349,8 @@
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
-      "rating": 4.5,
-      "reviews_count": 2,
+      "rating": 4.7,
+      "reviews_count": 3,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444977353_Purple_Ice_Water_60.JPG",
       "image_local": "176563287.jpg",
       "prices": [
@@ -383,10 +383,51 @@
       "slug": "purple-ice-water-smalls"
     },
     {
-      "id": 184388988,
-      "name": "Koala Tea Grows: Tortuga Smalls",
+      "id": 209609986,
+      "name": "*Limited* Koala Tea Grows: Royal Kush Smalls",
       "category": "Indica",
-      "edge_category": "Flower",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445589806_Royal_Kush_new_ray.JPG",
+      "image_local": "209609986.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-chicken-milk-smalls"
+    },
+    {
+      "id": 184388988,
+      "name": "*NEW!* Koala Tea Grows: Tortuga Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
       "top_category": "Flower",
       "genetics": "Hybrid",
       "thc_pct": 0.0,
@@ -504,6 +545,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "tourma-blue-slushie"
+    },
+    {
+      "id": 180051350,
+      "name": "*Fresh Batch* Koala Tea Grows: Weighted Blanket Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 19,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440577804_weighted_blanket.JPG",
+      "image_local": "180051350.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-weighted-blanket-smalls"
     },
     {
       "id": 159392442,
@@ -832,6 +914,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "frozen-bag-smalls"
+    },
+    {
+      "id": 182835404,
+      "name": "Koala Tea Farms: Chicken Milk Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445589807_chicken_milk.JPG",
+      "image_local": "182835404.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-farms-toe-cheese-smalls"
     },
     {
       "id": 234723617,
@@ -1242,6 +1365,88 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "living-matter-king-louis-smalls"
+    },
+    {
+      "id": 233221395,
+      "name": "Northern Terps: Death Kiss (Dantes Inferno x Frosted Flakes)",
+      "category": "Indica",
+      "edge_category": "Buds",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444762607_death_kiss.JPG",
+      "image_local": "233221395.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "northern-terps-death-kiss-dantes-inferno-x-frosted-flakes"
+    },
+    {
+      "id": 237017220,
+      "name": "Northern Terps: Double Stuffed (Platinum White x Cookies & Cream)",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445581713_double_stuffed.JPG",
+      "image_local": "237017220.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "northern-terps-double-stuffed-platinum-white-x-cookies-cream"
     },
     {
       "id": 233662364,
@@ -1787,6 +1992,35 @@
       "slug": "wedding-cake-cured-resin-14g-baller"
     },
     {
+      "id": 204253531,
+      "name": "Garlic Breath Cured Resin 14G Baller",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441626496_blue_runtz.JPG",
+      "image_local": "204253531.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        },
+        {
+          "label": "1 oz",
+          "price": 200.0,
+          "on_sale": false,
+          "original_price": 200.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "blue-runtz-cured-resin-14g-baller"
+    },
+    {
       "id": 207912334,
       "name": "*1 Left* Dosi Punch Cured Resin 14G Baller",
       "category": "Concentrate",
@@ -2080,6 +2314,29 @@
       ],
       "current_deal_title": null,
       "slug": "mix-and-match-any-8ths-of-live-rosin-for-a-350"
+    },
+    {
+      "id": 212118830,
+      "name": "Cadillac: Live Liquid Diamond Strawberry Milk X Slurty 2G Penjamin",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
+      "image_local": "212118830.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 45.0,
+          "on_sale": false,
+          "original_price": 45.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "cadillac-live-liquid-diamond-strawberry-milk-x-slurty-2g-penjamin"
     },
     {
       "id": 207912577,
@@ -5128,6 +5385,35 @@
       "slug": "tricho-jordan-cured-resin-14g-baller"
     },
     {
+      "id": 193050080,
+      "name": "Lonely Bones: Ready to Roll",
+      "category": "Indica",
+      "edge_category": "Ground",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 92,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
+      "image_local": "193050080.jpg",
+      "prices": [
+        {
+          "label": "1/2 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "lonely-bones-ready-to-roll"
+    },
+    {
       "id": 212117143,
       "name": "Cadillac LIVE 2g Disposable - Mango Haze (S) X Durban Poison (S)",
       "category": "Concentrate",
@@ -5734,7 +6020,7 @@
       "genetics": null,
       "thc_pct": 0.0,
       "rating": 4.9,
-      "reviews_count": 17,
+      "reviews_count": 18,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441439565_Caddy_Liquid_diamond.JPG",
       "image_local": "212117413.jpg",
       "prices": [
@@ -5885,35 +6171,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-dantes-inferno-1g-cured-resin-pen"
-    },
-    {
-      "id": 193050080,
-      "name": "Lonely Bones: Ready to Roll",
-      "category": "Indica",
-      "edge_category": "Ground",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 92,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
-      "image_local": "193050080.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "lonely-bones-ready-to-roll"
     },
     {
       "id": 232301970,
@@ -6581,6 +6838,213 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-10mg-assorted-gummies-100mg-per-pack"
+    },
+    {
+      "id": 230026973,
+      "name": "*$50* Northern Terps: Infused Pre Roll Five Pack!",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
+      "image_local": "230026973.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "50-northern-terps-infused-pre-roll-five-pack"
+    },
+    {
+      "id": 229862749,
+      "name": "Northern Terps: Infused Pre Roll Fog lights x Tribute Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
+      "image_local": "229862749.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-caramel-apple-gelato-x-blue-andes-cured-resin"
+    },
+    {
+      "id": 226280954,
+      "name": "Northern Terps: Infused Pre Roll Maple Dunks x Purple Rain Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226280954.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-violet-fog-x-tech-9-cured-resin"
+    },
+    {
+      "id": 229863165,
+      "name": "Northern Terps: Infused Pre Roll Blue Taffy x Drip Drop Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
+      "image_local": "229863165.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-black-ice-x-modified-grapes-cured-resin"
+    },
+    {
+      "id": 229863104,
+      "name": "Northern Terps: Infused Pre Roll Blue Taffy x Gorila Glue Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
+      "image_local": "229863104.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-pinyatti-x-dulce-de-uva-cured-resin"
+    },
+    {
+      "id": 226281019,
+      "name": "Northern Terps: Infused Pre Roll Fog Lights x Violet Fog Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226281019.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-bankroll-x-amaretto-sour-cured-resin"
+    },
+    {
+      "id": 229862447,
+      "name": "Northern Terps: Infused Pre roll Guelah Papaya x Front Porch Sittin Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
+      "image_local": "229862447.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-bubble-bath-x-sour-sherb-cured-resin"
+    },
+    {
+      "id": 226280838,
+      "name": "Northern Terps: Infused Pre Roll Lemon Cherry Sherb x Modified Grapes Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
+      "image_local": "226280838.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-blood-money-x-black-spritzer-cured-resin"
+    },
+    {
+      "id": 229862996,
+      "name": "Northern Terps: Infused Pre Roll Pie Face x London Lobster Cured Resin",
+      "category": "Hybrid",
+      "edge_category": "Infused Joints",
+      "top_category": "Infused Pre-rolls",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444287849_northern_terps_pre_roll.jpeg",
+      "image_local": "229862996.jpg",
+      "prices": [
+        {
+          "label": "each",
+          "price": 12.0,
+          "on_sale": false,
+          "original_price": 12.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "northern-terps-infused-pre-roll-bubble-bath-x-violet-fog-cured-resin"
     },
     {
       "id": 228154021,
