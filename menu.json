@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 265,
-    "updated_at": "2026-11-17T15:13:23.043Z",
+    "total_menu_items": 263,
+    "updated_at": "2026-11-18T15:29:25.006Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -186,7 +186,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.9,
-      "reviews_count": 7,
+      "reviews_count": 8,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442596694_dosi.JPG",
       "image_local": "207771314.jpg",
       "prices": [
@@ -227,7 +227,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 26,
+      "reviews_count": 27,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436339695_liquid_hot_magma.JPG",
       "image_local": "173746062.jpg",
       "prices": [
@@ -258,6 +258,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-grows-liquid-hot-magma-smalls"
+    },
+    {
+      "id": 210992006,
+      "name": "*$60/OZ* GR Farms : SUPER Boof",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444977379_Pink_Guava_60.JPG",
+      "image_local": "210992006.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1 oz",
+          "price": 60.0,
+          "on_sale": false,
+          "original_price": 60.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "g-r-farms-zoap-smalls"
     },
     {
       "id": 213495274,
@@ -998,47 +1039,6 @@
       "slug": "wild-nose-tourma-durban-poison"
     },
     {
-      "id": 233615247,
-      "name": "*1/2 OZ Left* Smoke Proper: Amaretto Sour",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444828611_Amaretto_Sour_100.JPG",
-      "image_local": "233615247.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "smoke-proper-amaretto-sour"
-    },
-    {
       "id": 233662035,
       "name": "Black Cherry Punch Smalls",
       "category": "Indica",
@@ -1577,6 +1577,29 @@
       "slug": "lonely-bones-blue-dream-1g-thc-distillate-screw-on-thread"
     },
     {
+      "id": 207396042,
+      "name": "Super Lemon Mac | Solvent | 1g",
+      "category": "Concentrate",
+      "edge_category": "Solvent",
+      "top_category": "Concentrates",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
+      "image_local": "207396042.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-super-lemon-mac-1g-thc-distillate-screw-on-thread"
+    },
+    {
       "id": 214676326,
       "name": "Amber Valley Shatter 1g - Italian Ice (H)",
       "category": "Concentrate",
@@ -1644,29 +1667,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-banana-sundae-1g-thc-distillate-screw-on-thread"
-    },
-    {
-      "id": 207396042,
-      "name": "Super Lemon Mac | Solvent | 1g",
-      "category": "Concentrate",
-      "edge_category": "Solvent",
-      "top_category": "Concentrates",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/439064592_new_screw_on_pic.jpg",
-      "image_local": "207396042.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-super-lemon-mac-1g-thc-distillate-screw-on-thread"
     },
     {
       "id": 157916459,
@@ -2019,35 +2019,6 @@
       ],
       "current_deal_title": null,
       "slug": "blue-runtz-cured-resin-14g-baller"
-    },
-    {
-      "id": 207912334,
-      "name": "*1 Left* Dosi Punch Cured Resin 14G Baller",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440544802_Animal_cookies_new.JPG",
-      "image_local": "207912334.jpg",
-      "prices": [
-        {
-          "label": "1/2 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        },
-        {
-          "label": "1 oz",
-          "price": 200.0,
-          "on_sale": false,
-          "original_price": 200.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "animal-cookies-cured-resin-14g-baller"
     },
     {
       "id": 220254209,
@@ -5417,7 +5388,7 @@
       "id": 212117143,
       "name": "Cadillac LIVE 2g Disposable - Mango Haze (S) X Durban Poison (S)",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": "Sativa",
       "thc_pct": 0.0,
@@ -5440,7 +5411,7 @@
       "id": 185641461,
       "name": "Banana Bread | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5578,7 +5549,7 @@
       "id": 187051296,
       "name": "pink ink | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5693,7 +5664,7 @@
       "id": 212117889,
       "name": "Cadillac LIVE 2g Disposable - Larry Breath (I) x Crunch Berries (H)",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5711,29 +5682,6 @@
       ],
       "current_deal_title": null,
       "slug": "cadillac-live-liquid-diamond-larry-breath-x-crunch-berries-2g-penjamin"
-    },
-    {
-      "id": 187051292,
-      "name": "Rainbow Sherb | Disposable | 1g",
-      "category": "Concentrate",
-      "edge_category": "Disposable",
-      "top_category": "Vape Pens",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 4.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/437426509_cured_resin_cart.JPG",
-      "image_local": "187051292.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 25.0,
-          "on_sale": false,
-          "original_price": 25.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "lonely-bones-rainbow-sundae-1g-cured-resin-pen"
     },
     {
       "id": 207393576,
@@ -5831,7 +5779,7 @@
       "id": 199254780,
       "name": "bowser | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5992,7 +5940,7 @@
       "id": 212119054,
       "name": "Cadillac LIVE 2g Disposable - Guava Daquiri (S) x Unicorn Cake (H)",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6015,7 +5963,7 @@
       "id": 212117413,
       "name": "Cadillac LIVE 2g Disposable - Blue Zushi (I) x Pineapple Fizz (S)",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6038,7 +5986,7 @@
       "id": 212118779,
       "name": "Cadillac LIVE 2g Disposable - Pink Acai (H) x White Gushers (H)",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6153,7 +6101,7 @@
       "id": 185640884,
       "name": "Sour Apple | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "Disposable",
+      "edge_category": "All-in-one",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
