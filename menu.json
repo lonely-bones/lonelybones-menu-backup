@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 263,
-    "updated_at": "2026-11-18T15:29:25.006Z",
+    "total_menu_items": 265,
+    "updated_at": "2026-11-19T16:07:40.756Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -9,8 +9,8 @@
   },
   "products": [
     {
-      "id": 236552847,
-      "name": "IPK/MegaRaw Zkittles x Sour Dubb Live Hash Roisn 3.5G Baller",
+      "id": 236548621,
+      "name": "IPK/MegaRaw Lemon Lime Orange Apricot Live Hash Roisn 3.5G Baller",
       "category": "Concentrate",
       "edge_category": "Cold Cure Badder",
       "top_category": "Concentrates",
@@ -18,8 +18,8 @@
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445436861_z_dubb3.5.JPG",
-      "image_local": "236552847.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445435477_lloa.JPG",
+      "image_local": "236548621.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -47,7 +47,7 @@
         }
       ],
       "current_deal_title": null,
-      "slug": "ipk-megaraw-zkittles-x-sour-dubb-live-hash-roisn-3-5g-baller"
+      "slug": "ipk-megaraw-lemon-lime-orange-apricot-live-hash-roisn-3-5g-baller"
     },
     {
       "id": 236748353,
@@ -302,7 +302,7 @@
     },
     {
       "id": 213495274,
-      "name": "*$60/OZ* GR Farms: Trop Cherry Smalls",
+      "name": "(1oz left) GR Farms: Trop Cherry Smalls",
       "category": "Indica",
       "edge_category": "Smalls",
       "top_category": "Flower",
@@ -711,6 +711,88 @@
       "slug": "g-r-farms-gush-mintz-smalls"
     },
     {
+      "id": 237017220,
+      "name": "Northern Terps: Double Stuffed (Platinum White x Cookies & Cream)",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445581713_double_stuffed.JPG",
+      "image_local": "237017220.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 15.0,
+          "on_sale": false,
+          "original_price": 15.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 30.0,
+          "on_sale": false,
+          "original_price": 30.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 50.0,
+          "on_sale": false,
+          "original_price": 50.0
+        },
+        {
+          "label": "1 oz",
+          "price": 100.0,
+          "on_sale": false,
+          "original_price": 100.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "northern-terps-double-stuffed-platinum-white-x-cookies-cream"
+    },
+    {
+      "id": 234723617,
+      "name": "Tourma : Durban Poison",
+      "category": "Indica",
+      "edge_category": "Flower",
+      "top_category": "Flower",
+      "genetics": "Sativa",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445017687_Durban_Poison_140.JPG",
+      "image_local": "234723617.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 70.0,
+          "on_sale": false,
+          "original_price": 70.0
+        },
+        {
+          "label": "1 oz",
+          "price": 140.0,
+          "on_sale": false,
+          "original_price": 140.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "wild-nose-tourma-durban-poison"
+    },
+    {
       "id": 234522023,
       "name": "*$60/OZ* GR Farms: Tropicana Cookies Smalls",
       "category": "Indica",
@@ -996,47 +1078,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "koala-tea-farms-toe-cheese-smalls"
-    },
-    {
-      "id": 234723617,
-      "name": "Tourma : Durban Poison",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Sativa",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445017687_Durban_Poison_140.JPG",
-      "image_local": "234723617.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 70.0,
-          "on_sale": false,
-          "original_price": 70.0
-        },
-        {
-          "label": "1 oz",
-          "price": 140.0,
-          "on_sale": false,
-          "original_price": 140.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "wild-nose-tourma-durban-poison"
     },
     {
       "id": 233662035,
@@ -1406,47 +1447,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "northern-terps-death-kiss-dantes-inferno-x-frosted-flakes"
-    },
-    {
-      "id": 237017220,
-      "name": "Northern Terps: Double Stuffed (Platinum White x Cookies & Cream)",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445581713_double_stuffed.JPG",
-      "image_local": "237017220.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 15.0,
-          "on_sale": false,
-          "original_price": 15.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 30.0,
-          "on_sale": false,
-          "original_price": 30.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 50.0,
-          "on_sale": false,
-          "original_price": 50.0
-        },
-        {
-          "label": "1 oz",
-          "price": 100.0,
-          "on_sale": false,
-          "original_price": 100.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "northern-terps-double-stuffed-platinum-white-x-cookies-cream"
     },
     {
       "id": 233662364,
@@ -2546,6 +2546,29 @@
       "slug": "blue-gummies-cured-resin-14g-baller-jar"
     },
     {
+      "id": 234837840,
+      "name": "Smarties Cured Resin 1g",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445039974_smarties.JPG",
+      "image_local": "234837840.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "smarties-cured-resin-1g"
+    },
+    {
       "id": 185336118,
       "name": "Blue Zushi Cured Resin 1G",
       "category": "Concentrate",
@@ -2755,6 +2778,47 @@
       "slug": "ipk-megaraw-rambo-headband-x-giesel-live-hash-roisn-3-5g-baller"
     },
     {
+      "id": 236552847,
+      "name": "IPK/MegaRaw Zkittles x Sour Dubb Live Hash Roisn 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445436861_z_dubb3.5.JPG",
+      "image_local": "236552847.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "ipk-megaraw-zkittles-x-sour-dubb-live-hash-roisn-3-5g-baller"
+    },
+    {
       "id": 224657299,
       "name": "Lonely Bones: Blue Dream 1G THC Distillate Screw On Thread",
       "category": "Concentrate",
@@ -2938,6 +3002,52 @@
       ],
       "current_deal_title": null,
       "slug": "strawberry-cough-cured-resin-14g-baller"
+    },
+    {
+      "id": 211713034,
+      "name": "Tropicana Cookies Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445631671_trop_cookies.JPG",
+      "image_local": "211713034.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "sherbdawg-cured-resin-1g"
+    },
+    {
+      "id": 229826566,
+      "name": "*1 Left* Wedding Pie Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280846_trop_candy.JPG",
+      "image_local": "229826566.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "trop-candy-cured-resin-1g-ba209190-0a28-4235-878c-9f7446da1bbd"
     },
     {
       "id": 195351339,
@@ -3356,27 +3466,27 @@
       "slug": "lonely-bones-strawberry-cough-1g-thc-distillate-penjamin"
     },
     {
-      "id": 234837840,
-      "name": "Smarties Cured Resin 1g",
+      "id": 223154452,
+      "name": "Rotten Peaches Cured Resin 14G Baller Jar",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
-      "genetics": "Hybrid",
+      "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 5.0,
       "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445039974_smarties.JPG",
-      "image_local": "234837840.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443400795_blue_cookies.JPG",
+      "image_local": "223154452.jpg",
       "prices": [
         {
-          "label": "1 g",
-          "price": 10.0,
+          "label": "1/2 oz",
+          "price": 100.0,
           "on_sale": false,
-          "original_price": 10.0
+          "original_price": 100.0
         }
       ],
       "current_deal_title": null,
-      "slug": "smarties-cured-resin-1g"
+      "slug": "blue-cookies-cured-resin-14g-baller-jar"
     },
     {
       "id": 211796555,
@@ -3406,29 +3516,6 @@
       ],
       "current_deal_title": null,
       "slug": "purple-ice-water-cured-resin-14g-baller"
-    },
-    {
-      "id": 229826566,
-      "name": "Wedding Pie Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280846_trop_candy.JPG",
-      "image_local": "229826566.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "trop-candy-cured-resin-1g-ba209190-0a28-4235-878c-9f7446da1bbd"
     },
     {
       "id": 185641039,
@@ -3527,29 +3614,6 @@
       ],
       "current_deal_title": null,
       "slug": "lonely-bones-candy-rain-cured-resin-penz-1g"
-    },
-    {
-      "id": 223575907,
-      "name": "(1 left!) Forum Cookies Live Rosin 3.5g Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444628191_Forum_Cookies_IPK.JPG",
-      "image_local": "223575907.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "red-runtz-live-rosin-3-5g-baller"
     },
     {
       "id": 216792358,
@@ -3886,47 +3950,6 @@
       ],
       "current_deal_title": null,
       "slug": "white-runtz-cured-resin-1g-baller-jar"
-    },
-    {
-      "id": 236548621,
-      "name": "IPK/MegaRaw Lemon Lime Orange Apricot Live Hash Roisn 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445435477_lloa.JPG",
-      "image_local": "236548621.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "ipk-megaraw-lemon-lime-orange-apricot-live-hash-roisn-3-5g-baller"
     },
     {
       "id": 236587233,
@@ -5281,6 +5304,29 @@
       "slug": "blood-honey-cured-resin-14g-baller-jar"
     },
     {
+      "id": 237208271,
+      "name": "Peach Rings 1g Cured Resin",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445631691_peach_rings.JPG",
+      "image_local": "237208271.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "peach-rings-1g-cured-resin"
+    },
+    {
       "id": 234837899,
       "name": "Sherbdawg Cured Resin 14g Baller Jar",
       "category": "Concentrate",
@@ -5364,7 +5410,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 4.8,
-      "reviews_count": 92,
+      "reviews_count": 93,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/438274432_r2r.jpg",
       "image_local": "193050080.jpg",
       "prices": [
@@ -5388,7 +5434,7 @@
       "id": 212117143,
       "name": "Cadillac LIVE 2g Disposable - Mango Haze (S) X Durban Poison (S)",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": "Sativa",
       "thc_pct": 0.0,
@@ -5411,7 +5457,7 @@
       "id": 185641461,
       "name": "Banana Bread | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5549,7 +5595,7 @@
       "id": 187051296,
       "name": "pink ink | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5664,7 +5710,7 @@
       "id": 212117889,
       "name": "Cadillac LIVE 2g Disposable - Larry Breath (I) x Crunch Berries (H)",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5779,7 +5825,7 @@
       "id": 199254780,
       "name": "bowser | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5940,7 +5986,7 @@
       "id": 212119054,
       "name": "Cadillac LIVE 2g Disposable - Guava Daquiri (S) x Unicorn Cake (H)",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5963,7 +6009,7 @@
       "id": 212117413,
       "name": "Cadillac LIVE 2g Disposable - Blue Zushi (I) x Pineapple Fizz (S)",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -5986,7 +6032,7 @@
       "id": 212118779,
       "name": "Cadillac LIVE 2g Disposable - Pink Acai (H) x White Gushers (H)",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
@@ -6101,7 +6147,7 @@
       "id": 185640884,
       "name": "Sour Apple | Disposable | 1g",
       "category": "Concentrate",
-      "edge_category": "All-in-one",
+      "edge_category": "Disposable",
       "top_category": "Vape Pens",
       "genetics": null,
       "thc_pct": 0.0,
