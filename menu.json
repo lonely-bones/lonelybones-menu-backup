@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 269,
-    "updated_at": "2026-11-21T23:27:57.385Z",
+    "total_menu_items": 271,
+    "updated_at": "2026-11-23T17:48:53.801Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -9,17 +9,17 @@
   },
   "products": [
     {
-      "id": 236548621,
-      "name": "IPK/MegaRaw Lemon Lime Orange Apricot Live Hash Roisn 3.5G Baller",
+      "id": 216793820,
+      "name": "Moonbow Live Hash Rosin 3.5G Baller",
       "category": "Concentrate",
       "edge_category": "Cold Cure Badder",
       "top_category": "Concentrates",
-      "genetics": "Hybrid",
+      "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445435477_lloa.JPG",
-      "image_local": "236548621.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/442347183_moonbow.JPG",
+      "image_local": "216793820.jpg",
       "prices": [
         {
           "label": "1/8 oz",
@@ -47,7 +47,7 @@
         }
       ],
       "current_deal_title": null,
-      "slug": "ipk-megaraw-lemon-lime-orange-apricot-live-hash-roisn-3-5g-baller"
+      "slug": "moonbow-live-hash-rosin-3-5g-baller"
     },
     {
       "id": 236748353,
@@ -91,17 +91,17 @@
       "slug": "tourma-space-runtz"
     },
     {
-      "id": 167362321,
-      "name": "Papaya Cured Resin 1G",
+      "id": 211713034,
+      "name": "Tropicana Cookies Cured Resin 1G",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
-      "genetics": "Hybrid",
+      "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 0.0,
       "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445513373_papaya.JPG",
-      "image_local": "167362321.jpg",
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445631671_trop_cookies.JPG",
+      "image_local": "211713034.jpg",
       "prices": [
         {
           "label": "1 g",
@@ -111,7 +111,7 @@
         }
       ],
       "current_deal_title": null,
-      "slug": "lonely-bones-papaya-cured-resin-1g"
+      "slug": "sherbdawg-cured-resin-1g"
     },
     {
       "id": 198364174,
@@ -422,47 +422,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "tourma-blue-slushie"
-    },
-    {
-      "id": 209609986,
-      "name": "*1/2 OZ left* Koala Tea Grows: Royal Kush Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445589806_Royal_Kush_new_ray.JPG",
-      "image_local": "209609986.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-chicken-milk-smalls"
     },
     {
       "id": 184388988,
@@ -832,47 +791,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "60-oz-gr-farms-tropicana-cookies-smalls"
-    },
-    {
-      "id": 227762150,
-      "name": "*1/2 Ounce Left* Koala Tea Grows: Permanet Marker Smalls",
-      "category": "Indica",
-      "edge_category": "Flower",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 3,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444023169_perm_mark.JPG",
-      "image_local": "227762150.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-permanet-marker-smalls"
     },
     {
       "id": 233662475,
@@ -1864,6 +1782,29 @@
       "slug": "lonely-bones-strawberry-cheesecake-1g-thc-distillate-5-10-thread"
     },
     {
+      "id": 229826673,
+      "name": "Super Lemon Mac Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 3,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445691818_tropicana.JPG",
+      "image_local": "229826673.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "blueberry-runtz-cured-resin-1g"
+    },
+    {
       "id": 185400556,
       "name": "Wedding Cake Cured Resin 14G Baller",
       "category": "Concentrate",
@@ -2500,29 +2441,6 @@
       "slug": "northern-terps-z-marker-live-hash-rosin-3-5g-baller"
     },
     {
-      "id": 234837840,
-      "name": "Smarties Cured Resin 1g",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445039974_smarties.JPG",
-      "image_local": "234837840.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "smarties-cured-resin-1g"
-    },
-    {
       "id": 185336118,
       "name": "Blue Zushi Cured Resin 1G",
       "category": "Concentrate",
@@ -3075,29 +2993,6 @@
       "slug": "strawberry-cough-cured-resin-14g-baller"
     },
     {
-      "id": 211713034,
-      "name": "Tropicana Cookies Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445631671_trop_cookies.JPG",
-      "image_local": "211713034.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "sherbdawg-cured-resin-1g"
-    },
-    {
       "id": 195351339,
       "name": "Amber Valley: Crookies Shatter 1G",
       "category": "Concentrate",
@@ -3255,6 +3150,29 @@
       "slug": "grapes-cream-live-rosin-3-5g-baller"
     },
     {
+      "id": 229826566,
+      "name": "Forbidden Fruit Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444280846_trop_candy.JPG",
+      "image_local": "229826566.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "trop-candy-cured-resin-1g-ba209190-0a28-4235-878c-9f7446da1bbd"
+    },
+    {
       "id": 219576681,
       "name": "Gelato 33 Cured Resin 14G Baller",
       "category": "Concentrate",
@@ -3282,6 +3200,29 @@
       ],
       "current_deal_title": null,
       "slug": "fifo-gas-mix-cured-resin-14g-baller"
+    },
+    {
+      "id": 222437550,
+      "name": "Gelato 33 Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 4,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443926850_white_fire.JPG",
+      "image_local": "222437550.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "grape-ape-cured-resin-1g"
     },
     {
       "id": 220446771,
@@ -3728,6 +3669,70 @@
       "slug": "lonely-bones-candy-rain-cured-resin-penz-1g"
     },
     {
+      "id": 236548621,
+      "name": "*1 Left* IPK/MegaRaw Lemon Lime Orange Apricot Live Hash Roisn 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445435477_lloa.JPG",
+      "image_local": "236548621.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "ipk-megaraw-lemon-lime-orange-apricot-live-hash-roisn-3-5g-baller"
+    },
+    {
+      "id": 231406061,
+      "name": "*Employee Favorite* FIFO: Orange Mints Live Rosin 1G",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444487562_orange1G.JPG",
+      "image_local": "231406061.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 35.0,
+          "on_sale": false,
+          "original_price": 35.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "fifo-orange-mints-live-rosin-1g"
+    },
+    {
       "id": 216792358,
       "name": "*NEW!* FIFO: Point Break Live Hash Rosin 3.5G Baller",
       "category": "Concentrate",
@@ -3954,29 +3959,6 @@
       "slug": "fifo-ogkb-live-hash-rosin-3-5g-baller"
     },
     {
-      "id": 231406061,
-      "name": "FIFO: Orange Mints Live Rosin 1G",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444487562_orange1G.JPG",
-      "image_local": "231406061.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 35.0,
-          "on_sale": false,
-          "original_price": 35.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "fifo-orange-mints-live-rosin-1g"
-    },
-    {
       "id": 223574401,
       "name": "FIFO: Tallymon Live Rosin 1G",
       "category": "Concentrate",
@@ -4021,6 +4003,52 @@
       ],
       "current_deal_title": null,
       "slug": "white-runtz-cured-resin-1g-baller-jar"
+    },
+    {
+      "id": 211333318,
+      "name": "Grape Candy Live Rosin 1G",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441259984_gcandy.JPG",
+      "image_local": "211333318.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 35.0,
+          "on_sale": false,
+          "original_price": 35.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "grape-candy-live-rosin-1g"
+    },
+    {
+      "id": 211334278,
+      "name": "Honey Banana Live Rosin 1G",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/441260229_honey_bana.JPG",
+      "image_local": "211334278.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 35.0,
+          "on_sale": false,
+          "original_price": 35.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "honey-banana-live-rosin-1g"
     },
     {
       "id": 236587233,
@@ -5329,6 +5357,70 @@
       "slug": "blood-honey-cured-resin-14g-baller-jar"
     },
     {
+      "id": 167362321,
+      "name": "Papaya Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445513373_papaya.JPG",
+      "image_local": "167362321.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "lonely-bones-papaya-cured-resin-1g"
+    },
+    {
+      "id": 226904150,
+      "name": "Papaya Punch Live Hash Rosin 3.5G Baller",
+      "category": "Concentrate",
+      "edge_category": "Cold Cure Badder",
+      "top_category": "Concentrates",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443909865_grape_pie.JPG",
+      "image_local": "226904150.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 90.0,
+          "on_sale": false,
+          "original_price": 90.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 180.0,
+          "on_sale": false,
+          "original_price": 180.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 350.0,
+          "on_sale": false,
+          "original_price": 350.0
+        },
+        {
+          "label": "1 oz",
+          "price": 650.0,
+          "on_sale": false,
+          "original_price": 650.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "norhtern-terps-grape-pie-live-hash-rosin-3-5g-baller"
+    },
+    {
       "id": 237208271,
       "name": "Peach Rings 1g Cured Resin",
       "category": "Concentrate",
@@ -6622,52 +6714,6 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-stay-puft-1g-pre-roll"
-    },
-    {
-      "id": 226060001,
-      "name": "Northern Terps: Illmonic 1g Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226060001.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-p-85-1g-pre-roll"
-    },
-    {
-      "id": 226060075,
-      "name": "Northern Terps: Sour Sherb 1g Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Joints",
-      "top_category": "Pre-Rolls",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443805850_northern_terps_pre_roll.JPG",
-      "image_local": "226060075.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-sour-sherb-1g-pre-roll"
     },
     {
       "id": 233782041,
