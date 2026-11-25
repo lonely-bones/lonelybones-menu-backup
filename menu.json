@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_menu_items": 282,
-    "updated_at": "2026-11-24T19:07:47.455Z",
+    "total_menu_items": 281,
+    "updated_at": "2026-11-25T15:17:43.357Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
     "personalized": false,
@@ -245,7 +245,7 @@
       "genetics": "Hybrid",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 27,
+      "reviews_count": 28,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/436339695_liquid_hot_magma.JPG",
       "image_local": "173746062.jpg",
       "prices": [
@@ -983,7 +983,7 @@
       "genetics": "Indica",
       "thc_pct": 0.0,
       "rating": 5.0,
-      "reviews_count": 2,
+      "reviews_count": 3,
       "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444836143_Black_Cherry_Punch.JPG",
       "image_local": "233662035.jpg",
       "prices": [
@@ -1219,6 +1219,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "fifo-cultivation-orange-cookies-smalls"
+    },
+    {
+      "id": 237576985,
+      "name": "Garlic Z Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": null,
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445716288_garlic_z.JPG",
+      "image_local": "237576985.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "garlic-z-smalls"
     },
     {
       "id": 237562538,
@@ -2706,7 +2747,7 @@
     },
     {
       "id": 185336118,
-      "name": "Blue Zushi Cured Resin 1G",
+      "name": "(2 Left!) Blue Zushi Cured Resin 1G",
       "category": "Concentrate",
       "edge_category": "Concentrates",
       "top_category": "Concentrates",
@@ -3198,6 +3239,29 @@
       "slug": "sherbdawg-cured-resin-1g"
     },
     {
+      "id": 224516565,
+      "name": "(2 left!) Cap Junky Cured Resin 1G",
+      "category": "Concentrate",
+      "edge_category": "Concentrates",
+      "top_category": "Concentrates",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 2,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443605697_sub_zero.JPG",
+      "image_local": "224516565.jpg",
+      "prices": [
+        {
+          "label": "1 g",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        }
+      ],
+      "current_deal_title": null,
+      "slug": "sub-zero-cured-resin-1g"
+    },
+    {
       "id": 195351339,
       "name": "Amber Valley: Crookies Shatter 1G",
       "category": "Concentrate",
@@ -3248,29 +3312,6 @@
       ],
       "current_deal_title": null,
       "slug": "apples-bananas-cured-resin-14g-baller"
-    },
-    {
-      "id": 224516565,
-      "name": "Cap Junky Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443605697_sub_zero.JPG",
-      "image_local": "224516565.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "sub-zero-cured-resin-1g"
     },
     {
       "id": 233458633,
@@ -3918,47 +3959,6 @@
       ],
       "current_deal_title": null,
       "slug": "ipk-megaraw-papaya-live-hash-roisn-1g"
-    },
-    {
-      "id": 236548621,
-      "name": "*1 Left* IPK/MegaRaw Lemon Lime Orange Apricot Live Hash Roisn 3.5G Baller",
-      "category": "Concentrate",
-      "edge_category": "Cold Cure Badder",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445435477_lloa.JPG",
-      "image_local": "236548621.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 90.0,
-          "on_sale": false,
-          "original_price": 90.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 180.0,
-          "on_sale": false,
-          "original_price": 180.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 350.0,
-          "on_sale": false,
-          "original_price": 350.0
-        },
-        {
-          "label": "1 oz",
-          "price": 650.0,
-          "on_sale": false,
-          "original_price": 650.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "ipk-megaraw-lemon-lime-orange-apricot-live-hash-roisn-3-5g-baller"
     },
     {
       "id": 231406061,
@@ -7129,29 +7129,6 @@
       ],
       "current_deal_title": null,
       "slug": "northern-terps-pineapple-z-1g-preroll"
-    },
-    {
-      "id": 233782041,
-      "name": "Northern Terps: Strawnana 1g Pre Roll",
-      "category": "Preroll",
-      "edge_category": "Pre-rolls",
-      "top_category": "Pre-Rolls",
-      "genetics": null,
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/444622814_Northern_Terp_Preroll.jpeg",
-      "image_local": "233782041.jpg",
-      "prices": [
-        {
-          "label": "each",
-          "price": 6.0,
-          "on_sale": false,
-          "original_price": 6.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "northern-terps-applescotti-1g-pre-roll"
     },
     {
       "id": 185241360,
