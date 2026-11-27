@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_menu_items": 281,
+    "total_menu_items": 280,
     "updated_at": "2026-11-25T23:03:05.194Z",
     "has_lab_measured_items": true,
     "has_live_menu": false,
@@ -401,6 +401,47 @@
       "slug": "new-tourma-apple-fritter"
     },
     {
+      "id": 180051350,
+      "name": "*Fresh Batch* Koala Tea Grows: Weighted Blanket Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 4.8,
+      "reviews_count": 19,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440577804_weighted_blanket.JPG",
+      "image_local": "180051350.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-grows-weighted-blanket-smalls"
+    },
+    {
       "id": 176563287,
       "name": "*$60/OZ* GR Farm Purple Ice Water Smalls",
       "category": "Indica",
@@ -524,47 +565,6 @@
       "slug": "cannoisseur-sfv-smalls"
     },
     {
-      "id": 180051350,
-      "name": "*Fresh Batch* Koala Tea Grows: Weighted Blanket Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 4.8,
-      "reviews_count": 19,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/440577804_weighted_blanket.JPG",
-      "image_local": "180051350.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-grows-weighted-blanket-smalls"
-    },
-    {
       "id": 159392442,
       "name": "Wedding Pie Smalls",
       "category": "Indica",
@@ -645,6 +645,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "g-r-farms-gush-mintz-smalls"
+    },
+    {
+      "id": 182835404,
+      "name": "Koala Tea Farms: Chicken Milk Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Hybrid",
+      "thc_pct": 0.0,
+      "rating": 5.0,
+      "reviews_count": 1,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445589807_chicken_milk.JPG",
+      "image_local": "182835404.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "koala-tea-farms-toe-cheese-smalls"
     },
     {
       "id": 208527160,
@@ -811,47 +852,6 @@
       "slug": "60-oz-gr-farms-tropicana-cookies-smalls"
     },
     {
-      "id": 182835404,
-      "name": "Koala Tea Farms: Chicken Milk Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 1,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445589807_chicken_milk.JPG",
-      "image_local": "182835404.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "koala-tea-farms-toe-cheese-smalls"
-    },
-    {
       "id": 233662475,
       "name": "Fuji OG Smalls",
       "category": "Indica",
@@ -932,6 +932,47 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "frozen-bag-smalls"
+    },
+    {
+      "id": 235903842,
+      "name": "Living Matter : King Louis Smalls",
+      "category": "Indica",
+      "edge_category": "Smalls",
+      "top_category": "Flower",
+      "genetics": "Indica",
+      "thc_pct": 0.0,
+      "rating": 0.0,
+      "reviews_count": 0,
+      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445230319_King_Louis_10_28.JPG",
+      "image_local": "235903842.jpg",
+      "prices": [
+        {
+          "label": "1/8 oz",
+          "price": 10.0,
+          "on_sale": false,
+          "original_price": 10.0
+        },
+        {
+          "label": "1/4 oz",
+          "price": 20.0,
+          "on_sale": false,
+          "original_price": 20.0
+        },
+        {
+          "label": "1/2 oz",
+          "price": 40.0,
+          "on_sale": false,
+          "original_price": 40.0
+        },
+        {
+          "label": "1 oz",
+          "price": 80.0,
+          "on_sale": false,
+          "original_price": 80.0
+        }
+      ],
+      "current_deal_title": "Mix and Match Ounces",
+      "slug": "living-matter-king-louis-smalls"
     },
     {
       "id": 233221395,
@@ -1424,47 +1465,6 @@
       ],
       "current_deal_title": "Mix and Match Ounces",
       "slug": "jet-fuel-og-smalls"
-    },
-    {
-      "id": 235903842,
-      "name": "Living Matter : King Louis Smalls",
-      "category": "Indica",
-      "edge_category": "Smalls",
-      "top_category": "Flower",
-      "genetics": "Indica",
-      "thc_pct": 0.0,
-      "rating": 0.0,
-      "reviews_count": 0,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/445230319_King_Louis_10_28.JPG",
-      "image_local": "235903842.jpg",
-      "prices": [
-        {
-          "label": "1/8 oz",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        },
-        {
-          "label": "1/4 oz",
-          "price": 20.0,
-          "on_sale": false,
-          "original_price": 20.0
-        },
-        {
-          "label": "1/2 oz",
-          "price": 40.0,
-          "on_sale": false,
-          "original_price": 40.0
-        },
-        {
-          "label": "1 oz",
-          "price": 80.0,
-          "on_sale": false,
-          "original_price": 80.0
-        }
-      ],
-      "current_deal_title": "Mix and Match Ounces",
-      "slug": "living-matter-king-louis-smalls"
     },
     {
       "id": 237562770,
@@ -3319,29 +3319,6 @@
       ],
       "current_deal_title": null,
       "slug": "sherbdawg-cured-resin-1g"
-    },
-    {
-      "id": 224516565,
-      "name": "(1 left!) Cap Junky Cured Resin 1G",
-      "category": "Concentrate",
-      "edge_category": "Concentrates",
-      "top_category": "Concentrates",
-      "genetics": "Hybrid",
-      "thc_pct": 0.0,
-      "rating": 5.0,
-      "reviews_count": 2,
-      "image_remote": "https://images.weedmaps.com/pictures/users/013/483/294/443605697_sub_zero.JPG",
-      "image_local": "224516565.jpg",
-      "prices": [
-        {
-          "label": "1 g",
-          "price": 10.0,
-          "on_sale": false,
-          "original_price": 10.0
-        }
-      ],
-      "current_deal_title": null,
-      "slug": "sub-zero-cured-resin-1g"
     },
     {
       "id": 195351339,
